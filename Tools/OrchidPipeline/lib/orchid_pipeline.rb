@@ -480,6 +480,7 @@ module OrchidPipeline
       @state = load_state
       @summary = {}
       @halt = nil
+      @object_files_changed = false
     end
 
     def build
@@ -508,7 +509,7 @@ module OrchidPipeline
       catalog_object = write_object(catalog)
       content_version = catalog_object.fetch("sha256")
       previous_manifest = load_json(File.join(@output_directory, "manifest.json"))
-      changed = previous_manifest&.fetch("contentVersion", nil) != content_version
+      changed = previous_manifest&.fetch("contentVersion", nil) != content_version || @object_files_changed
 
       if changed
         manifest = {
@@ -827,16 +828,25 @@ module OrchidPipeline
     end
 
     def write_object(value)
-      sha = CanonicalJSON.sha256(value)
+      contents = CanonicalJSON.dump(value)
+      sha = Digest::SHA256.hexdigest(contents)
       relative_path = File.join("objects", "#{sha}.json")
-      write_json_atomic(File.join(@output_directory, relative_path), value)
+      path = File.join(@output_directory, relative_path)
+      unless File.file?(path) && File.binread(path) == contents.b
+        write_text_atomic(path, contents)
+        @object_files_changed = true
+      end
       { "path" => relative_path, "sha256" => sha }
     end
 
     def write_json_atomic(path, value)
+      write_text_atomic(path, CanonicalJSON.pretty(value))
+    end
+
+    def write_text_atomic(path, contents)
       FileUtils.mkdir_p(File.dirname(path))
       temporary = "#{path}.tmp-#{Process.pid}"
-      File.write(temporary, CanonicalJSON.pretty(value))
+      File.binwrite(temporary, contents)
       File.rename(temporary, path)
     ensure
       FileUtils.rm_f(temporary) if defined?(temporary)

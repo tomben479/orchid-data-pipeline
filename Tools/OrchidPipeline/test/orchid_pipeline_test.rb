@@ -93,6 +93,12 @@ class OrchidPipelineTest < Minitest::Test
       assert_equal(1, first.fetch("trackCount"))
       assert_equal(1, first_launches.uniq.length)
       manifest_before = File.read(File.join(output, "manifest.json"))
+      manifest = JSON.parse(manifest_before)
+      catalog_path = File.join(output, manifest.dig("catalog", "path"))
+      assert_equal(
+        manifest.dig("catalog", "sha256"),
+        Digest::SHA256.hexdigest(File.binread(catalog_path))
+      )
       state_before = File.read(state)
 
       transport.handler = ->(request) { response_for(request, conditional: true) }
@@ -104,6 +110,17 @@ class OrchidPipelineTest < Minitest::Test
       assert_equal(state_before, File.read(state))
       assert(transport.requests.any? { |request| request[:etag] == '"vector-etag"' })
       assert(transport.requests.any? { |request| request[:etag] == '"playlist-etag"' })
+
+      File.write(catalog_path, OrchidPipeline::CanonicalJSON.pretty(JSON.parse(File.read(catalog_path))))
+      repaired = build(transport, output, state, now: Time.utc(2026, 7, 10, 20, 16, 0))
+      repaired_manifest = JSON.parse(File.read(File.join(output, "manifest.json")))
+      repaired_path = File.join(output, repaired_manifest.dig("catalog", "path"))
+
+      assert_equal(true, repaired.fetch("changed"))
+      assert_equal(
+        repaired_manifest.dig("catalog", "sha256"),
+        Digest::SHA256.hexdigest(File.binread(repaired_path))
+      )
     end
   end
 
