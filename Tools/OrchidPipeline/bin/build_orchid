@@ -1,0 +1,78 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require "optparse"
+require_relative "../lib/orchid_pipeline"
+
+options = {
+  source_url: ENV["ORCHID_SOURCE_URL"],
+  output_directory: ".build/orchid/public",
+  state_path: ".build/orchid/source-state.json",
+  summary_path: nil,
+  region_code: "TW",
+  language_tag: "zh-TW",
+  page_size: 12,
+  vector_batch_size: 4,
+  playlist_batch_size: 8,
+  request_budget: 40,
+  minimum_collections: 20,
+  minimum_playlist_success_rate: 0.8
+}
+
+OptionParser.new do |parser|
+  parser.banner = "Usage: build_orchid [options]"
+  parser.on("--source-url URL", "Upstream base URL (or ORCHID_SOURCE_URL)") { |value| options[:source_url] = value }
+  parser.on("--output DIR", "Public snapshot directory") { |value| options[:output_directory] = value }
+  parser.on("--state FILE", "Persistent source state file") { |value| options[:state_path] = value }
+  parser.on("--summary FILE", "Write machine-readable build summary") { |value| options[:summary_path] = value }
+  parser.on("--region CODE", "Region code (default: TW)") { |value| options[:region_code] = value }
+  parser.on("--language TAG", "Language tag (default: zh-TW)") { |value| options[:language_tag] = value }
+  parser.on("--page-size COUNT", Integer, "Source page size (default: 12)") { |value| options[:page_size] = value }
+  parser.on("--vector-batch-size COUNT", Integer, "Vectors refreshed per run (default: 4)") { |value| options[:vector_batch_size] = value }
+  parser.on("--playlist-batch-size COUNT", Integer, "Playlists hydrated per run (default: 8)") { |value| options[:playlist_batch_size] = value }
+  parser.on("--request-budget COUNT", Integer, "Maximum source requests per run (default: 40)") { |value| options[:request_budget] = value }
+  parser.on("--max-vectors COUNT", Integer, "Limit vectors for a local dry run") { |value| options[:max_vectors] = value }
+  parser.on("--max-pages COUNT", Integer, "Limit pages per vector for a local dry run") { |value| options[:max_pages_per_vector] = value }
+  parser.on("--minimum-collections COUNT", Integer, "Quality gate minimum") { |value| options[:minimum_collections] = value }
+  parser.on("--minimum-playlist-success-rate RATE", Float, "Quality gate ratio") do |value|
+    options[:minimum_playlist_success_rate] = value
+  end
+end.parse!
+
+browser_language = if options[:language_tag].start_with?("zh")
+                     "zh"
+                   elsif options[:language_tag].start_with?("ja")
+                     "ja"
+                   else
+                     "en"
+                   end
+
+source_url = options.delete(:source_url)
+if source_url.nil? || source_url.strip.empty?
+  warn("ORCHID_SOURCE_URL is required.")
+  exit(2)
+end
+
+session = OrchidPipeline::HTTPSession.new(
+  base_url: source_url,
+  region_code: options[:region_code],
+  language_tag: options[:language_tag],
+  browser_language: browser_language,
+  maximum_requests: options.delete(:request_budget)
+)
+
+begin
+  summary_path = options.delete(:summary_path)
+  builder = OrchidPipeline::Builder.new(transport: session, **options)
+  summary = builder.build
+  if summary_path
+    FileUtils.mkdir_p(File.dirname(File.expand_path(summary_path)))
+    File.write(summary_path, OrchidPipeline::CanonicalJSON.pretty(summary))
+  end
+  exit(summary.fetch("changed") ? 0 : 0)
+rescue OrchidPipeline::Error => error
+  warn("Orchid build failed: #{error.message}")
+  exit(1)
+ensure
+  session.close
+end
