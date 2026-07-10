@@ -286,6 +286,69 @@ class OrchidPipelineTest < Minitest::Test
     end
   end
 
+  def test_vector_request_allocation_preserves_playlist_hydration
+    Dir.mktmpdir do |directory|
+      transport = FakeTransport.new
+      output = File.join(directory, "public")
+      state = File.join(directory, "source-state.json")
+      vector_offsets = []
+      playlist_requests = []
+      transport.handler = lambda do |request|
+        case request.fetch(:path)
+        when "/api/page/getSearch"
+          json_result(
+            { "getPage" => { "items" => [{ "type" => "genre", "ref" => "vector_systemlist_zh_top_charts" }] } },
+            etag: '"discovery"'
+          )
+        when "/api/getVector"
+          offset = request.fetch(:query).fetch("skip").to_i
+          vector_offsets << offset
+          items = 12.times.map do |index|
+            identifier = "playlist-#{offset + index}"
+            { "type" => "playlist", "ref" => identifier, "title" => identifier }
+          end
+          json_result({ "getVector" => { "items" => items } }, etag: "\"vector-#{offset}\"")
+        when "/api/playlist"
+          playlist_requests << request.fetch(:query).fetch("vectorId")
+          json_result(
+            {
+              "getPlaylist" => {
+                "items" => [{ "type" => "music", "t" => "yt", "f" => "video-1", "tt" => "Song One" }]
+              }
+            },
+            etag: '"playlist"'
+          )
+        else
+          raise("Unexpected path #{request.fetch(:path)}")
+        end
+      end
+
+      summary = OrchidPipeline::Builder.new(
+        transport: transport,
+        output_directory: output,
+        state_path: state,
+        max_vectors: 1,
+        vector_batch_size: 1,
+        vector_request_budget: 2,
+        playlist_batch_size: 1,
+        minimum_collections: 1,
+        minimum_playlist_success_rate: 1.0,
+        first_launch: "fixed",
+        now: -> { Time.utc(2026, 7, 10, 8, 16, 0) },
+        logger: ->(_message) {}
+      ).build
+
+      assert_equal([0, 12], vector_offsets)
+      assert_equal(["playlist-0"], playlist_requests)
+      assert_equal(1, summary.fetch("hydratedPlaylistCount"))
+      assert_equal(1, summary.fetch("trackCount"))
+      assert_equal(false, summary.fetch("halted"))
+      progress = JSON.parse(File.read(state)).dig("vectors", "vector_systemlist_zh_top_charts")
+      assert_equal(false, progress.fetch("complete"))
+      assert_equal(24, progress.fetch("nextOffset"))
+    end
+  end
+
   private
 
   def build(transport, output, state, now: Time.utc(2026, 7, 10, 8, 16, 0))

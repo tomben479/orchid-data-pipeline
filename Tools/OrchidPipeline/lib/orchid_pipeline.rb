@@ -455,6 +455,7 @@ module OrchidPipeline
       max_vectors: nil,
       max_pages_per_vector: nil,
       vector_batch_size: 4,
+      vector_request_budget: 24,
       playlist_batch_size: 8,
       minimum_collections: 20,
       minimum_playlist_success_rate: 0.8,
@@ -471,6 +472,7 @@ module OrchidPipeline
       @max_vectors = max_vectors
       @max_pages_per_vector = max_pages_per_vector
       @vector_batch_size = vector_batch_size
+      @vector_request_budget = vector_request_budget
       @playlist_batch_size = playlist_batch_size
       @minimum_collections = minimum_collections
       @minimum_playlist_success_rate = minimum_playlist_success_rate
@@ -573,9 +575,11 @@ module OrchidPipeline
 
     def crawl_vectors(vector_ids)
       stats = base_stats
+      vector_requests = 0
+      allocation_exhausted = false
 
       vector_ids.each do |vector_id|
-        break if @halt
+        break if @halt || allocation_exhausted
 
         progress = @state["vectors"][vector_id] ||= { "complete" => false, "nextOffset" => 0 }
         offset = if @max_pages_per_vector
@@ -592,8 +596,14 @@ module OrchidPipeline
         @logger.call("Refreshing vector #{vector_id}")
         loop do
           break if @max_pages_per_vector && page >= @max_pages_per_vector
+          if vector_requests >= @vector_request_budget
+            @logger.call("Vector request allocation reached #{@vector_request_budget}; preserving capacity for playlists.")
+            allocation_exhausted = true
+            break
+          end
 
           key = "vector:#{vector_id}:#{offset}:#{@page_size}"
+          vector_requests += 1
           payload, item_count, outcome = fetch_parsed_resource(
             key: key,
             method: "GET",

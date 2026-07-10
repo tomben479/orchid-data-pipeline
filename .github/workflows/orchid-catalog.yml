@@ -68,6 +68,7 @@ jobs:
             --summary .build/orchid/summary.json \
             --region TW \
             --language zh-TW \
+            --vector-request-budget 24 \
             --minimum-collections 20 \
             --minimum-playlist-success-rate 0.8
 

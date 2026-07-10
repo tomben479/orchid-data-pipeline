@@ -13,6 +13,7 @@ options = {
   language_tag: "zh-TW",
   page_size: 12,
   vector_batch_size: 4,
+  vector_request_budget: 24,
   playlist_batch_size: 8,
   request_budget: 40,
   minimum_collections: 20,
@@ -29,6 +30,9 @@ OptionParser.new do |parser|
   parser.on("--language TAG", "Language tag (default: zh-TW)") { |value| options[:language_tag] = value }
   parser.on("--page-size COUNT", Integer, "Source page size (default: 12)") { |value| options[:page_size] = value }
   parser.on("--vector-batch-size COUNT", Integer, "Vectors refreshed per run (default: 4)") { |value| options[:vector_batch_size] = value }
+  parser.on("--vector-request-budget COUNT", Integer, "Maximum vector page requests per run (default: 24)") do |value|
+    options[:vector_request_budget] = value
+  end
   parser.on("--playlist-batch-size COUNT", Integer, "Playlists hydrated per run (default: 8)") { |value| options[:playlist_batch_size] = value }
   parser.on("--request-budget COUNT", Integer, "Maximum source requests per run (default: 40)") { |value| options[:request_budget] = value }
   parser.on("--max-vectors COUNT", Integer, "Limit vectors for a local dry run") { |value| options[:max_vectors] = value }

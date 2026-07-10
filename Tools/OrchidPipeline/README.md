@@ -6,7 +6,7 @@ Orchid moves upstream catalog discovery and collection metadata parsing out of t
 
 - One HTTP session, cookie jar, region, language, and `firstLaunch` value per run.
 - Conditional requests for vector and playlist resources using persisted ETags.
-- A hard per-run request budget and immediate stop on HTTP 429 with `Retry-After` reporting.
+- A hard per-run request budget, a separate vector allocation that preserves playlist capacity, and immediate stop on HTTP 429 with `Retry-After` reporting.
 - Rotating vector and playlist batches, with offset checkpoints for long vectors.
 - Canonical JSON and SHA-256 content identities.
 - Content-addressed playlist and catalog objects.
@@ -47,7 +47,7 @@ The app should cache the last known good manifest and catalog, check the manifes
 
 1. Tests the builder.
 2. Restores source state and immutable objects from the `orchid-data` branch.
-3. Refreshes up to four vector sources and hydrates up to eight playlists within a 40-request budget.
+3. Refreshes up to four vector sources with at most 24 page requests, then hydrates up to eight playlists within a 40-request total budget.
 4. Pushes state only when ETags or normalized content changed.
 5. Deploys the public directory only when content changed.
 
