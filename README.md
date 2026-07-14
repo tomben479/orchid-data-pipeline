@@ -10,6 +10,7 @@ Orchid moves upstream catalog discovery and collection metadata parsing out of t
 - Rotating vector and playlist batches, with offset checkpoints for long vectors.
 - Canonical JSON and SHA-256 content identities.
 - Content-addressed playlist and catalog objects.
+- Ranking metadata derived from the vector membership already present in cached pages; this adds no source requests.
 - Quality gates before the latest manifest is replaced.
 - Cached source payload fallback when a previously healthy endpoint is temporarily unavailable.
 - No YouTube audio stream URLs, account cookies, or personal listening data in output.
@@ -52,6 +53,8 @@ The app should cache the last known good manifest and catalog, check the manifes
 5. Deploys the public directory only when content changed.
 
 The complete catalog is accumulated across runs. New collection artwork can appear before every playlist is hydrated; a collection receives a `tracks` object only after its playlist payload has passed parsing. The app must keep its direct-source fallback for a collection that has not been hydrated yet.
+
+Collections may include optional `rankingMetadata`. `topics` contains normalized, namespaced values such as `genre:cpop` or `mood:party`; `editorialSignals` contains values such as `charts`, `latest`, or `featured`. Duplicate collections merge metadata from every known vector membership. Unknown vectors are preserved in the catalog but do not receive guessed labels.
 
 The first successful run creates `orchid-data`. GitHub Pages deployment is intentionally disabled until the repository variable `ORCHID_PAGES_ENABLED` is set to `true` and Pages is configured to use GitHub Actions. This prevents a new repository from failing before its publication policy is chosen.
 

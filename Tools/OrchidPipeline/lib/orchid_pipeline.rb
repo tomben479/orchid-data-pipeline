@@ -443,6 +443,29 @@ module OrchidPipeline
       vector_systemlist_zh_mood_sleep
     ].freeze
 
+    VECTOR_TOPICS = {
+      "vector_systemlist_zh_genre_cpop" => ["genre:cpop"],
+      "vector_systemlist_zh_genre_pop" => ["genre:pop"],
+      "vector_systemlist_zh_genre_kpop" => ["genre:kpop"],
+      "vector_systemlist_zh_genre_jpop" => ["genre:jpop"],
+      "vector_systemlist_zh_genre_hk" => ["region:hong-kong"],
+      "vector_systemlist_zh_genre_never_go_out" => ["era:evergreen"],
+      "vector_systemlist_zh_genre_hiphop" => ["genre:hip-hop"],
+      "vector_systemlist_zh_genre_rock" => ["genre:rock"],
+      "vector_systemlist_zh_genre_electronic_dance" => ["genre:electronic-dance"],
+      "vector_systemlist_zh_mood_good_mood" => ["mood:good"],
+      "vector_systemlist_zh_mood_party" => ["mood:party"],
+      "vector_systemlist_zh_mood_travel" => ["mood:travel"],
+      "vector_systemlist_zh_mood_romance" => ["mood:romance"],
+      "vector_systemlist_zh_mood_sleep" => ["mood:sleep"]
+    }.freeze
+
+    VECTOR_EDITORIAL_SIGNALS = {
+      "vector_systemlist_zh_top_charts" => ["charts"],
+      "vector_latest_zh" => ["latest"],
+      "vector_featured_zh" => ["featured"]
+    }.freeze
+
     attr_reader :summary
 
     def initialize(
@@ -703,19 +726,47 @@ module OrchidPipeline
         match = key.match(/\Avector:(.+):(\d+):(\d+)\z/)
         next unless match && allowed[match[1]]
 
-        result << [vector_ids.index(match[1]), match[2].to_i, resource.fetch("payload", [])]
+        result << [vector_ids.index(match[1]), match[1], match[2].to_i, resource.fetch("payload", [])]
       end
 
-      seen = {}
-      pages.sort_by { |vector_index, offset, _payload| [vector_index, offset] }.each_with_object([]) do |(_vector_index, _offset, payload), result|
+      result = []
+      indexes_by_id = {}
+      pages.sort_by { |vector_index, _vector_id, offset, _payload| [vector_index, offset] }.each do |(_vector_index, vector_id, _offset, payload)|
+        metadata = ranking_metadata(vector_id)
         Array(payload).each do |collection|
           identifier = collection["id"]
-          next unless identifier && !seen[identifier]
+          next unless identifier
 
-          seen[identifier] = true
-          result << collection
+          if (existing_index = indexes_by_id[identifier])
+            result[existing_index] = merge_ranking_metadata(result.fetch(existing_index), metadata)
+            next
+          end
+
+          indexes_by_id[identifier] = result.length
+          result << merge_ranking_metadata(collection.dup, metadata)
         end
       end
+      result
+    end
+
+    def ranking_metadata(vector_id)
+      topics = VECTOR_TOPICS.fetch(vector_id, [])
+      editorial_signals = VECTOR_EDITORIAL_SIGNALS.fetch(vector_id, [])
+      return {} if topics.empty? && editorial_signals.empty?
+
+      { "topics" => topics, "editorialSignals" => editorial_signals }
+    end
+
+    def merge_ranking_metadata(collection, metadata)
+      return collection if metadata.empty?
+
+      existing = collection.fetch("rankingMetadata", {})
+      collection.merge(
+        "rankingMetadata" => {
+          "topics" => (Array(existing["topics"]) + Array(metadata["topics"])).uniq,
+          "editorialSignals" => (Array(existing["editorialSignals"]) + Array(metadata["editorialSignals"])).uniq
+        }.reject { |_key, values| values.empty? }
+      )
     end
 
     def cached_vector_count(vector_ids)

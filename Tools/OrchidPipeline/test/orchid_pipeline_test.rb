@@ -203,6 +203,71 @@ class OrchidPipelineTest < Minitest::Test
     end
   end
 
+  def test_catalog_merges_reliable_metadata_for_duplicate_vector_membership
+    Dir.mktmpdir do |directory|
+      transport = FakeTransport.new
+      output = File.join(directory, "public")
+      state = File.join(directory, "source-state.json")
+      transport.handler = lambda do |request|
+        case request.fetch(:path)
+        when "/api/page/getSearch"
+          json_result(
+            {
+              "getPage" => {
+                "items" => [
+                  { "type" => "genre", "ref" => "vector_systemlist_zh_genre_cpop" },
+                  { "type" => "genre", "ref" => "vector_systemlist_zh_mood_party" }
+                ]
+              }
+            },
+            etag: '"discovery"'
+          )
+        when "/api/getVector"
+          json_result(
+            {
+              "getVector" => {
+                "items" => [{ "type" => "playlist", "ref" => "shared", "title" => "Shared Playlist" }]
+              }
+            },
+            etag: "\"#{request.fetch(:query).fetch("vectorId")}\""
+          )
+        else
+          raise("Unexpected path #{request.fetch(:path)}")
+        end
+      end
+
+      OrchidPipeline::Builder.new(
+        transport: transport,
+        output_directory: output,
+        state_path: state,
+        max_vectors: 4,
+        max_pages_per_vector: 1,
+        vector_batch_size: 4,
+        playlist_batch_size: 0,
+        minimum_collections: 1,
+        first_launch: "fixed",
+        now: -> { Time.utc(2026, 7, 14, 8, 16, 0) },
+        logger: ->(_message) {}
+      ).build
+
+      manifest = JSON.parse(File.read(File.join(output, "manifest.json")))
+      catalog = JSON.parse(File.read(File.join(output, manifest.dig("catalog", "path"))))
+      collection = catalog.fetch("collections").fetch(0)
+
+      assert_equal(5, transport.requests.length)
+      refute(transport.requests.any? { |request| request.fetch(:path) == "/api/playlist" })
+      assert_equal(1, catalog.fetch("collections").length)
+      assert_equal(
+        ["genre:cpop"],
+        collection.dig("rankingMetadata", "topics")
+      )
+      assert_equal(
+        ["charts", "latest", "featured"],
+        collection.dig("rankingMetadata", "editorialSignals")
+      )
+    end
+  end
+
   def test_rate_limit_publishes_cached_feed_without_tracks_and_stops_requests
     Dir.mktmpdir do |directory|
       transport = FakeTransport.new
