@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_relax"
     ]
   },
   "resources": {
@@ -1980,6 +1981,142 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tiKFuzpX-NA/mqdefault.jpg",
           "title": "WOODZ 'Drowning' Live Clip"
+        }
+      ]
+    },
+    "playlist:180371108": {
+      "etag": "\"181m8mont89abs\"",
+      "hash": "017020dea23dae780ecae2ede094563cb214acc7a28b22d3dce77208b6fe7698",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:02",
+          "id": "wN6FQg5lcjY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wN6FQg5lcjY/mqdefault.jpg",
+          "title": "9m88 - Whatchu Gonna...? (Prod. by @chunyinrainbowchan) Official Music Video"
+        }
+      ]
+    },
+    "playlist:180371305": {
+      "etag": "\"tbn61w32bxa9k\"",
+      "hash": "75fffb16e3f99e7a2f665e19958ceaeb640e0aaad86239b40dcc45aae3436a5e",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:01",
+          "id": "eZh1mC1vPgw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eZh1mC1vPgw/mqdefault.jpg",
+          "title": "Eric周興哲《最後一堂課 Graduation》Official Music Video - 影集「媽，別鬧了！」片尾曲"
+        }
+      ]
+    },
+    "playlist:180581773": {
+      "etag": "\"cac2a7gqt7a6f\"",
+      "hash": "1dbc520490657e945fa6e90a50bbb42997eb64776b4a5ba9aac3907241b493b5",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:47",
+          "id": "gJyrlxrlFDw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gJyrlxrlFDw/mqdefault.jpg",
+          "title": "洪佩瑜 Pei-Yu Hung - 不在一起就不會分開 Anything But (Official Music Video)"
+        }
+      ]
+    },
+    "playlist:180581794": {
+      "etag": "\"xeu2cbh4yg9nc\"",
+      "hash": "749fdba75a4dafffad33bfff47b42ea2a4d801cca09802d603cd68872315539f",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:43",
+          "id": "egZ_th99Krk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/egZ_th99Krk/mqdefault.jpg",
+          "title": "高爾宣OSN-Somebody Else (Official Music Video)"
+        }
+      ]
+    },
+    "playlist:180581889": {
+      "etag": "\"xr0vaos4caaad\"",
+      "hash": "b03437c8b0bb537f8a7c00fd816d5f50b5adae0ae7fe8313c6c9ac400ec87549",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "6:20",
+          "id": "sdghbAEl0-o",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sdghbAEl0-o/mqdefault.jpg",
+          "title": "陳零九Nine Chen【10000次 Ten Thousand Times】Official Music Video (4K)"
+        }
+      ]
+    },
+    "playlist:180810450": {
+      "etag": "\"8yflzyzst5a8h\"",
+      "hash": "7a8f3ed4175d4f52b9bfb529d2ea1878a34b7a9cae7e222fe7fd95d8681deb81",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:56",
+          "id": "l7amnklgOxo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/l7amnklgOxo/mqdefault.jpg",
+          "title": "沒有人寫歌給你過吧"
+        }
+      ]
+    },
+    "playlist:180810484": {
+      "etag": "\"13gu0nqq0ztaa6\"",
+      "hash": "344bfea12e21d3904dc70ffdf4fe69b95814e17cef6934e5ff2fa008282bf52a",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:25",
+          "id": "w-Kyj_8kuhE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/w-Kyj_8kuhE/mqdefault.jpg",
+          "title": "韋禮安 WeiBird《明天再見 Good Afternoon, Good Evening and Goodnight》Official Lyric Video"
+        }
+      ]
+    },
+    "playlist:181038880": {
+      "etag": "\"2mi2xzm9g7a78\"",
+      "hash": "2f1437b7e101a7afa2ca56ed172c1b9fb5d592eb14cf9ba2044ef403ed7f60aa",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:56",
+          "id": "-wtXCZp3q1U",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-wtXCZp3q1U/mqdefault.jpg",
+          "title": "最好的時光"
         }
       ]
     },
@@ -38237,7 +38374,7 @@
       ]
     },
     "vector:vector_latest_zh:0:12": {
-      "etag": "\"fzam1jb56h6i7\"",
+      "etag": "\"eyqa74a78u6i7\"",
       "hash": "eae099ed5c5c12b45c803b8d9bc4109c1b0578ffece0b3a2c1a178faa3666f4c",
       "itemCount": 12,
       "payload": [
@@ -63630,6 +63767,152 @@
 
       ]
     },
+    "vector:vector_systemlist_zh_genre_relax:0:12": {
+      "etag": "\"10ypjx0yl9473r\"",
+      "hash": "3fc89e7b470931b523baf70f581e6a55fb8b78628d1147a0fc09833544c28bf8",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_myzznSrnHv4d3VAWYEFRkjuSvgiAXZshk",
+          "kind": "playlist",
+          "subtitle": "108 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mzB1VGEGcSU/mqdefault.jpg",
+          "title": "讓你Chill的嘻哈歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_m_0U5VQNyyzwwH1lRi7cPAAGXqNQnAOqY",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GxldQ9eX2wo/mqdefault.jpg",
+          "title": "慵懶的沙發流行樂"
+        },
+        {
+          "id": "RDCLAK5uy_nDL8KeBrUagwyISwNmyEiSfYgz1gVCesg",
+          "kind": "playlist",
+          "subtitle": "49 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lp-EO5I60KA/mqdefault.jpg",
+          "title": "輕柔流行經典"
+        },
+        {
+          "id": "RDCLAK5uy_lBcYC0xVqLIxqJ6Ug0Hmj8iJNWvbKcRQA",
+          "kind": "playlist",
+          "subtitle": "68 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Qe8fa4b5xNU/mqdefault.jpg",
+          "title": "韓國輕鬆流行歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_ldLj_raotpFCQGWiQ7L-Ag5GTbGOyjgRY",
+          "kind": "playlist",
+          "subtitle": "83 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AobkVpyenfQ/mqdefault.jpg",
+          "title": "古典樂冥想"
+        },
+        {
+          "id": "RDCLAK5uy_lmztFiBPwa16-qz6nwMaNrtVFPzCYNOkA",
+          "kind": "playlist",
+          "subtitle": "143 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PT2_F-1esPk/mqdefault.jpg",
+          "title": "簡單舒服的EDM"
+        },
+        {
+          "id": "RDCLAK5uy_mfut9V_o1n9nVG_m5yZ3ztCif29AHUffI",
+          "kind": "playlist",
+          "subtitle": "174 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OMOGaugKpzs/mqdefault.jpg",
+          "title": "搖滾放輕鬆"
+        },
+        {
+          "id": "RDCLAK5uy_li40oRtkZfR06nf8rRzgRMraDx764TEN0",
+          "kind": "playlist",
+          "subtitle": "64 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/afIIY1elpBM/mqdefault.jpg",
+          "title": "柔和的大提琴"
+        },
+        {
+          "id": "RDCLAK5uy_l3jcyafhPprVNoFpQZL02ofimw9WsO6mE",
+          "kind": "playlist",
+          "subtitle": "85 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cxCgB8THL5E/mqdefault.jpg",
+          "title": "Solo Piano Bliss"
+        },
+        {
+          "id": "43884451",
+          "kind": "playlist",
+          "subtitle": "490 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/THiq5pB2_cg/mqdefault.jpg",
+          "title": "鋼琴饗宴"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_genre_relax:12:12": {
+      "etag": "\"109a9gxztz316w\"",
+      "hash": "741891e81de00655b0a95988c1db17545654c150c3f62d4a16d505891600cfce",
+      "itemCount": 2,
+      "payload": [
+        {
+          "id": "43884458",
+          "kind": "playlist",
+          "subtitle": "480 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4286ahpsnH8/mqdefault.jpg",
+          "title": "古典交響樂"
+        },
+        {
+          "id": "43884459",
+          "kind": "playlist",
+          "subtitle": "480 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hXdpwlE2j_U/mqdefault.jpg",
+          "title": "心靈芬多精"
+        }
+      ]
+    },
     "vector:vector_systemlist_zh_genre_rock:0:12": {
       "etag": "\"145bol7jwq06bp\"",
       "hash": "289fb2f6b90327b3381d338be9e17766fd49e6208c2edeb604a177936d33039d",
@@ -67551,8 +67834,8 @@
       ]
     },
     "vector:vector_systemlist_zh_top_charts:0:12": {
-      "etag": "\"105efuyntd36ox\"",
-      "hash": "0e14b0d7822ca160c94a741f6db4501b8875d42dc4da71b052e4313c703edd68",
+      "etag": "\"gnter2md806ox\"",
+      "hash": "48e170273b96cac501f79613af40e999e3ef11dd829742aac7f1b8489753f8df",
       "itemCount": 10,
       "payload": [
         {
@@ -67563,24 +67846,24 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/BFAuO-mrhcA/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/kCA93dLzKP4/mqdefault.jpg",
           "title": "華語本周熱門"
         },
         {
           "id": "18731187",
           "kind": "playlist",
-          "subtitle": "84 首",
+          "subtitle": "81 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/kCA93dLzKP4/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/omRez5-bIpY/mqdefault.jpg",
           "title": "最新熱門單曲"
         },
         {
           "id": "10088896",
           "kind": "playlist",
-          "subtitle": "44 首",
+          "subtitle": "43 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -67591,7 +67874,7 @@
         {
           "id": "28406176",
           "kind": "playlist",
-          "subtitle": "2 首",
+          "subtitle": "3 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -67607,7 +67890,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/GvtNBLn6_Ik/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/-q_S27LbNKU/mqdefault.jpg",
           "title": "韓語本週熱門"
         },
         {
@@ -67624,7 +67907,7 @@
         {
           "id": "18731188",
           "kind": "playlist",
-          "subtitle": "28 首",
+          "subtitle": "26 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -67676,9 +67959,9 @@
       "nextOffset": 0
     },
     "vector_latest_zh": {
-      "complete": true,
+      "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 0
+      "nextOffset": 252
     },
     "vector_systemlist_zh_genre_cpop": {
       "complete": true,
@@ -67720,6 +68003,11 @@
       "lastCompletedAt": "2026-07-13T11:28:38Z",
       "nextOffset": 0
     },
+    "vector_systemlist_zh_genre_relax": {
+      "complete": true,
+      "lastCompletedAt": "2026-07-14T09:08:01Z",
+      "nextOffset": 0
+    },
     "vector_systemlist_zh_genre_rock": {
       "complete": true,
       "lastCompletedAt": "2026-07-13T16:43:40Z",
@@ -67752,7 +68040,7 @@
     },
     "vector_systemlist_zh_top_charts": {
       "complete": true,
-      "lastCompletedAt": "2026-07-10T08:31:09Z",
+      "lastCompletedAt": "2026-07-14T09:08:01Z",
       "nextOffset": 0
     }
   }
