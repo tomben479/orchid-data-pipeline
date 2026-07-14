@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_relax"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1984,6 +1983,208 @@
         }
       ]
     },
+    "playlist:179893772": {
+      "etag": "\"pkb7v6x57eaay\"",
+      "hash": "2fd74df14f8bb76efc6836786de8964cbb9a26b1de678ebb707ac03751126dea",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:06",
+          "id": "1emA1EFsPMM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1emA1EFsPMM/mqdefault.jpg",
+          "title": "周杰倫 Jay Chou【最偉大的作品 Greatest Works of Art】Official MV"
+        }
+      ]
+    },
+    "playlist:179893847": {
+      "etag": "\"w7y7mik0t0a95\"",
+      "hash": "8ace06c4c2e2bfdc0d11e34149a1b71133c2949ee5e15ddef3d760477e65c60d",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:19",
+          "id": "SksHdu5UTXo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SksHdu5UTXo/mqdefault.jpg",
+          "title": "Marz23 - 不搖就滾 this is my life (Official Video)"
+        }
+      ]
+    },
+    "playlist:179893963": {
+      "etag": "\"esbd89ubo9a71\"",
+      "hash": "9552cf3b1c4941e7f0660bc2fb41e06b83b17c32deb11978ccce8aee2f9d6cde",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:13",
+          "id": "cojq_OAg8qE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cojq_OAg8qE/mqdefault.jpg",
+          "title": "憂悶酒"
+        }
+      ]
+    },
+    "playlist:180139088": {
+      "etag": "\"pe7vxcsox6c45\"",
+      "hash": "c76a27c058aed3462e35c3b5fe2b181b6ec060a623f91e5c39c1fd210ba9aa78",
+      "itemCount": 13,
+      "payload": [
+        {
+          "durationText": "3:07",
+          "id": "vEZCoe9GJFk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vEZCoe9GJFk/mqdefault.jpg",
+          "title": "粉色海洋"
+        },
+        {
+          "durationText": "4:35",
+          "id": "kfXdP7nZIiE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kfXdP7nZIiE/mqdefault.jpg",
+          "title": "周杰倫 Jay Chou【等你下課 Waiting For You  (with 楊瑞代 Gary)】歌詞版Lyrics MV"
+        },
+        {
+          "durationText": "4:18",
+          "id": "wwUN9NWXcnY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wwUN9NWXcnY/mqdefault.jpg",
+          "title": "錯過的煙火"
+        },
+        {
+          "durationText": "3:51",
+          "id": "HK7SPnGSxLM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HK7SPnGSxLM/mqdefault.jpg",
+          "title": "周杰倫 Jay Chou【說好不哭 Won't Cry (with 五月天阿信 Mayday Ashin)】Official MV"
+        },
+        {
+          "durationText": "4:25",
+          "id": "TbFWYT9VGRk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TbFWYT9VGRk/mqdefault.jpg",
+          "title": "周杰倫 Jay Chou【我是如此相信 I Truly Believe】(電影天火主題曲) Official MV"
+        },
+        {
+          "durationText": "4:10",
+          "id": "MAjY8mCTXWk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MAjY8mCTXWk/mqdefault.jpg",
+          "title": "周杰倫 Jay Chou【不愛我就拉倒 If You Don't Love Me, It's Fine】Official MV 發燒影片華語地區蟬聯第一 美國直衝前二"
+        },
+        {
+          "durationText": "3:54",
+          "id": "XvHc_VEop7I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XvHc_VEop7I/mqdefault.jpg",
+          "title": "倒影"
+        },
+        {
+          "durationText": "3:08",
+          "id": "-biOGdYiF-I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-biOGdYiF-I/mqdefault.jpg",
+          "title": "周杰倫 Jay Chou【Mojito】Official MV ★ Check out \"J-Style Trip\" on Netflix -Travelogue, Magic and Fun!"
+        },
+        {
+          "durationText": "4:25",
+          "id": "BSlMAJ7SkMA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BSlMAJ7SkMA/mqdefault.jpg",
+          "title": "周杰倫 Jay Chou【還在流浪 Still Wandering】Official MV"
+        },
+        {
+          "durationText": "4:17",
+          "id": "-87P_A1DqzI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-87P_A1DqzI/mqdefault.jpg",
+          "title": "紅顏如霜"
+        },
+        {
+          "durationText": "5:06",
+          "id": "1emA1EFsPMM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1emA1EFsPMM/mqdefault.jpg",
+          "title": "周杰倫 Jay Chou【最偉大的作品 Greatest Works of Art】Official MV"
+        }
+      ]
+    },
+    "playlist:180139507": {
+      "etag": "\"4em7gcrbgrai5\"",
+      "hash": "ccdd8fe6169ccc2a686fc21010bc40cf0655e0c8915050135f3c6db03df4b263",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:55",
+          "id": "uRWWkUeSw5M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uRWWkUeSw5M/mqdefault.jpg",
+          "title": "魏嘉瑩 Arrow Wei 溫妮 WINNI【為你寫詩】Official Music Video"
+        }
+      ]
+    },
+    "playlist:180139525": {
+      "etag": "\"77fh5vhp53aar\"",
+      "hash": "efac48a5877876ee82a386baf02fd65040eaee274dbe8af9308607280c524933",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:46",
+          "id": "gReE7gL6w6E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gReE7gL6w6E/mqdefault.jpg",
+          "title": "W0LF(S) 五堅情 【 LALALA 】 Official MV ｜ 邱鋒澤 Feng Ze、陳零九 NINE CHEN、黃偉晉Wayne、賴晏駒 LAI、婁峻碩 SHOU"
+        }
+      ]
+    },
     "playlist:180371108": {
       "etag": "\"181m8mont89abs\"",
       "hash": "017020dea23dae780ecae2ede094563cb214acc7a28b22d3dce77208b6fe7698",
@@ -1998,6 +2199,40 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/wN6FQg5lcjY/mqdefault.jpg",
           "title": "9m88 - Whatchu Gonna...? (Prod. by @chunyinrainbowchan) Official Music Video"
+        }
+      ]
+    },
+    "playlist:180371297": {
+      "etag": "\"jv3w5kgd82a98\"",
+      "hash": "3f313ba90934b27c6023b1ed2510dc3febcbef70e5e9a6ef04d333220cc12b28",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:08",
+          "id": "_QpJlDoI-Cc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_QpJlDoI-Cc/mqdefault.jpg",
+          "title": "曾沛慈 Pets Tseng【慷慨 Let Go】Official Music Video"
+        }
+      ]
+    },
+    "playlist:180371300": {
+      "etag": "\"14ux6i6smifacs\"",
+      "hash": "076381cc5e5c9267355b13c819980b5ef149b4f30830e4d045723a17bac2f6ef",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:53",
+          "id": "v49F0o6smzA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/v49F0o6smzA/mqdefault.jpg",
+          "title": "存在 Existence - Julia Wu吳卓源｜Official Music Video （傳說對決 2022傳說日主題曲）"
         }
       ]
     },
@@ -67961,7 +68196,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 252
+      "nextOffset": 540
     },
     "vector_systemlist_zh_genre_cpop": {
       "complete": true,
