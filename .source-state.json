@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "12e4a8fe70861af543759669d5ccbb5b810434237797e5bdb33c68c94bcc0d7a",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_soundtrack"
     ]
   },
   "resources": {
@@ -1980,6 +1981,372 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tiKFuzpX-NA/mqdefault.jpg",
           "title": "WOODZ 'Drowning' Live Clip"
+        }
+      ]
+    },
+    "playlist:178089012": {
+      "etag": "\"124r3mys446adi\"",
+      "hash": "9ad2ae9a2da518c4fee9e0aab526f70f121df46a702ca041f3fc8fc9fefd8936",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "3:17",
+          "id": "PRs5CuiaTsw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PRs5CuiaTsw/mqdefault.jpg",
+          "title": "Live a Life (Ending Theme Song of TV Show \"Let's Open\")"
+        },
+        {
+          "durationText": "3:12",
+          "id": "iJt721SH9UI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iJt721SH9UI/mqdefault.jpg",
+          "title": "炎亞綸 Aaron Yan《My Bae》Official MV - 「來吧！營業中」片頭曲"
+        }
+      ]
+    },
+    "playlist:178321552": {
+      "etag": "\"fpvyloz0jdbes\"",
+      "hash": "062bf3734f3a3d704ed92f4e2462be0c9a297b4e2823101765550432c9655a17",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "3:43",
+          "id": "tO4ZvJOIQv4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tO4ZvJOIQv4/mqdefault.jpg",
+          "title": "道歉 All Apologies"
+        },
+        {
+          "durationText": "3:23",
+          "id": "D6reQZhP_j0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/D6reQZhP_j0/mqdefault.jpg",
+          "title": "罪美 Beautiful Sin"
+        },
+        {
+          "durationText": "3:49",
+          "id": "KJ7-CtgKi14",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KJ7-CtgKi14/mqdefault.jpg",
+          "title": "少年 Boy"
+        },
+        {
+          "durationText": "4:11",
+          "id": "2u8q4nOnzJs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2u8q4nOnzJs/mqdefault.jpg",
+          "title": "訪客 The Guest"
+        },
+        {
+          "durationText": "3:35",
+          "id": "kCSmnTB8VEg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kCSmnTB8VEg/mqdefault.jpg",
+          "title": "確幸 Bliss"
+        },
+        {
+          "durationText": "3:42",
+          "id": "n_yoicWDrVk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/n_yoicWDrVk/mqdefault.jpg",
+          "title": "理想 Ideal"
+        },
+        {
+          "durationText": "3:01",
+          "id": "HBjYd8_nh30",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HBjYd8_nh30/mqdefault.jpg",
+          "title": "少女 Girl"
+        },
+        {
+          "durationText": "3:46",
+          "id": "EMqzXb8B66A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EMqzXb8B66A/mqdefault.jpg",
+          "title": "陳珊妮 Sandee Chan - 痛癮 Pain Addict (Official Music Video)"
+        },
+        {
+          "durationText": "3:26",
+          "id": "Lw6mfEdRzT8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Lw6mfEdRzT8/mqdefault.jpg",
+          "title": "陳珊妮 Sandee Chan - 他說 S/he Said（Official Music Video）"
+        },
+        {
+          "durationText": "3:45",
+          "id": "7MUiPuIpLy0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7MUiPuIpLy0/mqdefault.jpg",
+          "title": "陳珊妮 Sandee Chan - 捆缚 Bondage（Official Music Video）"
+        }
+      ]
+    },
+    "playlist:178322350": {
+      "etag": "\"mv14kbutowac0\"",
+      "hash": "026f853387e8cabe7552132a244e29d0d1f15ac7e24a094dc39e08700cc7f4a2",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "3:54",
+          "id": "4IY-VXemHx8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4IY-VXemHx8/mqdefault.jpg",
+          "title": "【官方MV】李佳薇 Jess Lee - 光 Light (Official MV)"
+        },
+        {
+          "durationText": "4:16",
+          "id": "KiBVtQVEWkg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KiBVtQVEWkg/mqdefault.jpg",
+          "title": "【官方MV】李佳薇 Jess Lee - 飆 Soar (Official MV)"
+        }
+      ]
+    },
+    "playlist:178322362": {
+      "etag": "\"5znptoe1gm9o8\"",
+      "hash": "68c9c92a68481c2e28baf0047015cda3a51f112779c26acf0eefa9acb5399fe7",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:37",
+          "id": "r5wB_9q4Yno",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/r5wB_9q4Yno/mqdefault.jpg",
+          "title": "14 Days"
+        }
+      ]
+    },
+    "playlist:178563577": {
+      "etag": "\"128fxt707m5adu\"",
+      "hash": "45f9d63b931859901fb8fc406c77bb04e006ba801f33587c032d0c1b6cc8b394",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:39",
+          "id": "VBftbcR3PP0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VBftbcR3PP0/mqdefault.jpg",
+          "title": "愛你 (超深情版)"
+        },
+        {
+          "durationText": "4:34",
+          "id": "9DdOc_c6rYk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9DdOc_c6rYk/mqdefault.jpg",
+          "title": "《打開太陽 - 美聲版》Kimberley Chen 陳芳語 x Flesh Juicer 血肉果汁機｜Official Music Video"
+        },
+        {
+          "durationText": "3:30",
+          "id": "i05hOylOWkE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/i05hOylOWkE/mqdefault.jpg",
+          "title": "《雲煙 Cloud of Smoke》Kimberley Chen 陳芳語 x Flesh Juicer 血肉果汁機｜Official Music Video"
+        }
+      ]
+    },
+    "playlist:178563608": {
+      "etag": "\"q357qjwiwoaa7\"",
+      "hash": "e0e8010b7c04c592390c636d75a40d603da78c997f582f2a39d225091756654d",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "3:41",
+          "id": "6rC2Cfs6hJ8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6rC2Cfs6hJ8/mqdefault.jpg",
+          "title": "PFF"
+        },
+        {
+          "durationText": "3:29",
+          "id": "0G1bBaTeV7M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0G1bBaTeV7M/mqdefault.jpg",
+          "title": "PINK FUN《可以呀 Kya》Official Music Video【EN/JP SUB】"
+        }
+      ]
+    },
+    "playlist:178563638": {
+      "etag": "\"jtzvvrgzcua6h\"",
+      "hash": "deffd60a3dde64a8a9ccfeaa8de72b7bad1842dfd030ff0ac120b488f4a7fd75",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:13",
+          "id": "tyOzqm7V33M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tyOzqm7V33M/mqdefault.jpg",
+          "title": "Kiss Me"
+        }
+      ]
+    },
+    "playlist:178563691": {
+      "etag": "\"6orm0srz04bdc\"",
+      "hash": "8ff801ca4c6ace3536389d97636999dde19e1994de49ef1ec9222752a6e8593c",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "3:42",
+          "id": "DvgBZE3n1yI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DvgBZE3n1yI/mqdefault.jpg",
+          "title": "撤"
+        },
+        {
+          "durationText": "4:32",
+          "id": "uj8WKFlJMhM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uj8WKFlJMhM/mqdefault.jpg",
+          "title": "默默"
+        },
+        {
+          "durationText": "4:12",
+          "id": "jVUb7nxgl4c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jVUb7nxgl4c/mqdefault.jpg",
+          "title": "不愛最大"
+        },
+        {
+          "durationText": "5:15",
+          "id": "ioMf1y8u2So",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ioMf1y8u2So/mqdefault.jpg",
+          "title": "沒那麼簡單"
+        },
+        {
+          "durationText": "4:55",
+          "id": "oA8s_yDnI_g",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oA8s_yDnI_g/mqdefault.jpg",
+          "title": "愛不解釋"
+        },
+        {
+          "durationText": "5:03",
+          "id": "nacMam7W03A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nacMam7W03A/mqdefault.jpg",
+          "title": "查某囡仔"
+        },
+        {
+          "durationText": "4:39",
+          "id": "5sy6nJi4np8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5sy6nJi4np8/mqdefault.jpg",
+          "title": "像個男人"
+        },
+        {
+          "durationText": "4:57",
+          "id": "-Zp5YtwBfFA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-Zp5YtwBfFA/mqdefault.jpg",
+          "title": "蕭煌奇 Ricky Hsiao〈內傷〉Official Music Video"
+        },
+        {
+          "durationText": "5:05",
+          "id": "8h_KRcAQiu4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8h_KRcAQiu4/mqdefault.jpg",
+          "title": "慢冷"
+        },
+        {
+          "durationText": "5:17",
+          "id": "l-QRljVE45w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/l-QRljVE45w/mqdefault.jpg",
+          "title": "蕭煌奇 Ricky Hsiao 〈說故事的歌〉Official MV"
         }
       ]
     },
@@ -68888,7 +69255,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1116
+      "nextOffset": 1404
     },
     "vector_systemlist_zh_genre_cpop": {
       "complete": true,
