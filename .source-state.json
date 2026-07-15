@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "12e4a8fe70861af543759669d5ccbb5b810434237797e5bdb33c68c94bcc0d7a",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_soundtrack"
     ]
   },
   "resources": {
@@ -1983,6 +1984,198 @@
         }
       ]
     },
+    "playlist:176604456": {
+      "etag": "\"qtizotfr8fa80\"",
+      "hash": "0add6484ea83507654c47d3d2f9a151940ecf8d613c9a56221635a36083970f9",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:26",
+          "id": "Lw6mfEdRzT8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Lw6mfEdRzT8/mqdefault.jpg",
+          "title": "陳珊妮 Sandee Chan - 他說 S/he Said（Official Music Video）"
+        }
+      ]
+    },
+    "playlist:176604627": {
+      "etag": "\"143aaxbm8afa65\"",
+      "hash": "2ac7398550e73c819a7ed112c767c8c8aea1d837c90693179ea8af0f1358f188",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:39",
+          "id": "lxBvTOaSVGM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lxBvTOaSVGM/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen -【你夠了】Enough is Enough Official MV"
+        }
+      ]
+    },
+    "playlist:177313420": {
+      "etag": "\"180me6wvoua25\"",
+      "hash": "622342be686e2951013c391ad5310e6ce99b4e41ff7323d2ce6bcbd23ee4d56d",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:23",
+          "id": "Hg_QTNHS9rA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Hg_QTNHS9rA/mqdefault.jpg",
+          "title": "Joanna Wang 王若琳 & @9m88.《Material Girl》Official MV"
+        }
+      ]
+    },
+    "playlist:177313470": {
+      "etag": "\"11yep8vlu16a3j\"",
+      "hash": "4b3d05c2aa429d10ee68f8f888a84bf063a4311615a7e4b39cbe7fdb6fabd8e2",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:30",
+          "id": "i05hOylOWkE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/i05hOylOWkE/mqdefault.jpg",
+          "title": "《雲煙 Cloud of Smoke》Kimberley Chen 陳芳語 x Flesh Juicer 血肉果汁機｜Official Music Video"
+        }
+      ]
+    },
+    "playlist:177313483": {
+      "etag": "\"jb805tk5k7bgv\"",
+      "hash": "956d24591f51a302e753c7801ff87f0d1d14a59c7e0e15759dd7ca357190d0ad",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "5:43",
+          "id": "I1rL7FtIhtQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/I1rL7FtIhtQ/mqdefault.jpg",
+          "title": "理想混蛋 Bestards【Reset】Official Music Video"
+        },
+        {
+          "durationText": "4:12",
+          "id": "6Toy5fGSTLw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6Toy5fGSTLw/mqdefault.jpg",
+          "title": "好方法 (It Is Love)"
+        },
+        {
+          "durationText": "5:09",
+          "id": "1Q4g-flfVTw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1Q4g-flfVTw/mqdefault.jpg",
+          "title": "一定會的 (The Ray in the Darkness)"
+        },
+        {
+          "durationText": "3:54",
+          "id": "QzJkAt-Ez4c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QzJkAt-Ez4c/mqdefault.jpg",
+          "title": "白晝將盡 (Do Not Go Gentle Into That Good Night)"
+        },
+        {
+          "durationText": "3:42",
+          "id": "6PrjrmYhVKM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6PrjrmYhVKM/mqdefault.jpg",
+          "title": "今天星期六 (Oh, My Saturday)"
+        },
+        {
+          "durationText": "3:58",
+          "id": "pSjUC_dsbYA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pSjUC_dsbYA/mqdefault.jpg",
+          "title": "在地球爆炸之前 (Before Doomsday)"
+        },
+        {
+          "durationText": "4:36",
+          "id": "2ObSJ-NiEcM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2ObSJ-NiEcM/mqdefault.jpg",
+          "title": "絕對值 (Puzzled)"
+        },
+        {
+          "durationText": "4:19",
+          "id": "oeYgf4ZkdR0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oeYgf4ZkdR0/mqdefault.jpg",
+          "title": "理想混蛋 Bestards【我就想你 Miss You So...】Official Music Video"
+        },
+        {
+          "durationText": "4:32",
+          "id": "JVRsAqm7EiM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JVRsAqm7EiM/mqdefault.jpg",
+          "title": "理想混蛋 Bestards【我反芻著你留下的寂寞 The Endless Rumination】Official Music Video"
+        },
+        {
+          "durationText": "4:47",
+          "id": "IBI0OjA0X0s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IBI0OjA0X0s/mqdefault.jpg",
+          "title": "理想混蛋 Bestards【門 Break Through】Official Music Video"
+        }
+      ]
+    },
+    "playlist:177313563": {
+      "etag": "\"xwvgkq4irw9zn\"",
+      "hash": "80fa926c3c59e77ab91f185962eab8f7c79a28f607aedeb30d4f60f7a85c19cf",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:02",
+          "id": "9_5HzSOGEzE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9_5HzSOGEzE/mqdefault.jpg",
+          "title": "Juice Boy《Fake》Official Video"
+        }
+      ]
+    },
     "playlist:177580348": {
       "etag": "\"yjni6xdz0ha34\"",
       "hash": "260c53cc18c1d686808f507c747fc23131f64eb93710c4f7fcaeacba3249ca6f",
@@ -1997,6 +2190,40 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/VlKxFIcj_kY/mqdefault.jpg",
           "title": "TRASH ft. 李浩瑋, PIZZALI, 陳忻玥, G5SH《終究還是因為愛REMIX - 2022 EMZ 昇恆昌年度歌曲》Official Music Video"
+        }
+      ]
+    },
+    "playlist:177580355": {
+      "etag": "\"140ntiukr71a8y\"",
+      "hash": "037b1f15347b9aec58d8182ff7d4f3a09ddec8a706f8df6bd552238e5b2dd4ba",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:17",
+          "id": "l-QRljVE45w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/l-QRljVE45w/mqdefault.jpg",
+          "title": "蕭煌奇 Ricky Hsiao 〈說故事的歌〉Official MV"
+        }
+      ]
+    },
+    "playlist:177580381": {
+      "etag": "\"v1r41arq15a2j\"",
+      "hash": "1188a939b66cfab6417efaae53bf072adf546b9d6f60847c875bba7c512dc219",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:27",
+          "id": "5AK_ysNVkco",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5AK_ysNVkco/mqdefault.jpg",
+          "title": "Sunset Rollercoaster - 金牛座的牢騷 (Cover), 2022"
         }
       ]
     },
@@ -69590,7 +69817,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1692
+      "nextOffset": 1980
     },
     "vector_systemlist_zh_genre_cpop": {
       "complete": true,
