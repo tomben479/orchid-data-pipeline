@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_country"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1981,6 +1980,332 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tiKFuzpX-NA/mqdefault.jpg",
           "title": "WOODZ 'Drowning' Live Clip"
+        }
+      ]
+    },
+    "playlist:171591081": {
+      "etag": "\"qivgs4n5oja6z\"",
+      "hash": "e20066492dac30e5412e939e6a67907b879429e352640ad073fc5ba25de0cca8",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:27",
+          "id": "L3jkNAQMw9U",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/L3jkNAQMw9U/mqdefault.jpg",
+          "title": "#李榮浩 第七張創作專輯主打單曲《#對等關係》"
+        }
+      ]
+    },
+    "playlist:171591181": {
+      "etag": "\"9z4szyt15kab9\"",
+      "hash": "561a7ca7a2c91c6bd0b538d64096f3e62481a9f2e367ec3c1e57b2991c7fb55f",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:57",
+          "id": "E1ybIxGYhwQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/E1ybIxGYhwQ/mqdefault.jpg",
+          "title": "W0LF(S) 五堅情 【 月面著陸 MOON LANDING 】 Official MV ｜ 邱鋒澤 Feng Ze、陳零九 NINE CHEN、黃偉晉Wayne、賴晏駒 LAI、婁峻碩SHOU"
+        }
+      ]
+    },
+    "playlist:171591192": {
+      "etag": "\"viqsfdypoxa7i\"",
+      "hash": "715f3c471f1f6b898a618d76ff3358154b4be178f751de534e9d76c8aa2d3d2a",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "9:49",
+          "id": "MictB30gF5E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MictB30gF5E/mqdefault.jpg",
+          "title": "孫燕姿 Sun Yanzi《世界終結前一天 The Day Before》Official Music Video"
+        }
+      ]
+    },
+    "playlist:171902319": {
+      "etag": "\"1316dq4mp6uaaf\"",
+      "hash": "873338f5f8dd45bc1cf8fe75a5b4ffd0de8cbe56f0f6559c8f82965ca3bebe86",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:08",
+          "id": "PJJhHihvDpo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PJJhHihvDpo/mqdefault.jpg",
+          "title": "茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video)"
+        }
+      ]
+    },
+    "playlist:171902337": {
+      "etag": "\"2ihcsdsmur9qf\"",
+      "hash": "44f826e8136d69d6688de2fdf53b2446eaa2dbcb41970e0efa40ee0ba8957f1c",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:27",
+          "id": "caxiOmSWWEM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/caxiOmSWWEM/mqdefault.jpg",
+          "title": "告五人 Accusefive [ 好不容易 Finally ] Official Music Video  ( 戲劇《華燈初上》片尾曲 )"
+        }
+      ]
+    },
+    "playlist:171902342": {
+      "etag": "\"jn2mk5ef9ja8q\"",
+      "hash": "0baaeda53cdd6715fbbfebc1fa73b0629fda6467d9d22129e580307a8c022aac",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:45",
+          "id": "FdtuWnB0a6k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FdtuWnB0a6k/mqdefault.jpg",
+          "title": "高爾宣OSN - Circles (Audio)"
+        }
+      ]
+    },
+    "playlist:171902354": {
+      "etag": "\"t2drfvid7obni\"",
+      "hash": "2fb7825d9ae31b36a2a451f7ae1182b65d8aa74e635bda956f84702683c7e6e0",
+      "itemCount": 14,
+      "payload": [
+        {
+          "durationText": "4:39",
+          "id": "iLBdv8vxmII",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iLBdv8vxmII/mqdefault.jpg",
+          "title": "Gone (feat. Queen Wei)"
+        },
+        {
+          "durationText": "4:31",
+          "id": "Dj6JOOEtqFU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Dj6JOOEtqFU/mqdefault.jpg",
+          "title": "小宇-宋念宇 Xiao Yu - 臉 Beautiful Face"
+        },
+        {
+          "durationText": "4:52",
+          "id": "rxpubZXi0sE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rxpubZXi0sE/mqdefault.jpg",
+          "title": "小宇 宋念宇 Xiao Yu - 默念你 Murmur - Official Music Video"
+        },
+        {
+          "durationText": "4:26",
+          "id": "FyVa0IBRBes",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FyVa0IBRBes/mqdefault.jpg",
+          "title": "Stay"
+        },
+        {
+          "durationText": "2:33",
+          "id": "9iPbfx1q-EA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9iPbfx1q-EA/mqdefault.jpg",
+          "title": "A Time To Be Silent"
+        },
+        {
+          "durationText": "6:51",
+          "id": "OiW0VR5bhpY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OiW0VR5bhpY/mqdefault.jpg",
+          "title": "If You Forget Me"
+        },
+        {
+          "durationText": "4:51",
+          "id": "uA_RqaGeRFs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uA_RqaGeRFs/mqdefault.jpg",
+          "title": "Young And Frivolous"
+        },
+        {
+          "durationText": "4:38",
+          "id": "1LR4vMgBloo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1LR4vMgBloo/mqdefault.jpg",
+          "title": "Don’t Cry"
+        },
+        {
+          "durationText": "4:38",
+          "id": "E-4T-EqAqSg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/E-4T-EqAqSg/mqdefault.jpg",
+          "title": "Schizophrenia"
+        },
+        {
+          "durationText": "5:10",
+          "id": "75HOL5P3nTg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/75HOL5P3nTg/mqdefault.jpg",
+          "title": "Time Will Tell"
+        },
+        {
+          "durationText": "5:09",
+          "id": "EfHip_1aG2E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EfHip_1aG2E/mqdefault.jpg",
+          "title": "Not Enough"
+        },
+        {
+          "durationText": "3:37",
+          "id": "pp9UBCTlAU0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pp9UBCTlAU0/mqdefault.jpg",
+          "title": "小宇 宋念宇 Xiao Yu《無視生非 Nothing To See》Official Music Video"
+        }
+      ]
+    },
+    "playlist:172125814": {
+      "etag": "\"11d9vkaiahebfa\"",
+      "hash": "05c8886d12acbb6c202095eea7218a906547411d6960368a76d2b690538f1654",
+      "itemCount": 11,
+      "payload": [
+        {
+          "durationText": "3:23",
+          "id": "mWtGH9_AKT0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mWtGH9_AKT0/mqdefault.jpg",
+          "title": "盧廣仲 Crowd Lu【英雄 Heroes】 (Acoustic Version）Official Music Video（動畫電影《諸葛四郎－英雄的英雄》主題曲）"
+        },
+        {
+          "durationText": "4:16",
+          "id": "2bIP88OYUUM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2bIP88OYUUM/mqdefault.jpg",
+          "title": "盧廣仲 Crowd Lu 【明年 Let Go】 Official Behind the Stage Video"
+        },
+        {
+          "durationText": "3:11",
+          "id": "VumMe4DH7mc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VumMe4DH7mc/mqdefault.jpg",
+          "title": "肌肉的記憶 (MySoulMemory)"
+        },
+        {
+          "durationText": "3:49",
+          "id": "njd0E2mFRR8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/njd0E2mFRR8/mqdefault.jpg",
+          "title": "像你 (There You Are)"
+        },
+        {
+          "durationText": "3:45",
+          "id": "KMAWs9GhZFA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KMAWs9GhZFA/mqdefault.jpg",
+          "title": "盧廣仲 Crowd Lu【輕輕 iRipple】Official Music Video"
+        },
+        {
+          "durationText": "4:11",
+          "id": "EjmAaU8Tzy0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EjmAaU8Tzy0/mqdefault.jpg",
+          "title": "盧廣仲 Crowd Lu【雨時多雲偶陣晴 uWEATHER】Official Music Video"
+        },
+        {
+          "durationText": "4:39",
+          "id": "TNEWbqv7qcY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TNEWbqv7qcY/mqdefault.jpg",
+          "title": "盧廣仲 Crowd Lu【自我的介紹 in peace】Official Music Video"
+        },
+        {
+          "durationText": "4:59",
+          "id": "FybwqrsmkAw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FybwqrsmkAw/mqdefault.jpg",
+          "title": "盧廣仲 Crowd Lu【狂迪 Crazy Disco】勵志演說 高流演唱會 Official Live Video"
+        },
+        {
+          "durationText": "3:53",
+          "id": "0Yi4WAR-9hM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0Yi4WAR-9hM/mqdefault.jpg",
+          "title": "盧廣仲 Crowd Lu【勵志論 C'MON】Official Music Video"
         }
       ]
     },
@@ -70708,19 +71033,19 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:0:12": {
-      "etag": "\"x3tq0dc1zd76p\"",
-      "hash": "be6c716ac84504c79454d17daba4b022e84473c9cf5ae78d23ee5026f094287b",
+      "etag": "\"6j15qgj3ih76p\"",
+      "hash": "c85dc4b65a82b159763a1979b220a04770078bdd29145cc00fb91abedf1de2cf",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_k83Q0BJ_yGLX2nTNKxOXb3BP3Pb7uMIN0",
           "kind": "playlist",
-          "subtitle": "81 首",
+          "subtitle": "28 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/Pu0EuDitVQs/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/AncmH6AYFqc/mqdefault.jpg",
           "title": "古典樂助你入睡"
         },
         {
@@ -70759,12 +71084,12 @@
         {
           "id": "RDCLAK5uy_lakC34Al6Kd5kidN8Bq0jpdnGUpIw2ctQ",
           "kind": "playlist",
-          "subtitle": "91 首",
+          "subtitle": "58 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/hCdTdbDEzlc/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/YAtV3BDRu5Y/mqdefault.jpg",
           "title": "夢境"
         },
         {
@@ -70792,23 +71117,23 @@
         {
           "id": "RDCLAK5uy_ngY0Zg-BcF081qMSWi95ivcqWoVlLRun0",
           "kind": "playlist",
-          "subtitle": "55 首",
+          "subtitle": "25 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/rbIkVInKae8/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/0MUKTaWP6Tg/mqdefault.jpg",
           "title": "小朋友的入睡時間到啦"
         },
         {
           "id": "RDCLAK5uy_n2cq0PxECLzVblC6NOorWjaCtF5NwXJT4",
           "kind": "playlist",
-          "subtitle": "62 首",
+          "subtitle": "31 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/fqPWwLBq1M8/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/h9G1kh4ola4/mqdefault.jpg",
           "title": "助眠爵士"
         },
         {
@@ -72298,14 +72623,14 @@
   "schemaVersion": 1,
   "vectors": {
     "vector_featured_zh": {
-      "complete": false,
+      "complete": true,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 2292
+      "nextOffset": 0
     },
     "vector_latest_zh": {
-      "complete": true,
+      "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 0
+      "nextOffset": 192
     },
     "vector_systemlist_zh_genre_cpop": {
       "complete": true,
@@ -72374,7 +72699,7 @@
     },
     "vector_systemlist_zh_mood_sleep": {
       "complete": true,
-      "lastCompletedAt": "2026-07-14T05:09:56Z",
+      "lastCompletedAt": "2026-07-17T21:07:53Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_travel": {
