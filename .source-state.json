@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_country"
     ]
   },
   "resources": {
@@ -1980,6 +1981,282 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tiKFuzpX-NA/mqdefault.jpg",
           "title": "WOODZ 'Drowning' Live Clip"
+        }
+      ]
+    },
+    "playlist:173171009": {
+      "etag": "\"uu2pc5q126ae2\"",
+      "hash": "f5286d2b4ecd4a8bc81d432179f72ebc55296c742c328a563aa7a661222e22fc",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:09",
+          "id": "7Jhdn2riuC0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7Jhdn2riuC0/mqdefault.jpg",
+          "title": "G.E.M.鄧紫棋【倒流時間I'll Be Missing You】Official Music Video"
+        }
+      ]
+    },
+    "playlist:173171017": {
+      "etag": "\"8t17e7yhwdaos\"",
+      "hash": "8aedae60e209e8e86eb9f154e6b7d6eb80e6ef8a26e39bf7282ae1d9e588c2a8",
+      "itemCount": 7,
+      "payload": [
+        {
+          "durationText": "4:01",
+          "id": "OQx6N6eskMI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OQx6N6eskMI/mqdefault.jpg",
+          "title": "哈囉台北"
+        },
+        {
+          "durationText": "3:30",
+          "id": "_7DyWQ9T48k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_7DyWQ9T48k/mqdefault.jpg",
+          "title": "拜託別旋轉我"
+        },
+        {
+          "durationText": "3:43",
+          "id": "zKRsHiEFph8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zKRsHiEFph8/mqdefault.jpg",
+          "title": "琳誼Ring [ 孤島 Alone ] Official Music Video（戲劇《華燈初上》插曲）"
+        },
+        {
+          "durationText": "4:15",
+          "id": "5iR7Xp4_FOA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5iR7Xp4_FOA/mqdefault.jpg",
+          "title": "我只想醉倒在春暖花開的地方"
+        },
+        {
+          "durationText": "3:58",
+          "id": "brWzz_fjJmY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/brWzz_fjJmY/mqdefault.jpg",
+          "title": "琳誼Ring [ 長大了以後 Fake Adult ] feat.怕胖團 PAPUN BAND Official Music Video"
+        }
+      ]
+    },
+    "playlist:173449411": {
+      "etag": "\"11wg3qudzpoa5h\"",
+      "hash": "e679fe3b8de608751665136a2c942bc367c39526cf4cfc2697c70684619b9fcf",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:03",
+          "id": "vIjc-wyvArY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vIjc-wyvArY/mqdefault.jpg",
+          "title": "瘦子E.SO【Amazing】Official Music Video (4K)"
+        }
+      ]
+    },
+    "playlist:173449435": {
+      "etag": "\"15o7y8yvxgwa6j\"",
+      "hash": "2f7e280c81b3003f7abaeb668c2cd22e73c23fe69a8fe536fecd96698be9870a",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:06",
+          "id": "uOkuyk_VzmU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uOkuyk_VzmU/mqdefault.jpg",
+          "title": "W0LF(S) 五堅情 【 Be A Liar 】 Official MV ｜ 邱鋒澤 Feng Ze、陳零九 NINE CHEN、黃偉晉Wayne、賴晏駒 LAI、婁峻碩SHOU"
+        }
+      ]
+    },
+    "playlist:173449453": {
+      "etag": "\"yeey3dxkf4a5e\"",
+      "hash": "0d07995ccf1e68a13e19ce82bb878bd7ebc7ac670908735735f195c1e9e50b52",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:13",
+          "id": "x96pNkacv54",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/x96pNkacv54/mqdefault.jpg",
+          "title": "LINION - Holiday Only (Official Audio)"
+        }
+      ]
+    },
+    "playlist:173449892": {
+      "etag": "\"yvlticgjkfa0f\"",
+      "hash": "7a98f84d30b6d7235a4b5c252a1cb717a23f200b06e29daadd1a005b9238a6eb",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:27",
+          "id": "z8A_Q6VrrtY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/z8A_Q6VrrtY/mqdefault.jpg",
+          "title": "魏嘉瑩 Arrow Wei【魚】feat. 怕胖團閃亮"
+        }
+      ]
+    },
+    "playlist:173683485": {
+      "etag": "\"xvxyhxkx4mbpz\"",
+      "hash": "094a6fca4564c895919dc7e323156f1710ef4e7579d9e51e710564714c8413e2",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "4:34",
+          "id": "GqNiwdNfqtk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GqNiwdNfqtk/mqdefault.jpg",
+          "title": "人生海海"
+        },
+        {
+          "durationText": "5:03",
+          "id": "SND7CFpxsA8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SND7CFpxsA8/mqdefault.jpg",
+          "title": "頑固"
+        },
+        {
+          "durationText": "4:25",
+          "id": "9dj0w8x9cqI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9dj0w8x9cqI/mqdefault.jpg",
+          "title": "因為你 所以我"
+        },
+        {
+          "durationText": "3:47",
+          "id": "QwEVXD3HBm8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QwEVXD3HBm8/mqdefault.jpg",
+          "title": "離開地球表面"
+        },
+        {
+          "durationText": "3:41",
+          "id": "uqOxS829bpg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uqOxS829bpg/mqdefault.jpg",
+          "title": "派對動物"
+        },
+        {
+          "durationText": "4:36",
+          "id": "X9_EgYXd498",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/X9_EgYXd498/mqdefault.jpg",
+          "title": "青空未來"
+        },
+        {
+          "durationText": "5:40",
+          "id": "Vm-6N_5YJRY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Vm-6N_5YJRY/mqdefault.jpg",
+          "title": "溫柔"
+        },
+        {
+          "durationText": "4:59",
+          "id": "uBwbvst4LFQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uBwbvst4LFQ/mqdefault.jpg",
+          "title": "愛情萬歲"
+        },
+        {
+          "durationText": "3:33",
+          "id": "rsSXGEH3p3A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rsSXGEH3p3A/mqdefault.jpg",
+          "title": "香水"
+        },
+        {
+          "durationText": "4:31",
+          "id": "UNM2Hgag8Ag",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UNM2Hgag8Ag/mqdefault.jpg",
+          "title": "MAYDAY 五月天 [ 終結孤單 Loneliness Terminator ] Official Live Video"
+        }
+      ]
+    },
+    "playlist:173683569": {
+      "etag": "\"1837f7rldi19op\"",
+      "hash": "5fcbcaa375a3a9d326100d8c7cbd6d1bb7244b91fff959cbe34b121263791b3d",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:54",
+          "id": "JClfYCxGg-I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JClfYCxGg-I/mqdefault.jpg",
+          "title": "What's on Your Mind (\"My Best Friend's Breakfast\" Theme Song)"
+        },
+        {
+          "durationText": "1:31",
+          "id": "kenmKpuddok",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kenmKpuddok/mqdefault.jpg",
+          "title": "周興哲Eric Chou《想知道你在想什麼 - 搶先片花版 》Official Music Video"
         }
       ]
     },
@@ -71091,7 +71368,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 1428
+      "nextOffset": 1716
     },
     "vector_latest_zh": {
       "complete": true,
