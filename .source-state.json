@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_relax"
     ]
   },
   "resources": {
@@ -1980,6 +1981,382 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tiKFuzpX-NA/mqdefault.jpg",
           "title": "WOODZ 'Drowning' Live Clip"
+        }
+      ]
+    },
+    "playlist:167618144": {
+      "etag": "\"58kko3l375a41\"",
+      "hash": "a99d9f3f4ca6f30e6e7f82f8b679a2f574c25159a1bbcfc92147f6595f9991b9",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:25",
+          "id": "2yx5Ux2Di1w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2yx5Ux2Di1w/mqdefault.jpg",
+          "title": "婁峻碩SHOU - Booyah M/V"
+        }
+      ]
+    },
+    "playlist:167618188": {
+      "etag": "\"pvdjtekkfoa2a\"",
+      "hash": "9e0ea750cb61be1678424b5cf2d456b76690f6274ba0ca67b861e170cdf0a23b",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:16",
+          "id": "LnPuvwXLC34",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LnPuvwXLC34/mqdefault.jpg",
+          "title": "魚丁糸 oaeen【在世界的盡頭大聲地說我恨你 I Will Always Hate You】 Official Music Video"
+        }
+      ]
+    },
+    "playlist:167618215": {
+      "etag": "\"xjuszxqiwva3t\"",
+      "hash": "e6a0224e431ae6d52ec2ab659d2c74dafbb8634f94ae47f657d3f67a45556c21",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:17",
+          "id": "KH4HNQBlP7U",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KH4HNQBlP7U/mqdefault.jpg",
+          "title": "美麗本人 壞爸爸 Bad Daddy Official Music Video (ENG/CC)"
+        }
+      ]
+    },
+    "playlist:167618251": {
+      "etag": "\"4v42lhnqs9a1z\"",
+      "hash": "7357d34240879c58cb64c21ea666fcd60488a1e7d0f32d648fc8ff8348f94a15",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:26",
+          "id": "ERnZyNUHGRo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ERnZyNUHGRo/mqdefault.jpg",
+          "title": "洪安妮 Anni Hung 【 一年後的故事 One Year Later 】Official Lyric Video"
+        }
+      ]
+    },
+    "playlist:167928228": {
+      "etag": "\"qfsql55hkta4c\"",
+      "hash": "466cb5ac797d774f288505f74f4b708331c428edd00749d75f99c294afd156a3",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:38",
+          "id": "VUnf5RCGXiI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VUnf5RCGXiI/mqdefault.jpg",
+          "title": "蕭敬騰 Jam Hsiao 《已讀不回94我 Leave You on Read》Official Music Video"
+        }
+      ]
+    },
+    "playlist:167928243": {
+      "etag": "\"15lxs3jczknans\"",
+      "hash": "66c73331155d2593b1c95d708e9224958eaa606635fd1898cf838484323445d5",
+      "itemCount": 11,
+      "payload": [
+        {
+          "durationText": "3:01",
+          "id": "gEhmvlpP9eE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gEhmvlpP9eE/mqdefault.jpg",
+          "title": "floaty shit"
+        },
+        {
+          "durationText": "4:04",
+          "id": "dNGefRkXHq0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dNGefRkXHq0/mqdefault.jpg",
+          "title": "混亂的台北 - Julia Wu 吳卓源｜Official Music Visual"
+        },
+        {
+          "durationText": "2:54",
+          "id": "gvBnMwgCE7s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gvBnMwgCE7s/mqdefault.jpg",
+          "title": "paris"
+        },
+        {
+          "durationText": "2:57",
+          "id": "j9cLZsbRUIs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/j9cLZsbRUIs/mqdefault.jpg",
+          "title": "don't know how to write anymore"
+        },
+        {
+          "durationText": "3:30",
+          "id": "XFQrOFdrLDQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XFQrOFdrLDQ/mqdefault.jpg",
+          "title": "感情都有期限"
+        },
+        {
+          "durationText": "3:10",
+          "id": "mJi7DBo2i6k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mJi7DBo2i6k/mqdefault.jpg",
+          "title": "uncertainty"
+        },
+        {
+          "durationText": "3:32",
+          "id": "ZXkKWpoKDLg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZXkKWpoKDLg/mqdefault.jpg",
+          "title": "sunset"
+        },
+        {
+          "durationText": "3:46",
+          "id": "lzKBvl_7QqQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lzKBvl_7QqQ/mqdefault.jpg",
+          "title": "better off without you - Julia Wu 吳卓源 feat. 瘦子E.SO｜Official Music Video"
+        },
+        {
+          "durationText": "3:06",
+          "id": "-7H5ug_XP4E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-7H5ug_XP4E/mqdefault.jpg",
+          "title": "精神分裂 Split - Julia Wu 吳卓源｜Official Music Video"
+        }
+      ]
+    },
+    "playlist:167928391": {
+      "etag": "\"108pos74wtmbpx\"",
+      "hash": "f497f5b242f253d122fc8ab9379b7deaf451a01f2eed448fab8221cf06892727",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "3:55",
+          "id": "l9xJxQEylHU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/l9xJxQEylHU/mqdefault.jpg",
+          "title": "Photographs"
+        },
+        {
+          "durationText": "4:23",
+          "id": "ILWcHVPwZrw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ILWcHVPwZrw/mqdefault.jpg",
+          "title": "那些小事情"
+        },
+        {
+          "durationText": "3:15",
+          "id": "Ynaf-gzvVVs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ynaf-gzvVVs/mqdefault.jpg",
+          "title": "全部的所有"
+        },
+        {
+          "durationText": "3:45",
+          "id": "q5Dp6bVhKjQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/q5Dp6bVhKjQ/mqdefault.jpg",
+          "title": "旧情歌"
+        },
+        {
+          "durationText": "5:43",
+          "id": "uYLyTyUajrU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uYLyTyUajrU/mqdefault.jpg",
+          "title": "蔡健雅 Tanya Chua -《Bluebirds》Official MV"
+        },
+        {
+          "durationText": "4:14",
+          "id": "WFF5c2kPfLY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WFF5c2kPfLY/mqdefault.jpg",
+          "title": "Om Tara"
+        },
+        {
+          "durationText": "3:53",
+          "id": "zcArv1JRed0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zcArv1JRed0/mqdefault.jpg",
+          "title": "Breakdown"
+        },
+        {
+          "durationText": "4:43",
+          "id": "cr8k-PPLW3k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cr8k-PPLW3k/mqdefault.jpg",
+          "title": "蔡健雅 Tanya Chua -《Into The Wild》 Feat. 阿雲嘎  Official MV"
+        },
+        {
+          "durationText": "4:15",
+          "id": "zfqiLSjxJ14",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zfqiLSjxJ14/mqdefault.jpg",
+          "title": "蔡健雅 Tanya Chua -《出走 / Depart》Official MV"
+        },
+        {
+          "durationText": "4:19",
+          "id": "paecvB1-uPE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/paecvB1-uPE/mqdefault.jpg",
+          "title": "蔡健雅 Tanya Chua -《讓浪漫作主 / Romanticism》Official MV"
+        }
+      ]
+    },
+    "playlist:167928459": {
+      "etag": "\"y1gh4cve2taze\"",
+      "hash": "6a6a7c4a979aaf2e1b6cc1c610cf6912049afae48d4afcfe8754025ec76994c2",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "3:58",
+          "id": "842Y1MaSHKs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/842Y1MaSHKs/mqdefault.jpg",
+          "title": "魏嘉瑩 Arrow Wei【再唱一遍（不來梅樂隊）】Official Music Video"
+        },
+        {
+          "durationText": "3:47",
+          "id": "WX3lgfaBRhw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WX3lgfaBRhw/mqdefault.jpg",
+          "title": "要怎麼告訴你我多喜歡"
+        },
+        {
+          "durationText": "4:00",
+          "id": "rol1bVAxzOY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rol1bVAxzOY/mqdefault.jpg",
+          "title": "石之心"
+        },
+        {
+          "durationText": "3:57",
+          "id": "doWGV-2pIao",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/doWGV-2pIao/mqdefault.jpg",
+          "title": "再見了小時候"
+        },
+        {
+          "durationText": "3:50",
+          "id": "MfVoiUC5cBA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MfVoiUC5cBA/mqdefault.jpg",
+          "title": "小我時代"
+        },
+        {
+          "durationText": "3:12",
+          "id": "xbv8ESfU4r4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xbv8ESfU4r4/mqdefault.jpg",
+          "title": "普普通通的人生"
+        },
+        {
+          "durationText": "3:47",
+          "id": "2fWwbhl0d8Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2fWwbhl0d8Q/mqdefault.jpg",
+          "title": "要怎麼告訴你我多喜歡 (feat.理想混蛋 雞丁)"
+        },
+        {
+          "durationText": "4:50",
+          "id": "AuDMvf-LL9k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AuDMvf-LL9k/mqdefault.jpg",
+          "title": "魏嘉瑩 Arrow Wei【你好嗎 How Are You】feat. 陳昊森 Official Music Video（華燈初上插曲）"
         }
       ]
     },
@@ -70946,8 +71323,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:0:12": {
-      "etag": "\"yh1fppaz105qb\"",
-      "hash": "428183968d18aab356a95a0815020ec4def680c0c1e983e06daa5ce5769cf0f4",
+      "etag": "\"4pvbcilcm05qa\"",
+      "hash": "174b3ed8e768122a60a04ad1d32600b58039b0ee0d4bfd93fb997bc96767b4cf",
       "itemCount": 9,
       "payload": [
         {
@@ -70986,7 +71363,7 @@
         {
           "id": "RDCLAK5uy_nEOENcLJBr5ZWcX5KsRFqlkLp05vN23Yk",
           "kind": "playlist",
-          "subtitle": "78 首",
+          "subtitle": "77 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -71008,7 +71385,7 @@
         {
           "id": "RDCLAK5uy_m8UYTpmaUGhIlXpWiyukIgw4Ug_POVPNw",
           "kind": "playlist",
-          "subtitle": "100 首",
+          "subtitle": "99 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -71041,8 +71418,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_party:0:12": {
-      "etag": "\"fayflmmu77749\"",
-      "hash": "9d88633f5c4aaf55b1ee42d7831541a86833cc30eb569dbf7684f88ad5ef7c30",
+      "etag": "\"xcxm4zy1yf749\"",
+      "hash": "ee7c61826d47f28b3fe3293d499d1df65f059f88755fcf5e7e5d0a1ffd9749cf",
       "itemCount": 12,
       "payload": [
         {
@@ -71081,7 +71458,7 @@
         {
           "id": "RDCLAK5uy_kwJTdGJj4KpaItCZogif_xkH69VyeERKw",
           "kind": "playlist",
-          "subtitle": "130 首",
+          "subtitle": "131 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -74384,9 +74761,9 @@
       "nextOffset": 0
     },
     "vector_latest_zh": {
-      "complete": false,
+      "complete": true,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1920
+      "nextOffset": 0
     },
     "vector_systemlist_zh_genre_cpop": {
       "complete": true,
@@ -74440,12 +74817,12 @@
     },
     "vector_systemlist_zh_mood_good_mood": {
       "complete": true,
-      "lastCompletedAt": "2026-07-13T21:13:04Z",
+      "lastCompletedAt": "2026-07-19T15:14:49Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_party": {
       "complete": true,
-      "lastCompletedAt": "2026-07-13T21:13:06Z",
+      "lastCompletedAt": "2026-07-19T15:14:51Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_romance": {
