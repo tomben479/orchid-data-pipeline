@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
+    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,7 +22,7 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_relax"
+      "vector_systemlist_zh_genre_country"
     ]
   },
   "resources": {
@@ -1981,6 +1981,192 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tiKFuzpX-NA/mqdefault.jpg",
           "title": "WOODZ 'Drowning' Live Clip"
+        }
+      ]
+    },
+    "playlist:166620953": {
+      "etag": "\"16dwlqwtgbrapd\"",
+      "hash": "f4f6513f0ca12c95126888ef1a52d371f69b682112704fa92a7781a7bd1f802e",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "3:58",
+          "id": "0krZAKYMPgY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0krZAKYMPgY/mqdefault.jpg",
+          "title": "親愛的你"
+        },
+        {
+          "durationText": "4:53",
+          "id": "_DiYkv2qgn4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_DiYkv2qgn4/mqdefault.jpg",
+          "title": "流浪貓小虎"
+        },
+        {
+          "durationText": "3:52",
+          "id": "WbYzVDbJY84",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WbYzVDbJY84/mqdefault.jpg",
+          "title": "不想回覆電話信息的週末"
+        },
+        {
+          "durationText": "4:17",
+          "id": "f7G1a6KWWTI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/f7G1a6KWWTI/mqdefault.jpg",
+          "title": "和妹妹的聊天記錄"
+        },
+        {
+          "durationText": "4:21",
+          "id": "XQgrhpDCUWE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XQgrhpDCUWE/mqdefault.jpg",
+          "title": "拜你所傷"
+        },
+        {
+          "durationText": "4:39",
+          "id": "Vl1U_RhJseg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Vl1U_RhJseg/mqdefault.jpg",
+          "title": "郭靜Claire Kuo《我非獨自生活》官方版MV"
+        }
+      ]
+    },
+    "playlist:166958972": {
+      "etag": "\"sxxooeawxbapj\"",
+      "hash": "4dbaaa243bfda0fd3557b66ae2372110191c15d6ad1680cce9dd0ef7e219524e",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:14",
+          "id": "PC16VSSl5b4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PC16VSSl5b4/mqdefault.jpg",
+          "title": "沒什麼大不了"
+        }
+      ]
+    },
+    "playlist:166958988": {
+      "etag": "\"10rr9l6ra6ga5u\"",
+      "hash": "74eb27438318c38d36183c24b08bdec346b077141a0df70f6a2a538c75826811",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:29",
+          "id": "PM9_fnertDs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PM9_fnertDs/mqdefault.jpg",
+          "title": "高爾宣OSN - Fall (Official Visualizer)"
+        }
+      ]
+    },
+    "playlist:166959027": {
+      "etag": "\"w5encotuxla4n\"",
+      "hash": "000a44b0c1b4a2a946187411d5e2eac40ddf88677e924af65be860fea54e12f5",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:57",
+          "id": "jI8nFU95K7s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jI8nFU95K7s/mqdefault.jpg",
+          "title": "魚丁糸 oaeen【蜂蜜人蔘 Honey Ginseng】 Official Music Video"
+        }
+      ]
+    },
+    "playlist:166959059": {
+      "etag": "\"8l8lxto9049yu\"",
+      "hash": "095c5480110a78f9b950aadffbd075ac3b85837f09b6414215ed69f72e5bb6af",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:37",
+          "id": "UNOpicGVDxU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UNOpicGVDxU/mqdefault.jpg",
+          "title": "【頻道主題曲】《欸你這週要幹嘛》Official Music Video"
+        }
+      ]
+    },
+    "playlist:167239492": {
+      "etag": "\"61ka39p2kca1a\"",
+      "hash": "e263cb45563eec84bba470e99134d3fa4ac801783b557bf14c989d5d347f5712",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:33",
+          "id": "jj-8twO9KUA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jj-8twO9KUA/mqdefault.jpg",
+          "title": "琳誼 Ring [ 蚵仔麵線 Oysters Love Noodles ] （電視劇《俗女養成記2》插曲）"
+        }
+      ]
+    },
+    "playlist:167239689": {
+      "etag": "\"4flmgfpdmfafd\"",
+      "hash": "9cbb92a1e506a9fd650a9a8c2636c3f2185fb895209a486588966af4c3ce9145",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:20",
+          "id": "RZG02MIb1VE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RZG02MIb1VE/mqdefault.jpg",
+          "title": "MAYDAY五月天 [ 刻在我心底的名字 Your Name Engraved Herein ] Official Live Video"
+        }
+      ]
+    },
+    "playlist:167239706": {
+      "etag": "\"mjohyu4ny79yi\"",
+      "hash": "9009850dd3209cab970339052b00ff9d9140fc6f5cd78d6d846917bf915044a0",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:33",
+          "id": "9Hi8--bng8U",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9Hi8--bng8U/mqdefault.jpg",
+          "title": "施語庭｜GREEN [Official Music Video]"
         }
       ]
     },
@@ -68125,6 +68311,324 @@
         }
       ]
     },
+    "vector:vector_systemlist_zh_genre_country:0:12": {
+      "etag": "\"n8bk1ae49r6lu\"",
+      "hash": "a204b95d0db11ec56e67907c424dc13d10d6d726b9d992ef3911e75862228eed",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_lJ8xZWiZj2GCw7MArjakb6b0zfvqwldps",
+          "kind": "playlist",
+          "subtitle": "47 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ymPWy3XH3WA/mqdefault.jpg",
+          "title": "Country Hotlist"
+        },
+        {
+          "id": "RDCLAK5uy_nH_fdBVCcbNaVwi_tmZajZRq-ekddiuFY",
+          "kind": "playlist",
+          "subtitle": "175 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UW1UKhrQphI/mqdefault.jpg",
+          "title": "流行音樂遇上鄉村"
+        },
+        {
+          "id": "RDCLAK5uy_m3hSwtGcB6xMdXIAFmzikDTxaK6iYqchw",
+          "kind": "playlist",
+          "subtitle": "96 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Up06CryWQpE/mqdefault.jpg",
+          "title": "鄉村K歌"
+        },
+        {
+          "id": "RDCLAK5uy_lXjH0l0C1stU-ZtZQtjHYIC4VXg7qEt0Y",
+          "kind": "playlist",
+          "subtitle": "97 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AIOAlaACuv4/mqdefault.jpg",
+          "title": "經典美國鄉村音樂"
+        },
+        {
+          "id": "RDCLAK5uy_nJcxweTayTvF_AN_rriahrOCdGV086QfY",
+          "kind": "playlist",
+          "subtitle": "96 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/d05tQrhNMkA/mqdefault.jpg",
+          "title": "鄉村音樂巨星"
+        },
+        {
+          "id": "RDCLAK5uy_mUa11Ovw8K63TZiOfDHoLhTYBKNKmBmlU",
+          "kind": "playlist",
+          "subtitle": "127 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LIzEdmRgu14/mqdefault.jpg",
+          "title": "鄉村音樂天后"
+        },
+        {
+          "id": "RDCLAK5uy_lj69jAyRXnzetUT4SIloTmReZajghYcj8",
+          "kind": "playlist",
+          "subtitle": "86 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4nwYUx4MLVU/mqdefault.jpg",
+          "title": "鄉村合唱歌"
+        },
+        {
+          "id": "RDCLAK5uy_lKSBZf05I2jThij0M0ZPiKp_Rh2_uIewQ",
+          "kind": "playlist",
+          "subtitle": "83 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Y2E71oe0aSM/mqdefault.jpg",
+          "title": "Nashville Dreaming"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_genre_country:12:12": {
+      "etag": "\"r01quxejb0651\"",
+      "hash": "d561aa393151204f353cefe275e388742d969c3eb98d8c692e07c521dd9a891c",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_lMsSmFev6FFXWxVnyiwubAvcdZUUgaNcg",
+          "kind": "playlist",
+          "subtitle": "88 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yP-r4o91qNU/mqdefault.jpg",
+          "title": "Americana soul"
+        },
+        {
+          "id": "24628558",
+          "kind": "playlist",
+          "subtitle": "21 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rL4J-XIAKvw/mqdefault.jpg",
+          "title": "鄉村好時光"
+        },
+        {
+          "id": "24628541",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/60bzbfHP1Hs/mqdefault.jpg",
+          "title": "田野奔馳"
+        },
+        {
+          "id": "24628562",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0fNdRreK2OQ/mqdefault.jpg",
+          "title": "鄉間小徑"
+        },
+        {
+          "id": "41767706",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RAnOnmUbvyc/mqdefault.jpg",
+          "title": "Old Country"
+        },
+        {
+          "id": "41767832",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1XB2peAKwOA/mqdefault.jpg",
+          "title": "Country for Men"
+        },
+        {
+          "id": "41750898",
+          "kind": "playlist",
+          "subtitle": "18 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pbKM-6k2cHg/mqdefault.jpg",
+          "title": "Breeze from Country"
+        },
+        {
+          "id": "27298694",
+          "kind": "playlist",
+          "subtitle": "18 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ME6RtQgBMSI/mqdefault.jpg",
+          "title": "反骨叛逆"
+        },
+        {
+          "id": "41751346",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MyOGVk_ypnM/mqdefault.jpg",
+          "title": "Barefoot"
+        },
+        {
+          "id": "27957773",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/m5MPxz-8e6A/mqdefault.jpg",
+          "title": "Cold Weather Country"
+        },
+        {
+          "id": "25937636",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OrKq4JcS58Q/mqdefault.jpg",
+          "title": "Acoustic Valentine"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_genre_country:24:12": {
+      "etag": "\"kkfp9cdsmi4o0\"",
+      "hash": "2a2f8f4e1073b5b3261592f4b44740bfe7dd672e482c5fe56b28e7dc5e8e5ede",
+      "itemCount": 8,
+      "payload": [
+        {
+          "id": "25183326",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/F9mUH1JltbA/mqdefault.jpg",
+          "title": "Travel (201609)"
+        },
+        {
+          "id": "23535308",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hNt5_4eXfYI/mqdefault.jpg",
+          "title": "Acoustic Indie Vol.1"
+        },
+        {
+          "id": "19144266",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/s-F0US5eKnY/mqdefault.jpg",
+          "title": "Most Popular Country Songs of the Month (201603)"
+        },
+        {
+          "id": "18069775",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/e3lCzEOy5xs/mqdefault.jpg",
+          "title": "Most Popular Country Songs of the Month (201602)"
+        },
+        {
+          "id": "16561373",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iUgQLz5y7QI/mqdefault.jpg",
+          "title": "Most Popular Country Songs of the Month (201512)"
+        },
+        {
+          "id": "15440226",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1FhRhzAWzLA/mqdefault.jpg",
+          "title": "Most Popular Country Songs of the Month (201510)"
+        },
+        {
+          "id": "12423808",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/i8rMpN4o-b0/mqdefault.jpg",
+          "title": "Most Popular Country Songs of the Month (201505)"
+        },
+        {
+          "id": "11156933",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ivrEGLbGdWI/mqdefault.jpg",
+          "title": "Most Popular Country Songs of the Month (201501)"
+        }
+      ]
+    },
     "vector:vector_systemlist_zh_genre_cpop:0:12": {
       "etag": "\"u44sr4yyzn68e\"",
       "hash": "708f0eeb01f39432ed06104bb74dc01d811334295d98a66ade5aee9dfb587739",
@@ -73166,8 +73670,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:0:12": {
-      "etag": "\"6j15qgj3ih76p\"",
-      "hash": "c85dc4b65a82b159763a1979b220a04770078bdd29145cc00fb91abedf1de2cf",
+      "etag": "\"tqx461t8ry76p\"",
+      "hash": "ab094c5205ea3b9876908937d72aa24bb727f22678c0599aa552bf34932b1a21",
       "itemCount": 12,
       "payload": [
         {
@@ -73228,7 +73732,7 @@
         {
           "id": "RDCLAK5uy_m7ysrTGIqzCcexgkVTEekkSw9tmJgw3nM",
           "kind": "playlist",
-          "subtitle": "66 首",
+          "subtitle": "70 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -74761,8 +75265,13 @@
       "nextOffset": 0
     },
     "vector_latest_zh": {
-      "complete": true,
+      "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
+      "nextOffset": 180
+    },
+    "vector_systemlist_zh_genre_country": {
+      "complete": true,
+      "lastCompletedAt": "2026-07-19T21:07:12Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_cpop": {
@@ -74832,7 +75341,7 @@
     },
     "vector_systemlist_zh_mood_sleep": {
       "complete": true,
-      "lastCompletedAt": "2026-07-17T21:07:53Z",
+      "lastCompletedAt": "2026-07-19T21:07:13Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_travel": {
