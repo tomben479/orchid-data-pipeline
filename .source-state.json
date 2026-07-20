@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "12e4a8fe70861af543759669d5ccbb5b810434237797e5bdb33c68c94bcc0d7a",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_soundtrack"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1984,6 +1983,198 @@
         }
       ]
     },
+    "playlist:163924602": {
+      "etag": "\"dr86usw39na54\"",
+      "hash": "147ffafcd430df9d1d2f5d7f9a825e0cd276e1e8668cd9fed020ad194afe2f76",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:15",
+          "id": "BxjZcGTUWJM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BxjZcGTUWJM/mqdefault.jpg",
+          "title": "魚丁糸 oaeen【終點起點 Start from The End】 Official Music Video"
+        }
+      ]
+    },
+    "playlist:164359628": {
+      "etag": "\"duizti9bpa40\"",
+      "hash": "aa2e9dadcc14e82b0399c812f61d231407fc5a8a125d71c6049f1ec51963eebf",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:23",
+          "id": "mWtGH9_AKT0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mWtGH9_AKT0/mqdefault.jpg",
+          "title": "盧廣仲 Crowd Lu【英雄 Heroes】 (Acoustic Version）Official Music Video（動畫電影《諸葛四郎－英雄的英雄》主題曲）"
+        }
+      ]
+    },
+    "playlist:164359658": {
+      "etag": "\"17fl867cwcs9vg\"",
+      "hash": "956a6ff76aa5f688a1382bfff3eda893b63c385fc2e972daea8b49077fee9867",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:46",
+          "id": "lzKBvl_7QqQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lzKBvl_7QqQ/mqdefault.jpg",
+          "title": "better off without you - Julia Wu 吳卓源 feat. 瘦子E.SO｜Official Music Video"
+        }
+      ]
+    },
+    "playlist:164359681": {
+      "etag": "\"ogjmzrylwna5w\"",
+      "hash": "8a50fb3ed8b15b6a4f353648a0843ed95d9fc82bae3dc1458a5487e5427d6c66",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:33",
+          "id": "6acon9ad9UQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6acon9ad9UQ/mqdefault.jpg",
+          "title": "[avex官方HD] 黃偉晉 Wayne Huang – 我還是一個人 Still Alone 官方完整版MV"
+        }
+      ]
+    },
+    "playlist:164359693": {
+      "etag": "\"7tqe2p96rzava\"",
+      "hash": "7d937fac04113c47afb9aa5b169a2f50fb9dc886e30dad224333f7577596eb47",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "3:40",
+          "id": "sSwjQu_WjaY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sSwjQu_WjaY/mqdefault.jpg",
+          "title": "林凡 Freya Lim 《如果那天 What If》Official Music Video"
+        },
+        {
+          "durationText": "3:54",
+          "id": "LEJx9xDum8s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LEJx9xDum8s/mqdefault.jpg",
+          "title": "Like Air"
+        },
+        {
+          "durationText": "3:32",
+          "id": "2ol2PwBIWkk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2ol2PwBIWkk/mqdefault.jpg",
+          "title": "林凡 Freya Lim 《可是我們呢 What About Us》Official Lyric Video"
+        },
+        {
+          "durationText": "4:42",
+          "id": "jj2ILzL_OsU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jj2ILzL_OsU/mqdefault.jpg",
+          "title": "林凡 Freya Lim 《浪漫體質 Hopeful Romantic》Official Lyric Video"
+        },
+        {
+          "durationText": "3:59",
+          "id": "gz21ARap6oc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gz21ARap6oc/mqdefault.jpg",
+          "title": "Dear Alice"
+        },
+        {
+          "durationText": "3:28",
+          "id": "FR2XhsQJtrU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FR2XhsQJtrU/mqdefault.jpg",
+          "title": "I Don't know Why"
+        },
+        {
+          "durationText": "3:44",
+          "id": "1-k0NEEPM-w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1-k0NEEPM-w/mqdefault.jpg",
+          "title": "Who’s who (\"The Hitman's Wife's Bodyguard\" Mandarin Theme Song)"
+        },
+        {
+          "durationText": "4:00",
+          "id": "aXIJGayAXrI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aXIJGayAXrI/mqdefault.jpg",
+          "title": "林凡 Freya Lim 《幸福之前 Before Happiness》Official Lyric Video"
+        },
+        {
+          "durationText": "4:12",
+          "id": "D8FkPTfVJz4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/D8FkPTfVJz4/mqdefault.jpg",
+          "title": "林凡 Freya Lim 《如願以償 Granted》Official Music Video"
+        },
+        {
+          "durationText": "4:16",
+          "id": "QYF5NXK41z0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QYF5NXK41z0/mqdefault.jpg",
+          "title": "林凡 Freya Lim《再見 Till We Meet Again》Official Music Video"
+        }
+      ]
+    },
+    "playlist:164890384": {
+      "etag": "\"79a2edgv33a3v\"",
+      "hash": "6aba5a7b8ba19f0fd9452cd867004b8c07a69fd6e626777c2a3c473aee481132",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:15",
+          "id": "zfqiLSjxJ14",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zfqiLSjxJ14/mqdefault.jpg",
+          "title": "蔡健雅 Tanya Chua -《出走 / Depart》Official MV"
+        }
+      ]
+    },
     "playlist:164890396": {
       "etag": "\"xgjdou4e4ab3z\"",
       "hash": "051f4a5ac857a4d21d85663b65f3685c81aaafe25bbea8c0e0ca6bd733c32980",
@@ -2078,6 +2269,110 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/zjWFRZ8VlHg/mqdefault.jpg",
           "title": "就算閉上眼睛 EVEN IF | June Pan | Official Music Video"
+        }
+      ]
+    },
+    "playlist:164890677": {
+      "etag": "\"w2x1g1yzoea5m\"",
+      "hash": "d32e37eb9eb008471de027d6f07ff56d992c1b9bce7874cb8ac8c8bdc28d3a0d",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:16",
+          "id": "OArZO5WICI8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OArZO5WICI8/mqdefault.jpg",
+          "title": "TRASH《變成你 Be Like You》Official Music Video"
+        }
+      ]
+    },
+    "playlist:164890712": {
+      "etag": "\"14vuk11yupub9j\"",
+      "hash": "1f44cc457c266fa1a0e4049e0151a94f4b79d36fddf76228adb3f59539e8b14b",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "10:00",
+          "id": "Or5uus99a_k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Or5uus99a_k/mqdefault.jpg",
+          "title": "【大嘻哈時代】EP4 Cypher饒舌接力｜精華版｜C.Hao$/異鄉人/車輪表/顏冠希JY/榕幫(李瑞.華辰.士賢) - 叨位"
+        },
+        {
+          "durationText": "13:09",
+          "id": "UKW-RUjg2zA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UKW-RUjg2zA/mqdefault.jpg",
+          "title": "【大嘻哈時代】EP3 Cypher饒舌接力｜精華版｜wannasleep/VigozChen/Black MIC/Allyson陳瑾湘/青蛙/魏買加 - 候鳥"
+        },
+        {
+          "durationText": "9:59",
+          "id": "y9wZUDMneYQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/y9wZUDMneYQ/mqdefault.jpg",
+          "title": "【大嘻哈時代】EP4 Cypher饒舌接力｜精華版｜潤少/KUNG/許時/Peatle/XIN楊鑫/OWEN - 吊兒啷噹"
+        },
+        {
+          "durationText": "13:15",
+          "id": "20ulSGdb8ZQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/20ulSGdb8ZQ/mqdefault.jpg",
+          "title": "【大嘻哈時代】EP3 Cypher饒舌接力｜精華版｜Yappy/K!ddingboi/Jason/八八男/臭屁嬰仔 - 七狼太甚"
+        },
+        {
+          "durationText": "11:06",
+          "id": "N7r2y8k6eVk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/N7r2y8k6eVk/mqdefault.jpg",
+          "title": "【大嘻哈時代】EP4 Cypher饒舌接力｜精華版｜SOWUT/三小湯/禪波 ZENBØ/BADBOYRACOG/Q毛萬 - Bounce Back"
+        },
+        {
+          "durationText": "11:42",
+          "id": "pLJiYo0_4Uo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pLJiYo0_4Uo/mqdefault.jpg",
+          "title": "【大嘻哈時代】EP4 Cypher饒舌接力｜精華版｜PIZZALI/美麗本人/林可綸AcRoss/7LING/BR - Dream Team"
+        },
+        {
+          "durationText": "10:53",
+          "id": "zB6g-Ed8-gw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zB6g-Ed8-gw/mqdefault.jpg",
+          "title": "【大嘻哈時代】EP4 Cypher饒舌接力｜精華版｜Macdella/POPO J/PUNK B朋繽/K.I/Gambler - 相同的路"
+        },
+        {
+          "durationText": "12:18",
+          "id": "O4ToX25tbDI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/O4ToX25tbDI/mqdefault.jpg",
+          "title": "【大嘻哈時代】EP4 Cypher饒舌接力｜精華版｜EyeballRay/Chrisflow唐仲彣/阿夫/踢萬8IG8ABY/緋村宗祐 - 錦囊羞澀"
         }
       ]
     },
@@ -75849,7 +76144,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 756
+      "nextOffset": 1044
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
