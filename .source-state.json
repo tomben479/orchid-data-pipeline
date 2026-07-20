@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_country"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1981,6 +1980,232 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tiKFuzpX-NA/mqdefault.jpg",
           "title": "WOODZ 'Drowning' Live Clip"
+        }
+      ]
+    },
+    "playlist:165858810": {
+      "etag": "\"y1itlhzxkl9yt\"",
+      "hash": "727a55b7d9a5f07b1e609f96cdc2dd683e1f52f3930f75f8c04375a3348a5c2e",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:06",
+          "id": "g-HuUJtZx-8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/g-HuUJtZx-8/mqdefault.jpg",
+          "title": "麋先生MIXER ╳ 任賢齊Richie Jen [ 別怕 I'm here ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:166295808": {
+      "etag": "\"17w0evrhbogb7x\"",
+      "hash": "8e8127b5427e190aa3f5b015db1f4788e468c59ef27736dc7acb486d1ec06f92",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "3:44",
+          "id": "W8CQqHFo0KA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/W8CQqHFo0KA/mqdefault.jpg",
+          "title": "沒空理你"
+        },
+        {
+          "durationText": "2:32",
+          "id": "1rTs82RdT6I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1rTs82RdT6I/mqdefault.jpg",
+          "title": "黑白切"
+        },
+        {
+          "durationText": "2:49",
+          "id": "aHVRfIjy_q4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aHVRfIjy_q4/mqdefault.jpg",
+          "title": "隨便說說"
+        },
+        {
+          "durationText": "1:57",
+          "id": "8TR-1iGTVQk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8TR-1iGTVQk/mqdefault.jpg",
+          "title": "蕭邦 aka 鋼琴詩人"
+        },
+        {
+          "durationText": "2:22",
+          "id": "m6DRezUzniI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/m6DRezUzniI/mqdefault.jpg",
+          "title": "路"
+        },
+        {
+          "durationText": "3:16",
+          "id": "w86ROhbzBko",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/w86ROhbzBko/mqdefault.jpg",
+          "title": "尋找"
+        },
+        {
+          "durationText": "3:44",
+          "id": "yMZPhvuPycE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yMZPhvuPycE/mqdefault.jpg",
+          "title": "還記得"
+        },
+        {
+          "durationText": "3:41",
+          "id": "uxdsjtPQTFE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uxdsjtPQTFE/mqdefault.jpg",
+          "title": "憑什麼"
+        },
+        {
+          "durationText": "4:14",
+          "id": "obD0oFchHLo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/obD0oFchHLo/mqdefault.jpg",
+          "title": "Ray 黃霆睿 [ 來不及說再見 Too Late ] 奇蹟前導片主題曲 Official Music Video"
+        },
+        {
+          "durationText": "4:20",
+          "id": "kkDF65JxnzA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kkDF65JxnzA/mqdefault.jpg",
+          "title": "Ray 黃霆睿 [ 我們 Us ] Official Music Video（奇蹟前導片插曲）"
+        }
+      ]
+    },
+    "playlist:166295952": {
+      "etag": "\"hpxepos538a4k\"",
+      "hash": "ac0b8cc44d977bdc7cf455135301e0c38cb1af161f2cb0de098945df6bd7f5f7",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:16",
+          "id": "8gHOsp6SMj0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8gHOsp6SMj0/mqdefault.jpg",
+          "title": "故作完美"
+        }
+      ]
+    },
+    "playlist:166296075": {
+      "etag": "\"r76x5hdlcaa27\"",
+      "hash": "42d03bf4c523c78955f1948e43e0ce992d7380c8ad5b863f0e037b53e5efcd19",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:32",
+          "id": "lUFPZiSfWng",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lUFPZiSfWng/mqdefault.jpg",
+          "title": "魚丁糸 oaeen【我就奇怪 I’m weird】 Official Music Video 劇集《池塘怪談》主題曲"
+        }
+      ]
+    },
+    "playlist:166296497": {
+      "etag": "\"yx4tdurgov9xe\"",
+      "hash": "126e314b059fbee7d27fd72adbf52b489400f685a4133c01f344039ce55a05fb",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:47",
+          "id": "ac7Y0JD0zlY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ac7Y0JD0zlY/mqdefault.jpg",
+          "title": "琳誼 Ring feat. 許富凱 [ 愛情限時批 Express Love Letter ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:166620898": {
+      "etag": "\"7j76vifu3za2e\"",
+      "hash": "0c9354014c8641252b42f4b70c9fb62353997e3334db008b1080ce8df87c500a",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:40",
+          "id": "SeFZY8WFQe0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SeFZY8WFQe0/mqdefault.jpg",
+          "title": "韋禮安 WeiBird《忽然 Suddenly》Official Lyric Video"
+        }
+      ]
+    },
+    "playlist:166620923": {
+      "etag": "\"3zevgdxh52a24\"",
+      "hash": "e9e03c460cb4879efe2b9e85736a3f814c7e9d3f3d6c16267dd4d0b2dc8a354d",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:43",
+          "id": "uYLyTyUajrU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uYLyTyUajrU/mqdefault.jpg",
+          "title": "蔡健雅 Tanya Chua -《Bluebirds》Official MV"
+        }
+      ]
+    },
+    "playlist:166620948": {
+      "etag": "\"15c4of2wrq6a89\"",
+      "hash": "1e4f1089f83606797cd70ca4743f2aaabc5896c6f82338dc4831bb4a393ee540",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:42",
+          "id": "lhAvlkYlFc4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lhAvlkYlFc4/mqdefault.jpg",
+          "title": "美麗本人 李包比自傳feat. 簡道生 My Name is Dr. Beauty feat. DawsonC Official Music Video (ENG/CC)"
         }
       ]
     },
@@ -75267,7 +75492,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 180
+      "nextOffset": 468
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
