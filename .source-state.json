@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_jazz"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1981,6 +1980,402 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tiKFuzpX-NA/mqdefault.jpg",
           "title": "WOODZ 'Drowning' Live Clip"
+        }
+      ]
+    },
+    "playlist:161163849": {
+      "etag": "\"dd3hdoq2cza31\"",
+      "hash": "f285cfeb37032fc0edca26424295b3dc51448f2ae88c2c0c40ced11436d38ba4",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:30",
+          "id": "1a7V8zwbD8o",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1a7V8zwbD8o/mqdefault.jpg",
+          "title": "韋禮安 WeiBird《因為是你 Just Stay with Me》MV - 公視 / myVideo 原創影集「火神的眼淚」片頭曲"
+        }
+      ]
+    },
+    "playlist:161698816": {
+      "etag": "\"f88g383pmwbl8\"",
+      "hash": "00904ff22833667561971c43ef468e1c2c888f626414e81b5c3389f9785e7cbb",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "3:56",
+          "id": "XzCYgA_WYaE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XzCYgA_WYaE/mqdefault.jpg",
+          "title": "Are You Happy Now"
+        },
+        {
+          "durationText": "4:10",
+          "id": "gnmZOPDpghQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gnmZOPDpghQ/mqdefault.jpg",
+          "title": "First Dawn"
+        },
+        {
+          "durationText": "3:13",
+          "id": "Oypqd0xA_KQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Oypqd0xA_KQ/mqdefault.jpg",
+          "title": "陳勢安 Andrew Tan - 心之所往 Listen To Your Heart Official MV (109學年度HBL高中籃球甲級聯賽主題曲)"
+        },
+        {
+          "durationText": "3:26",
+          "id": "QW1liZmUjtk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QW1liZmUjtk/mqdefault.jpg",
+          "title": "Where Is The Love"
+        },
+        {
+          "durationText": "3:53",
+          "id": "RGth3zZjHsk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RGth3zZjHsk/mqdefault.jpg",
+          "title": "Go Home"
+        },
+        {
+          "durationText": "3:41",
+          "id": "9zLZ2SE28hY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9zLZ2SE28hY/mqdefault.jpg",
+          "title": "Shape of Loneliness"
+        },
+        {
+          "durationText": "3:42",
+          "id": "eGWdU5ciZw0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eGWdU5ciZw0/mqdefault.jpg",
+          "title": "The Only One I Wanna Know (\"Close to You\" LINE TV Incidental Music)"
+        },
+        {
+          "durationText": "4:40",
+          "id": "mB0J-fwyg50",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mB0J-fwyg50/mqdefault.jpg",
+          "title": "陳勢安 Andrew Tan - 我們都傷 Mutual Pain Official MV"
+        },
+        {
+          "durationText": "4:14",
+          "id": "Pkcxgdv8JD8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Pkcxgdv8JD8/mqdefault.jpg",
+          "title": "陳勢安 Andrew Tan - 遺失的靈魂 Lost Soul Official MV (《HIStory4-近距離愛上你》LINE TV 插曲)"
+        },
+        {
+          "durationText": "4:09",
+          "id": "zOqjc7ZSVHg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zOqjc7ZSVHg/mqdefault.jpg",
+          "title": "陳勢安 Andrew Tan - 兜轉 Round & Round Official MV (《HIStory4-近距離愛上你》LINE TV片頭曲)"
+        }
+      ]
+    },
+    "playlist:161699037": {
+      "etag": "\"91bfxg9q6qb0e\"",
+      "hash": "13ed4da58038f41c6ac048297c3ff937dff0f5cf607576d4e62d3ff9710d28d3",
+      "itemCount": 9,
+      "payload": [
+        {
+          "durationText": "2:41",
+          "id": "_c7UgUPLQWA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_c7UgUPLQWA/mqdefault.jpg",
+          "title": "Mama"
+        },
+        {
+          "durationText": "3:15",
+          "id": "17X31S5VQ7s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/17X31S5VQ7s/mqdefault.jpg",
+          "title": "天大地大"
+        },
+        {
+          "durationText": "2:52",
+          "id": "CCXbRZgvLf4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CCXbRZgvLf4/mqdefault.jpg",
+          "title": "No Regrets"
+        },
+        {
+          "durationText": "2:23",
+          "id": "jIhKkk8xK-c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jIhKkk8xK-c/mqdefault.jpg",
+          "title": "Dizzy Dizzo 蔡詩芸 ft. ØZI【WhatALife】Official Music Video"
+        },
+        {
+          "durationText": "3:11",
+          "id": "eB_NpkLoE38",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eB_NpkLoE38/mqdefault.jpg",
+          "title": "Dizzy Dizzo 蔡詩芸 ft. 高爾宣OSN【Tides】Official Music Video"
+        },
+        {
+          "durationText": "3:00",
+          "id": "_wXlhqP-8x4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_wXlhqP-8x4/mqdefault.jpg",
+          "title": "Dizzy Dizzo 蔡詩芸 ft. 瘦子E.SO【TrashTalk 】Official Music Video"
+        },
+        {
+          "durationText": "2:35",
+          "id": "dMygzQFa4s4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dMygzQFa4s4/mqdefault.jpg",
+          "title": "Dizzy Dizzo 蔡詩芸【Wifey】Official Music Video"
+        }
+      ]
+    },
+    "playlist:161699129": {
+      "etag": "\"16cym7q8swxa42\"",
+      "hash": "fd050ec7b13247bc930ca79325656f91395bf3663d0cd0d42f266403a6d60562",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:01",
+          "id": "gEhmvlpP9eE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gEhmvlpP9eE/mqdefault.jpg",
+          "title": "floaty shit"
+        }
+      ]
+    },
+    "playlist:161699155": {
+      "etag": "\"4jf22p0ghwacc\"",
+      "hash": "cb26b3f5bc3eacf89a9d8ab0d90cd8ebbe6bf68c6da3b7f794569f75d98d0626",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:32",
+          "id": "FS6WSTL_334",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FS6WSTL_334/mqdefault.jpg",
+          "title": "輕輕 (Enno Cheng Version) (feat. 鄭宜農, 王昱辰)"
+        },
+        {
+          "durationText": "4:35",
+          "id": "G40vokYG8Y4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/G40vokYG8Y4/mqdefault.jpg",
+          "title": "輕輕 (deca joins Version) (feat. deca joins)"
+        },
+        {
+          "durationText": "3:36",
+          "id": "9wE3E5BQOzc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9wE3E5BQOzc/mqdefault.jpg",
+          "title": "陳嫺靜 - 輕輕 (Official Visual)"
+        }
+      ]
+    },
+    "playlist:162064866": {
+      "etag": "\"jutp3go1n0ad7\"",
+      "hash": "d8d83e7488986d06d1f45fd1b98b666c2d989bc6b685a9a675bef9b420abbfaf",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "2:50",
+          "id": "yzX5dMWFXKs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yzX5dMWFXKs/mqdefault.jpg",
+          "title": "大淵MUTA【蘇菲阿姨 Auntie Sofy】歌詞版 Official Music Video"
+        },
+        {
+          "durationText": "2:44",
+          "id": "woG--WaBoVI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/woG--WaBoVI/mqdefault.jpg",
+          "title": "大淵MUTA ft. Tipsy【山山 SUNSHINE】Official Music Video(2K)"
+        },
+        {
+          "durationText": "3:04",
+          "id": "IfgyvmHgKX4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IfgyvmHgKX4/mqdefault.jpg",
+          "title": "大淵MUTA【FatBoyGang】Official Music Video"
+        }
+      ]
+    },
+    "playlist:162066374": {
+      "etag": "\"5wlh1zhusgazr\"",
+      "hash": "54b8484bd1828dd74a646bc9d9eab343b03dfc1fbd848a8d842224c6978f0547",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "3:56",
+          "id": "8m4sQIPy7sc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8m4sQIPy7sc/mqdefault.jpg",
+          "title": "Apple Republic"
+        },
+        {
+          "durationText": "4:22",
+          "id": "73eLYn1jVLg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/73eLYn1jVLg/mqdefault.jpg",
+          "title": "Taipei NewYork"
+        },
+        {
+          "durationText": "3:34",
+          "id": "RnPhRJ6vuP4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RnPhRJ6vuP4/mqdefault.jpg",
+          "title": "No More Monday Blues"
+        },
+        {
+          "durationText": "3:10",
+          "id": "jQOhDpbTxU0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jQOhDpbTxU0/mqdefault.jpg",
+          "title": "Baby Is So Bad"
+        },
+        {
+          "durationText": "3:32",
+          "id": "lYFZIOoPVEY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lYFZIOoPVEY/mqdefault.jpg",
+          "title": "Mr. Afternoon"
+        },
+        {
+          "durationText": "4:26",
+          "id": "VgZiH1R4Uzw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VgZiH1R4Uzw/mqdefault.jpg",
+          "title": "Keep Our Love Secret"
+        },
+        {
+          "durationText": "3:42",
+          "id": "3p52twAKVQQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3p52twAKVQQ/mqdefault.jpg",
+          "title": "See You Again Taipei"
+        },
+        {
+          "durationText": "4:23",
+          "id": "zQGiiIMqisQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zQGiiIMqisQ/mqdefault.jpg",
+          "title": "馬念先【台北紐約Taipei New York 】Official Music Video"
+        }
+      ]
+    },
+    "playlist:162066437": {
+      "etag": "\"rkj6dvnowja20\"",
+      "hash": "8f761c981a2dd3867c4d9ebb3dbba8c504e72b5e6f60ddb5cd94f9f0e080c51e",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:25",
+          "id": "tjJgpZY2qqY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tjJgpZY2qqY/mqdefault.jpg",
+          "title": "有毒不回"
         }
       ]
     },
@@ -76597,7 +76992,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1620
+      "nextOffset": 1908
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
