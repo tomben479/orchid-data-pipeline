@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_jazz"
     ]
   },
   "resources": {
@@ -1980,6 +1981,332 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tiKFuzpX-NA/mqdefault.jpg",
           "title": "WOODZ 'Drowning' Live Clip"
+        }
+      ]
+    },
+    "playlist:160315945": {
+      "etag": "\"ulf8ma64kx9hr\"",
+      "hash": "a2fca642e65633bf636329c27c7a825f564ce9500fe2930bb511c0e00d4b07b5",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:03",
+          "id": "NDDa_AV8cks",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NDDa_AV8cks/mqdefault.jpg",
+          "title": "頑童MJ116【Sweet Baby】Official Music Video(4K)"
+        }
+      ]
+    },
+    "playlist:160768097": {
+      "etag": "\"pz9l02324daml\"",
+      "hash": "03ec0d658e6f847144270cb9ee108844e496e9f46a3720138a99a1b2e4017149",
+      "itemCount": 9,
+      "payload": [
+        {
+          "durationText": "4:21",
+          "id": "nNEw8BtKU-E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nNEw8BtKU-E/mqdefault.jpg",
+          "title": "'九澤CP' 陳零九 Nine Chen 邱鋒澤 FENG ZE【陪在你身邊 By Your Side】Official Music Video"
+        },
+        {
+          "durationText": "3:24",
+          "id": "5epYuU0zdUM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5epYuU0zdUM/mqdefault.jpg",
+          "title": "'九澤CP' 陳零九 Nine Chen 邱鋒澤 FENG ZE【絕對發言 Only Truth】《終極狼人殺》App 2020主題曲 Official Music Video"
+        },
+        {
+          "durationText": "3:28",
+          "id": "98Q5ptSsC4o",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/98Q5ptSsC4o/mqdefault.jpg",
+          "title": "陳零九 Nine Chen feat. 邱鋒澤 FENG ZE【天亮請睜眼 Daylight】「終極狼人殺」遊戲主題曲 Official Music Video"
+        },
+        {
+          "durationText": "5:02",
+          "id": "VaAacrLk4gE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VaAacrLk4gE/mqdefault.jpg",
+          "title": "'九澤CP' 陳零九 Nine Chen 邱鋒澤 FENG ZE【天黑請閉眼 Werewolves】Official Music Video"
+        },
+        {
+          "durationText": "3:17",
+          "id": "GHE7hHwMj_E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GHE7hHwMj_E/mqdefault.jpg",
+          "title": "MONEY"
+        },
+        {
+          "durationText": "3:57",
+          "id": "-kjkegt0Rbk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-kjkegt0Rbk/mqdefault.jpg",
+          "title": "水火相容 (We Together)"
+        },
+        {
+          "durationText": "4:06",
+          "id": "YRrhsBZ1HwU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YRrhsBZ1HwU/mqdefault.jpg",
+          "title": "第四象限 (IV)"
+        }
+      ]
+    },
+    "playlist:160768179": {
+      "etag": "\"5zsg5k79mmbi7\"",
+      "hash": "7c22da1b62e0eee9b9e4e31f1f40f74052711879a0ce3f027db11d28b1c4174d",
+      "itemCount": 13,
+      "payload": [
+        {
+          "durationText": "4:15",
+          "id": "2BksMQNskjk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2BksMQNskjk/mqdefault.jpg",
+          "title": "2021彭佳慧 - 滿山的花"
+        },
+        {
+          "durationText": "4:15",
+          "id": "R4vAtPr8DH4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/R4vAtPr8DH4/mqdefault.jpg",
+          "title": "2021彭佳慧 - 永恆這事不好說"
+        },
+        {
+          "durationText": "4:40",
+          "id": "1ijPt01uBXQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1ijPt01uBXQ/mqdefault.jpg",
+          "title": "2021彭佳慧 - 可惜了"
+        },
+        {
+          "durationText": "4:55",
+          "id": "Ongx51MByQ8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ongx51MByQ8/mqdefault.jpg",
+          "title": "2021彭佳慧 - 無香之水"
+        },
+        {
+          "durationText": "3:40",
+          "id": "7k2AN_E74zA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7k2AN_E74zA/mqdefault.jpg",
+          "title": "2021彭佳慧 - 我先請"
+        },
+        {
+          "durationText": "3:15",
+          "id": "JFNXwRGmB0M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JFNXwRGmB0M/mqdefault.jpg",
+          "title": "2021彭佳慧 - 酒後真言"
+        },
+        {
+          "durationText": "4:00",
+          "id": "Qk2SL6WiJpc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Qk2SL6WiJpc/mqdefault.jpg",
+          "title": "2021彭佳慧 - 你是不是不愛我了"
+        },
+        {
+          "durationText": "3:25",
+          "id": "hW47EvkLv2s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hW47EvkLv2s/mqdefault.jpg",
+          "title": "2021彭佳慧 - 吃掉我"
+        },
+        {
+          "durationText": "3:50",
+          "id": "_C8SMVua4Xg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_C8SMVua4Xg/mqdefault.jpg",
+          "title": "2021彭佳慧 - 對面的我"
+        },
+        {
+          "durationText": "4:58",
+          "id": "L-8ZqmKlTxM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/L-8ZqmKlTxM/mqdefault.jpg",
+          "title": "彭佳慧 Julia Peng《說實話 Honesty》Official Music Video"
+        },
+        {
+          "durationText": "4:27",
+          "id": "nFWXxxWJeCs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nFWXxxWJeCs/mqdefault.jpg",
+          "title": "彭佳慧 Julia Peng《太難唱了 Delusions》Official Music Video"
+        }
+      ]
+    },
+    "playlist:160768348": {
+      "etag": "\"47ets5jh94ag9\"",
+      "hash": "fbecb073c8fdf0483f858f813a9b45ec1b3be21dd1b20aa1e0bb681d04316519",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "4:50",
+          "id": "WlsOD5NeGl8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WlsOD5NeGl8/mqdefault.jpg",
+          "title": "漂鳥"
+        },
+        {
+          "durationText": "4:47",
+          "id": "AQXRRPSXyaY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AQXRRPSXyaY/mqdefault.jpg",
+          "title": "以愛為名的傷害"
+        },
+        {
+          "durationText": "5:01",
+          "id": "-6Q7-JZu3lU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-6Q7-JZu3lU/mqdefault.jpg",
+          "title": "理想混蛋 雞丁【習慣不習慣 I Miss You】Official Music Video"
+        },
+        {
+          "durationText": "4:32",
+          "id": "6b1BogVMcRo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6b1BogVMcRo/mqdefault.jpg",
+          "title": "理想混蛋 雞丁【你留給我的遺憾無以名狀 Au Dessus de la Ville】Official Music Video"
+        }
+      ]
+    },
+    "playlist:160768406": {
+      "etag": "\"t6nlmsu0pta4f\"",
+      "hash": "8078908c6c24a6aa8372add2045760cdc11f12f716a8d1afcdd7ae9b3d2216c2",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:07",
+          "id": "tEVUwLdakRM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tEVUwLdakRM/mqdefault.jpg",
+          "title": "奶奶"
+        }
+      ]
+    },
+    "playlist:161161949": {
+      "etag": "\"zu842ax24fbip\"",
+      "hash": "6a4c28ff798b9f6e9d6b5c15e18f1c3b1c22bf6b5c1687bccd79df4abf5b26b8",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:35",
+          "id": "dhBXaUKEGSc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dhBXaUKEGSc/mqdefault.jpg",
+          "title": "Let Me Talk"
+        }
+      ]
+    },
+    "playlist:161162045": {
+      "etag": "\"biauduxx5fa1a\"",
+      "hash": "9ecb548f928f6189d7c00354b1d6eff37cdc8998809fb7d1114a92feaf1a7b98",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:14",
+          "id": "CyqQP0hDhV8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CyqQP0hDhV8/mqdefault.jpg",
+          "title": "HUSH [ 支線任務 Side Quest ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:161163825": {
+      "etag": "\"94x1hplvvl9jo\"",
+      "hash": "db0a972b356cacf49e585ae9feb193e4505d6950da06d5b645c94346ae1eccea",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:01",
+          "id": "gXma0KbQ2oQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gXma0KbQ2oQ/mqdefault.jpg",
+          "title": "TRASH《家 Home》Official Music Video"
         }
       ]
     },
@@ -71174,19 +71501,19 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_hiphop:0:12": {
-      "etag": "\"117szjcidsd6cj\"",
-      "hash": "e74ec9d04e4fcf288dbb0d8fc81216341d0da4669da3dd37ea4c2f8dbe94d3c9",
+      "etag": "\"dy090ee44m6mg\"",
+      "hash": "3fcc841814f6a703fd7e5e97c26aace79aabfd1f6dc54a041cbee73588a46472",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_lBGRuQnsG37Akr1CY4SxL0VWFbPrbO4gs",
           "kind": "playlist",
-          "subtitle": "153 首",
+          "subtitle": "86 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/NSZ26l3DIKE/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/5xsTqlB3jlE/mqdefault.jpg",
           "title": "On Everything"
         },
         {
@@ -71214,7 +71541,7 @@
         {
           "id": "RDCLAK5uy_n7QjhERM2Q4Ha5B6t6ZmzyhOtRYjQtxKk",
           "kind": "playlist",
-          "subtitle": "298 首",
+          "subtitle": "94 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -71225,7 +71552,7 @@
         {
           "id": "RDCLAK5uy_nN9WdsPpNl84-9vgYCnNssJyZ_Pgt25fU",
           "kind": "playlist",
-          "subtitle": "301 首",
+          "subtitle": "303 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -71236,12 +71563,12 @@
         {
           "id": "RDCLAK5uy_mLYA6tThqY-xoXY-sWXVLj5JjTMTjfzsg",
           "kind": "playlist",
-          "subtitle": "357 首",
+          "subtitle": "362 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/ipOSrQNrp1U/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/mdJaqO5_J1M/mqdefault.jpg",
           "title": "The ATL Update"
         },
         {
@@ -71269,14 +71596,14 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_hiphop:12:12": {
-      "etag": "\"17izrpsqt638ao\"",
-      "hash": "e1d76d28c487e899a4e2d147cb3699b2cfd0ed84f1ca8319423a9b3a5d117bcf",
+      "etag": "\"tz2rdh4d7a8b9\"",
+      "hash": "295cd64f0b706d0373987ce6907c81b96f519b1763e52ae4e3a60497ce561016",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_kyZ7N5lM0kUpn7NbydMRujcq4aTEesP9I",
           "kind": "playlist",
-          "subtitle": "97 首",
+          "subtitle": "96 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -71383,12 +71710,12 @@
         {
           "id": "RDCLAK5uy_lMXERBY0Uw6-9ZW1DVmMu8cicbwkkg15Q",
           "kind": "playlist",
-          "subtitle": "50 首",
+          "subtitle": "52 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/HSJETSHoweI/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/-HjNTjsbdS0/mqdefault.jpg",
           "title": "SAY NO MORE."
         },
         {
@@ -71399,7 +71726,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/TcR0ftRND_8/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/532kwvvHb50/mqdefault.jpg",
           "title": "英國最熱嘻哈歌單"
         }
       ]
@@ -71569,6 +71896,280 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/gXsmyDwkUno/mqdefault.jpg",
           "title": "香港搖滾樂"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_genre_jazz:0:12": {
+      "etag": "\"3pxdcgfwpg68g\"",
+      "hash": "fb45c6ee9763d80dec5886ee52d11f9fe005d3bdbc13795d40ee7d03dc90bed0",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_klnZmBbgmGFVrCYSZMceEHODgK9YHfIt4",
+          "kind": "playlist",
+          "subtitle": "97 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MDgN3hsbsHY/mqdefault.jpg",
+          "title": "最熱爵士樂"
+        },
+        {
+          "id": "RDCLAK5uy_kyZ7N5lM0kUpn7NbydMRujcq4aTEesP9I",
+          "kind": "playlist",
+          "subtitle": "96 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/I1O6Fg2-Stg/mqdefault.jpg",
+          "title": "嘻哈與爵士"
+        },
+        {
+          "id": "RDCLAK5uy_lz9sz8QrlhkrIzEXKrEQV-ulusmaZ00gM",
+          "kind": "playlist",
+          "subtitle": "48 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MubdXpjydqs/mqdefault.jpg",
+          "title": "電子爵士"
+        },
+        {
+          "id": "RDCLAK5uy_kCupgIqa_92SEiX5Hhyxe-4FaSNCmtsVk",
+          "kind": "playlist",
+          "subtitle": "60 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tSv04ylc6To/mqdefault.jpg",
+          "title": "英倫爵士"
+        },
+        {
+          "id": "RDCLAK5uy_nSsvl8hgvOKsBxXbN6Xf7F1RFsYsAkkWk",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kLUzdIFCBWY/mqdefault.jpg",
+          "title": "爵士流行歌"
+        },
+        {
+          "id": "RDCLAK5uy_n8797v38N8JhZdT2JJtlM0OfIpgkJ3Mkk",
+          "kind": "playlist",
+          "subtitle": "51 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/41yPtoPyGjU/mqdefault.jpg",
+          "title": "傳統爵士"
+        },
+        {
+          "id": "RDCLAK5uy_lwTt-Yggq0TtQrve4KjVppMiJJzpu-_-0",
+          "kind": "playlist",
+          "subtitle": "45 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Lu0qAOe5Te8/mqdefault.jpg",
+          "title": "傳統巴薩諾瓦"
+        },
+        {
+          "id": "RDCLAK5uy_l3Iir9QZmCUPLjUqyR9PmYIKkkY7YEJZA",
+          "kind": "playlist",
+          "subtitle": "77 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uOo5exkWk0c/mqdefault.jpg",
+          "title": "冷爵士樂"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_genre_jazz:12:12": {
+      "etag": "\"x9ufs1h8gs67e\"",
+      "hash": "570b680898a9522f8f8e310714fcb1d6a1069feb24336d18d2ef7c42e77d0210",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_kQmVjdr90p2onIIAnijgU8u9iUUAOXM2I",
+          "kind": "playlist",
+          "subtitle": "32 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SEZGNciuVco/mqdefault.jpg",
+          "title": "今日柔和爵士"
+        },
+        {
+          "id": "RDCLAK5uy_lDA1IUXJfnEH78l7lLI-CcD7pwXSuAyNY",
+          "kind": "playlist",
+          "subtitle": "79 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WVqkbOREswE/mqdefault.jpg",
+          "title": "拉丁爵士"
+        },
+        {
+          "id": "25103150",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ht2La_IhFvQ/mqdefault.jpg",
+          "title": "爵士慢步調"
+        },
+        {
+          "id": "25103141",
+          "kind": "playlist",
+          "subtitle": "21 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CWeXOm49kE0/mqdefault.jpg",
+          "title": "爵士不停歇"
+        },
+        {
+          "id": "25103154",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Web007rzSOI/mqdefault.jpg",
+          "title": "爵士女伶"
+        },
+        {
+          "id": "23769308",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/c5QfXjsoNe4/mqdefault.jpg",
+          "title": "沙灘上的燭光晚餐(西洋)"
+        },
+        {
+          "id": "23769315",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EG-A_qTAKEI/mqdefault.jpg",
+          "title": "米其林之夜(西洋)"
+        },
+        {
+          "id": "41099584",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1IDFtEvOMqc/mqdefault.jpg",
+          "title": "Jazz 2016"
+        },
+        {
+          "id": "26127494",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JgSETyVs5GM/mqdefault.jpg",
+          "title": "Coffee Table Jazz"
+        },
+        {
+          "id": "24010877",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UJkxFhFRFDA/mqdefault.jpg",
+          "title": "Pure... Jazz"
+        },
+        {
+          "id": "19368870",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QTMqes6HDqU/mqdefault.jpg",
+          "title": "Late Night Jazz"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_genre_jazz:24:12": {
+      "etag": "\"yth6394h0k2dq\"",
+      "hash": "ae761288df8001d30a6d347c81fb094428d183d91f01a1628bbd41b2bb7973cc",
+      "itemCount": 4,
+      "payload": [
+        {
+          "id": "18366397",
+          "kind": "playlist",
+          "subtitle": "18 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/16PKev5OAG0/mqdefault.jpg",
+          "title": "Most Popular Jazz Songs of the Month (201602)"
+        },
+        {
+          "id": "17411256",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NtQRBzSN9Vw/mqdefault.jpg",
+          "title": "Most Popular Jazz Songs of the Month (201601)"
+        },
+        {
+          "id": "16040221",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3TrSMaOZm3Y/mqdefault.jpg",
+          "title": "Most Popular Jazz Songs of the Month (201511)"
+        },
+        {
+          "id": "11602386",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BRfjKKw1A2M/mqdefault.jpg",
+          "title": "Most Popular Jazz Songs of the Month (201502)"
         }
       ]
     },
@@ -72016,8 +72617,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_never_go_out:0:12": {
-      "etag": "\"mbfz0imf0y70b\"",
-      "hash": "842ec4739ad137012236b426e8705215f2ced7725593002ca7f8a32fcb8dc4cb",
+      "etag": "\"kv2knyj3zk70b\"",
+      "hash": "2645c2633771becda0dc8774235128d993d110ad0c2680352c39df211790c4a2",
       "itemCount": 12,
       "payload": [
         {
@@ -72100,7 +72701,7 @@
         {
           "id": "RDCLAK5uy_lm8KUIhp8pW4nMyNBWLpTq1UsKdXgfQo4",
           "kind": "playlist",
-          "subtitle": "68 首",
+          "subtitle": "67 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -76990,9 +77591,9 @@
       "nextOffset": 0
     },
     "vector_latest_zh": {
-      "complete": false,
+      "complete": true,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1908
+      "nextOffset": 0
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
@@ -77011,12 +77612,17 @@
     },
     "vector_systemlist_zh_genre_hiphop": {
       "complete": true,
-      "lastCompletedAt": "2026-07-14T05:09:57Z",
+      "lastCompletedAt": "2026-07-21T15:53:11Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_hk": {
       "complete": true,
       "lastCompletedAt": "2026-07-14T05:09:56Z",
+      "nextOffset": 0
+    },
+    "vector_systemlist_zh_genre_jazz": {
+      "complete": true,
+      "lastCompletedAt": "2026-07-21T15:53:10Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_jpop": {
@@ -77031,7 +77637,7 @@
     },
     "vector_systemlist_zh_genre_never_go_out": {
       "complete": true,
-      "lastCompletedAt": "2026-07-13T16:43:38Z",
+      "lastCompletedAt": "2026-07-21T15:53:10Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_pop": {
