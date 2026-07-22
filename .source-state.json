@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_country"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1981,6 +1980,222 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tiKFuzpX-NA/mqdefault.jpg",
           "title": "WOODZ 'Drowning' Live Clip"
+        }
+      ]
+    },
+    "playlist:158180038": {
+      "etag": "\"2nxcrlibim89a\"",
+      "hash": "a751731deae47d0cffb91dde66a83132f850349e4f27c8db9630985d05297669",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:52",
+          "id": "xV8a3ccBj5Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xV8a3ccBj5Y/mqdefault.jpg",
+          "title": "Karencici - Do Do Do (Official Music Video)"
+        }
+      ]
+    },
+    "playlist:158180334": {
+      "etag": "\"a0ow9swkyha3f\"",
+      "hash": "bf7fd5b2f43fab727078cc83f4a95ac6cf543aeb9ea51de2075c7ae34994b2c5",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:39",
+          "id": "m-xUq4fwS90",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/m-xUq4fwS90/mqdefault.jpg",
+          "title": "那卡西"
+        }
+      ]
+    },
+    "playlist:158642946": {
+      "etag": "\"lju84nx7299yu\"",
+      "hash": "6c65fa4704921ff0c78d5dbf8f1a6494924b51fd0ba1ee98273b1649d9e4c0ff",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:04",
+          "id": "IfgyvmHgKX4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IfgyvmHgKX4/mqdefault.jpg",
+          "title": "大淵MUTA【FatBoyGang】Official Music Video"
+        }
+      ]
+    },
+    "playlist:158642994": {
+      "etag": "\"7j9h19g5bw9hr\"",
+      "hash": "0e9954a1376d8c0f4626e5b63c81d513f61a3bf9b5456837671d284e254aa234",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:51",
+          "id": "2GMz3JpHquE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2GMz3JpHquE/mqdefault.jpg",
+          "title": "HUR - 《NEED NO MORE》 MV"
+        }
+      ]
+    },
+    "playlist:158643010": {
+      "etag": "\"2ey6geya2gaq9\"",
+      "hash": "87007c006aa0af06b738615010054ff78a06c0e610048c540afa9a58d6268edd",
+      "itemCount": 11,
+      "payload": [
+        {
+          "durationText": "4:14",
+          "id": "hmXq5pQWcPQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hmXq5pQWcPQ/mqdefault.jpg",
+          "title": "N1 Dizparity Remix"
+        },
+        {
+          "durationText": "4:04",
+          "id": "wc6x0S2Own8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wc6x0S2Own8/mqdefault.jpg",
+          "title": "N1 煉丹小童 Remix"
+        },
+        {
+          "durationText": "4:16",
+          "id": "TIUdUc5R1l8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TIUdUc5R1l8/mqdefault.jpg",
+          "title": "kaseljangi 一起嘛"
+        },
+        {
+          "durationText": "3:00",
+          "id": "UUKxfOb70YE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UUKxfOb70YE/mqdefault.jpg",
+          "title": "Drangadrang 薛薛 【Life’s Pazangal 壓力山大】Official Music Video"
+        },
+        {
+          "durationText": "3:57",
+          "id": "qJcAY_vcr9I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qJcAY_vcr9I/mqdefault.jpg",
+          "title": "Arase 阿拉斯【 spi adringi na ico 夢人 】Official Music Video"
+        },
+        {
+          "durationText": "4:24",
+          "id": "rgyfGzdJLyI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rgyfGzdJLyI/mqdefault.jpg",
+          "title": "Kivi【 macidilj 自己 】Official Music Video"
+        },
+        {
+          "durationText": "4:31",
+          "id": "RVN1Hye6Qk8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RVN1Hye6Qk8/mqdefault.jpg",
+          "title": "Natsuko 夏子【 fu’is 星星歌 】Official Lyrics Video"
+        },
+        {
+          "durationText": "3:11",
+          "id": "vbBjDL5soaw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vbBjDL5soaw/mqdefault.jpg",
+          "title": "Dremedreman 曾妮【 ngadan 名字 】Official Music Video"
+        },
+        {
+          "durationText": "3:46",
+          "id": "iqU66VfCqkw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iqU66VfCqkw/mqdefault.jpg",
+          "title": "Makav 真愛【embiyax su hug 你好嗎】Official Music Video"
+        }
+      ]
+    },
+    "playlist:158643099": {
+      "etag": "\"141pxbkzis3a4l\"",
+      "hash": "df8a2f6a4b6c6ecc935b924cf6ec932b6a6143ed34553f32c1ae29521062809b",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:27",
+          "id": "8kiZEa4y6uw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8kiZEa4y6uw/mqdefault.jpg",
+          "title": "走建國路回家但後座少ㄌ泥"
+        }
+      ]
+    },
+    "playlist:159327465": {
+      "etag": "\"1en159h91na1h\"",
+      "hash": "b4a0aad2619df2c2f2d9ad5a8e87f414525d4d543201c263fb81332701ac7e91",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:37",
+          "id": "f56eHwC8jEQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/f56eHwC8jEQ/mqdefault.jpg",
+          "title": "Marz23 x 莫宰羊  -【最美的風景 Fight With The Demon】Official Music Video"
+        }
+      ]
+    },
+    "playlist:159327483": {
+      "etag": "\"gftb7a8738a9q\"",
+      "hash": "f0067844774c93e494c604ccdb6ac974c6bb24e1032f5b91ddbd74a10ca01b78",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "6:24",
+          "id": "3HsIaWuNeX0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3HsIaWuNeX0/mqdefault.jpg",
+          "title": "動力火車 Power Station [ 我很好騙 Love Me True ] Official Music Video"
         }
       ]
     },
@@ -76302,30 +76517,30 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:0:12": {
-      "etag": "\"tqx461t8ry76p\"",
-      "hash": "ab094c5205ea3b9876908937d72aa24bb727f22678c0599aa552bf34932b1a21",
+      "etag": "\"j54a7j5awj76p\"",
+      "hash": "17b01f333f5249b5e9287ff20ef922a6dd3729dd7774eaeadd575121eaf567f1",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_k83Q0BJ_yGLX2nTNKxOXb3BP3Pb7uMIN0",
           "kind": "playlist",
-          "subtitle": "28 首",
+          "subtitle": "81 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/AncmH6AYFqc/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/Pu0EuDitVQs/mqdefault.jpg",
           "title": "古典樂助你入睡"
         },
         {
           "id": "RDCLAK5uy_k8GvsGbBT2D5lvGqOc6gAitzrcWVvecYI",
           "kind": "playlist",
-          "subtitle": "59 首",
+          "subtitle": "33 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/E5yHKx_liYs/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/NT1aFEDdAQU/mqdefault.jpg",
           "title": "慢搖"
         },
         {
@@ -76353,18 +76568,18 @@
         {
           "id": "RDCLAK5uy_lakC34Al6Kd5kidN8Bq0jpdnGUpIw2ctQ",
           "kind": "playlist",
-          "subtitle": "58 首",
+          "subtitle": "92 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/YAtV3BDRu5Y/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/hCdTdbDEzlc/mqdefault.jpg",
           "title": "夢境"
         },
         {
           "id": "RDCLAK5uy_m7ysrTGIqzCcexgkVTEekkSw9tmJgw3nM",
           "kind": "playlist",
-          "subtitle": "70 首",
+          "subtitle": "28 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -76386,23 +76601,23 @@
         {
           "id": "RDCLAK5uy_ngY0Zg-BcF081qMSWi95ivcqWoVlLRun0",
           "kind": "playlist",
-          "subtitle": "25 首",
+          "subtitle": "55 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/0MUKTaWP6Tg/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/rbIkVInKae8/mqdefault.jpg",
           "title": "小朋友的入睡時間到啦"
         },
         {
           "id": "RDCLAK5uy_n2cq0PxECLzVblC6NOorWjaCtF5NwXJT4",
           "kind": "playlist",
-          "subtitle": "31 首",
+          "subtitle": "63 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/h9G1kh4ola4/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/fqPWwLBq1M8/mqdefault.jpg",
           "title": "助眠爵士"
         },
         {
@@ -77772,8 +77987,8 @@
       ]
     },
     "vector:vector_systemlist_zh_top_charts:0:12": {
-      "etag": "\"gnter2md806ox\"",
-      "hash": "48e170273b96cac501f79613af40e999e3ef11dd829742aac7f1b8489753f8df",
+      "etag": "\"t3muw6kz4c6ox\"",
+      "hash": "95e302abbcbc50d7b683f2c27ee31a1278d3157c18af871f133993746671c0dc",
       "itemCount": 10,
       "payload": [
         {
@@ -77790,18 +78005,18 @@
         {
           "id": "18731187",
           "kind": "playlist",
-          "subtitle": "81 首",
+          "subtitle": "78 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/omRez5-bIpY/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/kCA93dLzKP4/mqdefault.jpg",
           "title": "最新熱門單曲"
         },
         {
           "id": "10088896",
           "kind": "playlist",
-          "subtitle": "43 首",
+          "subtitle": "44 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -77839,18 +78054,18 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/YjPMupS1Lg4/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/l2jvIuTp534/mqdefault.jpg",
           "title": "日語本周熱門"
         },
         {
           "id": "18731188",
           "kind": "playlist",
-          "subtitle": "26 首",
+          "subtitle": "25 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/YjPMupS1Lg4/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/l2jvIuTp534/mqdefault.jpg",
           "title": "日語最新熱門單曲"
         },
         {
@@ -77897,9 +78112,9 @@
       "nextOffset": 0
     },
     "vector_latest_zh": {
-      "complete": true,
+      "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 0
+      "nextOffset": 216
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
@@ -77978,7 +78193,7 @@
     },
     "vector_systemlist_zh_mood_sleep": {
       "complete": true,
-      "lastCompletedAt": "2026-07-19T21:07:13Z",
+      "lastCompletedAt": "2026-07-22T05:28:57Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_travel": {
@@ -77988,7 +78203,7 @@
     },
     "vector_systemlist_zh_top_charts": {
       "complete": true,
-      "lastCompletedAt": "2026-07-14T09:08:01Z",
+      "lastCompletedAt": "2026-07-22T05:28:57Z",
       "nextOffset": 0
     }
   }
