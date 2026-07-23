@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_relax"
     ]
   },
   "resources": {
@@ -1980,6 +1981,202 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tiKFuzpX-NA/mqdefault.jpg",
           "title": "WOODZ 'Drowning' Live Clip"
+        }
+      ]
+    },
+    "playlist:154425982": {
+      "etag": "\"b3o4c1wg6y9rh\"",
+      "hash": "069a781b0d2f6ce1692f12cfc40162d0d255be614e24a5644f27d2d3088f6f50",
+      "itemCount": 9,
+      "payload": [
+        {
+          "durationText": "3:16",
+          "id": "fbyxjjK31j0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fbyxjjK31j0/mqdefault.jpg",
+          "title": "I really wanna see u now"
+        },
+        {
+          "durationText": "2:51",
+          "id": "S9WX1noYkC0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/S9WX1noYkC0/mqdefault.jpg",
+          "title": "木曜4超玩 (同名主題曲)"
+        },
+        {
+          "durationText": "3:57",
+          "id": "n7t6XyT_VR8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/n7t6XyT_VR8/mqdefault.jpg",
+          "title": "哥哥呀哥哥"
+        },
+        {
+          "durationText": "4:21",
+          "id": "MJjVimHnvRw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MJjVimHnvRw/mqdefault.jpg",
+          "title": "記得自己長得很可愛_live版"
+        },
+        {
+          "durationText": "3:25",
+          "id": "9SHJoLi5GDE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9SHJoLi5GDE/mqdefault.jpg",
+          "title": "蛤歌"
+        },
+        {
+          "durationText": "3:11",
+          "id": "EAFMAEFR82s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EAFMAEFR82s/mqdefault.jpg",
+          "title": "免睡殿"
+        },
+        {
+          "durationText": "3:59",
+          "id": "1ryrCK-JdWA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1ryrCK-JdWA/mqdefault.jpg",
+          "title": "《Bring you to life》Official Live Music Video 邰智源 X KID林柏昇 X 坤達 X 溫妮 X 泱泱 X 阿部瑪利亞 X Namewee黃明志"
+        }
+      ]
+    },
+    "playlist:154426069": {
+      "etag": "\"4fvp19wsl0a4h\"",
+      "hash": "927dfa785e3cbeb2fd5b0e90d0645bf0a179f4b0999134642f26f6f8846129c9",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:21",
+          "id": "UX7oP6HJlwI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UX7oP6HJlwI/mqdefault.jpg",
+          "title": "René劉若英 [ 黃金年代 As Time Goes By ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:154426099": {
+      "etag": "\"uwi4s3o6la5k\"",
+      "hash": "d9028030f74ec670355eff9cbf7354a4aa18d77cd9f191bd0aecc8f3e74af93c",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:34",
+          "id": "oZEW9sznNxo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oZEW9sznNxo/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen -【My Love is Selfish】Official MV"
+        }
+      ]
+    },
+    "playlist:154917202": {
+      "etag": "\"zv13oav7a9a3m\"",
+      "hash": "886ccd7908517ebfa3d95969677fb2f8ac675a478efa2caa8918b70140e42747",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:33",
+          "id": "EIrKX29kPbQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EIrKX29kPbQ/mqdefault.jpg",
+          "title": "蕭敬騰〈不完美的我〉MV｜電影《跟你老婆去旅行》電影主題曲"
+        }
+      ]
+    },
+    "playlist:154917211": {
+      "etag": "\"wsn7pifadd952\"",
+      "hash": "2a6d65ea9a0d14dfcc2798c6e06eedd7754a1c27b03d25682f89ce601265feba",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:07",
+          "id": "JW52KtyGMBI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JW52KtyGMBI/mqdefault.jpg",
+          "title": "G.E.M.鄧紫棋【平行世界 Parallel】MV （電影《刺殺小說家》主題曲)"
+        }
+      ]
+    },
+    "playlist:154917215": {
+      "etag": "\"jxq9ic4mne8z4\"",
+      "hash": "5bbfba0c5ada532a027e4162db9998c875d001b3731750bdb301c42da6a9159d",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:22",
+          "id": "EM1Vgi4cTD4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EM1Vgi4cTD4/mqdefault.jpg",
+          "title": "艾薇Ivy 〈甘蔗掰掰〉Official Music Video"
+        }
+      ]
+    },
+    "playlist:154917222": {
+      "etag": "\"lbut0bqvjpa0y\"",
+      "hash": "4047dad4b0d93fe8e87f7e002d3b995850ff95a91c84c41d2c4bc61ea22d14c4",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:07",
+          "id": "lCRX7MvuRkE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lCRX7MvuRkE/mqdefault.jpg",
+          "title": "理想混蛋 Bestards【我要用黑魔法把你變成一隻魚 Piscifors】360° 5K Music Video"
+        }
+      ]
+    },
+    "playlist:155398670": {
+      "etag": "\"ffkcmsjurja8d\"",
+      "hash": "a24c0b417945d2c0fa4d31d31ecdeb566714d133544b19d77f294956a148b7c4",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:21",
+          "id": "NGdX2CAR6Ng",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NGdX2CAR6Ng/mqdefault.jpg",
+          "title": "HAVE A NICE DAY"
         }
       ]
     },
@@ -78742,7 +78939,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1080
+      "nextOffset": 1368
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
