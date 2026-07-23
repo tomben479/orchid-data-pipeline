@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_relax"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1477,6 +1476,187 @@
         }
       ]
     },
+    "playlist:152185811": {
+      "etag": "\"z2rmfrps7a8vs\"",
+      "hash": "c8042b24f42d19c431954bf50cd29f9df3038c02cca36cfbc76968879de7148f",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "3:55",
+          "id": "j5mZHRC50eY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/j5mZHRC50eY/mqdefault.jpg",
+          "title": "鍾明軒『當我說真話的時候我感到自由』 I feel free when I’m saying the truth』official music video"
+        },
+        {
+          "durationText": "3:44",
+          "id": "jl7224xs9Uw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jl7224xs9Uw/mqdefault.jpg",
+          "title": "鍾明軒 《LADIES & GENTLEMEN》Official Music Video"
+        }
+      ]
+    },
+    "playlist:152185873": {
+      "etag": "\"4gusi5kqj5b5w\"",
+      "hash": "c58df15e7dbc732aeda6d1b300ecaa706d281619125c3de6ebfad282752fccfb",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "4:44",
+          "id": "5xE8pC14nIQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5xE8pC14nIQ/mqdefault.jpg",
+          "title": "When I Miss You"
+        },
+        {
+          "durationText": "4:25",
+          "id": "zshe8uGBRwQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zshe8uGBRwQ/mqdefault.jpg",
+          "title": "Stubborn"
+        },
+        {
+          "durationText": "5:01",
+          "id": "XahvyiyfWW8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XahvyiyfWW8/mqdefault.jpg",
+          "title": "Welcome to My Heart"
+        },
+        {
+          "durationText": "5:15",
+          "id": "erynOe4FcUY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/erynOe4FcUY/mqdefault.jpg",
+          "title": "Good Enough"
+        },
+        {
+          "durationText": "4:00",
+          "id": "oss_aTvhPiE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oss_aTvhPiE/mqdefault.jpg",
+          "title": "Today I want"
+        },
+        {
+          "durationText": "4:36",
+          "id": "CdrWA-wKvwo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CdrWA-wKvwo/mqdefault.jpg",
+          "title": "The Real Me"
+        },
+        {
+          "durationText": "5:07",
+          "id": "Gj65gZFA_DE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Gj65gZFA_DE/mqdefault.jpg",
+          "title": "Tomorrow Never Dies"
+        },
+        {
+          "durationText": "3:41",
+          "id": "BjrPNxQ5ezU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BjrPNxQ5ezU/mqdefault.jpg",
+          "title": "朱俐靜 Miu Chu《昨天的自己 Step to the Future》Official Music Video"
+        }
+      ]
+    },
+    "playlist:152187143": {
+      "etag": "\"ur7qpuaprfagw\"",
+      "hash": "38b53e537be15810db8f1066afa587db2f6255e7287a7b052a2127e7d6354416",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "3:52",
+          "id": "FDsQeScHEbM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FDsQeScHEbM/mqdefault.jpg",
+          "title": "我們美好過"
+        },
+        {
+          "durationText": "3:23",
+          "id": "IUSohi4WyNI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IUSohi4WyNI/mqdefault.jpg",
+          "title": "邱鋒澤 FENG ZE 『飯隨愛人』' LOVER ' OFFICIAL MV"
+        },
+        {
+          "durationText": "4:13",
+          "id": "pUeKFFe__Hg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pUeKFFe__Hg/mqdefault.jpg",
+          "title": "邱鋒澤 FENG ZE 【你的好人】'Guardian Angel ' OFFICIAL MV"
+        },
+        {
+          "durationText": "3:11",
+          "id": "3z3NYsy8Uvs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3z3NYsy8Uvs/mqdefault.jpg",
+          "title": "邱鋒澤 FENG ZE 【SHINING STAR】OFFICIAL MV"
+        },
+        {
+          "durationText": "4:26",
+          "id": "WuObkFL9ims",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WuObkFL9ims/mqdefault.jpg",
+          "title": "邱鋒澤FENG ZE X 黃偉晉 Wayne【潛台詞 UNSPOKEN】Official MV"
+        },
+        {
+          "durationText": "4:01",
+          "id": "0IWdoXl6piY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0IWdoXl6piY/mqdefault.jpg",
+          "title": "邱鋒澤 FENG ZE『日環食Eclipse 』M/V"
+        }
+      ]
+    },
     "playlist:15296535": {
       "etag": "\"g919943f8hj3u\"",
       "hash": "be136733d18cb50b110b6a3665f250d95c4ae4cf5968a0ff8205f259e2609492",
@@ -1981,6 +2161,91 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tiKFuzpX-NA/mqdefault.jpg",
           "title": "WOODZ 'Drowning' Live Clip"
+        }
+      ]
+    },
+    "playlist:153866991": {
+      "etag": "\"sxuheuuzqa45\"",
+      "hash": "ac356673fac4b0dcce7b2a24d0de74fbaef775457c50254d4579f82f3864a910",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:33",
+          "id": "IqEbBNavkH4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IqEbBNavkH4/mqdefault.jpg",
+          "title": "餘額"
+        }
+      ]
+    },
+    "playlist:153867040": {
+      "etag": "\"48l61d0b82a2v\"",
+      "hash": "0daae3d4e80fb2e88b83b34e0f8fa6489b2193b6de02103881531bc4ea16bd0f",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:07",
+          "id": "2oZr3uv_ddc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2oZr3uv_ddc/mqdefault.jpg",
+          "title": "Bu$Y & Ye!!ow , Paper Jim - 【戀曲2020 LOVE SONG 2020】Chapter 1 (Official Music Video)"
+        }
+      ]
+    },
+    "playlist:153867110": {
+      "etag": "\"2ctp8i2maza3v\"",
+      "hash": "498bcf3831970705975b9aeec905dc6aa7515ba852098fbd369ebee501ec058f",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:46",
+          "id": "sW53pwHgaQ0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sW53pwHgaQ0/mqdefault.jpg",
+          "title": "鄧福如 AFÜ -〈漢堡包 W/ BABY〉Official Music Video"
+        }
+      ]
+    },
+    "playlist:153867117": {
+      "etag": "\"rp7c32svo6adg\"",
+      "hash": "d0cc31bb3648ff56eb515bc92a433ac801953b54f853bda6d61302ed543db2b5",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:46",
+          "id": "wBScjyf6qns",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wBScjyf6qns/mqdefault.jpg",
+          "title": "美秀集團 Amazing Show－馬克吐溫 Mark Twain【Official Music Video】"
+        }
+      ]
+    },
+    "playlist:154425931": {
+      "etag": "\"y1qo7y9p3na7m\"",
+      "hash": "cf7b45c749f1cc181369bb660e1cd82ad11bb321eb1d84f637825819e21b3d16",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:07",
+          "id": "aZ8ZyjiULEU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aZ8ZyjiULEU/mqdefault.jpg",
+          "title": "ChihSiou 持修 [ 用破碎的心修好破碎的心 ] Official Music Video"
         }
       ]
     },
@@ -78939,7 +79204,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1368
+      "nextOffset": 1656
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
