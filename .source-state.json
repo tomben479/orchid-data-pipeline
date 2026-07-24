@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "12e4a8fe70861af543759669d5ccbb5b810434237797e5bdb33c68c94bcc0d7a",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_soundtrack"
     ]
   },
   "resources": {
@@ -1473,6 +1474,232 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:150511635": {
+      "etag": "\"10fjphlhowy92m\"",
+      "hash": "9974399f4b4fdd3202b93e6d103721b9fe9d68c9f0e0382f59ce8d549943bb14",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:42",
+          "id": "dZlT8K_Woo0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dZlT8K_Woo0/mqdefault.jpg",
+          "title": "艾薇Ivy 〈失重前幸福〉Official Music Video"
+        }
+      ]
+    },
+    "playlist:150511661": {
+      "etag": "\"uwz5v9fy4sadt\"",
+      "hash": "665d9a23fbed06a00adb4c21ccf719454044a4715b71cda8cd3863e1246ef677",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:27",
+          "id": "7MrtgAXwwGI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7MrtgAXwwGI/mqdefault.jpg",
+          "title": "運氣來得若有似無"
+        }
+      ]
+    },
+    "playlist:150511676": {
+      "etag": "\"utblcizzo3aa7\"",
+      "hash": "a5da5c8fc38fa2bae4bf563eb6c1948f5422753fea9e17b79bd8fed3407d5c59",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:18",
+          "id": "LPAgJCGtQGc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LPAgJCGtQGc/mqdefault.jpg",
+          "title": "蕭敬騰 Jam Hsiao《薩哈星球 SA-HAH》Official Music Video"
+        }
+      ]
+    },
+    "playlist:150933824": {
+      "etag": "\"s49t50aqj8a2c\"",
+      "hash": "347b8374f8ad4e11ced95a4b06595b753ff35cdba993c061836a6cb7ec53d722",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "4:09",
+          "id": "jRClUOLOnxU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jRClUOLOnxU/mqdefault.jpg",
+          "title": "那我先 (Me First) feat. 呂士軒 Trout Fresh"
+        },
+        {
+          "durationText": "3:09",
+          "id": "eoXEhleIOmo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eoXEhleIOmo/mqdefault.jpg",
+          "title": "於是呢 (And Then?)"
+        },
+        {
+          "durationText": "2:48",
+          "id": "D2Y6dLa3xsI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/D2Y6dLa3xsI/mqdefault.jpg",
+          "title": "啦哩邋遢 (LA-LI-LA-TA)"
+        },
+        {
+          "durationText": "4:01",
+          "id": "x1ampoDcp0Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/x1ampoDcp0Y/mqdefault.jpg",
+          "title": "深夜電影 (Midnight Movie)"
+        },
+        {
+          "durationText": "4:25",
+          "id": "I1tDtYNW6DM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/I1tDtYNW6DM/mqdefault.jpg",
+          "title": "查無此曲 (Empty Track)"
+        },
+        {
+          "durationText": "3:03",
+          "id": "kd3iB4xP3zA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kd3iB4xP3zA/mqdefault.jpg",
+          "title": "孫盛希 Shi Shi【Give It To Me】Official Music Video(4K)"
+        },
+        {
+          "durationText": "4:43",
+          "id": "Iych7EG9lDk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Iych7EG9lDk/mqdefault.jpg",
+          "title": "一分之二 (Two of One) feat. HUSH"
+        },
+        {
+          "durationText": "4:17",
+          "id": "Hfkh8HnmBr4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Hfkh8HnmBr4/mqdefault.jpg",
+          "title": "潛伏期 (Infected)"
+        },
+        {
+          "durationText": "4:29",
+          "id": "RIQg9ihmfb4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RIQg9ihmfb4/mqdefault.jpg",
+          "title": "不要讓我後悔 (Realer Love) feat. sunkis"
+        },
+        {
+          "durationText": "3:15",
+          "id": "P1FeVAQbcNc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/P1FeVAQbcNc/mqdefault.jpg",
+          "title": "孫盛希 Shi Shi【還不夠 Not Enough】Official Music Video(4K)"
+        }
+      ]
+    },
+    "playlist:150933998": {
+      "etag": "\"20mhwguzrza6r\"",
+      "hash": "a9df02e922dd508f355ec15665d5c3e07d11785e7ea3c85d726a0d454227fb80",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:14",
+          "id": "_VCoz2_w13g",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_VCoz2_w13g/mqdefault.jpg",
+          "title": "明年 (Let Go)"
+        }
+      ]
+    },
+    "playlist:150934021": {
+      "etag": "\"dtexdxh3w59jk\"",
+      "hash": "8d8d44b0acad16bcdb74148b99d33d913e4b7974eab4d08eb73ff4740eae61c9",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:22",
+          "id": "FkRIDAvJ57A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FkRIDAvJ57A/mqdefault.jpg",
+          "title": "deca joins｜午夜的消亡 【Official Video】"
+        }
+      ]
+    },
+    "playlist:150934074": {
+      "etag": "\"124w8vx77sqa7y\"",
+      "hash": "e51d06872653696c330d2022b9529fc8d3f57af7e09bcbff13acb4e09373dc43",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:25",
+          "id": "AIpkgVX-_Sk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AIpkgVX-_Sk/mqdefault.jpg",
+          "title": "韋禮安Weibird - 請你嫁給我 (HBO Asia原創影集《戒指流浪記》片頭曲)"
+        }
+      ]
+    },
+    "playlist:151449074": {
+      "etag": "\"wofbm0z1vea9u\"",
+      "hash": "f39efa966f3aefe663a2af17e9d3e1709da71850d01c27a1cc36d5f8349a4fd7",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:20",
+          "id": "t7CT4Tg1wOg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/t7CT4Tg1wOg/mqdefault.jpg",
+          "title": "Fortunate (HBO Asia Original Series \"Adventure of the Ring\" Theme Song)"
         }
       ]
     },
@@ -76335,9 +76562,605 @@
         }
       ]
     },
+    "vector:vector_systemlist_zh_genre_soundtrack:0:12": {
+      "etag": "\"39xs3exovl7j3\"",
+      "hash": "f729baeb3deabcd3bc6ee42a1561e1b8a03c35a202fc2b65dc7923ed8cce89b3",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_mRcc2Y3l-RoZsDt27qu8CBGpKt-5w7v8g",
+          "kind": "playlist",
+          "subtitle": "218 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LmZD-TU96q4/mqdefault.jpg",
+          "title": "最熱日本動漫歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_kSZ85qHgyyqQCKkCtrjbA3m8Am7GfOTcQ",
+          "kind": "playlist",
+          "subtitle": "136 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yebNIHKAC4A/mqdefault.jpg",
+          "title": "韓劇OST"
+        },
+        {
+          "id": "RDCLAK5uy_lhPxRcfvxKaj3JOusRY7QEdchpKAfpFG4",
+          "kind": "playlist",
+          "subtitle": "52 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EAkmG-VH_O4/mqdefault.jpg",
+          "title": "經典恐怖電影場景"
+        },
+        {
+          "id": "RDCLAK5uy_nVAgnKAgNHbzsW72pZn25ymgiZpbZzBz8",
+          "kind": "playlist",
+          "subtitle": "62 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-DSVDcw6iW8/mqdefault.jpg",
+          "title": "恬靜音樂"
+        },
+        {
+          "id": "RDCLAK5uy_lwuEBboC99qPJNGXs0Um80VvHYNtxSTFg",
+          "kind": "playlist",
+          "subtitle": "96 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ur-yovkgg3E/mqdefault.jpg",
+          "title": "史詩般電影主題"
+        },
+        {
+          "id": "RDCLAK5uy_kRRqnSpfrRZ9OJyTB2IE5WsAqYluG0uYo",
+          "kind": "playlist",
+          "subtitle": "80 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AvDZV6ooreo/mqdefault.jpg",
+          "title": "韓劇熱門歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_n_YC6IpxbSTLHSPM7k_Popa4N1RUYuivU",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sn-06qX_5ig/mqdefault.jpg",
+          "title": "百老匯音樂"
+        },
+        {
+          "id": "RDCLAK5uy_nwGVTzraBvAR-wPGHBPeqp4Qb139ns16Y",
+          "kind": "playlist",
+          "subtitle": "95 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3OM7oi79hd4/mqdefault.jpg",
+          "title": "21世紀迪士尼歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_nixo3rhrzllo_TPCR0bOGV_Sw-dZdkuHU",
+          "kind": "playlist",
+          "subtitle": "67 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/J6YlaeACE4E/mqdefault.jpg",
+          "title": "熱門影視原聲"
+        },
+        {
+          "id": "43864899",
+          "kind": "playlist",
+          "subtitle": "135 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aE0eV2YR51k/mqdefault.jpg",
+          "title": "瘋韓劇"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_genre_soundtrack:12:12": {
+      "etag": "\"acpd6l4tvv5sw\"",
+      "hash": "e2b321403adbc309d6671034be0ca0d86fae5938fd897aee3a9da9f4fd64f2cb",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "43796817",
+          "kind": "playlist",
+          "subtitle": "500 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Fvo7jsu9ZFY/mqdefault.jpg",
+          "title": "瘋日劇"
+        },
+        {
+          "id": "43884456",
+          "kind": "playlist",
+          "subtitle": "480 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rgSPsOmeRc8/mqdefault.jpg",
+          "title": "瘋台劇"
+        },
+        {
+          "id": "44174891",
+          "kind": "playlist",
+          "subtitle": "380 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eraOhezY23s/mqdefault.jpg",
+          "title": "瘋電影"
+        },
+        {
+          "id": "43884457",
+          "kind": "playlist",
+          "subtitle": "480 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dXl1f11g88w/mqdefault.jpg",
+          "title": "瘋影集"
+        },
+        {
+          "id": "28241244",
+          "kind": "playlist",
+          "subtitle": "28 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RyrYgCvxBUg/mqdefault.jpg",
+          "title": "迪士尼"
+        },
+        {
+          "id": "28241234",
+          "kind": "playlist",
+          "subtitle": "28 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NHlgRF71h80/mqdefault.jpg",
+          "title": "宮崎駿"
+        },
+        {
+          "id": "24064891",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-s4_FsuOvG4/mqdefault.jpg",
+          "title": "聚精會神"
+        },
+        {
+          "id": "28417784",
+          "kind": "playlist",
+          "subtitle": "26 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nD_CCyHVqdI/mqdefault.jpg",
+          "title": "Passengers Soundtrack"
+        },
+        {
+          "id": "28148604",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rcruBy7iU_w/mqdefault.jpg",
+          "title": "Office Christmas Party Soundtrack"
+        },
+        {
+          "id": "27980532",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/irw9e9SpL-I/mqdefault.jpg",
+          "title": "I Am Bolt Soundtrack"
+        },
+        {
+          "id": "27815516",
+          "kind": "playlist",
+          "subtitle": "57 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LOwVQvAIK-k/mqdefault.jpg",
+          "title": "Moana Soundtrack"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_genre_soundtrack:24:12": {
+      "etag": "\"rt0nql770x6wn\"",
+      "hash": "99162eaa2362205aed2bc86bec6c65184edad429a9bb62664fd6d48caddb15a5",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "27013637",
+          "kind": "playlist",
+          "subtitle": "18 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wwwQ4uVGGSE/mqdefault.jpg",
+          "title": "Before the Flood (Music from the Motion Picture)"
+        },
+        {
+          "id": "26687340",
+          "kind": "playlist",
+          "subtitle": "7 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UQKjBzU4ocs/mqdefault.jpg",
+          "title": "The Rocky Horror Picture Show: Let's Do the Time Warp Again"
+        },
+        {
+          "id": "26304725",
+          "kind": "playlist",
+          "subtitle": "23 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xthZFaH-u80/mqdefault.jpg",
+          "title": "Luke Cage Soundtrack"
+        },
+        {
+          "id": "25785298",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ru0K8uYEZWw/mqdefault.jpg",
+          "title": "Trolls Soundtrack"
+        },
+        {
+          "id": "23147564",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cAQSZhazYk8/mqdefault.jpg",
+          "title": "Ghostbusters Soundtrack"
+        },
+        {
+          "id": "20951360",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CxBt9X2fIfc/mqdefault.jpg",
+          "title": "Captain America: Civil War Soundtrack"
+        },
+        {
+          "id": "20552625",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xdRVkj5EIjU/mqdefault.jpg",
+          "title": "10 Cloverfield Lane Soundtrack"
+        },
+        {
+          "id": "19953177",
+          "kind": "playlist",
+          "subtitle": "22 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yaTWWe0o91U/mqdefault.jpg",
+          "title": "Zootopia Soundtrack"
+        },
+        {
+          "id": "19840155",
+          "kind": "playlist",
+          "subtitle": "18 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3JThPsJvEDg/mqdefault.jpg",
+          "title": "Batman v Superman: Dawn of Justice Soundtrack"
+        },
+        {
+          "id": "19116839",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mTTbOpXqAz4/mqdefault.jpg",
+          "title": "The Danish Girl Soundtrack"
+        },
+        {
+          "id": "18886149",
+          "kind": "playlist",
+          "subtitle": "21 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4vaN01VLYSQ/mqdefault.jpg",
+          "title": "Deadpool Soundtrack"
+        },
+        {
+          "id": "17937057",
+          "kind": "playlist",
+          "subtitle": "23 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kC90iP5EHCM/mqdefault.jpg",
+          "title": "The Big Short Soundtrack"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_genre_soundtrack:36:12": {
+      "etag": "\"12drhibcf4l6a9\"",
+      "hash": "b7d80a2b8be05b0469837a8c1a4594df9d1c476eb246cf7aece47be557fec92a",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "17360237",
+          "kind": "playlist",
+          "subtitle": "7 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YT-tFOXdwSI/mqdefault.jpg",
+          "title": "The Hateful Eight Soundtrack"
+        },
+        {
+          "id": "16741708",
+          "kind": "playlist",
+          "subtitle": "6 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4yT6Wb3yGFA/mqdefault.jpg",
+          "title": "必娶女人 電視原聲帶"
+        },
+        {
+          "id": "14612299",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/79GYT84VEE4/mqdefault.jpg",
+          "title": "暑期華語電影歌曲懶人包"
+        },
+        {
+          "id": "14612617",
+          "kind": "playlist",
+          "subtitle": "42 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5GhkvO0bsSE/mqdefault.jpg",
+          "title": "我的少女時代電影原聲帶"
+        },
+        {
+          "id": "14466294",
+          "kind": "playlist",
+          "subtitle": "4 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WhtQh2CLzSI/mqdefault.jpg",
+          "title": "「落跑吧 愛情」電影原聲帶"
+        },
+        {
+          "id": "14075377",
+          "kind": "playlist",
+          "subtitle": "5 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qP5ZtXyi6Ns/mqdefault.jpg",
+          "title": "花千骨電視原聲帶"
+        },
+        {
+          "id": "13578341",
+          "kind": "playlist",
+          "subtitle": "2 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5zInnnSAn1s/mqdefault.jpg",
+          "title": "電視劇《盜墓筆記》原聲帶"
+        },
+        {
+          "id": "12313098",
+          "kind": "playlist",
+          "subtitle": "8 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TGNzhRjzqr0/mqdefault.jpg",
+          "title": "聽見幸福電視原聲帶"
+        },
+        {
+          "id": "11584458",
+          "kind": "playlist",
+          "subtitle": "6 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2DtWZqqUvaU/mqdefault.jpg",
+          "title": "我的寶貝四千金 電視原聲帶"
+        },
+        {
+          "id": "11524901",
+          "kind": "playlist",
+          "subtitle": "2 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/juplR0zhJaU/mqdefault.jpg",
+          "title": "極光之愛電影原聲情書"
+        },
+        {
+          "id": "11534316",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uIWypArI73w/mqdefault.jpg",
+          "title": "一首歌代表一部電影：電影裡的經典歌曲"
+        },
+        {
+          "id": "16086870",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JxPj3GAYYZ0/mqdefault.jpg",
+          "title": "90' Movie Soundtrack"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_genre_soundtrack:48:12": {
+      "etag": "\"15buupda16q3gu\"",
+      "hash": "d141932e049ef4a2971b1e05aa3cf5572e068f1a4f2fa5dcc28cd2f9812d2416",
+      "itemCount": 6,
+      "payload": [
+        {
+          "id": "16615244",
+          "kind": "playlist",
+          "subtitle": "22 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aXM4eIoPZUU/mqdefault.jpg",
+          "title": "From \"Goldfinger\" to \"Skyfall\""
+        },
+        {
+          "id": "14398991",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/u8FYRibMm9s/mqdefault.jpg",
+          "title": "Mission: Impossible - Rogue Nation Soundtrack"
+        },
+        {
+          "id": "14137460",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yBkxm7XVrRs/mqdefault.jpg",
+          "title": "My Pocket Soundtracks"
+        },
+        {
+          "id": "13979601",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PyCuwSkdLEM/mqdefault.jpg",
+          "title": "Paper Towns Soundtrack"
+        },
+        {
+          "id": "13844338",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rS3xfwcdIOk/mqdefault.jpg",
+          "title": "Magic Mike XXL Soundtrack"
+        },
+        {
+          "id": "11602762",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ECRRRcXycjI/mqdefault.jpg",
+          "title": "Fifty Shades of Grey Soundtrack"
+        }
+      ]
+    },
     "vector:vector_systemlist_zh_mood_good_mood:0:12": {
-      "etag": "\"svlcgu3mh85qb\"",
-      "hash": "33795fda8c45f0ac4df2856575ac35cb5c7767321a99d378730fc1700fbe2fbc",
+      "etag": "\"ipwovo7j775qb\"",
+      "hash": "1b3900f18cb1b942a714995228082521837457973ccb32eaf70662cfe2be1ac2",
       "itemCount": 9,
       "payload": [
         {
@@ -76365,7 +77188,7 @@
         {
           "id": "RDCLAK5uy_npkiQvDU863KxBgX_eaYo-LCIuM3qZtqo",
           "kind": "playlist",
-          "subtitle": "142 首",
+          "subtitle": "128 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -76431,8 +77254,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_party:0:12": {
-      "etag": "\"60exw1j4h4749\"",
-      "hash": "a3fa7638c9c90e620035508a024b13e03a90c6eb7623a9d14825b34e58faad7e",
+      "etag": "\"rcmxj1107c749\"",
+      "hash": "4b79cb2f9753efee05192c05e848c95dba4a799b35f3720be7ec058afefdf9f5",
       "itemCount": 12,
       "payload": [
         {
@@ -76443,7 +77266,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/GEk4jHwfFTA/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/27C4pfRsf9g/mqdefault.jpg",
           "title": "K-Pop 派對熱門歌曲"
         },
         {
@@ -76471,7 +77294,7 @@
         {
           "id": "RDCLAK5uy_kwJTdGJj4KpaItCZogif_xkH69VyeERKw",
           "kind": "playlist",
-          "subtitle": "131 首",
+          "subtitle": "128 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -76493,7 +77316,7 @@
         {
           "id": "RDCLAK5uy_n4PuqfjXs63tz7E3lEs2av_rSBmuJqf-k",
           "kind": "playlist",
-          "subtitle": "89 首",
+          "subtitle": "84 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -79838,14 +80661,19 @@
       "lastCompletedAt": "2026-07-23T21:28:33Z",
       "nextOffset": 0
     },
+    "vector_systemlist_zh_genre_soundtrack": {
+      "complete": true,
+      "lastCompletedAt": "2026-07-24T05:30:03Z",
+      "nextOffset": 0
+    },
     "vector_systemlist_zh_mood_good_mood": {
       "complete": true,
-      "lastCompletedAt": "2026-07-23T21:28:35Z",
+      "lastCompletedAt": "2026-07-24T05:30:03Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_party": {
       "complete": true,
-      "lastCompletedAt": "2026-07-21T21:32:42Z",
+      "lastCompletedAt": "2026-07-24T05:30:05Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_romance": {
