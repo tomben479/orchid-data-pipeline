@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_relax"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1474,6 +1473,252 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:144788141": {
+      "etag": "\"14ckghzc4lh836\"",
+      "hash": "d525b814344435d9acd60a3d25729c9576de445cbd239eeb70ebdb9e0b5decb0",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:17",
+          "id": "F_ftEjOi7-o",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/F_ftEjOi7-o/mqdefault.jpg",
+          "title": "ChihSiou 持修 [ 還有沒有愛 ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:144788162": {
+      "etag": "\"7p9quky4zu9m2\"",
+      "hash": "50f66bee7fd0329546df2b652e018c559fd7f0456eb9c478139c590cc208d367",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:02",
+          "id": "hgotFWqe_H8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hgotFWqe_H8/mqdefault.jpg",
+          "title": "〈HAHA〉華興-周湯豪Nickthereal/婁峻碩SHOU/蛋頭BG8LOCC/禁藥王/Sowut Official Music Video"
+        }
+      ]
+    },
+    "playlist:144788218": {
+      "etag": "\"b35zz6x29a9yp\"",
+      "hash": "3bbd303e173f32f404a9f06868894d1dfb8ca776f89b1887fb8583d7af07725b",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:08",
+          "id": "1jgLpAPbciM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1jgLpAPbciM/mqdefault.jpg",
+          "title": "文慧如 Boon Hui Lu [ Messed Up ](ft.邱鋒澤 FENG ZE) Official Music Video"
+        }
+      ]
+    },
+    "playlist:145295541": {
+      "etag": "\"151at1zm3pa76\"",
+      "hash": "01fad1358d9b89ce928ef7e9ae3b421f0d2e648cb2a8abd96d8e09c5f3a39639",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:17",
+          "id": "kb0whVogBkI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kb0whVogBkI/mqdefault.jpg",
+          "title": "Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020"
+        }
+      ]
+    },
+    "playlist:145295616": {
+      "etag": "\"uznt4zzcfmade\"",
+      "hash": "b837cca2a464e5fbbb807fd0a8d5e9727a633d899f3c00398d31c4b28eb665ae",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:54",
+          "id": "OBIm_LdGndo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OBIm_LdGndo/mqdefault.jpg",
+          "title": "G.E.M.鄧紫棋【孤獨 Loneliness】(Official Audio)"
+        }
+      ]
+    },
+    "playlist:145295664": {
+      "etag": "\"gb25rv2wji886\"",
+      "hash": "a1052c7ccc53d0c5a3d3256ba2e6e02ee94535b20bbea5aa3742b51d851119b1",
+      "itemCount": 14,
+      "payload": [
+        {
+          "durationText": "1:51",
+          "id": "XsG5sewoQ7c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XsG5sewoQ7c/mqdefault.jpg",
+          "title": "INTERLUDE"
+        },
+        {
+          "durationText": "3:42",
+          "id": "36oGJIKLIEM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/36oGJIKLIEM/mqdefault.jpg",
+          "title": "愚公移山"
+        },
+        {
+          "durationText": "4:32",
+          "id": "1shbxcz5NlA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1shbxcz5NlA/mqdefault.jpg",
+          "title": "loVSer"
+        },
+        {
+          "durationText": "3:09",
+          "id": "AbQH1c7EeAE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AbQH1c7EeAE/mqdefault.jpg",
+          "title": "搖籃曲"
+        },
+        {
+          "durationText": "3:00",
+          "id": "wTN75BeBFQs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wTN75BeBFQs/mqdefault.jpg",
+          "title": "四不像"
+        },
+        {
+          "durationText": "4:31",
+          "id": "PDQm6EhGDtc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PDQm6EhGDtc/mqdefault.jpg",
+          "title": "八字不合"
+        },
+        {
+          "durationText": "3:45",
+          "id": "A7avSjRicCE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/A7avSjRicCE/mqdefault.jpg",
+          "title": "餵食秀"
+        },
+        {
+          "durationText": "4:06",
+          "id": "SIbLqbLvkRU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SIbLqbLvkRU/mqdefault.jpg",
+          "title": "如果這首是遺言"
+        },
+        {
+          "durationText": "4:52",
+          "id": "a3wjEBfUBIc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/a3wjEBfUBIc/mqdefault.jpg",
+          "title": "稀有品種"
+        },
+        {
+          "durationText": "3:30",
+          "id": "AsOgbM2qnfU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AsOgbM2qnfU/mqdefault.jpg",
+          "title": "麋先生MIXER【接著 Then 】Official Music Video"
+        },
+        {
+          "durationText": "4:30",
+          "id": "ARHTI3G_sk4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ARHTI3G_sk4/mqdefault.jpg",
+          "title": "麋先生MIXER【廢廢Veg Out】Official Music Video / 公視迷你劇集《大債時代》片尾曲"
+        },
+        {
+          "durationText": "4:59",
+          "id": "1OPl-jhic4k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1OPl-jhic4k/mqdefault.jpg",
+          "title": "麋先生MIXER【嗜愛動物Loveholic】是愛版 Official Music Video"
+        }
+      ]
+    },
+    "playlist:145295859": {
+      "etag": "\"mo57kosh6ma5x\"",
+      "hash": "b554de92806d77e7f7f1d19d97930123b6b6e9c5d7ee4c2e88cca90aa7f19eb4",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:54",
+          "id": "TFcd1KERBv0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TFcd1KERBv0/mqdefault.jpg",
+          "title": "任家萱 Selina Ren《四季 All year round 》Official Music Video"
+        }
+      ]
+    },
+    "playlist:145798947": {
+      "etag": "\"goj37b92mh9m8\"",
+      "hash": "63a106a8dbc256e2ec8489b67410d1bbcee7c93e78c5b3c866e9010e80c82fa8",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:08",
+          "id": "uW0ag9ajpsI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uW0ag9ajpsI/mqdefault.jpg",
+          "title": "楊丞琳 Rainie Yang -〈女孩們 GIRLS〉(feat. 王心凌 Cyndi Wang) Official HD MV"
         }
       ]
     },
@@ -82033,7 +82278,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1152
+      "nextOffset": 1440
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
