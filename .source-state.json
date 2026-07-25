@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_relax"
     ]
   },
   "resources": {
@@ -1473,6 +1474,262 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:145798966": {
+      "etag": "\"aafkh37dl9ai8\"",
+      "hash": "4688d5b6b77d6ad1a21302250ad0809072d66b2546b977735ead84ccf0362e55",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "6:13",
+          "id": "mNQwhIx_0CM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mNQwhIx_0CM/mqdefault.jpg",
+          "title": "林俊傑 JJ Lin《交換餘生 No Turning Back》Official Music Video"
+        },
+        {
+          "durationText": "5:26",
+          "id": "yKKwyLdhwbU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yKKwyLdhwbU/mqdefault.jpg",
+          "title": "林俊傑 JJ Lin《倖存者 Drifter》Official Music Video"
+        }
+      ]
+    },
+    "playlist:145799709": {
+      "etag": "\"me6cxc9g1sak0\"",
+      "hash": "b49f5d254e329492f9dc7c61ba7a57c73c308f903f257d543762fff494503b0f",
+      "itemCount": 9,
+      "payload": [
+        {
+          "durationText": "4:25",
+          "id": "7_oAVAKZsyc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7_oAVAKZsyc/mqdefault.jpg",
+          "title": "吳青峰〈低低星垂〉Official Lyric Video"
+        },
+        {
+          "durationText": "3:35",
+          "id": "3TWnpeFg_wo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3TWnpeFg_wo/mqdefault.jpg",
+          "title": "吳青峰〈穿牆人〉Official Lyric Video"
+        },
+        {
+          "durationText": "2:45",
+          "id": "VUcHG43p_2Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VUcHG43p_2Y/mqdefault.jpg",
+          "title": "吳青峰〈我會我會〉Official Lyric Video"
+        },
+        {
+          "durationText": "5:39",
+          "id": "9wNkBJpzpZQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9wNkBJpzpZQ/mqdefault.jpg",
+          "title": "吳青峰〈阿茲海默〉Official Lyric Video"
+        },
+        {
+          "durationText": "5:18",
+          "id": "2cX7SzDSA5o",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2cX7SzDSA5o/mqdefault.jpg",
+          "title": "吳青峰〈費洛蒙小姐〉Official MV"
+        },
+        {
+          "durationText": "5:14",
+          "id": "qjSsdOoMhcY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qjSsdOoMhcY/mqdefault.jpg",
+          "title": "吳青峰〈柔軟〉Official Lyric Video"
+        },
+        {
+          "durationText": "4:41",
+          "id": "5sbFn-FPdAk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5sbFn-FPdAk/mqdefault.jpg",
+          "title": "吳青峰〈最難的是相遇〉Official MV"
+        }
+      ]
+    },
+    "playlist:145799824": {
+      "etag": "\"h2jet1wbmda8o\"",
+      "hash": "8696ce8543dcd044a7e407dcb1771c8fb090bc2e5057a5e1d94a0324173863d6",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:10",
+          "id": "JlGqXdJz1T4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JlGqXdJz1T4/mqdefault.jpg",
+          "title": "周湯豪 NICKTHEREAL〈FUTURE IN YOUR EYES〉Official Music Video"
+        }
+      ]
+    },
+    "playlist:146330211": {
+      "etag": "\"17x3cyazwu6a6v\"",
+      "hash": "c151b1f8e05b17149ce3612d23a4883c339e9bcda91530e9da29ed4b9ff83580",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:30",
+          "id": "V3itv1XpnOk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/V3itv1XpnOk/mqdefault.jpg",
+          "title": "別再想見我"
+        }
+      ]
+    },
+    "playlist:146330254": {
+      "etag": "\"hv62gf4r95acd\"",
+      "hash": "fa0e7be117b530869d2fadb5e69d770f02e48ffd08d4790a9145eea5cc058714",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "4:08",
+          "id": "KCzTRvMFSVM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KCzTRvMFSVM/mqdefault.jpg",
+          "title": "閻奕格 Janice Yan [ Please don't cry ] Official Dance Video"
+        },
+        {
+          "durationText": "4:03",
+          "id": "xA7mzBOQsWA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xA7mzBOQsWA/mqdefault.jpg",
+          "title": "閻奕格 Janice Yan [ 分就分了 Just let it go ] Official Music Video"
+        },
+        {
+          "durationText": "4:44",
+          "id": "AEcOtkpKkHg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AEcOtkpKkHg/mqdefault.jpg",
+          "title": "閻奕格 Janice Yan [ 少了一件牛仔褲 Where are my jeans? ] Official Music Video(三立華劇【跟鯊魚接吻】片尾曲)"
+        },
+        {
+          "durationText": "3:06",
+          "id": "XVSD9DCeldk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XVSD9DCeldk/mqdefault.jpg",
+          "title": "閻奕格 Janice Yan [ 從此過著幸福快樂的日子 Happily ever after ](feat. J.Sheon) Official Music Video"
+        },
+        {
+          "durationText": "3:14",
+          "id": "KvwY9DN7LxY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KvwY9DN7LxY/mqdefault.jpg",
+          "title": "閻奕格 Janice Yan [ 愛上現在的我 Right , now! ](feat. 高爾宣 OSN) Official Music Video"
+        },
+        {
+          "durationText": "4:29",
+          "id": "tAqbRXUCdDE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tAqbRXUCdDE/mqdefault.jpg",
+          "title": "閻奕格 Janice Yan [ Let everything happen ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:146331421": {
+      "etag": "\"4ae7quqivcaau\"",
+      "hash": "c7f420189870e8027bc372a6900892ad96f7c3e09bb23f5f3e0af727919834f6",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:13",
+          "id": "vaWmoDYEJjc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vaWmoDYEJjc/mqdefault.jpg",
+          "title": "李友廷 Yo Lee [ 誰 One Who Will (Find Me) ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:146332488": {
+      "etag": "\"15uf2g1pad1a9p\"",
+      "hash": "3a89c2918deedac348d05ce39100deeed86a10721200a9db3ab27431b3de4b22",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:33",
+          "id": "r0FpAnqsti0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/r0FpAnqsti0/mqdefault.jpg",
+          "title": "許含光 Lumi [ 安森Girl ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:146844907": {
+      "etag": "\"pxtpixeb5ya30\"",
+      "hash": "c385e2891ee13805d9e6b2b2c3e3be75c9fc1cb1b70c8dba7b6abf01b7f6fb1b",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:37",
+          "id": "wcYstYvQGbU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wcYstYvQGbU/mqdefault.jpg",
+          "title": "動力火車 Power Station [ 跳上車子離開傷心的台北 Let bygones be bygones ] Official Music Video"
         }
       ]
     },
@@ -81776,7 +82033,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 864
+      "nextOffset": 1152
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
