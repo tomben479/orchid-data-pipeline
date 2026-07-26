@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_country"
     ]
   },
   "resources": {
@@ -1473,6 +1474,262 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:141874670": {
+      "etag": "\"aqw34bvbgsaxf\"",
+      "hash": "cbbf2931d86f39650af61c1bc9a6fca86d3ab5ce0d03c4276b3a45d79dacd6de",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:28",
+          "id": "uZtXXPr0MaY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uZtXXPr0MaY/mqdefault.jpg",
+          "title": "Vivian Hsu 徐若瑄《再見錯的人 Goodbye》Official Music Video"
+        }
+      ]
+    },
+    "playlist:141874681": {
+      "etag": "\"4nye49ttaaaf9\"",
+      "hash": "53ae3b951134b10352787ce3151499c8cde7a716048b6381fa4bf01f5c284825",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:51",
+          "id": "PLKl85x8etc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PLKl85x8etc/mqdefault.jpg",
+          "title": "像是一顆星星"
+        }
+      ]
+    },
+    "playlist:141874698": {
+      "etag": "\"hynefdzqnha8p\"",
+      "hash": "22e36d7c8bd8493d026292262575a8a2332f7da029f9f15240aaaf7395229f38",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:48",
+          "id": "qdI05V6M25s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qdI05V6M25s/mqdefault.jpg",
+          "title": "4AM CALLS - Kimberley Chen 陳芳語｜Official Music Video"
+        }
+      ]
+    },
+    "playlist:141874743": {
+      "etag": "\"9ahcj8ue359yj\"",
+      "hash": "4289f0c62c9ec097aaf302ac7c42fd292b6cc5c085b650b6dd0518f44ca5d86c",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:43",
+          "id": "m78lJuzftcc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/m78lJuzftcc/mqdefault.jpg",
+          "title": "盧廣仲 Crowd Lu 【刻在我心底的名字 Your Name Engraved Herein】 Official Music Video  （刻在你心底的名字電影主題曲）"
+        }
+      ]
+    },
+    "playlist:142332991": {
+      "etag": "\"1r24exodza8ny\"",
+      "hash": "51cb1a74c8299b860414f6396d6d0ace1dc071102a1540d196452f24782700c5",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:08",
+          "id": "LpFyeofOgI0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LpFyeofOgI0/mqdefault.jpg",
+          "title": "告五人 Accusefive  [ 新世界 kacauan ] feat.阿爆 ABAO Official Music Video"
+        }
+      ]
+    },
+    "playlist:142333027": {
+      "etag": "\"qvpxt70bmtbd1\"",
+      "hash": "4378a201538e09f89b778c1f4b68c9b81ffe725b3c1e4df8ba20a8c065fb2624",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "3:02",
+          "id": "XfHK5tKQ5AM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XfHK5tKQ5AM/mqdefault.jpg",
+          "title": "愛的嫌疑人"
+        },
+        {
+          "durationText": "3:56",
+          "id": "Gaub3aveq8s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Gaub3aveq8s/mqdefault.jpg",
+          "title": "Why Are We Here"
+        },
+        {
+          "durationText": "3:44",
+          "id": "mBZ7x9rY-nE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mBZ7x9rY-nE/mqdefault.jpg",
+          "title": "假裝快樂"
+        },
+        {
+          "durationText": "3:32",
+          "id": "ZHP7PnBvmrE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZHP7PnBvmrE/mqdefault.jpg",
+          "title": "其實你是小偷"
+        },
+        {
+          "durationText": "3:13",
+          "id": "8jWlrMxs6uE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8jWlrMxs6uE/mqdefault.jpg",
+          "title": "MASTERPIECE"
+        },
+        {
+          "durationText": "4:01",
+          "id": "Bz0pvha5lmA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Bz0pvha5lmA/mqdefault.jpg",
+          "title": "拜託你聰明點"
+        },
+        {
+          "durationText": "3:20",
+          "id": "VsQPNPQjNmU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VsQPNPQjNmU/mqdefault.jpg",
+          "title": "關詩敏 Sharon Kwan feat. Karencici 《 別弄花我的妝 Don't Ruin My Makeup 》 Official Music Video"
+        },
+        {
+          "durationText": "2:54",
+          "id": "ARpUg_tb_Yw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ARpUg_tb_Yw/mqdefault.jpg",
+          "title": "關詩敏 Sharon Kwan《別再問我怎麼辦 You Asked for It》Official Music Video"
+        }
+      ]
+    },
+    "playlist:142333210": {
+      "etag": "\"c9r20svre1a5k\"",
+      "hash": "b68505b5f8fc6c695b519eecb51196b1c52b35e1ecfd0cd25095a7589d2368eb",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:26",
+          "id": "QJFJ_hS5IZs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QJFJ_hS5IZs/mqdefault.jpg",
+          "title": "J.Sheon - LOVE IS DEAD 愛已死 (Official Music Video)"
+        }
+      ]
+    },
+    "playlist:142333239": {
+      "etag": "\"18b1w3veigfb31\"",
+      "hash": "c65aaa75cd1729026ad3fd2bb7e377ecf55c1d4bcdd82bf9635523065cc63174",
+      "itemCount": 9,
+      "payload": [
+        {
+          "durationText": "4:53",
+          "id": "tz6Ow5_LCAQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tz6Ow5_LCAQ/mqdefault.jpg",
+          "title": "Shang Mei Li De Qing Ge"
+        },
+        {
+          "durationText": "3:41",
+          "id": "kDkYEoEqTl8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kDkYEoEqTl8/mqdefault.jpg",
+          "title": "Ou Er Tou Lan"
+        },
+        {
+          "durationText": "4:15",
+          "id": "KWrLXrmkcr8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KWrLXrmkcr8/mqdefault.jpg",
+          "title": "Lulu 黃路梓茵 -〈搬家〉Official Music Video"
+        },
+        {
+          "durationText": "4:57",
+          "id": "lfDeaytbbko",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lfDeaytbbko/mqdefault.jpg",
+          "title": "Yi Hao Biao Qing"
+        },
+        {
+          "durationText": "4:16",
+          "id": "0JCpSdi6gf4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0JCpSdi6gf4/mqdefault.jpg",
+          "title": "Lulu 黃路梓茵 -〈讓我們在一起吧〉Official Music Video"
+        },
+        {
+          "durationText": "4:08",
+          "id": "nbxLDgRWWEE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nbxLDgRWWEE/mqdefault.jpg",
+          "title": "Lulu 黃路梓茵 -《巴豆痛》Official Music Video"
         }
       ]
     },
@@ -75583,8 +75840,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_electronic_dance:0:12": {
-      "etag": "\"owoibiceou6nq\"",
-      "hash": "d61de87eea977ddd13f25b6146724828af34e03a5f453f0d52ba2dd892a37b26",
+      "etag": "\"67ac6wvzpx6d5\"",
+      "hash": "76e52dbe44025b7a7299a20a4d6853bce2129f270171054364263f7fb520f54b",
       "itemCount": 12,
       "payload": [
         {
@@ -75667,7 +75924,7 @@
         {
           "id": "RDCLAK5uy_nMYjrmCLs_0l1aOCNB3ij7tAlqbjrSe9A",
           "kind": "playlist",
-          "subtitle": "102 首",
+          "subtitle": "67 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -75678,8 +75935,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_electronic_dance:12:12": {
-      "etag": "\"15e7oo2u0hj6xv\"",
-      "hash": "0f4238c68cd17833ffd660d9e6ec5a155611b63d5a4d6ba35b327457862da5ae",
+      "etag": "\"z6otwy4rw96xv\"",
+      "hash": "7f14bd77094e3d511c007f68be898c62e333544ed850a9e8010d4b9656586fe4",
       "itemCount": 12,
       "payload": [
         {
@@ -75718,7 +75975,7 @@
         {
           "id": "RDCLAK5uy_mPolD_J22gS1SKxufARWcTZd1UrAH_0ZI",
           "kind": "playlist",
-          "subtitle": "128 首",
+          "subtitle": "167 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -75740,7 +75997,7 @@
         {
           "id": "RDCLAK5uy_khFJzdpmtk0_MaUuWNgqYbNamuGV623kk",
           "kind": "playlist",
-          "subtitle": "96 首",
+          "subtitle": "54 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -76212,8 +76469,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_hiphop:0:12": {
-      "etag": "\"dy090ee44m6mg\"",
-      "hash": "3fcc841814f6a703fd7e5e97c26aace79aabfd1f6dc54a041cbee73588a46472",
+      "etag": "\"9xuupdlx316n1\"",
+      "hash": "5ba6d8a1f78b61a5ec9d29e3c72679dbb4fdfe4e9841f57b20e05c043b1f47ce",
       "itemCount": 12,
       "payload": [
         {
@@ -76230,7 +76487,7 @@
         {
           "id": "RDCLAK5uy_kw2wIlEv9llILhO0qoMTLsBBhmjzuibAc",
           "kind": "playlist",
-          "subtitle": "271 首",
+          "subtitle": "273 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -76252,7 +76509,7 @@
         {
           "id": "RDCLAK5uy_n7QjhERM2Q4Ha5B6t6ZmzyhOtRYjQtxKk",
           "kind": "playlist",
-          "subtitle": "94 首",
+          "subtitle": "82 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -76263,7 +76520,7 @@
         {
           "id": "RDCLAK5uy_nN9WdsPpNl84-9vgYCnNssJyZ_Pgt25fU",
           "kind": "playlist",
-          "subtitle": "303 首",
+          "subtitle": "305 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -76307,8 +76564,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_hiphop:12:12": {
-      "etag": "\"tz2rdh4d7a8b9\"",
-      "hash": "295cd64f0b706d0373987ce6907c81b96f519b1763e52ae4e3a60497ce561016",
+      "etag": "\"10yx92e7fbn8ao\"",
+      "hash": "9cd8157ff199138806037c9f0285876f82d2e27e40e6675d0cc44a4015649d1f",
       "itemCount": 12,
       "payload": [
         {
@@ -76377,7 +76634,7 @@
         {
           "id": "RDCLAK5uy_nw_HsAh4RUoqLazzpalfWycO3BItUjEmY",
           "kind": "playlist",
-          "subtitle": "58 首",
+          "subtitle": "54 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -76421,7 +76678,7 @@
         {
           "id": "RDCLAK5uy_lMXERBY0Uw6-9ZW1DVmMu8cicbwkkg15Q",
           "kind": "playlist",
-          "subtitle": "52 首",
+          "subtitle": "45 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -76432,12 +76689,12 @@
         {
           "id": "RDCLAK5uy_miUZvgsFyAog8xtjdFBCnM3EGJcG5ZRUk",
           "kind": "playlist",
-          "subtitle": "53 首",
+          "subtitle": "51 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/532kwvvHb50/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/C1RtERuFJvo/mqdefault.jpg",
           "title": "英國最熱嘻哈歌單"
         }
       ]
@@ -78257,8 +78514,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_rock:0:12": {
-      "etag": "\"313d4pyh2j6bp\"",
-      "hash": "f491e64aa9ed699566fc0710b7d3f722c09d3a820cb7b2064c0567e5e2acc0bf",
+      "etag": "\"ulpnhe7fpq6lo\"",
+      "hash": "289fb2f6b90327b3381d338be9e17766fd49e6208c2edeb604a177936d33039d",
       "itemCount": 12,
       "payload": [
         {
@@ -78308,7 +78565,7 @@
         {
           "id": "RDCLAK5uy_n1mdvRbdpP-GIJ4G6Ms9Dn5ey9A9XHqDM",
           "kind": "playlist",
-          "subtitle": "58 首",
+          "subtitle": "78 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -78352,14 +78609,14 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_rock:12:12": {
-      "etag": "\"x9grzu1f8o796\"",
-      "hash": "aeea67ed077083ce156b5751b93865014390baf380b04c2401eb1d9996939fa2",
+      "etag": "\"t3q29a3s4p79r\"",
+      "hash": "511732018a75671fa6be76fc505a4207458b4f0d081465738c5e9eb382729dbc",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_mx8e76iA69eSkgLpj_oxbrgchR0I5Fa1U",
           "kind": "playlist",
-          "subtitle": "75 首",
+          "subtitle": "70 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -78381,7 +78638,7 @@
         {
           "id": "RDCLAK5uy_nwL5OO1y9H8qEuUiX_MKRADbyvpNMc_sc",
           "kind": "playlist",
-          "subtitle": "86 首",
+          "subtitle": "88 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -78392,12 +78649,12 @@
         {
           "id": "RDCLAK5uy_k-msS6PWOCGNcJo7gx0NQIPfyFzHglYEk",
           "kind": "playlist",
-          "subtitle": "65 首",
+          "subtitle": "67 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/UZ4an60Zmvc/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/LUw-f6f6bvc/mqdefault.jpg",
           "title": "J-Rock!"
         },
         {
@@ -78414,7 +78671,7 @@
         {
           "id": "RDCLAK5uy_nYonIJ562G-N9flfOyDmQY9GZ1A3k52Po",
           "kind": "playlist",
-          "subtitle": "46 首",
+          "subtitle": "50 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -82914,12 +83171,12 @@
     },
     "vector_systemlist_zh_genre_electronic_dance": {
       "complete": true,
-      "lastCompletedAt": "2026-07-23T21:28:35Z",
+      "lastCompletedAt": "2026-07-26T05:41:53Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_hiphop": {
       "complete": true,
-      "lastCompletedAt": "2026-07-21T15:53:11Z",
+      "lastCompletedAt": "2026-07-26T05:41:50Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_hk": {
@@ -82959,7 +83216,7 @@
     },
     "vector_systemlist_zh_genre_rock": {
       "complete": true,
-      "lastCompletedAt": "2026-07-23T21:28:33Z",
+      "lastCompletedAt": "2026-07-26T05:41:52Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_soundtrack": {
