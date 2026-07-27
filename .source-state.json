@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
+    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,7 +22,7 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_country"
+      "vector_systemlist_zh_genre_relax"
     ]
   },
   "resources": {
@@ -1474,6 +1474,142 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:134161938": {
+      "etag": "\"1017jqf33xv9im\"",
+      "hash": "638271947442d4b50e96dbba6c5cee18776f5b4fc302cb6291ffffe4f78ac009",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:27",
+          "id": "8qcB7JlhKhM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8qcB7JlhKhM/mqdefault.jpg",
+          "title": "李千那 -〈不敢聽的歌〉Official Music Video"
+        }
+      ]
+    },
+    "playlist:134722107": {
+      "etag": "\"70n5yktpg59sq\"",
+      "hash": "41e3a27ed2520f8e3a821ef36b2f8c13630398f1e5b7e13aa254a64b5252a12b",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:55",
+          "id": "j5mZHRC50eY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/j5mZHRC50eY/mqdefault.jpg",
+          "title": "鍾明軒『當我說真話的時候我感到自由』 I feel free when I’m saying the truth』official music video"
+        }
+      ]
+    },
+    "playlist:134722120": {
+      "etag": "\"69qdtnkh389ns\"",
+      "hash": "4eb97df4b55065a41ecfc9c9f80c97694a0a205bf9b3cd3d7d6a6b196804b464",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:32",
+          "id": "0steGGjSw8s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0steGGjSw8s/mqdefault.jpg",
+          "title": "再也不見"
+        }
+      ]
+    },
+    "playlist:134722137": {
+      "etag": "\"j46kjfy3r5aj5\"",
+      "hash": "e91b6949468e31ad118a0d91af6017a6fda1d0569b146d6ef7fd4148f924cd13",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:20",
+          "id": "nasr28p91Cw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nasr28p91Cw/mqdefault.jpg",
+          "title": "張語噥 Sammy -【No More】Official MV"
+        }
+      ]
+    },
+    "playlist:134722143": {
+      "etag": "\"pu2wnxohv175u\"",
+      "hash": "3f69641e83271974f6c7df6dd8089ce988895bca914dacfc5e20b395576684a8",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:15",
+          "id": "pE1_3x8kSng",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pE1_3x8kSng/mqdefault.jpg",
+          "title": "Seh Ah Seh - ?te 壞特｜Official Lyric Video"
+        }
+      ]
+    },
+    "playlist:135279773": {
+      "etag": "\"glaohfydly8gp\"",
+      "hash": "8487224ba3073fa75602615764c747479720f6ba94922804153e76890b4db0e5",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:08",
+          "id": "iHbWpXrk6p0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iHbWpXrk6p0/mqdefault.jpg",
+          "title": "鄭興 Xing Zheng feat. HUSH【陽台 Rover on the Balcony】Official Music Video"
+        }
+      ]
+    },
+    "playlist:135279873": {
+      "etag": "\"15nwkod0esba9w\"",
+      "hash": "6a3f4cc9210b31b1633793efb37e66790dd8a30efcaed6e573e23a93e600090d",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:00",
+          "id": "KZpnSghZ-Q8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KZpnSghZ-Q8/mqdefault.jpg",
+          "title": "【華語 K 歌熱搜榜】JR 紀言愷《風雲變色》翻唱 2020 新版 歌詞 MV  -  偶像劇《紫禁之巔》主題曲"
+        }
+      ]
+    },
+    "playlist:135279994": {
+      "etag": "\"m5idn3lzk7a22\"",
+      "hash": "bfcde8afcd07ac27ee3c052437f614e8798b01a2344df55140672f99dff30c58",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:18",
+          "id": "tDw1B_hWwbw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tDw1B_hWwbw/mqdefault.jpg",
+          "title": "逆光 - Kimberley Chen 陳芳語 | Official Lyric Video"
         }
       ]
     },
@@ -84593,7 +84729,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1656
+      "nextOffset": 1944
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
