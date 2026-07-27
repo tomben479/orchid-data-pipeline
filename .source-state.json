@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_country"
     ]
   },
   "resources": {
@@ -1473,6 +1474,172 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:136441532": {
+      "etag": "\"53xqlrlwxnaqj\"",
+      "hash": "c5baf18066c360c4510984b0de57b63d18bb8c2bf059152e0b40d959e3e60dac",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:29",
+          "id": "2hNoatGHsTc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2hNoatGHsTc/mqdefault.jpg",
+          "title": "Karencici [ ihateyou1000 ]  Official Music Video"
+        }
+      ]
+    },
+    "playlist:136986998": {
+      "etag": "\"eyrqazde8hal5\"",
+      "hash": "31637ffbc9c24c369157ffe2947fa1242d10fce69bfa105886a8d4fda873b035",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:08",
+          "id": "-biOGdYiF-I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-biOGdYiF-I/mqdefault.jpg",
+          "title": "周杰倫 Jay Chou【Mojito】Official MV ★ Check out \"J-Style Trip\" on Netflix -Travelogue, Magic and Fun!"
+        }
+      ]
+    },
+    "playlist:136987072": {
+      "etag": "\"mtu0ojxx1p7hu\"",
+      "hash": "abf73fb77cefb330d5d4954b1aec1792db9207ae398c07e6d03742135df7d22a",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:42",
+          "id": "ZypTtkjCCKE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZypTtkjCCKE/mqdefault.jpg",
+          "title": "Dance Monkey"
+        }
+      ]
+    },
+    "playlist:136987241": {
+      "etag": "\"1136laajz258yp\"",
+      "hash": "e2a77f94d2cf8ea1edb6cb9d9062367fb4f4a7f198a794929689208b48132970",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:38",
+          "id": "zt5b956do5Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zt5b956do5Y/mqdefault.jpg",
+          "title": "動力火車 Power Station [ 永遠不再 Long Gone ] Official Music Video(《做工的人》戲劇片尾曲)"
+        }
+      ]
+    },
+    "playlist:136987275": {
+      "etag": "\"1816m5xfkcy81u\"",
+      "hash": "8b274600a31902adc3b6465630dcb14c31c39472b731dc637e836c5e7839d6ed",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:39",
+          "id": "HHiaocPUdko",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HHiaocPUdko/mqdefault.jpg",
+          "title": "婁峻碩SHOU - KEY M/V"
+        }
+      ]
+    },
+    "playlist:137515094": {
+      "etag": "\"lr22l2cvx38ce\"",
+      "hash": "0850c79d2c33cb7e9aba9a16800f5dae2d2bb8aa53be6b7aa09f8d0dd58aa539",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "6:19",
+          "id": "7_lw9IHFOIY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7_lw9IHFOIY/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li《在一起嘛好不好 Be With Me》Official Music Video"
+        }
+      ]
+    },
+    "playlist:137515105": {
+      "etag": "\"q7fbe8e51f7un\"",
+      "hash": "dafefd6a545fb976c6964b641a36781731af04eb92c34392c2233848bc1bcd82",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:36",
+          "id": "52teikOwGzE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/52teikOwGzE/mqdefault.jpg",
+          "title": "熊仔 Kumachan -【羞羞臉 Fixfixface】Official Lyric Video"
+        }
+      ]
+    },
+    "playlist:137515122": {
+      "etag": "\"78rtmywp1y9hw\"",
+      "hash": "9fe19ba43da402827be4c4bc4f4f69a26ec42a95e4dc171dc0b665a150aae594",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "3:41",
+          "id": "1sJ1bySWz94",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1sJ1bySWz94/mqdefault.jpg",
+          "title": "淺堤 Shallow Levée—【陷眠 Daydreaming】Official Music Video"
+        },
+        {
+          "durationText": "4:09",
+          "id": "A7xBp1rLuVI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/A7xBp1rLuVI/mqdefault.jpg",
+          "title": "淺堤 Shallow Levée—【石頭 Wish Upon A Star】Official Music Video"
+        },
+        {
+          "durationText": "5:05",
+          "id": "LfETo92yIFs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LfETo92yIFs/mqdefault.jpg",
+          "title": "淺堤 Shallow Levée -【傳道的人 Seeker】Official Music Video"
+        },
+        {
+          "durationText": "3:17",
+          "id": "MPqexQzi5SM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MPqexQzi5SM/mqdefault.jpg",
+          "title": "淺堤 Shallow Levée -【永和 Dear Friends】Official Music Video"
         }
       ]
     },
@@ -84270,7 +84437,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1080
+      "nextOffset": 1368
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
