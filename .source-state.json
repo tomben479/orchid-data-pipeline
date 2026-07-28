@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_jazz"
     ]
   },
   "resources": {
@@ -1473,6 +1474,172 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:129137878": {
+      "etag": "\"16t0uix84lh9zm\"",
+      "hash": "31b10b4d433d5854d5b44aeeb6c94deb9c93ce881e3bc935796b0e160ef5e820",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "0:14",
+          "id": "uAXCuFTe_xM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uAXCuFTe_xM/mqdefault.jpg",
+          "title": "Erika 劉艾立《我想買可樂 I Wanna Make Love》Official Trailer"
+        }
+      ]
+    },
+    "playlist:129795945": {
+      "etag": "\"hw8hsmd2nx9ge\"",
+      "hash": "f967b698ec1617612be0d1ce92c85f2375cf29063725dbbef19b1d1efaaf8b1e",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:57",
+          "id": "S0twBO8l3pI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/S0twBO8l3pI/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li《等著等著就老了 Wait Till Old》Official Music Video"
+        }
+      ]
+    },
+    "playlist:129796110": {
+      "etag": "\"13fklu7ssbqaz2\"",
+      "hash": "7788bea6a994367aec5b9a660e545510849c5f92c5b78cf0468c03cda902da4e",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "3:53",
+          "id": "ZhJh7_-gbDY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZhJh7_-gbDY/mqdefault.jpg",
+          "title": "分就分了"
+        },
+        {
+          "durationText": "3:04",
+          "id": "QoGbAh0FtyA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QoGbAh0FtyA/mqdefault.jpg",
+          "title": "閻奕格 Janice Yan [ Please don't cry ] Official Lyrics Video"
+        },
+        {
+          "durationText": "4:44",
+          "id": "AEcOtkpKkHg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AEcOtkpKkHg/mqdefault.jpg",
+          "title": "閻奕格 Janice Yan [ 少了一件牛仔褲 Where are my jeans? ] Official Music Video(三立華劇【跟鯊魚接吻】片尾曲)"
+        },
+        {
+          "durationText": "3:14",
+          "id": "KvwY9DN7LxY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KvwY9DN7LxY/mqdefault.jpg",
+          "title": "閻奕格 Janice Yan [ 愛上現在的我 Right , now! ](feat. 高爾宣 OSN) Official Music Video"
+        }
+      ]
+    },
+    "playlist:129796232": {
+      "etag": "\"6tjfwyjmob940\"",
+      "hash": "3fa6677a17b20b36cf33ce07ec81a6716f13b271df205f7fc7590b4ff9d2f683",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:00",
+          "id": "bLNjIBpYxlc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bLNjIBpYxlc/mqdefault.jpg",
+          "title": "Vivian Hsu 徐若瑄《別人的 Yours Always》官方歌詞版 Lyric Video (《孤味》電影片尾曲)"
+        }
+      ]
+    },
+    "playlist:129796266": {
+      "etag": "\"7wbbw1yd0e9db\"",
+      "hash": "cbea98ab02f8757c1b01948c3f8c116dcdb31a7b2a33681344cbbc5e825ce8ee",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:43",
+          "id": "sEf0LuOI4yI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sEf0LuOI4yI/mqdefault.jpg",
+          "title": "滴妹全新暖心單曲【每一個我】Official Music Video ♥ 滴妹"
+        }
+      ]
+    },
+    "playlist:130466360": {
+      "etag": "\"gijzt1ltqcuw\"",
+      "hash": "45807d1f58d1dd88b889cd2c32d7cfbe4623cc41239384b8119f45a01670d885",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:43",
+          "id": "MJnzEa0FSKk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MJnzEa0FSKk/mqdefault.jpg",
+          "title": "文慧如 Boon Hui Lu [ 全放空 Losing Myself ](feat. 鼓鼓 呂思緯) Official Music Video"
+        }
+      ]
+    },
+    "playlist:130466447": {
+      "etag": "\"ln03wwkn17avd\"",
+      "hash": "6e398bf2025bfb4d88d5393e674e630020ac5ce7dbf6c708c18ad8c773446e70",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:14",
+          "id": "oiYkBcV4FCw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oiYkBcV4FCw/mqdefault.jpg",
+          "title": "Bii 畢書盡【你 You】Official Music Video - 電視劇《都挺好》片頭曲"
+        }
+      ]
+    },
+    "playlist:130466496": {
+      "etag": "\"hmo9fd47drqb\"",
+      "hash": "817054ee29ead74851f0d398df0e3dd7514407be3dbdfafd6e53cccc489bad1e",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "5:14",
+          "id": "zxS_NTJ4Hbo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zxS_NTJ4Hbo/mqdefault.jpg",
+          "title": "理想混蛋 Bestards【滯留鋒】 Official Lyric Video"
         }
       ]
     },
@@ -85383,7 +85550,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 288
+      "nextOffset": 576
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
