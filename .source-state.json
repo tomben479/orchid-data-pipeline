@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_relax"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1474,6 +1473,322 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:130466557": {
+      "etag": "\"whxv9vdbmzagq\"",
+      "hash": "67a36f158384eff0fad23ef2c6d71f7f48daf13d4949944d38d7164f5be2408a",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:56",
+          "id": "Hsa1h62ZJe8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Hsa1h62ZJe8/mqdefault.jpg",
+          "title": "韋禮安 WeiBird《貓咪共和國 Cat Republic》Official Music Video"
+        }
+      ]
+    },
+    "playlist:131080974": {
+      "etag": "\"xc9ohqup3arc\"",
+      "hash": "bac6655ab829f64a81aa320de4ef0a284bb489379d15c432e923740db7d6a4a8",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:14",
+          "id": "Q8nZwHg1PGk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Q8nZwHg1PGk/mqdefault.jpg",
+          "title": "You Say Goodbye Easily - ?te 壞特｜Official Lyric Video"
+        }
+      ]
+    },
+    "playlist:131081097": {
+      "etag": "\"kggnvgtevqali\"",
+      "hash": "a8dd7c543eaf8fd4fa38ad9599c0a6d7940fa51b29e14b1b0a2357dbadb73d6c",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:31",
+          "id": "CXyYx4uhg2A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CXyYx4uhg2A/mqdefault.jpg",
+          "title": "Elva Hsiao 蕭亞軒 不如先慶祝能在一起  Celebrate // Everyday Official Lyrics Video"
+        }
+      ]
+    },
+    "playlist:131081161": {
+      "etag": "\"49wdj8imivad1\"",
+      "hash": "cc32445c3c89491ebbce4adb2bc1ca0d78afeb7963cb325d949389526fa14256",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:00",
+          "id": "m4JqAa3WfFA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/m4JqAa3WfFA/mqdefault.jpg",
+          "title": "《妖怪人間 Monstrous Me》主題曲MV- 鄭宜農Enno Cheng 〈妖怪人間〉"
+        }
+      ]
+    },
+    "playlist:131081204": {
+      "etag": "\"ric6hgzp6ras3\"",
+      "hash": "ef1be5e5e7c7905ed58d87d58df14d8f6c6cb678738d017fae7beda91c4f48ac",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:27",
+          "id": "pt8-uALm6mg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pt8-uALm6mg/mqdefault.jpg",
+          "title": "錯的人"
+        }
+      ]
+    },
+    "playlist:131725648": {
+      "etag": "\"fsy30rosqca19\"",
+      "hash": "243ed8955e77f1466c6ab01dc60308db372c16fb14c21c44364b8ada7d3b1d79",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:05",
+          "id": "k9NZYQHQ7Gg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/k9NZYQHQ7Gg/mqdefault.jpg",
+          "title": "Better - Julia Wu 吳卓源 ft. Kimberley Chen 陳芳語｜Official Music Video"
+        }
+      ]
+    },
+    "playlist:131725762": {
+      "etag": "\"7fcmco6l9f1xf\"",
+      "hash": "64b1dea1eddeca7e3e8cdd45304e179102a614104dfa95e246587f3aa0f03863",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "2:51",
+          "id": "wosNMWNWX_w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wosNMWNWX_w/mqdefault.jpg",
+          "title": "渣泥ZANI〈Searching 我的愛 / Searching for My Love〉Official Audio"
+        },
+        {
+          "durationText": "4:30",
+          "id": "GBe7-i7NxBQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GBe7-i7NxBQ/mqdefault.jpg",
+          "title": "渣泥ZANI〈大房子 / The Mansion〉Official Audio"
+        },
+        {
+          "durationText": "3:51",
+          "id": "mSfYkHRVpLc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mSfYkHRVpLc/mqdefault.jpg",
+          "title": "渣泥ZANI〈可 i  / Damn Cute〉Official Audio"
+        },
+        {
+          "durationText": "3:38",
+          "id": "TvWTO6rheAs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TvWTO6rheAs/mqdefault.jpg",
+          "title": "渣泥ZANI〈想念結痂了 / Scars〉Official Audio"
+        },
+        {
+          "durationText": "3:14",
+          "id": "aHh0Rb42x08",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aHh0Rb42x08/mqdefault.jpg",
+          "title": "渣泥ZANI〈杯子 / Glass〉Official Audio"
+        },
+        {
+          "durationText": "3:28",
+          "id": "bv95vaesl4w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bv95vaesl4w/mqdefault.jpg",
+          "title": "渣泥ZANI〈間諜小狗 / Spy Dog〉Official Audio"
+        },
+        {
+          "durationText": "3:57",
+          "id": "ydDFIje_P_Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ydDFIje_P_Q/mqdefault.jpg",
+          "title": "渣泥ZANI〈PORTAL〉Official Audio"
+        },
+        {
+          "durationText": "3:11",
+          "id": "Kv17vpSindc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Kv17vpSindc/mqdefault.jpg",
+          "title": "渣泥ZANI〈REAL樣 / The Real Deal〉Official Audio"
+        },
+        {
+          "durationText": "2:51",
+          "id": "29sbWCkw2HA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/29sbWCkw2HA/mqdefault.jpg",
+          "title": "渣泥ZANI 〈那個更衣間 / The Dressing Room〉Official Audio"
+        }
+      ]
+    },
+    "playlist:131725915": {
+      "etag": "\"lyygpudh4oaxb\"",
+      "hash": "5afeaace235dcc65cedba8bacce2e33b1ea856ff308fb70ebc78dc49eed8a768",
+      "itemCount": 13,
+      "payload": [
+        {
+          "durationText": "4:15",
+          "id": "P8uJ4gFjJGE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/P8uJ4gFjJGE/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen - 煙幕 (Smokescreen)｜ 彩虹六部曲【第一次】La Boum Official MV | KKTV原創電視劇"
+        },
+        {
+          "durationText": "4:10",
+          "id": "OM8WGqYX8yE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OM8WGqYX8yE/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen -【Baby】 | Official MV"
+        },
+        {
+          "durationText": "3:58",
+          "id": "ag7qs4Rc-aY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ag7qs4Rc-aY/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen -【Nobody Ever Wonders 】 Official MV"
+        },
+        {
+          "durationText": "4:12",
+          "id": "qLMChuIJz2o",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qLMChuIJz2o/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen - Just You and Me (你和我) Unplugged"
+        },
+        {
+          "durationText": "3:03",
+          "id": "JTJEq0_CTKg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JTJEq0_CTKg/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen -【猜 】I Dare You | Official MV"
+        },
+        {
+          "durationText": "4:48",
+          "id": "GfWkG4qedoE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GfWkG4qedoE/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen -【入土之前 Till I'm Underground】Official MV"
+        },
+        {
+          "durationText": "3:23",
+          "id": "ypDPoUPsgaE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ypDPoUPsgaE/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen -【Hands Up】Official MV"
+        },
+        {
+          "durationText": "4:07",
+          "id": "x9aK85GfR8s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/x9aK85GfR8s/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen -【 時間的輪 I'll be your Memory】Official MV"
+        },
+        {
+          "durationText": "3:09",
+          "id": "3FYzW69KXqE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3FYzW69KXqE/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen -【社會敗類 Scumbag】Official MV"
+        },
+        {
+          "durationText": "3:08",
+          "id": "uaymV2BBD4o",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uaymV2BBD4o/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen -【炙愛 (女聲版) Fiery Love Vicky Version】Official MV"
+        },
+        {
+          "durationText": "3:04",
+          "id": "gzC6HAVdh2U",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gzC6HAVdh2U/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen -【Am I Who I Am】Official MV"
         }
       ]
     },
@@ -85066,9 +85381,9 @@
       "nextOffset": 0
     },
     "vector_latest_zh": {
-      "complete": true,
+      "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 0
+      "nextOffset": 288
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
