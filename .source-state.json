@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_jazz"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1477,6 +1476,155 @@
         }
       ]
     },
+    "playlist:127878697": {
+      "etag": "\"yazdnre6h9qs\"",
+      "hash": "eb0aa6033a092b880e7840c62fae05c95bd478eeead25d6a99c529524f390101",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:12",
+          "id": "wap5z-Qh_HM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wap5z-Qh_HM/mqdefault.jpg",
+          "title": "CHRISFLOW唐仲彣 - 【我愛你但我不快樂】So Depressed 官方歌詞 M/V"
+        }
+      ]
+    },
+    "playlist:128513926": {
+      "etag": "\"gs0hgljz5zaaz\"",
+      "hash": "656dbfde143747440795b9d27cb6335843f6ebe2d434b78183db1730984cae09",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:40",
+          "id": "s5PaMEAXYXQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/s5PaMEAXYXQ/mqdefault.jpg",
+          "title": "玖壹壹(Nine one one) - 偶喜翻你 I Like You  官方MV首播"
+        }
+      ]
+    },
+    "playlist:128513985": {
+      "etag": "\"40ph83bewnapy\"",
+      "hash": "cd0679090b4c0bc47281c93d2532ba443c2cca8187116f15de406ddc7b14f0b8",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:08",
+          "id": "KyFol8O6YM0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KyFol8O6YM0/mqdefault.jpg",
+          "title": "蘇慧倫 Tarcy Su [ 為你變成他 Disguise ] Official Music Video （三立/台視偶像劇《跟鯊魚接吻》片頭曲）"
+        },
+        {
+          "durationText": "4:45",
+          "id": "iXh-PjLpqv4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iXh-PjLpqv4/mqdefault.jpg",
+          "title": "蘇慧倫 Tarcy Su [ 安和 AnHe ] Official Music Video"
+        },
+        {
+          "durationText": "4:11",
+          "id": "t2LdnHAKaqc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/t2LdnHAKaqc/mqdefault.jpg",
+          "title": "蘇慧倫 Tarcy Su [ 真面目 True Colors ] Official Music Video（三立/台視偶像劇《跟鯊魚接吻》插曲）"
+        }
+      ]
+    },
+    "playlist:128514037": {
+      "etag": "\"2kfkrds1ymalc\"",
+      "hash": "e584c74c15bfc51f339208d9faa79146f03fd756b25ea2405c15861f54d6b9ec",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:11",
+          "id": "eidQRH4xO-k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eidQRH4xO-k/mqdefault.jpg",
+          "title": "七十億分之一加一 - Julia Wu 吳卓源 feat. 婁峻碩 SHOU｜Official Music Video"
+        }
+      ]
+    },
+    "playlist:128514075": {
+      "etag": "\"16plar75cqvaz6\"",
+      "hash": "47f15f36337e3cb8e19be019d91220c8c511ad795cde9df20b381b8d9c8971cd",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:54",
+          "id": "3zNbh04UZjc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3zNbh04UZjc/mqdefault.jpg",
+          "title": "雙棲動物"
+        },
+        {
+          "durationText": "4:54",
+          "id": "NDUnUX5RpvY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NDUnUX5RpvY/mqdefault.jpg",
+          "title": "比悲傷更悲傷的《雙棲動物》 韋禮安"
+        }
+      ]
+    },
+    "playlist:129137841": {
+      "etag": "\"vozr11zbu0amk\"",
+      "hash": "c2aa8a1f90e09468e462fec247b53b3d6d4c25d66508ec33ff8e44c03143f969",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:59",
+          "id": "WVOA8MnOOvI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WVOA8MnOOvI/mqdefault.jpg",
+          "title": "鄧福如 AFÜ -〈在我們的星球眼淚不超過三秒〉Official Music Video"
+        }
+      ]
+    },
+    "playlist:129137861": {
+      "etag": "\"qxvjz6au7au4\"",
+      "hash": "9eacda09ce89e5d4b25be8187035e68375b177360f51777971242607d3792dc4",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:08",
+          "id": "uaymV2BBD4o",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uaymV2BBD4o/mqdefault.jpg",
+          "title": "陳忻玥 Vicky Chen -【炙愛 (女聲版) Fiery Love Vicky Version】Official MV"
+        }
+      ]
+    },
     "playlist:129137878": {
       "etag": "\"16t0uix84lh9zm\"",
       "hash": "31b10b4d433d5854d5b44aeeb6c94deb9c93ce881e3bc935796b0e160ef5e820",
@@ -1491,6 +1639,83 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/uAXCuFTe_xM/mqdefault.jpg",
           "title": "Erika 劉艾立《我想買可樂 I Wanna Make Love》Official Trailer"
+        }
+      ]
+    },
+    "playlist:129137942": {
+      "etag": "\"8273d1d31s9a3\"",
+      "hash": "f0f2cd42de497dcbdaa9aa6f0c0a6f039605a2f5c972833dd82d5c46becc0ff3",
+      "itemCount": 9,
+      "payload": [
+        {
+          "durationText": "2:48",
+          "id": "z3xgahzlsjw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/z3xgahzlsjw/mqdefault.jpg",
+          "title": "STAY BYE"
+        },
+        {
+          "durationText": "2:38",
+          "id": "mdKC7YCqPjI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mdKC7YCqPjI/mqdefault.jpg",
+          "title": "80"
+        },
+        {
+          "durationText": "2:48",
+          "id": "teOYJmGbPgQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/teOYJmGbPgQ/mqdefault.jpg",
+          "title": "婁峻碩SHOU - SOFA L/V"
+        },
+        {
+          "durationText": "3:29",
+          "id": "C0FO9G5eU-A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/C0FO9G5eU-A/mqdefault.jpg",
+          "title": "婁峻碩SHOU - BLUE SKY M/V"
+        },
+        {
+          "durationText": "3:15",
+          "id": "tWWo_W1VGIo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tWWo_W1VGIo/mqdefault.jpg",
+          "title": "婁峻碩SHOU - 飛機 (AIRPLANE) ft. T.I.G鐵巨人 M/V"
+        },
+        {
+          "durationText": "2:45",
+          "id": "76Z48A6pqRw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/76Z48A6pqRw/mqdefault.jpg",
+          "title": "婁峻碩SHOU - NEVER LAND (Prod. Huangfu) M/V"
+        },
+        {
+          "durationText": "3:42",
+          "id": "c4_qKyFuL0Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/c4_qKyFuL0Y/mqdefault.jpg",
+          "title": "婁峻碩SHOU - COLORFUL M/V"
         }
       ]
     },
@@ -85550,7 +85775,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 576
+      "nextOffset": 864
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
