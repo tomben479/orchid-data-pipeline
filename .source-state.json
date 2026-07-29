@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_jazz"
     ]
   },
   "resources": {
@@ -1476,6 +1477,275 @@
         }
       ]
     },
+    "playlist:125448457": {
+      "etag": "\"r1y7okxcncpw\"",
+      "hash": "b62be44a23fc11b0637697318344d69346bb975a4c7912e2c7149137174cedc8",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:24",
+          "id": "x2NwVADM-mc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/x2NwVADM-mc/mqdefault.jpg",
+          "title": "Better - 電影ᐸ你的情歌ᐳ暖心強打曲"
+        }
+      ]
+    },
+    "playlist:126082002": {
+      "etag": "\"jkad5j5q2jax1\"",
+      "hash": "181dab4eaea514d43f2eeb5fb17a10f174036089c69a84610b4e0a051579d170",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:56",
+          "id": "ZOxmzpE0Vz4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZOxmzpE0Vz4/mqdefault.jpg",
+          "title": "孫盛希 Shi Shi【逃 Come Away】電視劇「想見你상견니」插曲 Official Music Video"
+        }
+      ]
+    },
+    "playlist:126082093": {
+      "etag": "\"3jzerwgrz611n\"",
+      "hash": "a93607818232235283c05690f4f14f01376e3ce647460ee7df449882e78817e9",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:08",
+          "id": "yJyuL-F6_N0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yJyuL-F6_N0/mqdefault.jpg",
+          "title": "南西肯恩 《無可救藥的貓》Original 1080P｜實現音樂工作室"
+        },
+        {
+          "durationText": "5:28",
+          "id": "1T4nt8JfNzU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1T4nt8JfNzU/mqdefault.jpg",
+          "title": "南西肯恩 NeciKen〈練習一個人生活 Loner’s Courage〉 Official Music Video"
+        },
+        {
+          "durationText": "5:00",
+          "id": "GmBfueryGes",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GmBfueryGes/mqdefault.jpg",
+          "title": "南西肯恩 NeciKen〈煙花 Fireworks〉 Official Music Video"
+        }
+      ]
+    },
+    "playlist:126082174": {
+      "etag": "\"aiaim6kgk8akv\"",
+      "hash": "7841163bd03fe67d4e4b2ef5efd3b26e7163622311847251c1b3d6f5b8ad008f",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:18",
+          "id": "53hWU1H2R2g",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/53hWU1H2R2g/mqdefault.jpg",
+          "title": "光良 Michael 《里程・旅程  Milestone》 官方 Official 完整版 MV"
+        }
+      ]
+    },
+    "playlist:126082199": {
+      "etag": "\"17tsjwzli8c29a\"",
+      "hash": "d93c1466681b402d01e976207808aa6af48f4f0493fd6d4a5ce81a34ff11d764",
+      "itemCount": 14,
+      "payload": [
+        {
+          "durationText": "1:14",
+          "id": "2BqOucluy9Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2BqOucluy9Q/mqdefault.jpg",
+          "title": "豆皮少年 Pt.2"
+        },
+        {
+          "durationText": "3:32",
+          "id": "ZJ1qcFZoMEQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZJ1qcFZoMEQ/mqdefault.jpg",
+          "title": "客雅大道"
+        },
+        {
+          "durationText": "5:26",
+          "id": "XV4H4pF7QZI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XV4H4pF7QZI/mqdefault.jpg",
+          "title": "每朝換季練習"
+        },
+        {
+          "durationText": "3:16",
+          "id": "CICRTbrShP4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CICRTbrShP4/mqdefault.jpg",
+          "title": "豆皮少年"
+        },
+        {
+          "durationText": "2:36",
+          "id": "WcyWujLD5LU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WcyWujLD5LU/mqdefault.jpg",
+          "title": "貓"
+        },
+        {
+          "durationText": "3:55",
+          "id": "ra0hAJz-cuA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ra0hAJz-cuA/mqdefault.jpg",
+          "title": "塔悠"
+        },
+        {
+          "durationText": "4:15",
+          "id": "3EcVATYBJYc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3EcVATYBJYc/mqdefault.jpg",
+          "title": "愛與膠囊"
+        },
+        {
+          "durationText": "3:11",
+          "id": "liij_y6PBh4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/liij_y6PBh4/mqdefault.jpg",
+          "title": "漁夫"
+        },
+        {
+          "durationText": "4:56",
+          "id": "MkJtdLUC3Js",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MkJtdLUC3Js/mqdefault.jpg",
+          "title": "熱寫生 heat sketch - 在船底搔癢（Official Lyric Video）"
+        },
+        {
+          "durationText": "4:41",
+          "id": "fHvDz1xQHxo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fHvDz1xQHxo/mqdefault.jpg",
+          "title": "熱寫生 Heat Sketch - 塔悠 Tayou │CINEMA SESSIONS"
+        },
+        {
+          "durationText": "4:49",
+          "id": "18j6-N2i09Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/18j6-N2i09Q/mqdefault.jpg",
+          "title": "熱寫生 Heat Sketch - 愛與膠囊 Love and Capsules │CINEMA SESSIONS"
+        },
+        {
+          "durationText": "4:23",
+          "id": "oeagWwUrne0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oeagWwUrne0/mqdefault.jpg",
+          "title": "熱寫生 heat sketch - 青元春朗（Official Lyric Video）"
+        },
+        {
+          "durationText": "4:40",
+          "id": "FOtuu_AIdLs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FOtuu_AIdLs/mqdefault.jpg",
+          "title": "熱寫生 heat sketch - 山洞（Official Music Video）"
+        }
+      ]
+    },
+    "playlist:126691720": {
+      "etag": "\"tk6s4ptxw1ai2\"",
+      "hash": "e3703dc9ebd8c1c904ce43a65d2a36a0ad629e587b75f8df6d2832c7eab9b920",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "47:35",
+          "id": "lV5NexEOJb8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lV5NexEOJb8/mqdefault.jpg",
+          "title": "【顏社】李英宏 aka DJ Didilong - 水哥 2020 Sweet 2020 (Full Album)"
+        }
+      ]
+    },
+    "playlist:126691750": {
+      "etag": "\"wjyre6lfg6um\"",
+      "hash": "f53fbc30a230351de793bc0aa7debb96e9d8f9eb6eeace15f01e69b9ff9d250b",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:02",
+          "id": "KMDfX8oaWbE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KMDfX8oaWbE/mqdefault.jpg",
+          "title": "哭哭睡"
+        },
+        {
+          "durationText": "6:25",
+          "id": "NU26wibucNc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NU26wibucNc/mqdefault.jpg",
+          "title": "【七月半MV】哭哭睡 Official Music Video (故事版)"
+        }
+      ]
+    },
     "playlist:126692076": {
       "etag": "\"ewkrzr4c89r9\"",
       "hash": "f9052966ce08059fe637b91b36618c47deb9918da12e677dc97f24441028a0aa",
@@ -1490,6 +1760,23 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/ZLFMqje5o-A/mqdefault.jpg",
           "title": "女士優先 Lady First - 老莫 ILL MO X ?te 壞特｜Official Lyric Video"
+        }
+      ]
+    },
+    "playlist:126692138": {
+      "etag": "\"ngxtfh4vgi86t\"",
+      "hash": "9e100767f2ea4a1c15eea2f57e1bb01cc8a2d2d99afb40e02c060d2c1148d9a8",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:19",
+          "id": "Yxgs7ST8RRs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Yxgs7ST8RRs/mqdefault.jpg",
+          "title": "閻奕格 Janice Yan [ 愛上現在的我 Right , now! ](feat. 高爾宣 OSN) Official Lyrics Video"
         }
       ]
     },
@@ -85911,7 +86198,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1152
+      "nextOffset": 1440
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
