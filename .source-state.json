@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_jazz"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1474,6 +1473,252 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:123045602": {
+      "etag": "\"ibpuzvmrrmasi\"",
+      "hash": "3dab27c872ac13afb0a27798d4c88aa8eacf06ad856dc87bbf509411ec61e5de",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:16",
+          "id": "7h9uEUvQjcs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7h9uEUvQjcs/mqdefault.jpg",
+          "title": "MAYDAY五月天 feat.孫燕姿 [ 溫柔 TENDERNESS #MaydayBlue20th ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:123628339": {
+      "etag": "\"11t9w55v3m4a6j\"",
+      "hash": "63f09b55e22410f8a69ee5a93f85ce2caa82d1d7662ac6f0f07f2b4302ec6494",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:48",
+          "id": "MeGrr-lWpxU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MeGrr-lWpxU/mqdefault.jpg",
+          "title": "TANK [ 你的情歌 Your Love Song ] Official Music Video (電影【你的情歌】主題曲)"
+        }
+      ]
+    },
+    "playlist:123628565": {
+      "etag": "\"1bnyqtmjuebjg\"",
+      "hash": "f091b6d731b1158937223a4551384c7bca0ca5b70ed7c9e42370a4629cb26762",
+      "itemCount": 13,
+      "payload": [
+        {
+          "durationText": "2:49",
+          "id": "l9GRmPeMr5c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/l9GRmPeMr5c/mqdefault.jpg",
+          "title": "Rollercoasters"
+        },
+        {
+          "durationText": "3:05",
+          "id": "Jnaa3-SbgT4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Jnaa3-SbgT4/mqdefault.jpg",
+          "title": "You Are Not Alone"
+        },
+        {
+          "durationText": "3:13",
+          "id": "vEYCbwhukag",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vEYCbwhukag/mqdefault.jpg",
+          "title": "Something About You"
+        },
+        {
+          "durationText": "4:57",
+          "id": "QTNpif7vOjo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QTNpif7vOjo/mqdefault.jpg",
+          "title": "I'm Happy"
+        },
+        {
+          "durationText": "3:24",
+          "id": "62jqd0yXcvg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/62jqd0yXcvg/mqdefault.jpg",
+          "title": "That's All"
+        },
+        {
+          "durationText": "4:26",
+          "id": "uREErLAe3cc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uREErLAe3cc/mqdefault.jpg",
+          "title": "Always Believe in Love"
+        },
+        {
+          "durationText": "3:33",
+          "id": "N7XozuiLn8Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/N7XozuiLn8Y/mqdefault.jpg",
+          "title": "That's Why I Like You"
+        },
+        {
+          "durationText": "4:04",
+          "id": "As2R8U2i4IA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/As2R8U2i4IA/mqdefault.jpg",
+          "title": "Me and You"
+        },
+        {
+          "durationText": "5:31",
+          "id": "0v_rywb3oOk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0v_rywb3oOk/mqdefault.jpg",
+          "title": "Enough"
+        },
+        {
+          "durationText": "2:58",
+          "id": "TfQxdIDtFhI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TfQxdIDtFhI/mqdefault.jpg",
+          "title": "In the Works"
+        },
+        {
+          "durationText": "3:31",
+          "id": "lxsOcRm3dsU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lxsOcRm3dsU/mqdefault.jpg",
+          "title": "Eric周興哲《小時候的我們 When We Were Young》Official Music Video"
+        }
+      ]
+    },
+    "playlist:123628743": {
+      "etag": "\"h03hay6jj210p\"",
+      "hash": "1bce1f226fb81e7c6a1edb3602f96549853c73bb2a37da5db033af3f5584d085",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:49",
+          "id": "aYWliwPRsnQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aYWliwPRsnQ/mqdefault.jpg",
+          "title": "告五人Accusefive 【帶我去找夜生活 Night life.Take us to the light】（健康版）"
+        },
+        {
+          "durationText": "5:26",
+          "id": "W9Fq1HC_5hg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/W9Fq1HC_5hg/mqdefault.jpg",
+          "title": "告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video"
+        }
+      ]
+    },
+    "playlist:123628762": {
+      "etag": "\"14asgh12zkxagw\"",
+      "hash": "8b83188ab3ce1f2270b44504a26b6036244dc21c0e667b4bf56d0f3a7997f94f",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:24",
+          "id": "55zeL4ptZT0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/55zeL4ptZT0/mqdefault.jpg",
+          "title": "蔡黃汝『迷人的危險』Official Music Video"
+        }
+      ]
+    },
+    "playlist:125448228": {
+      "etag": "\"llc6kpo4gvq6\"",
+      "hash": "39539b5a7e2899a3adc5cca027ed4631294824fdc40581bc5f1c40d0594d20ea",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:49",
+          "id": "Wft1eiYB3PU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Wft1eiYB3PU/mqdefault.jpg",
+          "title": "[avex官方HD] 盧子杰 James Lu – 54 官方完整版MV"
+        }
+      ]
+    },
+    "playlist:125448260": {
+      "etag": "\"94p0dy53mcapo\"",
+      "hash": "55d3efc74683e3a2a5363747634fec4d040dac2e660788afbc570598f7f4793d",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:38",
+          "id": "FcCtOYGxf1Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FcCtOYGxf1Y/mqdefault.jpg",
+          "title": "周湯豪NICKTHEREAL - \"iGO ASIA REMIX\" feat SIK-K JP THE WAVY official Music video"
+        }
+      ]
+    },
+    "playlist:125448294": {
+      "etag": "\"27iyge5vf7qh\"",
+      "hash": "7007fce41e62a856e366a168afb97718c402cc04271b1ae333094fe82610e289",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "5:03",
+          "id": "-6xZeVqpTXs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-6xZeVqpTXs/mqdefault.jpg",
+          "title": "Theseus 忒修斯 【半衰期】Feat. 許時 Official Music Video"
         }
       ]
     },
@@ -86198,7 +86443,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1440
+      "nextOffset": 1728
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
