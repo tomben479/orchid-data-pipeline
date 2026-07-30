@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_relax"
     ]
   },
   "resources": {
@@ -1476,6 +1477,151 @@
         }
       ]
     },
+    "playlist:120767483": {
+      "etag": "\"13z3ca0t3knav2\"",
+      "hash": "8fa12cff29dd59db187fe1b2bc302756c44d7e4eb78d18a4fd6c0b77dbcafefb",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "5:20",
+          "id": "boFAGL1Fvwo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/boFAGL1Fvwo/mqdefault.jpg",
+          "title": "【鄭宜農 Enno Cheng –輕輕觸碰 The touch.】Official Music Video"
+        },
+        {
+          "durationText": "4:53",
+          "id": "tbOrmOWDYRk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tbOrmOWDYRk/mqdefault.jpg",
+          "title": "【鄭宜農 Enno Cheng –玉仔的心 Jade】Music Video"
+        },
+        {
+          "durationText": "4:11",
+          "id": "c79upw09pmk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/c79upw09pmk/mqdefault.jpg",
+          "title": "【鄭宜農Enno Cheng feat 陳嫺靜Hsien Ching - 街仔路雨落袂停 At a rainy night （Would you walk me home?）】Music Video"
+        },
+        {
+          "durationText": "6:35",
+          "id": "Z7hyNxqVwFw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Z7hyNxqVwFw/mqdefault.jpg",
+          "title": "【鄭宜農 Enno Cheng –千千萬萬 Lightyears of Solitude】Official Music Video"
+        }
+      ]
+    },
+    "playlist:121337290": {
+      "etag": "\"ejlk932g62bju\"",
+      "hash": "f8bf853fadfad16e33a67168ce8beaeb0aa747c56426e52ed0967b609a769545",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:25",
+          "id": "TbFWYT9VGRk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TbFWYT9VGRk/mqdefault.jpg",
+          "title": "周杰倫 Jay Chou【我是如此相信 I Truly Believe】(電影天火主題曲) Official MV"
+        }
+      ]
+    },
+    "playlist:121337325": {
+      "etag": "\"51cmecri4za6l\"",
+      "hash": "d89bf51c9aa8c1d113b9a18c7e8a7bfb8038c5039f3c064c483f414ac7b44408",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:45",
+          "id": "A6gIat5xLWI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/A6gIat5xLWI/mqdefault.jpg",
+          "title": "G.E.M.鄧紫棋【摩天動物園 City Zoo】Official Music Video"
+        }
+      ]
+    },
+    "playlist:121337339": {
+      "etag": "\"gtrghbnzyga2j\"",
+      "hash": "5da8fba5567c6ce34e93e0f94c2816f1b8930a1b811e8e9eee9c83f5cb00148b",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:35",
+          "id": "sG_5oKUi4zs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sG_5oKUi4zs/mqdefault.jpg",
+          "title": "高爾宣 OSN -【No Name】｜Official Audio"
+        }
+      ]
+    },
+    "playlist:121337353": {
+      "etag": "\"dzcotfchot188\"",
+      "hash": "b16de6c62899b56d2349624f62d47680200e54bf718fc0e4992378da4572f627",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:13",
+          "id": "FQXupe3j1Ds",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FQXupe3j1Ds/mqdefault.jpg",
+          "title": "小春Kenzy【沒在怕的 Fearle$$ness】Official Music Video (4K Video)"
+        },
+        {
+          "durationText": "4:35",
+          "id": "xXALk0L7ryQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xXALk0L7ryQ/mqdefault.jpg",
+          "title": "小春Kenzy Feat. 李英宏 aka DJ Didilong【香火 Incense】Official Music Video"
+        },
+        {
+          "durationText": "3:01",
+          "id": "AbHneaX6z78",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AbHneaX6z78/mqdefault.jpg",
+          "title": "小春Kenzy Feat. GAI【保險櫃 Lock Boxx】Official Music Video(4K)"
+        },
+        {
+          "durationText": "3:04",
+          "id": "e5BSHC467B8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/e5BSHC467B8/mqdefault.jpg",
+          "title": "小春Kenzy Feat. K9【啥款 SHA KUAN】Official Music Video(4K)"
+        }
+      ]
+    },
     "playlist:121931815": {
       "etag": "\"179ipcyu4gqd67\"",
       "hash": "82eb02cba7f291b90aefdb4d31c67f45a91e3a6dc6b3f2540bb50d270ea1dfed",
@@ -1690,6 +1836,77 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/-ceYSag6AIE/mqdefault.jpg",
           "title": "陳零九 Nine Chen feat. 韋禮安 WeiBird【再也不要 Never Again】Official Music Video (4K)"
+        }
+      ]
+    },
+    "playlist:121932371": {
+      "etag": "\"ksa5g92ygqama\"",
+      "hash": "a00f17333f19802dbf88491c5ccee90db5803bf45b4b28ffe8737556aaef3414",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:52",
+          "id": "rxpubZXi0sE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rxpubZXi0sE/mqdefault.jpg",
+          "title": "小宇 宋念宇 Xiao Yu - 默念你 Murmur - Official Music Video"
+        }
+      ]
+    },
+    "playlist:121932393": {
+      "etag": "\"b9qh72vzicatx\"",
+      "hash": "589afc5ce52a66c08194cfbdf8c560b003214550adf0abcf4587421295de6c76",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:56",
+          "id": "bsilceYOgQA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bsilceYOgQA/mqdefault.jpg",
+          "title": "Fever - Julia Wu 吳卓源｜Official Music Video"
+        },
+        {
+          "durationText": "4:14",
+          "id": "xxlxAFo2x1M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xxlxAFo2x1M/mqdefault.jpg",
+          "title": "Things Things Things - Julia Wu 吳卓源｜Official Music Video"
+        },
+        {
+          "durationText": "3:44",
+          "id": "1BQKXKL4L50",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1BQKXKL4L50/mqdefault.jpg",
+          "title": "全世界的朋友都讓我失望 - Julia Wu 吳卓源｜Official Lyric Visual"
+        }
+      ]
+    },
+    "playlist:121932740": {
+      "etag": "\"9xfybflu9sakb\"",
+      "hash": "bfdca520dd6f4a0dd7efb0ac26342f07bf9ed3a8299468539c143aa778c9d408",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:43",
+          "id": "Dl-ygwweQEc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Dl-ygwweQEc/mqdefault.jpg",
+          "title": "Elva Hsiao 蕭亞軒 當你和心跳一起出現 In a Heartbeat Official Music Video"
         }
       ]
     },
@@ -79605,14 +79822,14 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_electronic_dance:0:12": {
-      "etag": "\"57dncv92vg62z\"",
-      "hash": "5eade94c141c5a412a6408689557196669e87fc5edaaeb63ccc468d1a611f5b4",
+      "etag": "\"d8xxmdgf5f6d6\"",
+      "hash": "eb91f1d79b526f16904d68f9da36563f77e6879984a14c40535a630177011b2b",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_ma-m91v_TW5vPAa_7d8zaUzqpbXwHC68I",
           "kind": "playlist",
-          "subtitle": "115 首",
+          "subtitle": "116 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -79634,7 +79851,7 @@
         {
           "id": "RDCLAK5uy_nBrLYLD4uLur0yOG-Ayla-Ig64ZzZcy7A",
           "kind": "playlist",
-          "subtitle": "85 首",
+          "subtitle": "112 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -79656,15 +79873,18 @@
         {
           "id": "RDCLAK5uy_ld5jsLF7ZVsw2pnBl6_Qk3DbyPlTQoIZI",
           "kind": "playlist",
-          "subtitle": null,
-          "thumbnailSize": null,
-          "thumbnailURL": null,
+          "subtitle": "63 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/q-74HTjRbuY/mqdefault.jpg",
           "title": "電音新曲快遞"
         },
         {
           "id": "RDCLAK5uy_n64_P7t3MmbTu7jziSk48DL-oRWO98CPE",
           "kind": "playlist",
-          "subtitle": "453 首",
+          "subtitle": "127 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -79697,8 +79917,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_electronic_dance:12:12": {
-      "etag": "\"qm7j64yy606xv\"",
-      "hash": "425c94a45e1d4867acfed1acc08e5d034daf19361101af9dc9db4cb2f2e4dd3f",
+      "etag": "\"2gl2fiqfvy6xu\"",
+      "hash": "385b76460ae41eddd8b82990731ddc17eeedb0d8d02380367f7625250b66a0da",
       "itemCount": 12,
       "payload": [
         {
@@ -79715,7 +79935,7 @@
         {
           "id": "RDCLAK5uy_n6xsA4G1s9bHFjUyr2MGPBH4LXdj0orZQ",
           "kind": "playlist",
-          "subtitle": "107 首",
+          "subtitle": "70 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -79759,7 +79979,7 @@
         {
           "id": "RDCLAK5uy_khFJzdpmtk0_MaUuWNgqYbNamuGV623kk",
           "kind": "playlist",
-          "subtitle": "96 首",
+          "subtitle": "97 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -80231,14 +80451,14 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_hiphop:0:12": {
-      "etag": "\"ncep2wjje6ch\"",
-      "hash": "bb9832ad05397442aee319240ee620cb0b012e4a1809d0a15d469e48817b501b",
+      "etag": "\"ei7f4dow8z6ch\"",
+      "hash": "e94d178de9189ddca628ef35b7d812aadc485a413991179be4e9de1208aa6222",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_lBGRuQnsG37Akr1CY4SxL0VWFbPrbO4gs",
           "kind": "playlist",
-          "subtitle": "82 首",
+          "subtitle": "88 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -80249,7 +80469,7 @@
         {
           "id": "RDCLAK5uy_kw2wIlEv9llILhO0qoMTLsBBhmjzuibAc",
           "kind": "playlist",
-          "subtitle": "273 首",
+          "subtitle": "271 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -80271,7 +80491,7 @@
         {
           "id": "RDCLAK5uy_n7QjhERM2Q4Ha5B6t6ZmzyhOtRYjQtxKk",
           "kind": "playlist",
-          "subtitle": "94 首",
+          "subtitle": "81 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -80315,7 +80535,7 @@
         {
           "id": "RDCLAK5uy_mn6tD_6Np3G9e_JKSU1hbLDoPLSQUOcpU",
           "kind": "playlist",
-          "subtitle": "64 首",
+          "subtitle": "66 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -80326,8 +80546,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_hiphop:12:12": {
-      "etag": "\"essyz8znbc8ao\"",
-      "hash": "75e5f7e9baa26cd4f3b8fe86603c410e418867ab1389538c842539818c75460a",
+      "etag": "\"10jcvwrhja88ao\"",
+      "hash": "e5035f11b0a34af573130470b5acfa55bd6dc6f8f949413dd5492e21b2b91719",
       "itemCount": 12,
       "payload": [
         {
@@ -80407,7 +80627,7 @@
         {
           "id": "RDCLAK5uy_kjWs8kYE7G6CkEijcEvsO9MVdE5doD3uY",
           "kind": "playlist",
-          "subtitle": "31 首",
+          "subtitle": "81 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -80429,7 +80649,7 @@
         {
           "id": "RDCLAK5uy_mQM2-qOVfLCD2ZceUahSVgk4O1QoWCTZA",
           "kind": "playlist",
-          "subtitle": "38 首",
+          "subtitle": "50 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -80440,7 +80660,7 @@
         {
           "id": "RDCLAK5uy_lMXERBY0Uw6-9ZW1DVmMu8cicbwkkg15Q",
           "kind": "playlist",
-          "subtitle": "54 首",
+          "subtitle": "49 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -80451,12 +80671,12 @@
         {
           "id": "RDCLAK5uy_miUZvgsFyAog8xtjdFBCnM3EGJcG5ZRUk",
           "kind": "playlist",
-          "subtitle": "51 首",
+          "subtitle": "44 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/C1RtERuFJvo/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/33FNKeQEcg4/mqdefault.jpg",
           "title": "英國最熱嘻哈歌單"
         }
       ]
@@ -82276,8 +82496,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_rock:0:12": {
-      "etag": "\"145bol7jwq06bp\"",
-      "hash": "289fb2f6b90327b3381d338be9e17766fd49e6208c2edeb604a177936d33039d",
+      "etag": "\"7ykotmrnlp6bp\"",
+      "hash": "202dfb91f60a5213274e3b914cd524cf04ed27d8c67357d83cf006f6b92007b3",
       "itemCount": 12,
       "payload": [
         {
@@ -82305,12 +82525,12 @@
         {
           "id": "RDCLAK5uy_nyKVppE-RpLkeCcwLct4rvN9e8AAsS_qw",
           "kind": "playlist",
-          "subtitle": "63 首",
+          "subtitle": "51 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/n4RjJKxsamQ/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/k2C5TjS2sh4/mqdefault.jpg",
           "title": "輕柔搖滾情歌"
         },
         {
@@ -82371,14 +82591,14 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_rock:12:12": {
-      "etag": "\"kh7m7mjst7796\"",
-      "hash": "f91a0220822f1be8ca42181d4b0d1682a0e1af3ff574806587c8a1e135cc192b",
+      "etag": "\"ye41nkrynu796\"",
+      "hash": "dce6b71011185ac39394b8be1a19ba624dadb800164d59dc641259581fb262b7",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_mx8e76iA69eSkgLpj_oxbrgchR0I5Fa1U",
           "kind": "playlist",
-          "subtitle": "75 首",
+          "subtitle": "70 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -82400,7 +82620,7 @@
         {
           "id": "RDCLAK5uy_nwL5OO1y9H8qEuUiX_MKRADbyvpNMc_sc",
           "kind": "playlist",
-          "subtitle": "88 首",
+          "subtitle": "69 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -82411,12 +82631,12 @@
         {
           "id": "RDCLAK5uy_k-msS6PWOCGNcJo7gx0NQIPfyFzHglYEk",
           "kind": "playlist",
-          "subtitle": "67 首",
+          "subtitle": "61 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/LUw-f6f6bvc/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/OHAjc-ayhus/mqdefault.jpg",
           "title": "J-Rock!"
         },
         {
@@ -82427,7 +82647,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/h0aDQHxrlrw/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/uV-PoNLiFCI/mqdefault.jpg",
           "title": "熱門韓國搖滾樂"
         },
         {
@@ -86933,12 +87153,12 @@
     },
     "vector_systemlist_zh_genre_electronic_dance": {
       "complete": true,
-      "lastCompletedAt": "2026-07-28T10:45:06Z",
+      "lastCompletedAt": "2026-07-30T16:34:29Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_hiphop": {
       "complete": true,
-      "lastCompletedAt": "2026-07-28T10:45:04Z",
+      "lastCompletedAt": "2026-07-30T16:34:27Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_hk": {
@@ -86978,7 +87198,7 @@
     },
     "vector_systemlist_zh_genre_rock": {
       "complete": true,
-      "lastCompletedAt": "2026-07-28T05:24:47Z",
+      "lastCompletedAt": "2026-07-30T16:34:28Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_soundtrack": {
