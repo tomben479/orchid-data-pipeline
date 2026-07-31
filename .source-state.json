@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
+    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,7 +22,7 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_country"
+      "vector_systemlist_zh_genre_jazz"
     ]
   },
   "resources": {
@@ -1474,6 +1474,252 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:117183002": {
+      "etag": "\"15zs3wp9ixy1p5\"",
+      "hash": "a5cfe86b92308bc06b6478f488c081926e90459e92f21be12ff673ca9729624f",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "1:50",
+          "id": "r6GX3x-m9Ak",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/r6GX3x-m9Ak/mqdefault.jpg",
+          "title": "漂流木"
+        },
+        {
+          "durationText": "3:00",
+          "id": "tpy-onL-LVA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tpy-onL-LVA/mqdefault.jpg",
+          "title": "知影"
+        },
+        {
+          "durationText": "8:35",
+          "id": "c40vBp3L_bo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/c40vBp3L_bo/mqdefault.jpg",
+          "title": "[龍虎門] RAP N’ ROLL Vol.3 | 莫宰羊 X Gannnnn Studio【魚】【未接來電】"
+        },
+        {
+          "durationText": "3:28",
+          "id": "CvUO_qWjxH4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CvUO_qWjxH4/mqdefault.jpg",
+          "title": "告白"
+        },
+        {
+          "durationText": "3:57",
+          "id": "vDFk576zaWk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vDFk576zaWk/mqdefault.jpg",
+          "title": "返鄉列車"
+        },
+        {
+          "durationText": "3:14",
+          "id": "vUXOGr9Qs9U",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vUXOGr9Qs9U/mqdefault.jpg",
+          "title": "搶拍"
+        },
+        {
+          "durationText": "4:08",
+          "id": "OM5qkKqiKRo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OM5qkKqiKRo/mqdefault.jpg",
+          "title": "眼鏡仔"
+        },
+        {
+          "durationText": "3:58",
+          "id": "NXId3_EEGKY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NXId3_EEGKY/mqdefault.jpg",
+          "title": "莫宰羊 - 未接來電 missed call * M/V ***"
+        },
+        {
+          "durationText": "3:49",
+          "id": "SfehQq0wC84",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SfehQq0wC84/mqdefault.jpg",
+          "title": "莫宰羊 - 健康快樂 Health & Happiness * M/V ***"
+        }
+      ]
+    },
+    "playlist:117782578": {
+      "etag": "\"1imb9fyv7h177\"",
+      "hash": "3fc746642b8bb8b9e5243afd7eaf16bfff2d2701f16c6c9e83c811ebed3db22a",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:45",
+          "id": "NT_HkuiwMXE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NT_HkuiwMXE/mqdefault.jpg",
+          "title": "魏嘉瑩 Arrow Wei【 脫軌 】feat. 王彙筑 Official Music Video"
+        },
+        {
+          "durationText": "3:55",
+          "id": "tISW-i1SF7k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tISW-i1SF7k/mqdefault.jpg",
+          "title": "魏嘉瑩 Arrow Wei【花香】feat.盧彥澤 Official Music Video"
+        },
+        {
+          "durationText": "4:15",
+          "id": "m15Cz3ruVkw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/m15Cz3ruVkw/mqdefault.jpg",
+          "title": "魏嘉瑩 Arrow Wei【喜歡我吧】Official Music Video"
+        },
+        {
+          "durationText": "5:00",
+          "id": "7YjrU6oLH4Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7YjrU6oLH4Q/mqdefault.jpg",
+          "title": "魏嘉瑩 Arrow Wei【我還是不懂】Official Music Video（HIStory3 那一天 片尾曲）"
+        }
+      ]
+    },
+    "playlist:117782726": {
+      "etag": "\"qydfndalfoaj2\"",
+      "hash": "6a68926b38f3ee3235de27ac731b101aa66d1addee475c7244a3db34e94e7f35",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:56",
+          "id": "bsilceYOgQA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bsilceYOgQA/mqdefault.jpg",
+          "title": "Fever - Julia Wu 吳卓源｜Official Music Video"
+        }
+      ]
+    },
+    "playlist:117782752": {
+      "etag": "\"jx2agfwkmya1x\"",
+      "hash": "1a7dc760f78429ab64ebfdf6724f46d99d2efcc304d10fe7a7bc021323cd055d",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "6:02",
+          "id": "5DHCZ0x2IFA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5DHCZ0x2IFA/mqdefault.jpg",
+          "title": "黃明志【哥抽菸】(Official Music Video)"
+        }
+      ]
+    },
+    "playlist:117782868": {
+      "etag": "\"u9j8031l57at1\"",
+      "hash": "e2a05d9bb6257855af5e63f21391876ae54f868068723cd89670a5f2bfa08209",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:50",
+          "id": "zkCf1lfinME",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zkCf1lfinME/mqdefault.jpg",
+          "title": "頑童MJ116【兵法 The Quote】『完美世界M』遊戲主題曲 Official Music Video"
+        }
+      ]
+    },
+    "playlist:118386466": {
+      "etag": "\"z4etx98k2eqx\"",
+      "hash": "55a428bc34823a16f1d75e825345c8e5b48f0c80a1e56449a98290a10ceccb2a",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:13",
+          "id": "FQXupe3j1Ds",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FQXupe3j1Ds/mqdefault.jpg",
+          "title": "小春Kenzy【沒在怕的 Fearle$$ness】Official Music Video (4K Video)"
+        }
+      ]
+    },
+    "playlist:118386608": {
+      "etag": "\"wehc5da1s6ql\"",
+      "hash": "14e0d1c3d66147cee3fd539c71591dde96f19f2405eeba2fde0ea910530fbf0b",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "2:47",
+          "id": "UbPKL8gpVsc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UbPKL8gpVsc/mqdefault.jpg",
+          "title": "李友廷 Yo Lee、吳霏 Fei、楊碧琪 Becky | 偽裝 Pretend (Official)"
+        }
+      ]
+    },
+    "playlist:118386639": {
+      "etag": "\"4ojbb0bwl7als\"",
+      "hash": "1700af5d7ae0a953a63b91aa9abe6345e8dbe079d7de2c9afeb6ba13608ab0ff",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:39",
+          "id": "OdgyKUXcUIk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OdgyKUXcUIk/mqdefault.jpg",
+          "title": "J.Sheon - Ballad 輸情歌 (Official Music Video)"
         }
       ]
     },
@@ -70097,7 +70343,7 @@
       ]
     },
     "vector:vector_latest_zh:240:12": {
-      "etag": "\"lese24jsqa6gb\"",
+      "etag": "\"fcb20dh31s6gb\"",
       "hash": "130baa9746190fcca8dd50ecc8f89490bef8844bb699fa742cfeaacdb8db5bef",
       "itemCount": 12,
       "payload": [
@@ -87791,7 +88037,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 180
+      "nextOffset": 468
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
