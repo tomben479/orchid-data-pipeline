@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_jazz"
     ]
   },
   "resources": {
@@ -1473,6 +1474,222 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:109335592": {
+      "etag": "\"wq8m4svyucbdi\"",
+      "hash": "93c4bef615d1ef3565b6dc8a1ad24c80ac745be9c0406338dadcff10edbb5d6a",
+      "itemCount": 9,
+      "payload": [
+        {
+          "durationText": "3:53",
+          "id": "Q90FjqENu2A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Q90FjqENu2A/mqdefault.jpg",
+          "title": "麻吉弟弟 MACHI DIDI「Dream 夢」(Official MV)"
+        },
+        {
+          "durationText": "4:03",
+          "id": "TgxcAI5ridc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TgxcAI5ridc/mqdefault.jpg",
+          "title": "麻吉弟弟 ft. 劉軒蓁「奇妙的幸運」免費下載 | MACHI DIDI ft. Ray Liu「Lucky」(Official Music Video)"
+        },
+        {
+          "durationText": "3:00",
+          "id": "zMx__ee9zKE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zMx__ee9zKE/mqdefault.jpg",
+          "title": "麻吉弟弟 MACHI DIDI「五福路 (Only You)」免費下載 (官方 4K Official Music Video)"
+        },
+        {
+          "durationText": "3:31",
+          "id": "2qSg9sAvvpE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2qSg9sAvvpE/mqdefault.jpg",
+          "title": "麻吉弟弟 MACHI DIDI「Sweet (甜過頭)」免費下載 (Official MV)"
+        },
+        {
+          "durationText": "3:01",
+          "id": "KwLpRJEaERg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KwLpRJEaERg/mqdefault.jpg",
+          "title": "麻吉弟弟 ft. 反骨男孩 「發浪」(Official Audio) | MACHI DIDI ft. Wackyboys 「My Wave」"
+        },
+        {
+          "durationText": "3:01",
+          "id": "UVj2VLA5M7c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UVj2VLA5M7c/mqdefault.jpg",
+          "title": "麻吉弟弟 MACHI DIDI「炫耀又怎樣 (Showoff)」免費下載 Official MV"
+        },
+        {
+          "durationText": "4:32",
+          "id": "tkJyxsqbHls",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tkJyxsqbHls/mqdefault.jpg",
+          "title": "麻吉弟弟 X 婁峻碩「Playboy (玩到發大)」免費下載 Official MV | MACHI DIDI X SHOU"
+        }
+      ]
+    },
+    "playlist:109335669": {
+      "etag": "\"ssvfe2c3jsb38\"",
+      "hash": "cf3143e2138dececca41501578e91f9d80642261b46c9c2136bbbd1f46aa2494",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:54",
+          "id": "xFNl0-eyGDU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xFNl0-eyGDU/mqdefault.jpg",
+          "title": "周湯豪 NICKTHEREAL《兩秒終 2 Seconds》Official Music Video"
+        },
+        {
+          "durationText": "3:21",
+          "id": "DOPqj5trm_w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DOPqj5trm_w/mqdefault.jpg",
+          "title": "周湯豪 NICKTHEREAL《All These Girls》Official Music Video"
+        },
+        {
+          "durationText": "3:10",
+          "id": "WtADEYei7fI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WtADEYei7fI/mqdefault.jpg",
+          "title": "周湯豪 NICKTHEREAL《i GO》Official Music Video"
+        }
+      ]
+    },
+    "playlist:109953244": {
+      "etag": "\"uljtep5mshtl\"",
+      "hash": "4dc088621956272c87d377fe8c591ef691d435645b45243880ee42f11d21a8e3",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:29",
+          "id": "LV7eT2_VwMw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LV7eT2_VwMw/mqdefault.jpg",
+          "title": "吳青峰〈太空 Space〉Official MV"
+        }
+      ]
+    },
+    "playlist:109953280": {
+      "etag": "\"10tpxeu6ocdq1\"",
+      "hash": "567a24c2ec062a956d7b3d88ba511db7e0416f82518df6d030cf1ad944a4b8dd",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:48",
+          "id": "13HKz2W_jks",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/13HKz2W_jks/mqdefault.jpg",
+          "title": "ØZI -【S.M.O.K.E. 狼煙】ft. KENZY 小春"
+        }
+      ]
+    },
+    "playlist:109953301": {
+      "etag": "\"90sjs7g9jwabr\"",
+      "hash": "0833dcfce95c94f47ac191beee71e9b6f5a5a2f0785ee4e2e0f14ea5fbe2147c",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:55",
+          "id": "65IKNssGRPI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/65IKNssGRPI/mqdefault.jpg",
+          "title": "MAYDAY五月天 [ 玫瑰少年 ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:109953398": {
+      "etag": "\"1236govo2b8qx\"",
+      "hash": "5022d9cbab577bda15b5833943a9d4cdd0155c1990dba65cf5bdbb3bd174a0b0",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:58",
+          "id": "pMZpC0_Zzdw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pMZpC0_Zzdw/mqdefault.jpg",
+          "title": "劉以豪 Jasper Liu《有一種悲傷 A Kind of Sorrow》Official Music Video"
+        }
+      ]
+    },
+    "playlist:110603762": {
+      "etag": "\"zwo076eq73qn\"",
+      "hash": "309f06a31f8e9bb4b7f5da3bf8f5f81d69add4ee2bec25ce93346ec2ba2cdcae",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:55",
+          "id": "SVJk0ll_jSs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SVJk0ll_jSs/mqdefault.jpg",
+          "title": "蔡旻佑 Evan Yo《 變心記 Metamorphosis 》Official Music Video"
+        }
+      ]
+    },
+    "playlist:110603801": {
+      "etag": "\"xezwyrkslu9y1\"",
+      "hash": "e689663ca23e7ff4d9f2cecc876e4c8c70cc6178a0ccf2591a450a7ed83cab3c",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "6:36",
+          "id": "UocMW7BG0ls",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UocMW7BG0ls/mqdefault.jpg",
+          "title": "茄子蛋EggPlantEgg - 這款自作多情 All That Wishful Thinking (Official Music Video)"
         }
       ]
     },
@@ -88741,7 +88958,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1620
+      "nextOffset": 1908
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
