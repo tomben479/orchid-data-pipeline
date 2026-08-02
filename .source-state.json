@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_country"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1474,6 +1473,152 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:106738864": {
+      "etag": "\"93n0xrae8wsz\"",
+      "hash": "fd579c2eeaf0e046441caa5a970a8be49515b90d48f580826ee87710977ef466",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:23",
+          "id": "5HkZTZPbu24",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5HkZTZPbu24/mqdefault.jpg",
+          "title": "JiaJia家家 feat.ØZI  [ 好事派對 House Party ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:106738933": {
+      "etag": "\"rt09y988xsqd\"",
+      "hash": "0385398e04232587470de3071a67a142e4ca14e389017d025209815d0bd4d901",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:10",
+          "id": "U0fajioSO9E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/U0fajioSO9E/mqdefault.jpg",
+          "title": "BOXING葛西瓦 X BCW 「到了沒」Official Music Video"
+        }
+      ]
+    },
+    "playlist:107313145": {
+      "etag": "\"iig7pifbs4u6\"",
+      "hash": "267cca45c4983617bcea19aef6d0aa6868817d7967aa2fabcd9d1cd098f3763c",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:54",
+          "id": "iOs7Ykmhew4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iOs7Ykmhew4/mqdefault.jpg",
+          "title": "吳青峰〈巴別塔慶典 The Carnival in Babel〉Official MV"
+        }
+      ]
+    },
+    "playlist:107313155": {
+      "etag": "\"s2i3q1ti35am1\"",
+      "hash": "f38006c7bc6bb10aef346e950154c64916b7640fee5b5e9ce30a2a6bc43829f9",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:34",
+          "id": "ulKrn-3GraI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ulKrn-3GraI/mqdefault.jpg",
+          "title": "茄子蛋EggPlantEgg - Happy!!! 運將情歌 Happy!!! Drivers Love Song (Official Music Video)"
+        }
+      ]
+    },
+    "playlist:107313164": {
+      "etag": "\"b4rxirrgt9aq1\"",
+      "hash": "a2246e2fdc6a2e9bcdc6429da13831143d660b2512cb3e39126941d56f750a85",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:47",
+          "id": "FLUP5Wa2QHo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FLUP5Wa2QHo/mqdefault.jpg",
+          "title": "薛之謙 Joker Xue【木偶人 Puppet】HD 高清官方歌詞版 MV"
+        }
+      ]
+    },
+    "playlist:107313276": {
+      "etag": "\"1846hyy7l2abdp\"",
+      "hash": "c6f518bbfa76c3849b55beb1ca6776df27b74dcc386c6b13e9d790fa39964fac",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "3:57",
+          "id": "w146W4zIhi4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/w146W4zIhi4/mqdefault.jpg",
+          "title": "信 Shin【為你著魔 Falling head over toes】Official Music Video"
+        },
+        {
+          "durationText": "3:59",
+          "id": "xYUUMRZe28I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xYUUMRZe28I/mqdefault.jpg",
+          "title": "信 Shin【 煉金術 Alchemy】Official Music Video"
+        }
+      ]
+    },
+    "playlist:108049178": {
+      "etag": "\"13gt1fu3050atg\"",
+      "hash": "3c868b8d59e4e2764adb6e5d22421360152ac8f3962c9e4b011b2fc3c9772108",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:47",
+          "id": "s4pxJ-1QLQg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/s4pxJ-1QLQg/mqdefault.jpg",
+          "title": "G.E.M.鄧紫棋【差不多姑娘 MISS SIMILAR 】Real Talk版 Official Music Video"
+        }
+      ]
+    },
+    "playlist:108049279": {
+      "etag": "\"x6fbsktxieaks\"",
+      "hash": "6145abec3e9ea89cc0ac6b54a19ba7d53e07542b4d890db885fe1710817381b4",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:33",
+          "id": "DgGLF2rQJWs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DgGLF2rQJWs/mqdefault.jpg",
+          "title": "孫燕姿 [守護永恆的愛] official music video/ Sun Yanzi - Eternal Love"
         }
       ]
     },
@@ -82770,8 +82915,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_hk:0:12": {
-      "etag": "\"qkl05s0k7g5p1\"",
-      "hash": "fa59839cce3a936f813be566db5a50d2c6f14cc317b1b08f9c49381cf3997a88",
+      "etag": "\"14wm104jn8r5p1\"",
+      "hash": "6997efd7bdfebda6bc5320139e55e3ec1cb7bbb10383feb32e8e0eb69536fed9",
       "itemCount": 9,
       "payload": [
         {
@@ -82782,7 +82927,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/j8gs9-j3ge0/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/N4hKAVbncCE/mqdefault.jpg",
           "title": "熱門粵語歌曲"
         },
         {
@@ -82815,7 +82960,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/HgL0LK7_FX4/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/H5ivE_QZTcw/mqdefault.jpg",
           "title": "香港高能量樂曲合輯"
         },
         {
@@ -83139,8 +83284,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_jpop:0:12": {
-      "etag": "\"5fvxia5wi665r\"",
-      "hash": "029ef9c9a6c9e094ac6c1ac1e35ffa2eb40181b9157b5c8217b2c1d510961f83",
+      "etag": "\"ag5vtlqkk365r\"",
+      "hash": "291946ea3d8e9e5faa012f284efe94cb15377db7673188f165b60d1c786a3dda",
       "itemCount": 12,
       "payload": [
         {
@@ -83151,46 +83296,46 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/y5FF8W3nldU/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/OHAjc-ayhus/mqdefault.jpg",
           "title": "J-Hits!"
         },
         {
           "id": "RDCLAK5uy_k-msS6PWOCGNcJo7gx0NQIPfyFzHglYEk",
-          "kind": "playlist",
-          "subtitle": "64 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/4LDQXYTfWjA/mqdefault.jpg",
-          "title": "J-Rock!"
-        },
-        {
-          "id": "RDCLAK5uy_n_0oxNdu51kEhJd9zfZCJlaJhwMaOCwWI",
-          "kind": "playlist",
-          "subtitle": "54 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/wFJcIOMsOaU/mqdefault.jpg",
-          "title": "日本饒舌音樂精選"
-        },
-        {
-          "id": "RDCLAK5uy_kWnxXLJFZlfFetBdZDOTgEuwVmA-vq98E",
           "kind": "playlist",
           "subtitle": "61 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/Nh6Aj04hg70/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/OHAjc-ayhus/mqdefault.jpg",
+          "title": "J-Rock!"
+        },
+        {
+          "id": "RDCLAK5uy_n_0oxNdu51kEhJd9zfZCJlaJhwMaOCwWI",
+          "kind": "playlist",
+          "subtitle": "55 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JnKmiijVEs4/mqdefault.jpg",
+          "title": "日本饒舌音樂精選"
+        },
+        {
+          "id": "RDCLAK5uy_kWnxXLJFZlfFetBdZDOTgEuwVmA-vq98E",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Egir37pY27U/mqdefault.jpg",
           "title": "日本節奏藍調"
         },
         {
           "id": "RDCLAK5uy_kRMtamnVCD4AQaBkMy_ULry_26F3YzYps",
           "kind": "playlist",
-          "subtitle": "65 首",
+          "subtitle": "67 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -83201,18 +83346,18 @@
         {
           "id": "RDCLAK5uy_mD1l6qiKHTiFmKKUax1NUznpM9m6daNTw",
           "kind": "playlist",
-          "subtitle": "50 首",
+          "subtitle": "48 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/2aTO4-5-Q2I/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/34stjsKLSew/mqdefault.jpg",
           "title": "男團發燒播放清單"
         },
         {
           "id": "RDCLAK5uy_kodHrAMtdv2D7v5QzPrzEwVum_HKHRBE0",
           "kind": "playlist",
-          "subtitle": "131 首",
+          "subtitle": "132 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -83228,36 +83373,36 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/HUTbH6ywrXk/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/ON4NXPUx-E8/mqdefault.jpg",
           "title": "日本金曲：90 年代"
         }
       ]
     },
     "vector:vector_systemlist_zh_genre_jpop:12:12": {
-      "etag": "\"118aug4d2br6fi\"",
-      "hash": "c34ed2cbe310ee77f4f89937d5ad9eabbe482eca989444814d54239ad186f7b6",
+      "etag": "\"riuyhdos2h6fi\"",
+      "hash": "9d6437f3bfb198b796c4c8c9762dd36160a6eb46be3063dbb421592d117dedd2",
       "itemCount": 10,
       "payload": [
         {
           "id": "RDCLAK5uy_mRcc2Y3l-RoZsDt27qu8CBGpKt-5w7v8g",
           "kind": "playlist",
-          "subtitle": "194 首",
+          "subtitle": "230 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/TcMV9YeT9Sw/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/LmZD-TU96q4/mqdefault.jpg",
           "title": "最熱日本動漫歌曲"
         },
         {
           "id": "RDCLAK5uy_kcW2SIN71BXYfkt6m77btIWGW3X0pr8ew",
           "kind": "playlist",
-          "subtitle": "66 首",
+          "subtitle": "74 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/7NgGbDb53M8/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/aoOEmjRds24/mqdefault.jpg",
           "title": "創作歌手發燒播放清單"
         },
         {
@@ -83268,24 +83413,24 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/DDqWwZEmJv4/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/r5ft8ewH8nE/mqdefault.jpg",
           "title": "日本雷鬼樂"
         },
         {
           "id": "RDCLAK5uy_nrlkrr_u-6YV9RYdd7n2oSZgijayoiBHg",
           "kind": "playlist",
-          "subtitle": "49 首",
+          "subtitle": "48 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/moxZO4Q8_Nk/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/vHGoKzu4Qfo/mqdefault.jpg",
           "title": "女團發燒播放清單"
         },
         {
           "id": "RDCLAK5uy_kvhjcPWzH7xZL-WnqGbiA_euQGy5_cbHI",
           "kind": "playlist",
-          "subtitle": "103 首",
+          "subtitle": "102 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -83296,7 +83441,7 @@
         {
           "id": "RDCLAK5uy_kxAoxQom_241BBzDHDw5fsFzpdUG153I4",
           "kind": "playlist",
-          "subtitle": "130 首",
+          "subtitle": "136 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -83307,7 +83452,7 @@
         {
           "id": "RDCLAK5uy_m_4zR2FQcuFQfy7QIrhKRL0Sa6RKL7Jvk",
           "kind": "playlist",
-          "subtitle": "116 首",
+          "subtitle": "126 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -83351,8 +83496,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_kpop:0:12": {
-      "etag": "\"u16d5mrikr6ck\"",
-      "hash": "250973db2a06576b9453ef3ce6f547bb0807ce54ccb71472e6281ea1158d0f33",
+      "etag": "\"x1o12bgm6k6ck\"",
+      "hash": "930ff5db35cd70b2e077f9707d613ab493c6090cc1cdf0720e925e1092415894",
       "itemCount": 12,
       "payload": [
         {
@@ -83363,13 +83508,13 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/FFjDEkZg-54/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/_IT83Y_HcAw/mqdefault.jpg",
           "title": "K.iNG"
         },
         {
           "id": "RDCLAK5uy_lYcZ4MYVJGyRwpiW773f6tOgQGK8rqD9Q",
           "kind": "playlist",
-          "subtitle": "145 首",
+          "subtitle": "143 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -83391,7 +83536,7 @@
         {
           "id": "RDCLAK5uy_mGqpnGXDOvy6gNQuhdbZEAkjQ_gVJnbx0",
           "kind": "playlist",
-          "subtitle": "79 首",
+          "subtitle": "77 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -83402,7 +83547,7 @@
         {
           "id": "RDCLAK5uy_kLzCY4h1nP5QbyO19tiTwqkrkfoxPdSRo",
           "kind": "playlist",
-          "subtitle": "100 首",
+          "subtitle": "103 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -83413,7 +83558,7 @@
         {
           "id": "RDCLAK5uy_mk11wKIzEMTu5TnhhmXU6SyNtw1XSrVoQ",
           "kind": "playlist",
-          "subtitle": "106 首",
+          "subtitle": "102 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -83446,8 +83591,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_kpop:12:12": {
-      "etag": "\"e71eyyh6uj716\"",
-      "hash": "87d0830a70695efc2bbe3d60441ccbb26b0f5751fd8c316f992545c1b81b66ad",
+      "etag": "\"gohs7bvwvu716\"",
+      "hash": "5408a239999831bda5e7cfa180649f4745d8180d38df6258f445008e0ca02adf",
       "itemCount": 12,
       "payload": [
         {
@@ -83458,7 +83603,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/-q_S27LbNKU/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/sLk8zWUuYTA/mqdefault.jpg",
           "title": "BEAT ON"
         },
         {
@@ -83475,7 +83620,7 @@
         {
           "id": "RDCLAK5uy_kSZ85qHgyyqQCKkCtrjbA3m8Am7GfOTcQ",
           "kind": "playlist",
-          "subtitle": "136 首",
+          "subtitle": "102 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -83486,7 +83631,7 @@
         {
           "id": "RDCLAK5uy_m-MIH8e5UE7ERgHzrDjfMRhP-S-lWdzu4",
           "kind": "playlist",
-          "subtitle": "92 首",
+          "subtitle": "84 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -83497,18 +83642,18 @@
         {
           "id": "RDCLAK5uy_mMRkzfvFXzNQbSl3K-hE_FJ7g8TqMtSlo",
           "kind": "playlist",
-          "subtitle": "81 首",
+          "subtitle": "80 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/_4uUgLF8Ljw/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/dd5eVyC3FTk/mqdefault.jpg",
           "title": "韓國R&B熱門歌曲"
         },
         {
           "id": "RDCLAK5uy_lxz1SeC-dOdPiaFdndgqIrhnAfwv1DohM",
           "kind": "playlist",
-          "subtitle": "119 首",
+          "subtitle": "120 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -83524,7 +83669,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/qZlu2j2SiBA/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/W9SBhNLTDVw/mqdefault.jpg",
           "title": "K-HITLIST"
         },
         {
@@ -89178,7 +89323,7 @@
     },
     "vector_systemlist_zh_genre_hk": {
       "complete": true,
-      "lastCompletedAt": "2026-07-14T05:09:56Z",
+      "lastCompletedAt": "2026-08-02T05:36:32Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_jazz": {
@@ -89188,12 +89333,12 @@
     },
     "vector_systemlist_zh_genre_jpop": {
       "complete": true,
-      "lastCompletedAt": "2026-07-13T11:28:39Z",
+      "lastCompletedAt": "2026-08-02T05:36:32Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_kpop": {
       "complete": true,
-      "lastCompletedAt": "2026-07-13T11:28:39Z",
+      "lastCompletedAt": "2026-08-02T05:36:32Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_never_go_out": {
