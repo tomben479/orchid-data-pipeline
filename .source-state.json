@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_jazz"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -1474,6 +1473,242 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/GV2mY1Z5IX4/mqdefault.jpg",
           "title": "生き様"
+        }
+      ]
+    },
+    "playlist:101522620": {
+      "etag": "\"gvolddc97w8tc\"",
+      "hash": "8aac9c3defb80df507b32e858d358f743c9e48e3a2596de75c92565ce5ce34e4",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "3:49",
+          "id": "hZQQlZH3nEc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hZQQlZH3nEc/mqdefault.jpg",
+          "title": "Zi Fei Yu"
+        },
+        {
+          "durationText": "3:52",
+          "id": "4-6iKBtYS8o",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4-6iKBtYS8o/mqdefault.jpg",
+          "title": "Ping Xing Shi Kong"
+        },
+        {
+          "durationText": "4:49",
+          "id": "FeadzIUFNMU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FeadzIUFNMU/mqdefault.jpg",
+          "title": "Wan Zheng De Wo"
+        },
+        {
+          "durationText": "4:13",
+          "id": "cSTss6C_ouo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cSTss6C_ouo/mqdefault.jpg",
+          "title": "Yi Ni De Ming Zi Hu Han Wo"
+        },
+        {
+          "durationText": "4:49",
+          "id": "DS5PmEcSrJ4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DS5PmEcSrJ4/mqdefault.jpg",
+          "title": "Ru Ai Suo Yuan"
+        },
+        {
+          "durationText": "7:38",
+          "id": "TpF0wNlopp8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TpF0wNlopp8/mqdefault.jpg",
+          "title": "梁靜茹 Fish Leong〈慢冷 Slow-To-Cool-Down〉Official Music Video"
+        },
+        {
+          "durationText": "4:57",
+          "id": "agr6UT8uK5E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/agr6UT8uK5E/mqdefault.jpg",
+          "title": "梁靜茹 Fish Leong〈微光 Twilight〉Official Music Video"
+        },
+        {
+          "durationText": "6:21",
+          "id": "NzbIolOSWto",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NzbIolOSWto/mqdefault.jpg",
+          "title": "梁靜茹 Fish Leong〈 我好嗎 How Am I 〉Official Music Video"
+        }
+      ]
+    },
+    "playlist:101523058": {
+      "etag": "\"axruh6eybv9yy\"",
+      "hash": "20bad9afa68c024e4fcb522f9aae57194c1f1299951e461482b15c6245674974",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:02",
+          "id": "VaAacrLk4gE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VaAacrLk4gE/mqdefault.jpg",
+          "title": "'九澤CP' 陳零九 Nine Chen 邱鋒澤 FENG ZE【天黑請閉眼 Werewolves】Official Music Video"
+        }
+      ]
+    },
+    "playlist:102252491": {
+      "etag": "\"17ib5e8tzaiu8\"",
+      "hash": "d7828312ebc92e3ab7e639ed2b6a8ef916e48e24d8735aa83f79e05aaaba6794",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "6:51",
+          "id": "_dW66owaCJs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_dW66owaCJs/mqdefault.jpg",
+          "title": "伍佰 & China Blue《讓水倒流》 Official Music Video"
+        }
+      ]
+    },
+    "playlist:102252759": {
+      "etag": "\"mwypt374m6ud\"",
+      "hash": "b5bb44f50f24a9fb0e51711628046834351c8cb17db6b404cdc4194740d75a07",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "5:56",
+          "id": "MTjWhqsO5Bc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MTjWhqsO5Bc/mqdefault.jpg",
+          "title": "老王樂隊｜曾經的女人啊 你在哪裡 你在哪裡 Where Is My Ex? (Official)"
+        }
+      ]
+    },
+    "playlist:102252832": {
+      "etag": "\"11srhbyhlwsx\"",
+      "hash": "46b9052b5a6974d10f69011dec6b43e43f62c5f441f914fcf99ae2a522973e8d",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:54",
+          "id": "L3oDm5ff1to",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/L3oDm5ff1to/mqdefault.jpg",
+          "title": "SｍashRegz - Trout Fresh/呂士軒 - 通勤打理/Suit up (Official Music Video)"
+        }
+      ]
+    },
+    "playlist:102253433": {
+      "etag": "\"hrepvy1vv2qs\"",
+      "hash": "0f33c5733513d105b4493db8908df7f0a36778d84275f8674ad7525ba9f57a7c",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "5:01",
+          "id": "nIa_xJgFO38",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nIa_xJgFO38/mqdefault.jpg",
+          "title": "宋楚琳 Erin Song / 馬念先 Mars Ma《去年冬天 Last Winter》Official MV"
+        }
+      ]
+    },
+    "playlist:102967193": {
+      "etag": "\"jl0irw6fdaz3\"",
+      "hash": "840aaecf388cb3a7ca804ea5c6fad79cfe7db53f8533d83559740bfca44ebd04",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "4:05",
+          "id": "0TJrheSXuPc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0TJrheSXuPc/mqdefault.jpg",
+          "title": "張震嶽 ayal komod x MC HotDog 熱狗 x 功夫胖 KUNGFU-PEN x 派克特 PACT 【再見Hip-Hop】Official Music Video"
+        },
+        {
+          "durationText": "4:16",
+          "id": "_UP8soqhgtE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_UP8soqhgtE/mqdefault.jpg",
+          "title": "MC HotDog 熱狗【Do You Remember】Official Music Video"
+        },
+        {
+          "durationText": "4:14",
+          "id": "PzfMegHg2tY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PzfMegHg2tY/mqdefault.jpg",
+          "title": "MC HotDog 熱狗【嘻哈沒有派對 Hip Hop No Party】Official Music Video"
+        },
+        {
+          "durationText": "4:01",
+          "id": "o-fS7tmhLNU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/o-fS7tmhLNU/mqdefault.jpg",
+          "title": "MC HotDog 熱狗 Feat. 張震嶽 ayal komod【改變 Change】Official Music Video"
+        }
+      ]
+    },
+    "playlist:102967286": {
+      "etag": "\"109z6u64werr0\"",
+      "hash": "7a706a27084c40385eeadb3b1d35ff8c31be9388aca4120719bcdc60dd884508",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:59",
+          "id": "Xr6PMVhhx_c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Xr6PMVhhx_c/mqdefault.jpg",
+          "title": "獅子 LION - 美麗、醜與我 Beautiful、Ugly & Me (華納 Official HD 官方MV)"
         }
       ]
     },
@@ -50905,7 +51140,7 @@
       ]
     },
     "vector:vector_featured_zh:372:12": {
-      "etag": "\"852pk0nspo687\"",
+      "etag": "\"11j3nm835x3687\"",
       "hash": "b48787da59c9727c46c925efb36c7f7eeba423e7c20e75aa00d7cb0b8b266122",
       "itemCount": 12,
       "payload": [
@@ -89737,7 +89972,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 288
+      "nextOffset": 576
     },
     "vector_latest_zh": {
       "complete": true,
