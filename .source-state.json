@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_country"
     ]
   },
   "resources": {
@@ -32724,6 +32725,342 @@
         }
       ]
     },
+    "playlist:91073523": {
+      "etag": "\"vz1een7v9ja3m\"",
+      "hash": "ef7edad7b72449da9e14aa4dcd2e8424f84780eb5e580da93a8d48ddc00906b8",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:48",
+          "id": "4NKw3TfaKCw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4NKw3TfaKCw/mqdefault.jpg",
+          "title": "高爾宣 OSN -【最後一次】The Last Time｜Official MV"
+        }
+      ]
+    },
+    "playlist:92768587": {
+      "etag": "\"a6siaqso408nd\"",
+      "hash": "d7ec0f4e93924c141f5a302d7cd45b88e089c768072e15ab5cfab3a000943ede",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:05",
+          "id": "0O0YarsZmJs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0O0YarsZmJs/mqdefault.jpg",
+          "title": "盧廣仲 Crowd Lu 【愛情怎麼了嗎 Self-complacent】 Official Live Video (首屆 KKBOX 香港風雲榜演出)"
+        }
+      ]
+    },
+    "playlist:92771209": {
+      "etag": "\"pi01ru3oln9m6\"",
+      "hash": "380a792315948ca74b68d1a8e33ec7fe880c28edc1f53e121b5ed59bbd0f8cd5",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:39",
+          "id": "N2VtcP24N50",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/N2VtcP24N50/mqdefault.jpg",
+          "title": "Haor許書豪 ft. 蕭敬騰 Jam Hsiao【別再叫我哥 Don't Call Me Bro 】Official Music Video"
+        }
+      ]
+    },
+    "playlist:92771444": {
+      "etag": "\"hr0xswlxz6976\"",
+      "hash": "374487a626247a386b4a40d4dfb3194e33ec5c0034877ca01c0a3c2883039a73",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:54",
+          "id": "JuBJMTe4ZJc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JuBJMTe4ZJc/mqdefault.jpg",
+          "title": "戴佩妮 Penny Tai《你要的愛（心動版）》Official 完整版 MV [HD]"
+        }
+      ]
+    },
+    "playlist:94172811": {
+      "etag": "\"96sc75f2dpau5\"",
+      "hash": "f31804708cbfd26c7988ce3b5db655643b9c376d38a0d2e3bb706b0d27fead29",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:20",
+          "id": "sSidvDS5Naw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sSidvDS5Naw/mqdefault.jpg",
+          "title": "｜MV｜林宥嘉 Yoga Lin〈別讓我走遠〉｜我們與惡的距離 主題曲"
+        }
+      ]
+    },
+    "playlist:94173069": {
+      "etag": "\"hq5fe01dar95w\"",
+      "hash": "3580633bce825d9e420510dcd932160736faa21e249972fa412d364267c0f83a",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:03",
+          "id": "ONEVOn5YUnk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ONEVOn5YUnk/mqdefault.jpg",
+          "title": "許莉潔 & 安懂《當我回家 I'm Home》官方動態歌詞MV (無損高音質)"
+        }
+      ]
+    },
+    "playlist:94173173": {
+      "etag": "\"5tq516482nar2\"",
+      "hash": "f6b18f0cdf4b685b61fa9b159bd09808fda4dbf4396fb984341a0d405d971309",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:58",
+          "id": "hkDShEZUlsQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hkDShEZUlsQ/mqdefault.jpg",
+          "title": "郁可唯 Yisa Yu [ 三十而慄 Intersection of 30 ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:94173207": {
+      "etag": "\"3i5j465w7nay2\"",
+      "hash": "7ae4b5f5351d68533e532177a71832761a43fef7d1e747ac08638b3062fc2bfd",
+      "itemCount": 23,
+      "payload": [
+        {
+          "durationText": "4:42",
+          "id": "ILVlVWle8m0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ILVlVWle8m0/mqdefault.jpg",
+          "title": "八三夭[最後的 8/31]MV官方完整版"
+        },
+        {
+          "durationText": "4:18",
+          "id": "gk6jrs2o56U",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gk6jrs2o56U/mqdefault.jpg",
+          "title": "八三夭 831【世界上最危險的東西就是希望 The Most Dangerous Stuff in the World】Official Lyric Video"
+        },
+        {
+          "durationText": "4:44",
+          "id": "amLM8pxaSx0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/amLM8pxaSx0/mqdefault.jpg",
+          "title": "八三夭831【老媽最常說的十句話 Mama Says】Official Music Video"
+        },
+        {
+          "durationText": "3:13",
+          "id": "EI1qONB9bHs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EI1qONB9bHs/mqdefault.jpg",
+          "title": "八三夭 - 來去夏威夷"
+        },
+        {
+          "durationText": "4:10",
+          "id": "e0k-EM6zJ10",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/e0k-EM6zJ10/mqdefault.jpg",
+          "title": "八三夭 831 feat. 任賢齊 Richie Jen & 五月天 阿信 Mayday AShin 【乾啦 乾啦 Cheers！】Official Music Video"
+        },
+        {
+          "durationText": "3:10",
+          "id": "V9hz2JbA-OE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/V9hz2JbA-OE/mqdefault.jpg",
+          "title": "八三夭 [渴了] MV官方完整版"
+        },
+        {
+          "durationText": "3:27",
+          "id": "a76_nM6UZuw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/a76_nM6UZuw/mqdefault.jpg",
+          "title": "《本色》All the Rage 台北國際潮流藝術展形象曲"
+        },
+        {
+          "durationText": "4:37",
+          "id": "bYWVIRbnRcQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bYWVIRbnRcQ/mqdefault.jpg",
+          "title": "八三夭【不是男人】MV官方完整版"
+        },
+        {
+          "durationText": "5:06",
+          "id": "E1tgHfuKMrs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/E1tgHfuKMrs/mqdefault.jpg",
+          "title": "八三夭【最好的結局】MV官方完整版 - 中天 [ 閣樓上的王子 ] 片頭曲"
+        },
+        {
+          "durationText": "4:24",
+          "id": "2dyxFtDxnrA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2dyxFtDxnrA/mqdefault.jpg",
+          "title": "八三夭 831 【怪物 Monster】Official Music Video"
+        },
+        {
+          "durationText": "4:16",
+          "id": "Fw_h2gQtubg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Fw_h2gQtubg/mqdefault.jpg",
+          "title": "八三夭 831【飢餓遊戲 The Hunger Games】Official Music Video"
+        },
+        {
+          "durationText": "4:35",
+          "id": "yUWAYvfQ0dA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yUWAYvfQ0dA/mqdefault.jpg",
+          "title": "八三夭 831 【鋼鐵人 IronMan】Official Music Video"
+        },
+        {
+          "durationText": "3:35",
+          "id": "qVKLNfbpCZ0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qVKLNfbpCZ0/mqdefault.jpg",
+          "title": "八三夭【東區東區】MV官方完整版"
+        },
+        {
+          "durationText": "4:14",
+          "id": "bG46ysbbVTs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bG46ysbbVTs/mqdefault.jpg",
+          "title": "鄭秀文 Sammi Cheng x 八三夭831【眉飛色舞PLUS】Official Music Video"
+        },
+        {
+          "durationText": "4:55",
+          "id": "0TLhN3fPjk0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0TLhN3fPjk0/mqdefault.jpg",
+          "title": "八三夭 831 【我怎麼哭了 Why I Cried】Official Music Video"
+        },
+        {
+          "durationText": "3:29",
+          "id": "klVR_3EnuO0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/klVR_3EnuO0/mqdefault.jpg",
+          "title": "八三夭 831【搖勒搖勒 Yoleh Yoleh】「2015 搖勒搖勒熱血巴士 環島巡迴演唱會 Yoleh Fever Bus Live Tour」主題曲 Official Music Video"
+        },
+        {
+          "durationText": "5:05",
+          "id": "R_EB7VbWClo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/R_EB7VbWClo/mqdefault.jpg",
+          "title": "八三夭 831【蠢蛋 The Fool】Official Music Video"
+        },
+        {
+          "durationText": "4:11",
+          "id": "uHrcAx-bETE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uHrcAx-bETE/mqdefault.jpg",
+          "title": "八三夭 831【我不想改變世界 我只想不被世界改變 I Don't Want to Change the World】Official Music Video"
+        },
+        {
+          "durationText": "3:30",
+          "id": "ERUMIAuYBUI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ERUMIAuYBUI/mqdefault.jpg",
+          "title": "八三夭831【致青春 Young Guns】Official Music Video"
+        },
+        {
+          "durationText": "6:55",
+          "id": "kJD_cx7qQR8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kJD_cx7qQR8/mqdefault.jpg",
+          "title": "八三夭 831【一事無成的偉大 The Great Nobody】(八三夭 9/1台北小巨蛋 首次萬人演唱會 同名主題曲) Official Music Video"
+        },
+        {
+          "durationText": "5:36",
+          "id": "_jz1p8h5-d4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_jz1p8h5-d4/mqdefault.jpg",
+          "title": "八三夭 831【外婆的告別式 Goodbye Grandma】Official Music Video"
+        }
+      ]
+    },
     "playlist:95354916": {
       "etag": "\"fx9w110fw6bi4\"",
       "hash": "ed254a4198a3a4ce0024fc70e90d5f94a883d8059a711cc4e8dddb1640766bbd",
@@ -39517,7 +39854,7 @@
       ]
     },
     "vector:vector_featured_zh:1476:12": {
-      "etag": "\"alpeluiyu167u\"",
+      "etag": "\"qqa8lcpf3v67u\"",
       "hash": "da71c5fd140b8eaef942e9dfbb4bc6578bf61883a30a782d1af7a6d3d92b5c87",
       "itemCount": 12,
       "payload": [
@@ -39795,7 +40132,7 @@
       ]
     },
     "vector:vector_featured_zh:1500:12": {
-      "etag": "\"174i9nw0txw6dk\"",
+      "etag": "\"1415uxduqsi6dk\"",
       "hash": "3aa1518e24babfd8e2cedbd6c02987c6dca5becc2351dc83666a04520a731901",
       "itemCount": 12,
       "payload": [
@@ -40073,7 +40410,7 @@
       ]
     },
     "vector:vector_featured_zh:1524:12": {
-      "etag": "\"nclxvfsqle69g\"",
+      "etag": "\"16p2r9hl29o69g\"",
       "hash": "1def7df9fee8ddc38bfb48047ecb06314aeb843cf6bab4f69516bd4dd6b68601",
       "itemCount": 12,
       "payload": [
@@ -90760,7 +91097,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 1440
+      "nextOffset": 1728
     },
     "vector_latest_zh": {
       "complete": true,
