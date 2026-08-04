@@ -32724,6 +32724,133 @@
         }
       ]
     },
+    "playlist:82714675": {
+      "etag": "\"rv1rils0mu8cx\"",
+      "hash": "539f88658eded2493d6698b115f5d5bb5b48a8223d6271722d554e73eb1a171d",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:50",
+          "id": "cquR2R7uWbM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cquR2R7uWbM/mqdefault.jpg",
+          "title": "Cindy袁詠琳【終於勇敢了Brave】Official MV"
+        }
+      ]
+    },
+    "playlist:85339762": {
+      "etag": "\"jn7zg02q5ya8h\"",
+      "hash": "a7be127cf8f666288f8b3a214376aea7661ca435b9368a93a712f4f79bfbb4db",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:53",
+          "id": "7L06_HW_HcA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7L06_HW_HcA/mqdefault.jpg",
+          "title": "馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)"
+        }
+      ]
+    },
+    "playlist:87694291": {
+      "etag": "\"ov3q589uykaye\"",
+      "hash": "4f720a2b2ed54b9d9bcca72db19ba2a01692962f7ad8280f8a048af484e8b831",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:53",
+          "id": "nEpF6ISYdM0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nEpF6ISYdM0/mqdefault.jpg",
+          "title": "高爾宣 OSN -【Why You Gonna Lie】｜Official MV"
+        }
+      ]
+    },
+    "playlist:87694303": {
+      "etag": "\"16qos9gh7p88au\"",
+      "hash": "06cc4e9833c6ed0ab6aa57e0ace8e1632c76556911c0b738d3bbb403aef44391",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:22",
+          "id": "sqohlQXoQBk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sqohlQXoQBk/mqdefault.jpg",
+          "title": "蔡佩軒 Ariel Tsai【星宿 Starry Night】Official Music Video"
+        }
+      ]
+    },
+    "playlist:87694325": {
+      "etag": "\"9yl4xk9usr9q0\"",
+      "hash": "a89a7695ee8a82f7d2d8fcf06871bff8ec5cf9ed67ca91848e0dc3fcb2474963",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:24",
+          "id": "VQ457yiWV90",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VQ457yiWV90/mqdefault.jpg",
+          "title": "PiA吳蓓雅 feat.異鄉人｜這樣的你 Official MV HD"
+        }
+      ]
+    },
+    "playlist:89343198": {
+      "etag": "\"rjoa3mhxpv945\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 3,
+      "payload": [
+
+      ]
+    },
+    "playlist:89343402": {
+      "etag": "\"1600zzcqjwdabp\"",
+      "hash": "ab2fb68edd372f870603aa69bcd1aec381a24807ace2825de277f157ebc7801a",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:50",
+          "id": "47iiK57X9v4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/47iiK57X9v4/mqdefault.jpg",
+          "title": "劉人語 Reyi【心跳的證明】（電影《一吻定情》心動版主題曲）HD 高清官方歌詞版 MV"
+        }
+      ]
+    },
+    "playlist:89343467": {
+      "etag": "\"w4r4ykli69yf\"",
+      "hash": "82810dc1a9f6812d33261634f68e44a6bea0ed86a1e398940218bfc767b63a3f",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:15",
+          "id": "1rBm0uSp73w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1rBm0uSp73w/mqdefault.jpg",
+          "title": "李杰明 W.M.L -【炙愛 feat. 陳忻玥 Vicky Chen】Fiery Love | Official MV"
+        }
+      ]
+    },
     "playlist:89343539": {
       "etag": "\"7v922lvhfvabl\"",
       "hash": "a0bbd78efc914f26310d54eecad22544703fd4527c954c5a461bb4946b96355d",
@@ -91402,7 +91529,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 2016
+      "nextOffset": 2304
     },
     "vector_latest_zh": {
       "complete": true,
