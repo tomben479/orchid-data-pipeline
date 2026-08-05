@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_relax"
     ]
   },
   "resources": {
@@ -32724,6 +32725,205 @@
         }
       ]
     },
+    "playlist:79903420": {
+      "etag": "\"3xgjnypyq29lm\"",
+      "hash": "c6dbdaee13150660abd30abb8460b6a922700ab8605a3e5221b2ca789cf44654",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:47",
+          "id": "M-JniYT3_pE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/M-JniYT3_pE/mqdefault.jpg",
+          "title": "王心凌 Cyndi Wang – 在青春迷失的咖啡館 (Official Music Video)"
+        }
+      ]
+    },
+    "playlist:79903424": {
+      "etag": "\"ysrkijvpcgabv\"",
+      "hash": "c5afd58d4b324b7fe021dff6850a087916bbda505b6443a5fc4df6f2f0a4c94b",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:01",
+          "id": "wIMEjakvQM4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wIMEjakvQM4/mqdefault.jpg",
+          "title": "謝和弦 R-chord – 像水一樣 Be Water (Official Music Video)"
+        }
+      ]
+    },
+    "playlist:79903428": {
+      "etag": "\"8d6zaf1g5aacg\"",
+      "hash": "7d96748ed37609ca64285ccca4b173c86c954031616d7a603af7c030322044cc",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:51",
+          "id": "Sv2rvUUFvg8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Sv2rvUUFvg8/mqdefault.jpg",
+          "title": "A-Lin《 真相 》【《守護神之保險調查》電視劇主題曲】Official Audio"
+        }
+      ]
+    },
+    "playlist:80077928": {
+      "etag": "\"4w02r8nfnt9n4\"",
+      "hash": "c6cf776f889f344f9aafd0b5240d226fa3f3c110b8eed0b2a52be704eeb48150",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "3:42",
+          "id": "oZNMTsZDnf8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oZNMTsZDnf8/mqdefault.jpg",
+          "title": "李友廷 Yo Lee   喜歡 Adore (Official)"
+        },
+        {
+          "durationText": "2:43",
+          "id": "FSw7TxgcCW0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FSw7TxgcCW0/mqdefault.jpg",
+          "title": "李友廷 Yo Lee   吃什麼 What to Eat (Official)"
+        },
+        {
+          "durationText": "3:44",
+          "id": "gmLSWPCQ7Y0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gmLSWPCQ7Y0/mqdefault.jpg",
+          "title": "李友廷 Yo Lee   把音量轉小 Turn The Volume Down (Official)"
+        },
+        {
+          "durationText": "4:09",
+          "id": "6VJ6du0e0zA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6VJ6du0e0zA/mqdefault.jpg",
+          "title": "李友廷 Yo Lee   誰 One Who WillFind Me (Official)"
+        }
+      ]
+    },
+    "playlist:80077950": {
+      "etag": "\"e8mq198p9zah2\"",
+      "hash": "a6ede4f5d66c7557c736672877f41fc3739273a80e76249fba0ff8919885ac47",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:31",
+          "id": "teA-0n6pGbg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/teA-0n6pGbg/mqdefault.jpg",
+          "title": "陳綺貞 Cheer Chen【殘缺的彩虹 Imperfect Rainbow】 Official Lyrics Video"
+        },
+        {
+          "durationText": "3:41",
+          "id": "Vfa7-qwyTTY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Vfa7-qwyTTY/mqdefault.jpg",
+          "title": "陳綺貞 Cheer Chen 【小船 Impressionism】 Official Music Video"
+        },
+        {
+          "durationText": "4:52",
+          "id": "fWzmKHElUqY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fWzmKHElUqY/mqdefault.jpg",
+          "title": "陳綺貞 Cheer Chen 【傷害 Hurt】 Official Music Video"
+        }
+      ]
+    },
+    "playlist:80078275": {
+      "etag": "\"13dl9fotb2saqe\"",
+      "hash": "5dcc453ebe4be79cf29815fdb309c6aeca3a3ff1c28cfd7afdc0b53955844ee7",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:36",
+          "id": "uosDzUcRyaU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uosDzUcRyaU/mqdefault.jpg",
+          "title": "嚴正嵐 Vera Yen【I don't 姑息 I don't \"Gussi\"】手勢舞先行版 MV"
+        },
+        {
+          "durationText": "3:31",
+          "id": "ebCyuJcgnjE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ebCyuJcgnjE/mqdefault.jpg",
+          "title": "嚴正嵐 Vera Yen【斑馬線 Crossroad】HD 高清官方完整版 MV"
+        },
+        {
+          "durationText": "5:41",
+          "id": "8C7oNwe20vQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8C7oNwe20vQ/mqdefault.jpg",
+          "title": "嚴正嵐 Vera Yen【告白 It's Time to Tell You (特別演出：吳念軒) (三立華劇【一千個晚安】插曲) 】 HD 高清官方完整版 MV"
+        }
+      ]
+    },
+    "playlist:80172804": {
+      "etag": "\"khsgckc90vbl9\"",
+      "hash": "bb9c52f71330d6e15c99aa32f0f8cb44c2d77f61e805864b2a5fb7111827b423",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "5:28",
+          "id": "VS1lvYuW3LQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VS1lvYuW3LQ/mqdefault.jpg",
+          "title": "王心凌 Cyndi Wang – 大眠 (Official Music Video)"
+        },
+        {
+          "durationText": "3:47",
+          "id": "M-JniYT3_pE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/M-JniYT3_pE/mqdefault.jpg",
+          "title": "王心凌 Cyndi Wang – 在青春迷失的咖啡館 (Official Music Video)"
+        }
+      ]
+    },
     "playlist:80172808": {
       "etag": "\"174umq066619ze\"",
       "hash": "d431835ca688f6b91325cb290cef544e9b2ab4b125c33b390756f53edef63be0",
@@ -32795,6 +32995,33 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/ugVNDvnDDpA/mqdefault.jpg",
           "title": "G.E.M.【那一夜 WOKE】Official MV [HD] 鄧紫棋"
+        }
+      ]
+    },
+    "playlist:80172810": {
+      "etag": "\"s9tm9pnu4i9ym\"",
+      "hash": "af4b6046bbc779b3dc12008476a30f8269fd58e486786e09e842969225468417",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:08",
+          "id": "rZdfA9O3VgI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rZdfA9O3VgI/mqdefault.jpg",
+          "title": "Erika 劉艾立 - 哪邊涼快哪邊待 Take It Easy (Official Music Video)"
+        },
+        {
+          "durationText": "3:54",
+          "id": "TCmTaGLKruc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TCmTaGLKruc/mqdefault.jpg",
+          "title": "ERIKA 劉艾立 - 天鵝說 Swan Story (Official Music Video)"
         }
       ]
     },
@@ -92578,7 +92805,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 720
+      "nextOffset": 1008
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
