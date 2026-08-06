@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
+    "hash": "12e4a8fe70861af543759669d5ccbb5b810434237797e5bdb33c68c94bcc0d7a",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,7 +22,7 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_relax"
+      "vector_systemlist_zh_genre_soundtrack"
     ]
   },
   "resources": {
@@ -32725,6 +32725,121 @@
         }
       ]
     },
+    "playlist:78685667": {
+      "etag": "\"606ys1klw69mq\"",
+      "hash": "9030e160bc533e08032285eef44bd5aaba21287cccdb2faaf7cb3752197b8531",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:17",
+          "id": "t4mgtZZyOo4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/t4mgtZZyOo4/mqdefault.jpg",
+          "title": "天生無懼 - Julia Wu 吳卓源｜Official Music Video"
+        }
+      ]
+    },
+    "playlist:78844473": {
+      "etag": "\"g8uvu6p93m9qv\"",
+      "hash": "a028d3994e240c1cad2caa728ae9a829b6eba13f18c60c5365f236e95c781d80",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:01",
+          "id": "BRcudpJzy1I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BRcudpJzy1I/mqdefault.jpg",
+          "title": "A-Lin《有一種悲傷 A Kind of Sorrow》Official Music Video - 電影『比悲傷更悲傷的故事 More Than Blue 』主題曲"
+        }
+      ]
+    },
+    "playlist:78844476": {
+      "etag": "\"5y9oi23ln39ps\"",
+      "hash": "0f3f169c2acc0f7ba6974dbbc9abdbafc39cc8234e781c95a0a2d04d4a32abd3",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:43",
+          "id": "wg1FERFWMnE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wg1FERFWMnE/mqdefault.jpg",
+          "title": "LuHan鹿晗新歌《时间停了》MV 中英文版   唱给一起成长的你们"
+        }
+      ]
+    },
+    "playlist:78844625": {
+      "etag": "\"qmkvpwy2e1aay\"",
+      "hash": "fefab40707ba01bf9ec06484eb9ce0cfc3be8ad20c86faed4eb71af457d204a4",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:33",
+          "id": "5UEzwANC78g",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5UEzwANC78g/mqdefault.jpg",
+          "title": "頑童MJ116 Feat. STARR CHEN、MOOZLIE #CapeTown116【GOOD VIBE】Official Music Video"
+        }
+      ]
+    },
+    "playlist:78902453": {
+      "etag": "\"j3io8am348b2a\"",
+      "hash": "3b6a5e262b0ce972327378124ba452c9644cf6050387e36f1252c84fbc5c7763",
+      "itemCount": 11,
+      "payload": [
+        {
+          "durationText": "5:38",
+          "id": "iGwZ_Jo5l2M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iGwZ_Jo5l2M/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li - 成长之重量 - The Weight of Life  《动物世界》片尾曲"
+        },
+        {
+          "durationText": "4:57",
+          "id": "7F4EjGU4q-o",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7F4EjGU4q-o/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li - 貧窮或富有 Poverty or Wealth (華納官方歌詞版 Official Lyric Video)"
+        },
+        {
+          "durationText": "4:08",
+          "id": "QA7d3SLddsM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QA7d3SLddsM/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li -王牌冤家 Quarrelsome Lovers  (華納 Official HD 官方MV)"
+        },
+        {
+          "durationText": "4:59",
+          "id": "Dnj5Tcpev0Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Dnj5Tcpev0Q/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li - 年少有為 If I Were Young (華納 Official HD 官方MV)"
+        }
+      ]
+    },
     "playlist:78982214": {
       "etag": "\"b6eiskul6naf3\"",
       "hash": "8193f6969e9bbf4dff752d5cf36ec031e862ae5ffdbe91eec9ff2999ac740ad5",
@@ -32742,6 +32857,50 @@
         }
       ]
     },
+    "playlist:78982216": {
+      "etag": "\"3dwsg6bzm9apx\"",
+      "hash": "1d20546fb24c8dda6ce304846779b0efe81093f0fe5757d70d77a1dc103a5069",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "5:11",
+          "id": "xA5T_rq1KA0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xA5T_rq1KA0/mqdefault.jpg",
+          "title": "小球 (莊鵑瑛)《何必記念》Official Music Video"
+        },
+        {
+          "durationText": "4:40",
+          "id": "8DQzFgTL6vg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8DQzFgTL6vg/mqdefault.jpg",
+          "title": "小球 (莊鵑瑛)《續 Freedom》Official Music Video"
+        }
+      ]
+    },
+    "playlist:78982229": {
+      "etag": "\"w97b92b74abb\"",
+      "hash": "6e0c49228dc57428a9d4643635a6ce6e575e768da6206caff7f5a151c659d346",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:24",
+          "id": "_rCombIOGtc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_rCombIOGtc/mqdefault.jpg",
+          "title": "吳克群 Kenji Wu 《你敢不敢再傻一次 Crazy Little Things》【為你寫詩】電影原聲帶 Official MV 【HD】"
+        }
+      ]
+    },
     "playlist:78982231": {
       "etag": "\"lxuwxgrks3a8v\"",
       "hash": "68a8f6fe3ef87b34304411ac1fc5590a9c00da1a377cf3089f9e90b4838ed70f",
@@ -32756,6 +32915,23 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/4VEw_Mf15qY/mqdefault.jpg",
           "title": "G.E.M.【那一夜 WOKE】Official Audio [HD] 鄧紫棋"
+        }
+      ]
+    },
+    "playlist:79150226": {
+      "etag": "\"ihgo8mg7bza9o\"",
+      "hash": "b1f98c9bfbc506a8626a9cc50ee70cf1ee4e19c778aab7a69e47ad635d02def5",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:47",
+          "id": "gwxdh4JX9e4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gwxdh4JX9e4/mqdefault.jpg",
+          "title": "柯文哲 feat. 春艷【Do Things Right】Official Music Video"
         }
       ]
     },
@@ -93217,7 +93393,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-11T05:22:40Z",
-      "nextOffset": 1584
+      "nextOffset": 1872
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
