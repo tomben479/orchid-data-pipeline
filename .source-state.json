@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_jazz"
     ]
   },
   "resources": {
@@ -32721,6 +32722,203 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/DUf4OsANk8g/mqdefault.jpg",
           "title": "親愛的，熱愛的 Go Go Squid! 給未來MV 楊紫 李現 CROTON MEGAHIT Official"
+        }
+      ]
+    },
+    "playlist:77973217": {
+      "etag": "\"6wd2ga5cv1ajb\"",
+      "hash": "7be4ce875f41b4497056d4a6ad8318ada9bd9a6ccfe149313bbbf554f95b4b59",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:00",
+          "id": "Xchp2AQt2BY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Xchp2AQt2BY/mqdefault.jpg",
+          "title": "我恨你我愛你 I hate you, I love you  - 傅又宣 Maggie Fu｜Official MV"
+        }
+      ]
+    },
+    "playlist:78129224": {
+      "etag": "\"swcst7goyvanw\"",
+      "hash": "1db65dda975807693cb146e20298d9a25ea71f5cff1e3a12befed5e6fef58884",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "6:05",
+          "id": "JS8mMe73UdI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JS8mMe73UdI/mqdefault.jpg",
+          "title": "HUSH - [ 對等關係 ] Official Music Video"
+        },
+        {
+          "durationText": "3:21",
+          "id": "j62BAVK4GYw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/j62BAVK4GYw/mqdefault.jpg",
+          "title": "HUSH - [ 怎麼開始的 ] Official Music Video"
+        },
+        {
+          "durationText": "3:17",
+          "id": "_O_WtLTwzzA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_O_WtLTwzzA/mqdefault.jpg",
+          "title": "HUSH  - [ 換句話說 ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:78129225": {
+      "etag": "\"14secoc4jjyauj\"",
+      "hash": "5e3dce9ecdf7288907c30df1d147049bbb309cf7dffa3be9909ef5829387d24f",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:11",
+          "id": "1u_N9H5yitI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1u_N9H5yitI/mqdefault.jpg",
+          "title": "卓義峯 Yifeng Zhuo -大太陽 Glowing Sun【豐華唱片official 官方MV】TVBS電視劇《女兵日記 》片尾曲"
+        },
+        {
+          "durationText": "4:46",
+          "id": "HcsQK7J2vPo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HcsQK7J2vPo/mqdefault.jpg",
+          "title": "卓義峯 Yifeng Zhuo -人格分裂 Dissociative Identity Disorder【豐華唱片official 官方MV】"
+        },
+        {
+          "durationText": "5:05",
+          "id": "yjWwfDW9IoA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yjWwfDW9IoA/mqdefault.jpg",
+          "title": "卓義峯 Yifeng Zhuo - 再見煙火 Goodbye Firework【豐華唱片official 官方MV】"
+        }
+      ]
+    },
+    "playlist:78129226": {
+      "etag": "\"gkv618jbxpagl\"",
+      "hash": "b64376bf2c5e576560b58ad9a8970343fc45d7d589e9693d6bd3e4e996589df2",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:05",
+          "id": "XtbQHPRCLq0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XtbQHPRCLq0/mqdefault.jpg",
+          "title": "陳芳語 Kimberley《心動拍拍》Official MV"
+        }
+      ]
+    },
+    "playlist:78129230": {
+      "etag": "\"14wdx6ehmtmap7\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 5,
+      "payload": [
+
+      ]
+    },
+    "playlist:78345456": {
+      "etag": "\"ht2jrob12yahg\"",
+      "hash": "fb97dd2655cd6395deb1b52f17995bf20876f5515c56e221c51e464730d53a8f",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "4:09",
+          "id": "dAMHCOO6xyc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dAMHCOO6xyc/mqdefault.jpg",
+          "title": "許茹芸 Valen Hsu《 讓我好好看看你 Read You Closer 》Official Music Video"
+        },
+        {
+          "durationText": "5:44",
+          "id": "7V630JdO20Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7V630JdO20Y/mqdefault.jpg",
+          "title": "許茹芸 Valen Hsu《花粉症 Springtime Allergies》Official Music Video"
+        },
+        {
+          "durationText": "4:46",
+          "id": "pYuqYAlN00Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pYuqYAlN00Q/mqdefault.jpg",
+          "title": "許茹芸 Valen Hsu《愛就愛吧 Just Love》Official Music Video"
+        },
+        {
+          "durationText": "5:35",
+          "id": "KbBKSJdOOeU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KbBKSJdOOeU/mqdefault.jpg",
+          "title": "許茹芸 Valen Hsu《芙烈亞 Freyja》Official Music Video"
+        }
+      ]
+    },
+    "playlist:78345460": {
+      "etag": "\"102w58cakxfabm\"",
+      "hash": "5439f1d291119e0ad9115d4e64dc6d9b977bd952825cd83394c86e03165786c8",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:19",
+          "id": "UNxdzsswCo8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UNxdzsswCo8/mqdefault.jpg",
+          "title": "炎亞綸 Aaron Yan [ 親愛的怪物 Dear Monster ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:78345461": {
+      "etag": "\"gfrhbmhvmt8r5\"",
+      "hash": "e8cb7b541143aa6f32a803f74c1ae3c5d7f7d6012172a8af419e2f94a7a806f6",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:14",
+          "id": "n-hy9MswmcA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/n-hy9MswmcA/mqdefault.jpg",
+          "title": "原子邦妮 Astro Bunny 【這樣我就能忘記你了】Official Music Video"
         }
       ]
     },
@@ -93603,7 +93801,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 156
+      "nextOffset": 444
     },
     "vector_latest_zh": {
       "complete": true,
