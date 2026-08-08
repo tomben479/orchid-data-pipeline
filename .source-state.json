@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_relax"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -32723,6 +32722,193 @@
           "thumbnailURL": "https://i.ytimg.com/vi/DUf4OsANk8g/mqdefault.jpg",
           "title": "親愛的，熱愛的 Go Go Squid! 給未來MV 楊紫 李現 CROTON MEGAHIT Official"
         }
+      ]
+    },
+    "playlist:75418301": {
+      "etag": "\"i09944bh4ha9e\"",
+      "hash": "a5e4b182082f17dc5747cb80a76ead785a106a2222e56a13ad0d66a851b68695",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:48",
+          "id": "v_n482zGOE0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/v_n482zGOE0/mqdefault.jpg",
+          "title": "盧廣仲 Crowd Lu 【敢傻 就是我的本事 Dare to Be You 】 Official Music Video （黑松沙士2018年度主題曲）"
+        }
+      ]
+    },
+    "playlist:75643065": {
+      "etag": "\"galv7z9yngajl\"",
+      "hash": "8de95805bf900d5305149ade5734584e4dc3327c64edf740f6081651414d31cb",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "3:14",
+          "id": "ehz8QO4Miw0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ehz8QO4Miw0/mqdefault.jpg",
+          "title": "Dewi 簡廷芮 - 都是我的 MV (Official Music Video)"
+        },
+        {
+          "durationText": "3:19",
+          "id": "zN8A7fAqBnA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zN8A7fAqBnA/mqdefault.jpg",
+          "title": "Dewi 簡廷芮 - 奇怪女孩 歌詞版MV (Official Lyrics Video)"
+        }
+      ]
+    },
+    "playlist:75643082": {
+      "etag": "\"5amhesgzp3aev\"",
+      "hash": "d49710d254a850db5c0a978e3e9df8878d8b05d8c7134b788955fad3eaf670f3",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:38",
+          "id": "kLdQsoFvIgU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kLdQsoFvIgU/mqdefault.jpg",
+          "title": "玖壹壹(Nine one one) - Working Holiday[打工度假] 官方MV首播"
+        }
+      ]
+    },
+    "playlist:75643135": {
+      "etag": "\"1314a9gqi8uac6\"",
+      "hash": "21c8c163ae6e23f6e89710a0e5d59b7c46e0b7a2d7cb08258c44c22e8c278cff",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "2:57",
+          "id": "SHt5Zsd_f30",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SHt5Zsd_f30/mqdefault.jpg",
+          "title": "滅火器 Fire EX.－更遠的前方（2018 玉山盃青棒錦標賽主題曲）"
+        }
+      ]
+    },
+    "playlist:75643140": {
+      "etag": "\"9rogawrr0p9oj\"",
+      "hash": "307b45b75ac4c72f3f5378a3f13a602251039eb9e8d5d004a658f5662299188d",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:16",
+          "id": "eXPJ0OeQyRY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eXPJ0OeQyRY/mqdefault.jpg",
+          "title": "李玉璽 Dino Lee - 沒那麼脆弱 Fragile（官方歌詞版）- 韓劇《名不虛傳》片尾曲、韓劇《名不虛傳》片尾曲、《沒關係 不是機器人》片頭曲"
+        }
+      ]
+    },
+    "playlist:75778802": {
+      "etag": "\"wrsys336jwae1\"",
+      "hash": "daf291facd34faf65f4a02f5cf798b0b0bbb9304574430d702b70635e7f16ba8",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:57",
+          "id": "mwzpzy-YtIs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mwzpzy-YtIs/mqdefault.jpg",
+          "title": "楊丞琳Rainie Yang 忘課Lessons In Love(Official HD MV)"
+        }
+      ]
+    },
+    "playlist:75778804": {
+      "etag": "\"737g1yajxibt0\"",
+      "hash": "f8939fb7a25c4c56b9077eb21194a28c70547d5a72ca492cc4f091d03c452ec5",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "3:12",
+          "id": "y982P1vvk6M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/y982P1vvk6M/mqdefault.jpg",
+          "title": "蕭敬騰 Jam Hsiao - 欲望反光 Reflection Of Desire (華納official 官方MV)"
+        },
+        {
+          "durationText": "4:57",
+          "id": "UlUy1f66lII",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UlUy1f66lII/mqdefault.jpg",
+          "title": "蕭敬騰 Jam Hsiao - 全是愛 All About Love (華納official 官方MV)"
+        },
+        {
+          "durationText": "4:54",
+          "id": "LnWubLbMaSs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LnWubLbMaSs/mqdefault.jpg",
+          "title": "蕭敬騰 Jam Hsiao - 你會在哪呢？ Where Are You？ (華納official 官方MV)"
+        },
+        {
+          "durationText": "4:30",
+          "id": "atGbcYTjZCY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/atGbcYTjZCY/mqdefault.jpg",
+          "title": "蕭敬騰 Jam Hsiao - 讓我為你唱情歌 A Love Song For You (華納official 官方MV)"
+        },
+        {
+          "durationText": "4:07",
+          "id": "bpE6pP8dsOA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bpE6pP8dsOA/mqdefault.jpg",
+          "title": "蕭敬騰 Jam Hsiao - 王妃 2.0 Princess 2.0 (華納官方 Official LIVE)"
+        },
+        {
+          "durationText": "6:04",
+          "id": "WNdB7rBpGhk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WNdB7rBpGhk/mqdefault.jpg",
+          "title": "蕭敬騰 Jam Hsiao - 皮囊 Pi Nang (華納official 官方MV)"
+        }
+      ]
+    },
+    "playlist:75778805": {
+      "etag": "\"12o8av0ds7aa7y\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 3,
+      "payload": [
+
       ]
     },
     "playlist:75778808": {
@@ -94731,7 +94917,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 1884
+      "nextOffset": 2172
     },
     "vector_latest_zh": {
       "complete": true,
