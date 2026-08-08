@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "8f8eb25eba3bd32e9c8ede0e41b6139293f47fb6b3bfe9f3e0e4a6c8cbbefdeb",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_relax"
     ]
   },
   "resources": {
@@ -32724,6 +32725,128 @@
         }
       ]
     },
+    "playlist:75778808": {
+      "etag": "\"s9wwnnd9k5a65\"",
+      "hash": "809326864c95af6e04809d9af0e10f13888e1dea0952af21d78b51e924db61a2",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:55",
+          "id": "J_mZiHCAXXY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/J_mZiHCAXXY/mqdefault.jpg",
+          "title": "孫盛希 Shi Shi ft. J.Sheon【闖空門 In And Out】Official Music Video"
+        }
+      ]
+    },
+    "playlist:76018307": {
+      "etag": "\"13cpq56lmjaa6\"",
+      "hash": "2d1d4085dbd8617429960cabe3589759a6b7d4e202cd7188d2702fbc708b9a96",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:20",
+          "id": "TIiuOB024nI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TIiuOB024nI/mqdefault.jpg",
+          "title": "Haor許書豪【不好說】Official Music Video"
+        }
+      ]
+    },
+    "playlist:76018310": {
+      "etag": "\"d3kd3il80ja7l\"",
+      "hash": "eb9e6324fc26ed8fe76e7909a73ab02300881722199745b01bdedf799a04716e",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:51",
+          "id": "Nk9pK_H9rKs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Nk9pK_H9rKs/mqdefault.jpg",
+          "title": "G.E.M.【愛如意】MV [HD] 鄧紫棋"
+        }
+      ]
+    },
+    "playlist:76018315": {
+      "etag": "\"pfj8crjlaaac3\"",
+      "hash": "a88c2e22283112837daefcdd97bf839c076f1df34b0c44f1f4d48c8aaa8d9488",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:55",
+          "id": "VymG2Ya5uu4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VymG2Ya5uu4/mqdefault.jpg",
+          "title": "林京燁(Kim)&陳曉東(Daniel) '不懂愛你(I don't know how to love her)' Official music video ｜那對夫妻 (Nico&Kim&Nini)"
+        }
+      ]
+    },
+    "playlist:76018321": {
+      "etag": "\"y1u3yd33vqakl\"",
+      "hash": "4849c7566396abc79bf056e20837701ff2ddd2b5e5714cc6c04351a656e7c844",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:22",
+          "id": "Ho-W1Do-618",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ho-W1Do-618/mqdefault.jpg",
+          "title": "BOWZ 豹子膽 -【走紅毯 Red Carpet】"
+        },
+        {
+          "durationText": "4:55",
+          "id": "mfvHGShQO_w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mfvHGShQO_w/mqdefault.jpg",
+          "title": "BOWZ 豹子膽 -【禁愛令 Antilove】"
+        },
+        {
+          "durationText": "4:48",
+          "id": "5XNVKSD3IhE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5XNVKSD3IhE/mqdefault.jpg",
+          "title": "BOWZ 豹子膽 -【給愛麗絲 Für Elise】"
+        }
+      ]
+    },
+    "playlist:76251030": {
+      "etag": "\"m5pvrdbulxahd\"",
+      "hash": "2de38b83be364c2240b46e171fe7897dc30b839a66e4b90ba5158a9b6402e7c3",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:02",
+          "id": "2X8zK_ck5KU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2X8zK_ck5KU/mqdefault.jpg",
+          "title": "戴佩妮 penny《你要的愛》Official MV (偶像劇「流星花園」片尾曲)"
+        }
+      ]
+    },
     "playlist:76251063": {
       "etag": "\"a8sgt6490mahd\"",
       "hash": "f7bacd3b7845023473b62c40bc5a512d7a278d396ff0b244ed96f4049fb097b0",
@@ -32755,6 +32878,110 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/zl9_8XjaEas/mqdefault.jpg",
           "title": "放火Louis【ㄅㄆㄇ 注音歌 Taiwan's Phonetic Song】Official MV"
+        }
+      ]
+    },
+    "playlist:76251126": {
+      "etag": "\"hzl1o780n5asr\"",
+      "hash": "a6718fd2413ce70d1324f4e8020dc7d5aeba20af4d7d077a4f54139a374f355c",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "3:55",
+          "id": "J_mZiHCAXXY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/J_mZiHCAXXY/mqdefault.jpg",
+          "title": "孫盛希 Shi Shi ft. J.Sheon【闖空門 In And Out】Official Music Video"
+        },
+        {
+          "durationText": "4:35",
+          "id": "uFKML4HmP5s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uFKML4HmP5s/mqdefault.jpg",
+          "title": "孫盛希 Shi Shi【自然凋謝 Almost】三立華劇「姊的時代 Iron Ladies」插曲 Official Music Video"
+        },
+        {
+          "durationText": "3:18",
+          "id": "1JHqsXuvKE8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1JHqsXuvKE8/mqdefault.jpg",
+          "title": "孫盛希 Shi Shi【內疚 Guilty】Official Music Video"
+        },
+        {
+          "durationText": "3:50",
+          "id": "VgjCj5Fj1Ts",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VgjCj5Fj1Ts/mqdefault.jpg",
+          "title": "孫盛希 Shi Shi 【很晚的晚安 A Late Goodnight】Official Lyric Video"
+        }
+      ]
+    },
+    "playlist:76397061": {
+      "etag": "\"jazw69fl0faqn\"",
+      "hash": "9a661a836fdf0504338f791f5d66914b049ee194ef45e5a3db1ba1af8056b4bd",
+      "itemCount": 7,
+      "payload": [
+        {
+          "durationText": "3:08",
+          "id": "Ky-xZ5Zv38w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ky-xZ5Zv38w/mqdefault.jpg",
+          "title": "Me Instead 奪愛 [Lyric Video]"
+        },
+        {
+          "durationText": "3:01",
+          "id": "Mx5O9KLWg5Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Mx5O9KLWg5Y/mqdefault.jpg",
+          "title": "Title 頭銜"
+        },
+        {
+          "durationText": "4:07",
+          "id": "MHKnSFlDBLQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MHKnSFlDBLQ/mqdefault.jpg",
+          "title": "BLACK OUT (feat. 9m88)"
+        },
+        {
+          "durationText": "3:48",
+          "id": "IBq5USw6AoQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IBq5USw6AoQ/mqdefault.jpg",
+          "title": "Paradise Island 天堂島"
+        },
+        {
+          "durationText": "3:15",
+          "id": "mIUl7Nfdw4k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mIUl7Nfdw4k/mqdefault.jpg",
+          "title": "Diamond"
         }
       ]
     },
@@ -94504,7 +94731,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 1596
+      "nextOffset": 1884
     },
     "vector_latest_zh": {
       "complete": true,
