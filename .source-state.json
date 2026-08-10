@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_country"
     ]
   },
   "resources": {
@@ -31520,12 +31521,339 @@
         }
       ]
     },
+    "playlist:72379728": {
+      "etag": "\"zgyu1owxanakq\"",
+      "hash": "b6bff19dcfdb17abd6b3a68269ab43cba5c647b99bb5d8fe038b238eed97a3ea",
+      "itemCount": 7,
+      "payload": [
+        {
+          "durationText": "4:15",
+          "id": "IWBBtvrnYZI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IWBBtvrnYZI/mqdefault.jpg",
+          "title": "畫(紅塵梵谷  主題曲)"
+        },
+        {
+          "durationText": "3:14",
+          "id": "DksVUuoQQuA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DksVUuoQQuA/mqdefault.jpg",
+          "title": "方宥心Yo Sing Fun 【麥安捏啦】Official Music Video"
+        },
+        {
+          "durationText": "4:15",
+          "id": "nQ8JzlMOq14",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nQ8JzlMOq14/mqdefault.jpg",
+          "title": "方宥心【飛啊飛】MV 官方HD版"
+        },
+        {
+          "durationText": "4:21",
+          "id": "gxLW2rB83d8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gxLW2rB83d8/mqdefault.jpg",
+          "title": "方宥心Yo Sing Fun  心途 EP --『藍色紀念日 』The Blue Anniversary【官方MV /Official Video】"
+        }
+      ]
+    },
+    "playlist:72379729": {
+      "etag": "\"43h6je2rxlaa5\"",
+      "hash": "0ac0baa735bfe56eb8bd1c8d165160afe4608a3d9703ace59d67b467e34071c2",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:22",
+          "id": "UXBDS3X0gcY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UXBDS3X0gcY/mqdefault.jpg",
+          "title": "Cindy袁詠琳【你想娶我嗎 Will You Wanna Marry Me】Official MV"
+        },
+        {
+          "durationText": "4:00",
+          "id": "u6U4bIbY_XM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/u6U4bIbY_XM/mqdefault.jpg",
+          "title": "Cindy袁詠琳【That's Alright】Official MV"
+        },
+        {
+          "durationText": "3:44",
+          "id": "zHXD5SB-FfM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zHXD5SB-FfM/mqdefault.jpg",
+          "title": "Cindy袁詠琳【只好倔強 Love Me Better】歌詞版 Lyric MV"
+        }
+      ]
+    },
+    "playlist:72776701": {
+      "etag": "\"ov2hcmkmvuasg\"",
+      "hash": "6257e7fd2765d10aad94cfe9129e1323b0f49a60b95c1fedd1eef08b8127223f",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "3:39",
+          "id": "m1Jp_FsToXU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/m1Jp_FsToXU/mqdefault.jpg",
+          "title": "「Bad Bad Girl」Renée 陳嘉唯 Feat. E.SO 瘦子 (頑童MJ116）"
+        },
+        {
+          "durationText": "4:01",
+          "id": "t6C_KU9CRlg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/t6C_KU9CRlg/mqdefault.jpg",
+          "title": "Better Believe Me (remix) - Renée 陳嘉唯 x 頑童 MJ116 | Official Music Video"
+        },
+        {
+          "durationText": "3:12",
+          "id": "DxYBfUGPB0I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DxYBfUGPB0I/mqdefault.jpg",
+          "title": "Renée 陳嘉唯 ~ Do What I Do"
+        },
+        {
+          "durationText": "4:30",
+          "id": "PP9Otz823go",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PP9Otz823go/mqdefault.jpg",
+          "title": "Renée 陳嘉唯~《你的快樂》Feat. ASH"
+        },
+        {
+          "durationText": "3:20",
+          "id": "izsS_5ABDO8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/izsS_5ABDO8/mqdefault.jpg",
+          "title": "Renée 陳嘉唯 ~《Better Believe》Feat. 頑童MJ116"
+        },
+        {
+          "durationText": "4:26",
+          "id": "nfWTusxIenQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nfWTusxIenQ/mqdefault.jpg",
+          "title": "你在身邊 You're By My Side - Renée 陳嘉唯 feat. 庭竹 (我不離開Demo) | Official Music Video"
+        }
+      ]
+    },
+    "playlist:72776702": {
+      "etag": "\"15iw36bkentaap\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 3,
+      "payload": [
+
+      ]
+    },
+    "playlist:72807023": {
+      "etag": "\"10frmsttrb6as6\"",
+      "hash": "e2426cda8fae387470cfbb1341b8a12bf9b18bfec344714db8cf10de897ac14a",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "4:04",
+          "id": "WhScGGshI3k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WhScGGshI3k/mqdefault.jpg",
+          "title": "【TIGER HU胡彦斌 GIVE ME A CHANCE】Official官方高品质HD"
+        },
+        {
+          "durationText": "4:14",
+          "id": "YUWlX9w2dvE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YUWlX9w2dvE/mqdefault.jpg",
+          "title": "【TIGER HU胡彦斌 高手】Official官方高品质HD"
+        },
+        {
+          "durationText": "4:15",
+          "id": "rkF31ZeHlhA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rkF31ZeHlhA/mqdefault.jpg",
+          "title": "【TIGER HU 胡彦斌《返老还童》Feat. Jony J】Official官方高品质HD"
+        },
+        {
+          "durationText": "3:55",
+          "id": "oEyUKsW94Hs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oEyUKsW94Hs/mqdefault.jpg",
+          "title": "【TIGER HU 胡彦斌《覅忒好》】Official官方高品质HD"
+        },
+        {
+          "durationText": "4:22",
+          "id": "yg8jzen-XzM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yg8jzen-XzM/mqdefault.jpg",
+          "title": "JONY J  ❌  胡彦斌 TIGER HU : 返老还童 💥 [ OFFICIAL MV ]"
+        },
+        {
+          "durationText": "5:02",
+          "id": "9HDHnU-Vl0g",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9HDHnU-Vl0g/mqdefault.jpg",
+          "title": "胡彥斌 Tiger Hu 【你要的全拿走 Take Everything You Want】 HD 官方高清完整版 MV"
+        }
+      ]
+    },
+    "playlist:72807024": {
+      "etag": "\"ler8ueq4kaaq8\"",
+      "hash": "2339231945334bb06ab7ee1ebbe0fb48bbfd6a0b37c554545cff72b7d54d8172",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "3:51",
+          "id": "HQ_mU73VhEQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HQ_mU73VhEQ/mqdefault.jpg",
+          "title": "盧廣仲 Crowd Lu 【幾分之幾 You Complete Me】 Official Music Video （花甲大人轉男孩電影主題曲）"
+        }
+      ]
+    },
+    "playlist:72911962": {
+      "etag": "\"31166z5ob4ai5\"",
+      "hash": "54491cfbb9a876e2422cbd4ab66a097b78f8e61a4bd45afa1e592c3a3568d197",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:34",
+          "id": "aob_JjfzUtE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aob_JjfzUtE/mqdefault.jpg",
+          "title": "A-TEAM《玩偶》官方完整版MV [Official Music Video]"
+        },
+        {
+          "durationText": "4:04",
+          "id": "wsRgJR8RPAM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wsRgJR8RPAM/mqdefault.jpg",
+          "title": "A-TEAM 《44釐米》 Lyric Video 歌詞版"
+        },
+        {
+          "durationText": "3:14",
+          "id": "6wkZbXkD5VQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6wkZbXkD5VQ/mqdefault.jpg",
+          "title": "A-TEAM │  最新單曲 MR A TEAM ─ 舞蹈版"
+        }
+      ]
+    },
     "playlist:72911963": {
       "etag": "\"o32m1lvjhtabg\"",
       "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "itemCount": 5,
       "payload": [
 
+      ]
+    },
+    "playlist:72911964": {
+      "etag": "\"47h73mjmkyah9\"",
+      "hash": "92c04b3e584c6f179645cd55c7e6d86f0b9eed5523c654fe1f5be83b2d40ab47",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "4:06",
+          "id": "qcQSl-jVHp8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qcQSl-jVHp8/mqdefault.jpg",
+          "title": "秀蘭瑪雅 Maya - 批 (OT.上弦月) [Official Lyric Video]"
+        },
+        {
+          "durationText": "5:07",
+          "id": "2bdYDVyD928",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2bdYDVyD928/mqdefault.jpg",
+          "title": "秀蘭瑪雅 Maya - Don't吃  Don't吃  [Official Music Video]"
+        },
+        {
+          "durationText": "5:14",
+          "id": "EqqjdfRCeeY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EqqjdfRCeeY/mqdefault.jpg",
+          "title": "秀蘭瑪雅Maya - 戇天真【“戇戇” 音樂微電影 (上)】 [Official Music Video]"
+        },
+        {
+          "durationText": "4:42",
+          "id": "sOd5VKd6p2M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sOd5VKd6p2M/mqdefault.jpg",
+          "title": "秀蘭瑪雅 Maya - 無詞的歌 More Then Words (台視八點檔 《牡丹花開》片尾曲) [Official Music Video]"
+        }
       ]
     },
     "playlist:73095658": {
@@ -95895,7 +96223,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 1440
+      "nextOffset": 1728
     },
     "vector_latest_zh": {
       "complete": true,
