@@ -31520,6 +31520,126 @@
         }
       ]
     },
+    "playlist:72911963": {
+      "etag": "\"o32m1lvjhtabg\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 5,
+      "payload": [
+
+      ]
+    },
+    "playlist:73095658": {
+      "etag": "\"etxyh16ybna0p\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 5,
+      "payload": [
+
+      ]
+    },
+    "playlist:73095659": {
+      "etag": "\"8alcfwssv1a8y\"",
+      "hash": "1a6fed1b100d6a808ebbac7ba47e225e3e3a373d61bb0f5762b771bc7fc06a92",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:16",
+          "id": "9w3UItHAxLI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9w3UItHAxLI/mqdefault.jpg",
+          "title": "林吟蔚 Zowie Lin『 All Night 』【官方 MV / Official Video 】"
+        },
+        {
+          "durationText": "3:49",
+          "id": "s255v4D6OV8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/s255v4D6OV8/mqdefault.jpg",
+          "title": "林吟蔚 Zowie Lin - Merry Xmas (Official Music Video）"
+        },
+        {
+          "durationText": "4:40",
+          "id": "tPY2vN7t5Po",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tPY2vN7t5Po/mqdefault.jpg",
+          "title": "林吟蔚 Zowie Lin『兇手 』【官方MV / Official Video】"
+        }
+      ]
+    },
+    "playlist:73095739": {
+      "etag": "\"166xcvy5avla2m\"",
+      "hash": "0f7fe3a468942e901ca434a7d389f84610c0b0a33e2066ab32f19f9274ee47b0",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:34",
+          "id": "sFxsnJst0lk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sFxsnJst0lk/mqdefault.jpg",
+          "title": "林志穎 Jimmy Lin - 一步之遙 One Step 【林志穎 Official HD 官方MV】"
+        }
+      ]
+    },
+    "playlist:73323192": {
+      "etag": "\"u3e799x5zea7g\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 3,
+      "payload": [
+
+      ]
+    },
+    "playlist:73323193": {
+      "etag": "\"sbk5xxagyya5e\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 3,
+      "payload": [
+
+      ]
+    },
+    "playlist:73323198": {
+      "etag": "\"101id8jav9yadn\"",
+      "hash": "725d9c3edf874ac987e9067f691e916b48c072c318c879704171d054bf700664",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:37",
+          "id": "r6tPsOKNMXM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/r6tPsOKNMXM/mqdefault.jpg",
+          "title": "UNDER LOVER - 角度 (官方Music video)"
+        }
+      ]
+    },
+    "playlist:73409850": {
+      "etag": "\"k35a1fbntdai8\"",
+      "hash": "5c2244635265d103e9b6896cb01f2f989db53f82e0dc912cd57e33c228a78bdd",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:34",
+          "id": "rBPThu8STxo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rBPThu8STxo/mqdefault.jpg",
+          "title": "小男孩樂團 Men Envy Children《We Are》Lamigo baseball version MV"
+        }
+      ]
+    },
     "playlist:73410934": {
       "etag": "\"gc44yw31cbaas\"",
       "hash": "3d2b79908eb53e016cf3eb60640a335a913bd08ea77b7af2ed34a8b822dee201",
@@ -95775,7 +95895,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 1152
+      "nextOffset": 1440
     },
     "vector_latest_zh": {
       "complete": true,
