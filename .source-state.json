@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_country"
     ]
   },
   "resources": {
@@ -31520,6 +31521,177 @@
         }
       ]
     },
+    "playlist:70906794": {
+      "etag": "\"n4xufqvqzd9r4\"",
+      "hash": "ac8a3b8af3430e522f9d007c88e58c70be4776a4d64ba39a10c10a075e388bea",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:47",
+          "id": "ufcxx3YrlKY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ufcxx3YrlKY/mqdefault.jpg",
+          "title": "aMEI張惠妹 [ STORY THIEF 偷故事的人 ] Official Music Video"
+        },
+        {
+          "durationText": "5:59",
+          "id": "qf09H2xFq2s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qf09H2xFq2s/mqdefault.jpg",
+          "title": "aMEI張惠妹 [ Full Name 連名帶姓 ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:70906796": {
+      "etag": "\"cpicq2jf20bqx\"",
+      "hash": "764cc2c36718d5e6cf590cb50aa87ab715205c654d21c2dbc6c40ced923912eb",
+      "itemCount": 13,
+      "payload": [
+        {
+          "durationText": "3:25",
+          "id": "Q1iekZBMbmg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Q1iekZBMbmg/mqdefault.jpg",
+          "title": "王力宏 Wang Leehom【沒有眼淚的世界 World Without Tears】lyrics MV"
+        },
+        {
+          "durationText": "4:06",
+          "id": "R4DuqEL0ChQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/R4DuqEL0ChQ/mqdefault.jpg",
+          "title": "王力宏 Wang Leehom《A.I. 愛》A. I. Love 官方 Official MV"
+        },
+        {
+          "durationText": "5:20",
+          "id": "sHNy8muYwdU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sHNy8muYwdU/mqdefault.jpg",
+          "title": "王力宏 Wang Leehom【親愛的 Dearest】官方 Official MV"
+        },
+        {
+          "durationText": "3:40",
+          "id": "R8UDHCNy3zI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/R8UDHCNy3zI/mqdefault.jpg",
+          "title": "王力宏 Wang Leehom x 方文山 Fang Wenshan - 听爱 CC 歌词版 Official MV 《TOFU 豆福传》"
+        },
+        {
+          "durationText": "4:46",
+          "id": "EQ5Ib7jNnnE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EQ5Ib7jNnnE/mqdefault.jpg",
+          "title": "王力宏 Wang Leehom : 電影《長城》片尾曲《緣分一道橋》MV"
+        },
+        {
+          "durationText": "3:53",
+          "id": "z17waoapDOU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/z17waoapDOU/mqdefault.jpg",
+          "title": "王力宏 (Leehom Wang) - 列王的紛爭 【列王的紛爭】主題曲"
+        },
+        {
+          "durationText": "3:45",
+          "id": "mI2g8nEVGyI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mI2g8nEVGyI/mqdefault.jpg",
+          "title": "王力宏 Wang Leehom《無聲感情》 Silent Dancer 官方 Official MV"
+        }
+      ]
+    },
+    "playlist:71090973": {
+      "etag": "\"yurhadrbhea6g\"",
+      "hash": "171c793ea15a58080aefc9e5543bb9854fa99a2e7df8cdb9b4332174fcaa0f1f",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "3:53",
+          "id": "Q-ls5n3ujgQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Q-ls5n3ujgQ/mqdefault.jpg",
+          "title": "原子邦妮 Astro Bunny 【不想就這樣結束】官方歌詞MV (Lyric)"
+        },
+        {
+          "durationText": "3:59",
+          "id": "5Kb98kW0bVE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5Kb98kW0bVE/mqdefault.jpg",
+          "title": "原子邦妮 Astro Bunny 【現在你好嗎】官方歌詞MV (Lyric)"
+        },
+        {
+          "durationText": "3:36",
+          "id": "_qoBG-3JwfQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_qoBG-3JwfQ/mqdefault.jpg",
+          "title": "原子邦妮 Astro Bunny 【年少的憂愁】ft. 晨悠 官方歌詞MV (Lyric)"
+        },
+        {
+          "durationText": "3:32",
+          "id": "gBhAequ7yjA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gBhAequ7yjA/mqdefault.jpg",
+          "title": "原子邦妮 Astro Bunny 【蒸發的世界剩下我】官方歌詞MV (Lyric)"
+        },
+        {
+          "durationText": "3:47",
+          "id": "c4Qi78Bhvck",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/c4Qi78Bhvck/mqdefault.jpg",
+          "title": "原子邦妮 Astro Bunny 【#imissyousobad 】ft. Yalu"
+        },
+        {
+          "durationText": "4:25",
+          "id": "o1xlxZMQX00",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/o1xlxZMQX00/mqdefault.jpg",
+          "title": "原子邦妮 Astro Bunny 【也許你不懂】Official Music Video 官方完整版高畫質MV"
+        }
+      ]
+    },
     "playlist:71090974": {
       "etag": "\"15hvgh69vh9acb\"",
       "hash": "fa6de6a5cb562400aa0279b017ef014d89517f9f53c88bbabebf744f88e20c11",
@@ -31594,6 +31766,90 @@
         }
       ]
     },
+    "playlist:71090976": {
+      "etag": "\"do81u2nd3lakw\"",
+      "hash": "dc237e2a9fc95407f8b3b5377d8dcc18e6b151886442e08d28be9cabeb594099",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "3:42",
+          "id": "_NvtTYT7nws",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_NvtTYT7nws/mqdefault.jpg",
+          "title": "Eric周興哲《Without Her》Official Music Video"
+        },
+        {
+          "durationText": "5:33",
+          "id": "gdGdO6KjF1I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gdGdO6KjF1I/mqdefault.jpg",
+          "title": "Eric周興哲《如果雨之後 The Chaos After You》Official Music Video"
+        },
+        {
+          "durationText": "4:39",
+          "id": "WJK8486VjfU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WJK8486VjfU/mqdefault.jpg",
+          "title": "Eric周興哲《永不失聯的愛 Unbreakable Love》『原創概念版』Official Music Video 《小妖的金色城堡》主題曲"
+        },
+        {
+          "durationText": "3:45",
+          "id": "ZObRjK-d-mM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZObRjK-d-mM/mqdefault.jpg",
+          "title": "Eric周興哲《快樂一次擁有 HAPPINESS AT ONCE》『夏日繽紛版』Music Video"
+        }
+      ]
+    },
+    "playlist:71090977": {
+      "etag": "\"15errg6s1u6afk\"",
+      "hash": "0b36356481a65f47f65b5dc71565a3a7586681f7f149da7f237d62f99488f3b3",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "4:43",
+          "id": "SAVxcVa8RAk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SAVxcVa8RAk/mqdefault.jpg",
+          "title": "薛凱琪 Fiona Sit -《天生一對》Official Music Video"
+        },
+        {
+          "durationText": "5:19",
+          "id": "P3WQp4O6IEw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/P3WQp4O6IEw/mqdefault.jpg",
+          "title": "薛凱琪 Fiona Sit -《遠遠關心》Official Music Video"
+        },
+        {
+          "durationText": "3:31",
+          "id": "OJj5_WRhKME",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OJj5_WRhKME/mqdefault.jpg",
+          "title": "薛凱琪 Fiona Sit -《520》Official Music Video"
+        }
+      ]
+    },
     "playlist:71091237": {
       "etag": "\"x44ubvb5snaca\"",
       "hash": "e16f2c457f2468a44e4ee4d744e9e9b338a27ae1292e95e88fb6c261906b6314",
@@ -31631,6 +31887,100 @@
         }
       ]
     },
+    "playlist:71091340": {
+      "etag": "\"2ffvekh13daov\"",
+      "hash": "b9cab87cdcabc881eb0b7a31a98fd63e4eae2df317ca416527130d4e5da78328",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "3:54",
+          "id": "A1-4FlaIUNE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/A1-4FlaIUNE/mqdefault.jpg",
+          "title": "許飛 - 時光遐想 電視劇《你好，舊時光》片尾曲"
+        },
+        {
+          "durationText": "4:30",
+          "id": "QFIoHM7om2A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QFIoHM7om2A/mqdefault.jpg",
+          "title": "黃雅莉 - 我的光 電視劇《你好，舊時光》主題曲"
+        },
+        {
+          "durationText": "4:27",
+          "id": "y8mWTPz26b4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/y8mWTPz26b4/mqdefault.jpg",
+          "title": "汪小敏 - (Tracy)風 電視劇《你好，舊時光》插曲"
+        },
+        {
+          "durationText": "4:43",
+          "id": "6Db9LBkAq4Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6Db9LBkAq4Q/mqdefault.jpg",
+          "title": "【HD】李琦 - 城市中的一些人 [歌詞字幕][電視劇《你好，舊時光》插曲][完整高清音質] My Huckleberry Friends Theme Song"
+        },
+        {
+          "durationText": "4:37",
+          "id": "PrdBLtkgMqs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PrdBLtkgMqs/mqdefault.jpg",
+          "title": "孙子涵 - 未说完的秘密"
+        }
+      ]
+    },
+    "playlist:71139501": {
+      "etag": "\"188grj3xc3yaqv\"",
+      "hash": "6d5e4d5aa427d0b78ccb639e19eacc82760bb485524792b841c0214797ef7ad7",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:28",
+          "id": "ca2JTLkNUfg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ca2JTLkNUfg/mqdefault.jpg",
+          "title": "Neil Keyz（李玖哲）-Stay (Official MV)"
+        },
+        {
+          "durationText": "3:36",
+          "id": "jn1rha4kB58",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jn1rha4kB58/mqdefault.jpg",
+          "title": "李玖哲Nicky Lee-Let Go ft.倪耐斯 (Official MV)"
+        },
+        {
+          "durationText": "5:44",
+          "id": "Qly4kNtckkg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Qly4kNtckkg/mqdefault.jpg",
+          "title": "李玖哲Nicky Lee-Will You Remember Me (Official MV)"
+        }
+      ]
+    },
     "playlist:71273867": {
       "etag": "\"7c2vom5f27aio\"",
       "hash": "448bd0d184d3a487c6fafbf2799994596fa90c88276e52be0bfece95f016d605",
@@ -31665,6 +32015,53 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/oznbJ06actw/mqdefault.jpg",
           "title": "REAL 阿沁 [ 畢卡索的謊言 Picasso code ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:71273869": {
+      "etag": "\"vmzi9ed0rv8cy\"",
+      "hash": "88a2826adb53e271a9a1deb75fa5b18bd9606dda306f45fb543da0ff5e6e3441",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "4:31",
+          "id": "WhGEVIJptxc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WhGEVIJptxc/mqdefault.jpg",
+          "title": "蔡恩雨 Priscilla Abby《 Burn 》官方 Official MV"
+        },
+        {
+          "durationText": "5:04",
+          "id": "MrqTX9Gw31Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MrqTX9Gw31Y/mqdefault.jpg",
+          "title": "蔡恩雨 Priscilla Abby《 我想聽你聲音 Listen To Your Voice 》官方 Official MV"
+        },
+        {
+          "durationText": "3:48",
+          "id": "m8pfI41mL-4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/m8pfI41mL-4/mqdefault.jpg",
+          "title": "蔡恩雨 Priscilla Abby《 大紅花的秘密 Mystery Of Hibiscus 》官方 Official MV"
+        },
+        {
+          "durationText": "4:12",
+          "id": "mmcb1xKL_8U",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mmcb1xKL_8U/mqdefault.jpg",
+          "title": "蔡恩雨 Priscilla Abby《I Love The Sky》官方 Official MV"
         }
       ]
     },
@@ -89104,8 +89501,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_country:0:12": {
-      "etag": "\"z5r4mls6476lu\"",
-      "hash": "8d76d86ebcf7e18285309de2d2f7cf2501a8892b7471425ef57817842d3ae5a8",
+      "etag": "\"15lctdj37oh6bv\"",
+      "hash": "07dcb5744d9444fec2073fab80542cca50f3a80e8ad5df9757bd472644100c37",
       "itemCount": 12,
       "payload": [
         {
@@ -89116,13 +89513,13 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/6q5F7UUiXK0/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/u0g8elvennQ/mqdefault.jpg",
           "title": "Country Hotlist"
         },
         {
           "id": "RDCLAK5uy_nH_fdBVCcbNaVwi_tmZajZRq-ekddiuFY",
           "kind": "playlist",
-          "subtitle": "175 首",
+          "subtitle": "176 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -89133,7 +89530,7 @@
         {
           "id": "RDCLAK5uy_m3hSwtGcB6xMdXIAFmzikDTxaK6iYqchw",
           "kind": "playlist",
-          "subtitle": "86 首",
+          "subtitle": "96 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -89155,7 +89552,7 @@
         {
           "id": "RDCLAK5uy_nJcxweTayTvF_AN_rriahrOCdGV086QfY",
           "kind": "playlist",
-          "subtitle": "98 首",
+          "subtitle": "99 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -95332,8 +95729,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:0:12": {
-      "etag": "\"dfdt7yn67h76p\"",
-      "hash": "fd90f6c07aadf73495a4bd3fa354795314cf235c80fb6dbcfdb0e8f93aad62dd",
+      "etag": "\"y3mqsaaofe76p\"",
+      "hash": "986e760584c708e53f78dfc66105082ea1532a8e7f08bc6f3f3822e08360c4ee",
       "itemCount": 12,
       "payload": [
         {
@@ -95350,12 +95747,12 @@
         {
           "id": "RDCLAK5uy_k8GvsGbBT2D5lvGqOc6gAitzrcWVvecYI",
           "kind": "playlist",
-          "subtitle": "59 首",
+          "subtitle": "33 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/E5yHKx_liYs/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/NT1aFEDdAQU/mqdefault.jpg",
           "title": "慢搖"
         },
         {
@@ -95416,12 +95813,12 @@
         {
           "id": "RDCLAK5uy_ngY0Zg-BcF081qMSWi95ivcqWoVlLRun0",
           "kind": "playlist",
-          "subtitle": "25 首",
+          "subtitle": "55 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/0MUKTaWP6Tg/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/rbIkVInKae8/mqdefault.jpg",
           "title": "小朋友的入睡時間到啦"
         },
         {
@@ -96802,7 +97199,7 @@
       ]
     },
     "vector:vector_systemlist_zh_top_charts:0:12": {
-      "etag": "\"14efid9ztje6ox\"",
+      "etag": "\"luel93u8t86ox\"",
       "hash": "f518cdfde234365154c21ca2ca76640f5ebf8341ae092503f8cf1a479ef315fd",
       "itemCount": 10,
       "payload": [
@@ -96922,9 +97319,9 @@
   "schemaVersion": 1,
   "vectors": {
     "vector_featured_zh": {
-      "complete": false,
+      "complete": true,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 2304
+      "nextOffset": 0
     },
     "vector_latest_zh": {
       "complete": true,
@@ -96933,7 +97330,7 @@
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
-      "lastCompletedAt": "2026-07-31T05:45:29Z",
+      "lastCompletedAt": "2026-08-11T09:13:30Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_cpop": {
@@ -97013,7 +97410,7 @@
     },
     "vector_systemlist_zh_mood_sleep": {
       "complete": true,
-      "lastCompletedAt": "2026-08-09T03:53:01Z",
+      "lastCompletedAt": "2026-08-11T09:13:30Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_travel": {
@@ -97023,7 +97420,7 @@
     },
     "vector_systemlist_zh_top_charts": {
       "complete": true,
-      "lastCompletedAt": "2026-08-09T03:53:02Z",
+      "lastCompletedAt": "2026-08-11T09:13:31Z",
       "nextOffset": 0
     }
   }
