@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
+    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,7 +22,7 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_country"
+      "vector_systemlist_zh_genre_jazz"
     ]
   },
   "resources": {
@@ -31521,6 +31521,286 @@
         }
       ]
     },
+    "playlist:70552465": {
+      "etag": "\"10uydnww452agd\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 5,
+      "payload": [
+
+      ]
+    },
+    "playlist:70552466": {
+      "etag": "\"paezq0yfmb38\"",
+      "hash": "81b270ff67b611d82d4587f516209beb0795935691db69abc4449a0855fac31f",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "5:12",
+          "id": "b3diUH4Ub6E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/b3diUH4Ub6E/mqdefault.jpg",
+          "title": "薛之謙 Joker Xue【曖昧】HD 高清官方完整版 MV"
+        },
+        {
+          "durationText": "5:10",
+          "id": "1ej7fZBmWfE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1ej7fZBmWfE/mqdefault.jpg",
+          "title": "薛之謙 Joker Xue【我害怕】HD 高清官方完整版 MV"
+        },
+        {
+          "durationText": "6:29",
+          "id": "tsqN3RYbU0o",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tsqN3RYbU0o/mqdefault.jpg",
+          "title": "薛之謙 Joker Xue【高尚】HD 高清官方完整版 MV"
+        },
+        {
+          "durationText": "7:04",
+          "id": "XUcGgoqQzbE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XUcGgoqQzbE/mqdefault.jpg",
+          "title": "火星情报局 主题曲 正式版MV 薛之谦《火星人来过》"
+        },
+        {
+          "durationText": "3:37",
+          "id": "mXw15zBmomI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mXw15zBmomI/mqdefault.jpg",
+          "title": "《渡》薛之谦 歌词版"
+        },
+        {
+          "durationText": "5:32",
+          "id": "WifuIg4PhHw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WifuIg4PhHw/mqdefault.jpg",
+          "title": "薛之謙 Joker Xue【動物世界】HD 高清官方完整版 MV"
+        }
+      ]
+    },
+    "playlist:70552469": {
+      "etag": "\"hn492qnpvga3u\"",
+      "hash": "778dbe47269cf949cc641a0d190e905b3c83df667b153bd6ffaa8b79e79121f8",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "3:44",
+          "id": "PrxMnEgnzrk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PrxMnEgnzrk/mqdefault.jpg",
+          "title": "品冠  Victor Wong【等】官方歌詞版 MV"
+        }
+      ]
+    },
+    "playlist:70733760": {
+      "etag": "\"81jzkc9wsmau9\"",
+      "hash": "8e47e01b511a0a39d28b60d0be2a9e21a9b3c1994d8fc6f00873624ef709b5f2",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "4:13",
+          "id": "I77xtpQTQas",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/I77xtpQTQas/mqdefault.jpg",
+          "title": "張信哲 Jeff Chang [ 好好愛個女孩 ] 官方完整版 MV"
+        },
+        {
+          "durationText": "5:35",
+          "id": "h_0cS0CJY_0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/h_0cS0CJY_0/mqdefault.jpg",
+          "title": "張信哲 Jeff Chang [ 永恆的印記 ] 官方完整版 MV"
+        },
+        {
+          "durationText": "4:19",
+          "id": "4yIs7nUCyVM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4yIs7nUCyVM/mqdefault.jpg",
+          "title": "張信哲 Jeff Chang   [ 說 ]  官方完整版 MV"
+        },
+        {
+          "durationText": "4:30",
+          "id": "lfiMoj_O_KE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lfiMoj_O_KE/mqdefault.jpg",
+          "title": "張信哲 Jeff Chang [ 見壞就收 ] 官方完整版 MV"
+        },
+        {
+          "durationText": "5:58",
+          "id": "6LDZ8WuLvnA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6LDZ8WuLvnA/mqdefault.jpg",
+          "title": "張信哲 Jeff Chang [ 時間都去哪兒了 ] 官方完整版 MV"
+        },
+        {
+          "durationText": "6:07",
+          "id": "ynQGEVACSpQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ynQGEVACSpQ/mqdefault.jpg",
+          "title": "張信哲 Jeff Chang  [ 遷徙 ] 官方完整版 MV"
+        }
+      ]
+    },
+    "playlist:70733761": {
+      "etag": "\"u8nficegiua74\"",
+      "hash": "e2286ca72ff7c880af30be70d7f84b1f1e289a1f35378687f6ed94a457c9fc51",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:41",
+          "id": "iE-buimT8KQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iE-buimT8KQ/mqdefault.jpg",
+          "title": "Diana Wang (王詩安) - Poem (一步成詩) Official Music Video"
+        },
+        {
+          "durationText": "4:59",
+          "id": "U60_PkV47b0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/U60_PkV47b0/mqdefault.jpg",
+          "title": "Diana Wang (王詩安) - Tomorrow (明天) ft. 王蕾 & Khalil Fong (方大同) Official Music Video"
+        },
+        {
+          "durationText": "3:58",
+          "id": "PFux-Lfu2Vk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PFux-Lfu2Vk/mqdefault.jpg",
+          "title": "Diana Wang (王詩安) - Leica (徠卡味) Official Music Video"
+        }
+      ]
+    },
+    "playlist:70733762": {
+      "etag": "\"uyijomn1ssapt\"",
+      "hash": "00c4c14a656ec519226f6512d7877c4326bf132527197aed7c051976f9d36999",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:14",
+          "id": "O1UZ5Q35K1I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/O1UZ5Q35K1I/mqdefault.jpg",
+          "title": "庾澄慶 Harlem Yu - 猴lonely（官方版MV）- 電視劇《前男友不是人》片頭曲"
+        },
+        {
+          "durationText": "3:51",
+          "id": "JD6sSd2lozg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JD6sSd2lozg/mqdefault.jpg",
+          "title": "庾澄慶 Harlem Yu - 錯到底 Till The End Of Time（官方版MV）- 電視劇《楚喬傳》片頭曲、韓劇《重新開始》片尾曲"
+        },
+        {
+          "durationText": "4:32",
+          "id": "H03R52bFhzg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/H03R52bFhzg/mqdefault.jpg",
+          "title": "庾澄慶 Harlem Yu - 猴喜翻（官方版MV）"
+        }
+      ]
+    },
+    "playlist:70734827": {
+      "etag": "\"3bn8fdifgbaph\"",
+      "hash": "eab3a94c9d1318ba0282c5cbeff287edb904801e6be24207ad8bb0fcd3f5281c",
+      "itemCount": 7,
+      "payload": [
+        {
+          "durationText": "4:13",
+          "id": "UBACx61XdMc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UBACx61XdMc/mqdefault.jpg",
+          "title": "金玟岐-膩味"
+        },
+        {
+          "durationText": "4:12",
+          "id": "GP1ErydrxD4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GP1ErydrxD4/mqdefault.jpg",
+          "title": "金玟岐《姍姍》Official Music Video - 群石國際"
+        },
+        {
+          "durationText": "4:39",
+          "id": "B2acFtnXCfo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/B2acFtnXCfo/mqdefault.jpg",
+          "title": "金玟岐《娛樂》Official Music Video - 群石國際-"
+        },
+        {
+          "durationText": "4:08",
+          "id": "iOCusjETNiI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iOCusjETNiI/mqdefault.jpg",
+          "title": "金玟岐《偶像》Official Music Video  -  群石國際"
+        }
+      ]
+    },
     "playlist:70906794": {
       "etag": "\"n4xufqvqzd9r4\"",
       "hash": "ac8a3b8af3430e522f9d007c88e58c70be4776a4d64ba39a10c10a075e388bea",
@@ -31622,6 +31902,63 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/mI2g8nEVGyI/mqdefault.jpg",
           "title": "王力宏 Wang Leehom《無聲感情》 Silent Dancer 官方 Official MV"
+        }
+      ]
+    },
+    "playlist:70906798": {
+      "etag": "\"c9khi7gzah9yt\"",
+      "hash": "4d6efdbd016b0439ba3a3305b8530909ca892620232bc7f84ced7029b3613100",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "3:58",
+          "id": "Ny-jXRA_FLs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ny-jXRA_FLs/mqdefault.jpg",
+          "title": "Kimberley 陳芳語 - 再愛我一天"
+        },
+        {
+          "durationText": "4:30",
+          "id": "WrJ9S_o3dcE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WrJ9S_o3dcE/mqdefault.jpg",
+          "title": "Kimberley 陳芳語 - 謝謝你沒有很愛我"
+        },
+        {
+          "durationText": "2:33",
+          "id": "MyKTCDtXh48",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MyKTCDtXh48/mqdefault.jpg",
+          "title": "Kimberley 陳芳語 - #Tag Me (Audio)"
+        },
+        {
+          "durationText": "3:15",
+          "id": "jwwuxYE874c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jwwuxYE874c/mqdefault.jpg",
+          "title": "Kimberley 陳芳語 - 家在哪裡 (ft.葛仲珊)"
+        },
+        {
+          "durationText": "4:09",
+          "id": "vHKkBoqfROQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vHKkBoqfROQ/mqdefault.jpg",
+          "title": "Kimberley 陳芳語 - 我不浪漫 (Vertical Video)"
         }
       ]
     },
@@ -97319,9 +97656,9 @@
   "schemaVersion": 1,
   "vectors": {
     "vector_featured_zh": {
-      "complete": true,
+      "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 0
+      "nextOffset": 288
     },
     "vector_latest_zh": {
       "complete": true,
