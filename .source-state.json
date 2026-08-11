@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
+    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,8 +21,7 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_jazz"
+      "vector_systemlist_zh_mood_sleep"
     ]
   },
   "resources": {
@@ -31521,6 +31520,255 @@
         }
       ]
     },
+    "playlist:70179003": {
+      "etag": "\"oodgl946d7a3b\"",
+      "hash": "7a1a68ca3cfd836a8b1364a248c6e7ae84a8dea71a69908f3f1a14ec0aa8d856",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:00",
+          "id": "KaG_DUJxRtk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KaG_DUJxRtk/mqdefault.jpg",
+          "title": "愷樂 Butterfly《三人行》feat. 鼓鼓 /羅志祥 Official Music Video"
+        },
+        {
+          "durationText": "3:42",
+          "id": "Fi7B4jxomAg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Fi7B4jxomAg/mqdefault.jpg",
+          "title": "愷樂 Butterfly《Chocolate》Official Music Video"
+        }
+      ]
+    },
+    "playlist:70179004": {
+      "etag": "\"k33hgdxtp8ac0\"",
+      "hash": "4d1202be94120a60c8cf5e8546ac1e4f0cd967451c6450efc51f44fdaeb42afd",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:57",
+          "id": "cfOsmenwU6w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cfOsmenwU6w/mqdefault.jpg",
+          "title": "孫燕姿 Yanzi Sun - 風衣 (Official Music Video)"
+        },
+        {
+          "durationText": "5:24",
+          "id": "CFxkH0AK3jg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CFxkH0AK3jg/mqdefault.jpg",
+          "title": "孫燕姿 Sun Yan Zi – 我很愉快 (Official Music Video)"
+        },
+        {
+          "durationText": "3:52",
+          "id": "rPNkjY9cA_M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rPNkjY9cA_M/mqdefault.jpg",
+          "title": "孫燕姿 跳舞的梵谷 Official music video / Sun Yanzi A Dancing Van Gogh"
+        }
+      ]
+    },
+    "playlist:70179006": {
+      "etag": "\"1uvz3n4rffac8\"",
+      "hash": "dcff56f1b5d696c5768c21824a2066bb9371a153c166eb107cf8c1ec2165a4e9",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:32",
+          "id": "G-xJzqUa0nw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/G-xJzqUa0nw/mqdefault.jpg",
+          "title": "敖犬 OWODOG - My Girl 首播"
+        },
+        {
+          "durationText": "4:11",
+          "id": "WOcomv_BAcA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WOcomv_BAcA/mqdefault.jpg",
+          "title": "敖犬 OWODOG - I'm The Best (Official Music Video 官方MV)"
+        }
+      ]
+    },
+    "playlist:70364165": {
+      "etag": "\"u7bo0p1cdibiq\"",
+      "hash": "b29e5211764427faa078509662e7aedc569d70d196e54d9e43c13a137d7b531a",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "3:59",
+          "id": "MLcBgje9jgA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MLcBgje9jgA/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li - 嗯 En (華納Official HD 官方MV)"
+        },
+        {
+          "durationText": "5:25",
+          "id": "eGr3nLMwbAk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eGr3nLMwbAk/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li - 就這樣 That is it (華納 Official HD 官方MV)"
+        },
+        {
+          "durationText": "3:44",
+          "id": "1rMGH8kPoqs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1rMGH8kPoqs/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li - 裙姊 Qun Zi (華納 Official HD 官方MV)"
+        },
+        {
+          "durationText": "5:59",
+          "id": "Yqw6c5R_KAs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Yqw6c5R_KAs/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li - 歌謠 Ballad (華納 Official HD 官方MV)"
+        },
+        {
+          "durationText": "5:09",
+          "id": "U_WUmCQno3c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/U_WUmCQno3c/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li - 我看著你的時候 When I Look At You (華納 Official HD 官方MV)"
+        },
+        {
+          "durationText": "4:37",
+          "id": "OcdvLe8DWqQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OcdvLe8DWqQ/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li - 祝你幸福 I Wish You Happiness (華納 Official HD 官方MV)"
+        },
+        {
+          "durationText": "3:28",
+          "id": "TGvQG7Wm2F8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TGvQG7Wm2F8/mqdefault.jpg",
+          "title": "李荣浩《后羿》官方高音質版（王者荣耀后羿英雄主打歌）"
+        },
+        {
+          "durationText": "5:18",
+          "id": "V7hJgBcRDwM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/V7hJgBcRDwM/mqdefault.jpg",
+          "title": "李榮浩 Ronghao Li -  戒菸 Quit Smoking (華納 Official HD 官方MV)"
+        }
+      ]
+    },
+    "playlist:70364168": {
+      "etag": "\"76iaa38imkacz\"",
+      "hash": "e5b451723c95d7364b8c7fdcacb805a2ee5aaf14c3095959f02d632b695957d5",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "4:42",
+          "id": "x4cEF8vYOJg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/x4cEF8vYOJg/mqdefault.jpg",
+          "title": "光良 Michael 《不缺 Nothing is Missing》官方 Official 完整版 MV"
+        },
+        {
+          "durationText": "4:49",
+          "id": "5ZJ4tLj414M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5ZJ4tLj414M/mqdefault.jpg",
+          "title": "光良 Michael 《是不是還少了什麼 Is There Anything‭ ‬Missing》 歌詞版搶先聽"
+        },
+        {
+          "durationText": "3:41",
+          "id": "DvM7BoBRBdE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DvM7BoBRBdE/mqdefault.jpg",
+          "title": "光良 Michael 《九種使用孤獨的正確方式 Nine Ways to Enjoy Loneliness》 官方 Official 完整版 MV"
+        }
+      ]
+    },
+    "playlist:70364170": {
+      "etag": "\"mbj2qzi644a67\"",
+      "hash": "0ed44270126d4e840e6ba2c6520e53100fab788d939fa48a5b19e36ff9d2f0dc",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:12",
+          "id": "CW3FBBTqtoU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CW3FBBTqtoU/mqdefault.jpg",
+          "title": "胡一天 Hu Yitian《是夢吧》網劇【致我們單純的小美好】片尾曲 Official Music Video"
+        }
+      ]
+    },
+    "playlist:70370803": {
+      "etag": "\"fa0jduonyta9m\"",
+      "hash": "7c89321959c79390ac1ad96306c404cb0745ed93e8c81a794f3a0f78491a3774",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:30",
+          "id": "tRhNnfzXjIw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tRhNnfzXjIw/mqdefault.jpg",
+          "title": "李千娜 Nana Lee -《命中注定》電視劇【逃婚100次】插曲"
+        }
+      ]
+    },
     "playlist:70552465": {
       "etag": "\"10uydnww452agd\"",
       "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
@@ -31610,6 +31858,23 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/PrxMnEgnzrk/mqdefault.jpg",
           "title": "品冠  Victor Wong【等】官方歌詞版 MV"
+        }
+      ]
+    },
+    "playlist:70552638": {
+      "etag": "\"zxuke2jf2ja54\"",
+      "hash": "d98aee8ea80ad1d1ed63ac058abe1b74f2145447bef6ac04a5e1c8d4b3ae6a86",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:14",
+          "id": "8h_Swy8hqOM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8h_Swy8hqOM/mqdefault.jpg",
+          "title": "邱勝翊 Prince Chiu [ 上位 Uprising ] Official Music Video"
         }
       ]
     },
@@ -97658,7 +97923,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 288
+      "nextOffset": 576
     },
     "vector_latest_zh": {
       "complete": true,
