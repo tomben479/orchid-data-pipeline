@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_jazz"
     ]
   },
   "resources": {
@@ -31520,6 +31521,248 @@
         }
       ]
     },
+    "playlist:44313110": {
+      "etag": "\"tn7ar8ha0eaop\"",
+      "hash": "761c79cb4ba3f1d35edf21370f5c04742a47b0e4c3a328079ef43045f4b69952",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "5:15",
+          "id": "6LCCM5b8szI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6LCCM5b8szI/mqdefault.jpg",
+          "title": "【他是末日預言中的宇宙碎片】陳珊妮 2017新專輯 OFFICIAL MV"
+        },
+        {
+          "durationText": "4:35",
+          "id": "GZVH9l1eLOU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GZVH9l1eLOU/mqdefault.jpg",
+          "title": "【□□□□□ // 亂碼】陳珊妮 2017新專輯 OFFICIAL MV"
+        },
+        {
+          "durationText": "3:55",
+          "id": "vqV9fz-G9FU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vqV9fz-G9FU/mqdefault.jpg",
+          "title": "【獨處】陳珊妮 2017 新專輯 OFFICIAL MV"
+        },
+        {
+          "durationText": "4:41",
+          "id": "S3CKKge4dfc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/S3CKKge4dfc/mqdefault.jpg",
+          "title": "【戰神卡爾迪亞】陳珊妮 2017新專輯 OFFICIAL MV"
+        }
+      ]
+    },
+    "playlist:44313113": {
+      "etag": "\"9ug81v1hw8b6i\"",
+      "hash": "8f54d611e992ad85bca1c053bfcecc647090280916252f99634c5a3038e70c88",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "3:22",
+          "id": "SV3BH3WpBKk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SV3BH3WpBKk/mqdefault.jpg",
+          "title": "某时某刻 (DACH & Sunday Remix) - Luhan 鹿唅 XXVII+"
+        },
+        {
+          "durationText": "3:09",
+          "id": "9dHi-AdZ_lQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9dHi-AdZ_lQ/mqdefault.jpg",
+          "title": "如果 (AXITEE & Leonaka Remix) - Luhan鹿唅 XXVII+"
+        },
+        {
+          "durationText": "3:09",
+          "id": "9DDpM3a_eXA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9DDpM3a_eXA/mqdefault.jpg",
+          "title": "触发 (Gold Child Remix) - Luhan鹿唅 XXVII+"
+        },
+        {
+          "durationText": "3:23",
+          "id": "hWn3LO7zO68",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hWn3LO7zO68/mqdefault.jpg",
+          "title": "LuHan鹿晗 時差remix 專輯XXVII+"
+        }
+      ]
+    },
+    "playlist:50249864": {
+      "etag": "\"ig1w4qype0aqn\"",
+      "hash": "ab948af52bcfca9c39b93a5ad4d72d94c5cf9a5f3171133232c709690a3fa6fa",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "3:23",
+          "id": "H0HOFY3nOCc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/H0HOFY3nOCc/mqdefault.jpg",
+          "title": "陳奕迅 Eason Chan - 《海膽》MV"
+        },
+        {
+          "durationText": "3:56",
+          "id": "yyA6SM16PIA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yyA6SM16PIA/mqdefault.jpg",
+          "title": "陳奕迅 Eason Chan《放》Relax [Official MV]"
+        },
+        {
+          "durationText": "3:51",
+          "id": "dab1QtzbypE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dab1QtzbypE/mqdefault.jpg",
+          "title": "陳奕迅 Eason Chan - 《披風》(Lyric Video)"
+        },
+        {
+          "durationText": "3:32",
+          "id": "n6VP0Wm3EMo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/n6VP0Wm3EMo/mqdefault.jpg",
+          "title": "陳奕迅 Eason Chan - 《誰來剪月光》MV"
+        }
+      ]
+    },
+    "playlist:50250021": {
+      "etag": "\"h34hqfbex3bb4\"",
+      "hash": "53d60c251fda0e21af70fb4495a115874d6ee99b2ff6cdfd6ef4a766f0bae21b",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "4:46",
+          "id": "vzHPecoQ-gQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vzHPecoQ-gQ/mqdefault.jpg",
+          "title": "畢書盡 Bii - You’re Gone（官方版MV） - 偶像劇「噗通噗通我愛你」片尾曲"
+        },
+        {
+          "durationText": "5:17",
+          "id": "kXTrA752Mlw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kXTrA752Mlw/mqdefault.jpg",
+          "title": "畢書盡 Bii - Be Your Light（官方版MV） - 電視劇「隧道」片尾曲"
+        },
+        {
+          "durationText": "5:41",
+          "id": "qLyoPHk_-2k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qLyoPHk_-2k/mqdefault.jpg",
+          "title": "Bii 畢書盡 - 在你的世界 (歌詞版)"
+        },
+        {
+          "durationText": "4:49",
+          "id": "tzaX7kMuYlc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tzaX7kMuYlc/mqdefault.jpg",
+          "title": "畢書盡 Bii - 我想你了 Think Of You（官方版MV） - 電視劇「1%的可能性」片尾曲"
+        },
+        {
+          "durationText": "4:26",
+          "id": "DX6keddLmic",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DX6keddLmic/mqdefault.jpg",
+          "title": "畢書盡 Bii - Nothing At All（官方版MV） - 電視劇「守護者K2」片頭曲"
+        }
+      ]
+    },
+    "playlist:50406593": {
+      "etag": "\"15kzvo2ekwv9zr\"",
+      "hash": "8538647f283403de37af7359a676e2d9c29baaa5df1417049a7f30f8419a65e8",
+      "itemCount": 9,
+      "payload": [
+        {
+          "durationText": "4:12",
+          "id": "aknkofx2bHg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aknkofx2bHg/mqdefault.jpg",
+          "title": "VAVA - My New Swag (我的新衣) featuring Ty. & Nina Wang (王倩倩) (Official Music Video)"
+        },
+        {
+          "durationText": "4:44",
+          "id": "w_mrzSQIIRQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/w_mrzSQIIRQ/mqdefault.jpg",
+          "title": "VAVA - RAP STAR  (華納 Official HD 官方MV)"
+        }
+      ]
+    },
+    "playlist:50457503": {
+      "etag": "\"8aq7mfayi09yq\"",
+      "hash": "2ce64399262a30ada4b213b46cbc6d42a622260f173061d9a5dc4d0fc58aaae6",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:53",
+          "id": "Ine0ufoFnSY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ine0ufoFnSY/mqdefault.jpg",
+          "title": "蔡健雅 Tanya Chua《紫》 - 電影【悟空傳】歌曲 MV"
+        }
+      ]
+    },
     "playlist:50458476": {
       "etag": "\"axn3e5jumna6o\"",
       "hash": "d7cb4949a97828f5fa1df49fe29d95eabed4d724793d9a3fc7c1da31b57a3547",
@@ -31557,12 +31800,116 @@
         }
       ]
     },
+    "playlist:60004920": {
+      "etag": "\"dp0tqhkhzkau0\"",
+      "hash": "fd133882e861f8ee3971fd0de0d850c3f46a9bf4bebcf790faccbda3c11d0c30",
+      "itemCount": 7,
+      "payload": [
+        {
+          "durationText": "4:42",
+          "id": "P6xervVdUOw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/P6xervVdUOw/mqdefault.jpg",
+          "title": "戴愛玲 Princess Ai【懦弱 Weakness】Official Music Video- 偶像劇『噗通噗通我愛你』插曲"
+        },
+        {
+          "durationText": "6:00",
+          "id": "9ELvwUjhVLc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9ELvwUjhVLc/mqdefault.jpg",
+          "title": "戴愛玲 Princess Ai《了不起寂寞 It's No Big Deal》Official Music Video"
+        },
+        {
+          "durationText": "3:55",
+          "id": "ZM1fkJ9uKnw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZM1fkJ9uKnw/mqdefault.jpg",
+          "title": "戴愛玲 Princess Ai《不如沒問過》Official Lyrics MV"
+        },
+        {
+          "durationText": "4:25",
+          "id": "JWIf3Ml_LQU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JWIf3Ml_LQU/mqdefault.jpg",
+          "title": "戴愛玲 Princess Ai《暗了，亮了》Official Lyrics MV"
+        },
+        {
+          "durationText": "4:39",
+          "id": "DfLL9RqbSyc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DfLL9RqbSyc/mqdefault.jpg",
+          "title": "戴愛玲 Princess Ai《以分手為前提》Official 劇情版 MV - 偶像劇『噗通噗通我愛你』插曲"
+        }
+      ]
+    },
     "playlist:60004921": {
       "etag": "\"68syssudvsa88\"",
       "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "itemCount": 4,
       "payload": [
 
+      ]
+    },
+    "playlist:60004923": {
+      "etag": "\"a7zqyj3yy2a8g\"",
+      "hash": "2d8ab621884a51dd51560d8eaf7956fd3b244e95d67f370c0a4310931dcb26c4",
+      "itemCount": 7,
+      "payload": [
+        {
+          "durationText": "4:15",
+          "id": "j_TH61vIFpw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/j_TH61vIFpw/mqdefault.jpg",
+          "title": "二珂 - 棉被"
+        },
+        {
+          "durationText": "3:58",
+          "id": "hyfQ20hicPE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hyfQ20hicPE/mqdefault.jpg",
+          "title": "二珂 Chloe Er - 帶著音樂去旅行 Official Music Video HD"
+        },
+        {
+          "durationText": "4:21",
+          "id": "GPDNKJwACKA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GPDNKJwACKA/mqdefault.jpg",
+          "title": "二珂 Chloe Er - 三角題 Official Music Video HD"
+        },
+        {
+          "durationText": "4:18",
+          "id": "BqBZcTQ8ohE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BqBZcTQ8ohE/mqdefault.jpg",
+          "title": "二珂 Chloe Er - 櫻花粉的浪漫 Official Music Video HD"
+        }
       ]
     },
     "playlist:60153542": {
@@ -98547,7 +98894,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 1152
+      "nextOffset": 1440
     },
     "vector_latest_zh": {
       "complete": true,
