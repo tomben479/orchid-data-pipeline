@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "72e9356bdea55b9009096bafb77c5f47da1ee4f900254109e0c3520fae8b0aa1",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_country"
     ]
   },
   "resources": {
@@ -31520,6 +31521,236 @@
         }
       ]
     },
+    "playlist:43764912": {
+      "etag": "\"xlmjqg02i0abl\"",
+      "hash": "b48ae3dc6c979f55e945817cb814d184152b9cecb36f9285bc29cac40c5c0b40",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:35",
+          "id": "GZVH9l1eLOU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GZVH9l1eLOU/mqdefault.jpg",
+          "title": "【□□□□□ // 亂碼】陳珊妮 2017新專輯 OFFICIAL MV"
+        },
+        {
+          "durationText": "3:55",
+          "id": "vqV9fz-G9FU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vqV9fz-G9FU/mqdefault.jpg",
+          "title": "【獨處】陳珊妮 2017 新專輯 OFFICIAL MV"
+        }
+      ]
+    },
+    "playlist:43764913": {
+      "etag": "\"mtsc6t8hieao3\"",
+      "hash": "2fac6c401cad8bed00c0c2c9a8994214ee764bd9e099a2a9e83547f01e5259cf",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "3:34",
+          "id": "vePTvwzjn5c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vePTvwzjn5c/mqdefault.jpg",
+          "title": "IVI 臥底Undercover  (Official MV)"
+        },
+        {
+          "durationText": "4:06",
+          "id": "9JRoiMhxLjY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9JRoiMhxLjY/mqdefault.jpg",
+          "title": "IVI You (Official MV)"
+        },
+        {
+          "durationText": "3:08",
+          "id": "ZfxHGbA5QQU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZfxHGbA5QQU/mqdefault.jpg",
+          "title": "超強17練習生『17 Ready Go』單曲 (A組勝出花絮版Official Version)"
+        },
+        {
+          "durationText": "3:14",
+          "id": "sITE5cz2Rog",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sITE5cz2Rog/mqdefault.jpg",
+          "title": "IVI 愛為愛 All For Love (Official MV)"
+        }
+      ]
+    },
+    "playlist:43947388": {
+      "etag": "\"6thdk8gjrma51\"",
+      "hash": "25630162def2f66f2c2cdd8e7e9b1309f34c4594f3c8422c73186dab1e480aff",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "3:16",
+          "id": "MIjNxdhf4Z4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MIjNxdhf4Z4/mqdefault.jpg",
+          "title": "底線 - Julia Wu 吳卓源｜Official Lyric Video"
+        },
+        {
+          "durationText": "4:02",
+          "id": "1r1oVjMMwFs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1r1oVjMMwFs/mqdefault.jpg",
+          "title": "夜晚 - Julia Wu 吳卓源｜Official Lyric Visual"
+        },
+        {
+          "durationText": "3:12",
+          "id": "J9JIJdkw3VE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/J9JIJdkw3VE/mqdefault.jpg",
+          "title": "Need U Now - Julia Wu 吳卓源｜Official Lyric Video"
+        },
+        {
+          "durationText": "3:20",
+          "id": "YSr3vtB-wvU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YSr3vtB-wvU/mqdefault.jpg",
+          "title": "為你我受冷風吹 - Julia Wu 吳卓源｜Official Music Video"
+        },
+        {
+          "durationText": "2:58",
+          "id": "debWYJwOL-M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/debWYJwOL-M/mqdefault.jpg",
+          "title": "台北夜空下 - Julia Wu 吳卓源｜Official Music Video"
+        },
+        {
+          "durationText": "4:49",
+          "id": "MJMfU2Od2T8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MJMfU2Od2T8/mqdefault.jpg",
+          "title": "你是不是有點動心 - Julia Wu 吳卓源｜Official Music Visual (HD)"
+        },
+        {
+          "durationText": "4:30",
+          "id": "G71qhZndagQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/G71qhZndagQ/mqdefault.jpg",
+          "title": "別哭了 - Julia Wu 吳卓源｜Official Lyric Video"
+        }
+      ]
+    },
+    "playlist:43947389": {
+      "etag": "\"wh5fe466079sh\"",
+      "hash": "99e408cbdd3fd3c5de575eea87e8a56eefa99a4d90ea2e50cb6ed7a2049a0f14",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:58",
+          "id": "IrwdittIMHU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IrwdittIMHU/mqdefault.jpg",
+          "title": "柯有倫Alan Kuo feat. JV 陳政文 Edison JV《如果還有 If There's Still》Official Lyrics Video【歌詞版MV】"
+        }
+      ]
+    },
+    "playlist:43947391": {
+      "etag": "\"yhgqsi779aaec\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 4,
+      "payload": [
+
+      ]
+    },
+    "playlist:43967113": {
+      "etag": "\"17ilq3h90qvavw\"",
+      "hash": "7841e6d66b26afb27a888511c80bddcaaab7cfcba9c48fe54ba35383618ef529",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:26",
+          "id": "DX6keddLmic",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DX6keddLmic/mqdefault.jpg",
+          "title": "畢書盡 Bii - Nothing At All（官方版MV） - 電視劇「守護者K2」片頭曲"
+        },
+        {
+          "durationText": "4:46",
+          "id": "vzHPecoQ-gQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vzHPecoQ-gQ/mqdefault.jpg",
+          "title": "畢書盡 Bii - You’re Gone（官方版MV） - 偶像劇「噗通噗通我愛你」片尾曲"
+        }
+      ]
+    },
+    "playlist:44131790": {
+      "etag": "\"da50i2expza2p\"",
+      "hash": "9481b65ee2ca22af1814069db909d2e006bc38fb075c71b6275bf1a8dd0ee1cf",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "4:32",
+          "id": "V8mldVlRYFk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/V8mldVlRYFk/mqdefault.jpg",
+          "title": "曾之喬 Joanne Tseng [ 亮了 Light Up ] Official Music Video"
+        },
+        {
+          "durationText": "4:22",
+          "id": "z_iMEjTJsBE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/z_iMEjTJsBE/mqdefault.jpg",
+          "title": "曾之喬 Joanne Tseng [ 猜猜看 Guess ] Official Music Video (偶像劇「稍息立正我愛你」片尾曲)"
+        }
+      ]
+    },
     "playlist:44131791": {
       "etag": "\"11uscgqnsuoa66\"",
       "hash": "4308896f80dbe2587b53bf5a8835fa3c7ae5da64ca954be1fbd737ae68616b88",
@@ -31564,6 +31795,23 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/2q0M6emwgJA/mqdefault.jpg",
           "title": "A-Lin《一直走 GO》Official Music Video"
+        }
+      ]
+    },
+    "playlist:44132448": {
+      "etag": "\"77i2u1agqna4f\"",
+      "hash": "dba28e637e474c289ea8010470235c412883abf9c59cbf80aefa0a27c4237f30",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "4:33",
+          "id": "2rGzdV-mlo4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2rGzdV-mlo4/mqdefault.jpg",
+          "title": "嚴爵Yen-j [ 我喜歡(不,我愛) ] MV官方完整高清版"
         }
       ]
     },
@@ -99110,7 +99358,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 1728
+      "nextOffset": 2016
     },
     "vector_latest_zh": {
       "complete": true,
