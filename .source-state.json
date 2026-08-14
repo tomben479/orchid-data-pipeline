@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_jazz"
     ]
   },
   "resources": {
@@ -31520,6 +31521,159 @@
         }
       ]
     },
+    "playlist:41106620": {
+      "etag": "\"2ixl8bwkubact\"",
+      "hash": "783cf086210644dabd2f761ce826e338eebfae4fe261678cbabd6a0f08e2443a",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "5:00",
+          "id": "tmOgLuv6-K0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tmOgLuv6-K0/mqdefault.jpg",
+          "title": "曾沛慈 Pets Tseng  - 我愛你 I Love You (官方歌詞版)"
+        },
+        {
+          "durationText": "5:27",
+          "id": "tSEzuXRP1TE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tSEzuXRP1TE/mqdefault.jpg",
+          "title": "曾沛慈 Pets Tseng - 偏愛  Love is Paranoia (官方版MV) - 東森戲劇台「大力女都奉順」片尾曲"
+        }
+      ]
+    },
+    "playlist:41106621": {
+      "etag": "\"q2k6slhnzha99\"",
+      "hash": "c6f6debbf706590a1d9fe6bfa62c6c8043e53caebfc87a16f7fdbf53815b6635",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:08",
+          "id": "4AcBvldNn7U",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4AcBvldNn7U/mqdefault.jpg",
+          "title": "江美琪 -【沒有不可能 Never Say Never】 Official Music Video"
+        }
+      ]
+    },
+    "playlist:41313106": {
+      "etag": "\"h5bgsypywtaia\"",
+      "hash": "3e6b96a6c30bb7d6bc5da1810152863a61ef27a312108cccf780e680df04447f",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:32",
+          "id": "gBhAequ7yjA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gBhAequ7yjA/mqdefault.jpg",
+          "title": "原子邦妮 Astro Bunny 【蒸發的世界剩下我】官方歌詞MV (Lyric)"
+        }
+      ]
+    },
+    "playlist:41313107": {
+      "etag": "\"12hr6bzzcdparp\"",
+      "hash": "4f365a8e3dedb4be71716304fcc12e9532efaea1c729d9085e5d82965a3067df",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "3:45",
+          "id": "-mKTjExsQZA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-mKTjExsQZA/mqdefault.jpg",
+          "title": "A/DA 阿達《我說寶貝》feat. Lulu 黃路梓茵 Official Music Video"
+        },
+        {
+          "durationText": "3:32",
+          "id": "WImLY5UQZiM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WImLY5UQZiM/mqdefault.jpg",
+          "title": "A/DA 阿達《大酷哥》(feat. 玖壹壹 春風、楊銘威) Official Music Video"
+        },
+        {
+          "durationText": "3:33",
+          "id": "siVB8-mRKC0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/siVB8-mRKC0/mqdefault.jpg",
+          "title": "A/DA 阿達《身體健康》Official Music Video"
+        },
+        {
+          "durationText": "3:17",
+          "id": "F0zKhlnbooM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/F0zKhlnbooM/mqdefault.jpg",
+          "title": "A/DA 阿達《上班不要跟我聊夢想》Official Music Video"
+        }
+      ]
+    },
+    "playlist:41313108": {
+      "etag": "\"n7b3hnqlu8a63\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 3,
+      "payload": [
+
+      ]
+    },
+    "playlist:41313109": {
+      "etag": "\"115ii013xne9gq\"",
+      "hash": "c8636bca614798f5d0c61cf880946e8810384af1f935df53fb36cac47d7202ea",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:51",
+          "id": "r4NGGqmX_W4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/r4NGGqmX_W4/mqdefault.jpg",
+          "title": "聖結石Saint【安儷】Official MV 4K"
+        },
+        {
+          "durationText": "4:11",
+          "id": "fWuq67-VSTM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fWuq67-VSTM/mqdefault.jpg",
+          "title": "聖結石Saint【真的不想嘴】Official MV 4K feat.聖嫂Dodo"
+        },
+        {
+          "durationText": "3:44",
+          "id": "LAPXqtxxstE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LAPXqtxxstE/mqdefault.jpg",
+          "title": "聖結石Saint【根本就不會再見面】Official MV 4K"
+        }
+      ]
+    },
     "playlist:41445375": {
       "etag": "\"l0jncw4ske9c7\"",
       "hash": "3feb1e2944d35a5e99fbd8cb6b1e05220aa27ee02a2bcc9a76e9736eb356e51e",
@@ -31534,6 +31688,50 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/Kr5gCaSv-hc/mqdefault.jpg",
           "title": "張品筠(Nico)&妮妮(Nini) '紫薇阿紫薇(Common Crepe Myrtle)' 【特別版(special MV )】｜那對夫妻 (Nico&Kim&Nini)"
+        }
+      ]
+    },
+    "playlist:41445376": {
+      "etag": "\"ipz8ueckoxb4r\"",
+      "hash": "457a65467c2800793141e493bdd29dbe9fd7ed1c20fb04960c5bfaa6c6370a4b",
+      "itemCount": 9,
+      "payload": [
+        {
+          "durationText": "2:36",
+          "id": "Ta3v5P5S3aE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ta3v5P5S3aE/mqdefault.jpg",
+          "title": "【夏至未至原聲帶配樂】電視劇《夏至未至》配樂 ＜那個他＞(純音樂)"
+        },
+        {
+          "durationText": "4:30",
+          "id": "7cSwsUSxJoM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7cSwsUSxJoM/mqdefault.jpg",
+          "title": "【郁可唯 Yisa Yu】《未至》高音質動態歌詞版--電視劇《夏至未至》插曲"
+        }
+      ]
+    },
+    "playlist:41475464": {
+      "etag": "\"ha259vpcxma36\"",
+      "hash": "86827a776abb4a599ff069ae94f25dd995bcf6e595acb823f091ed8e5e4f7635",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "5:03",
+          "id": "oRvm8cSUvXg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oRvm8cSUvXg/mqdefault.jpg",
+          "title": "寂寞的戀人啊 - 許仁杰｜Official Lyric Video(原唱：莫文蔚)"
         }
       ]
     },
@@ -98707,30 +98905,30 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_jazz:0:12": {
-      "etag": "\"3pxdcgfwpg68g\"",
-      "hash": "fb45c6ee9763d80dec5886ee52d11f9fe005d3bdbc13795d40ee7d03dc90bed0",
+      "etag": "\"sdhw59vehd66x\"",
+      "hash": "b09aaf1a2763b3b24b921d8307c5b9a021348a20cff1d91684672a4606311151",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_klnZmBbgmGFVrCYSZMceEHODgK9YHfIt4",
           "kind": "playlist",
-          "subtitle": "97 首",
+          "subtitle": "89 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/MDgN3hsbsHY/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/Remmk7bCTno/mqdefault.jpg",
           "title": "最熱爵士樂"
         },
         {
           "id": "RDCLAK5uy_kyZ7N5lM0kUpn7NbydMRujcq4aTEesP9I",
           "kind": "playlist",
-          "subtitle": "96 首",
+          "subtitle": "100 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/I1O6Fg2-Stg/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/MLV8w3k2U9o/mqdefault.jpg",
           "title": "嘻哈與爵士"
         },
         {
@@ -98791,7 +98989,7 @@
         {
           "id": "RDCLAK5uy_l3Iir9QZmCUPLjUqyR9PmYIKkkY7YEJZA",
           "kind": "playlist",
-          "subtitle": "77 首",
+          "subtitle": "76 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -98802,30 +99000,30 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_jazz:12:12": {
-      "etag": "\"x9ufs1h8gs67e\"",
-      "hash": "570b680898a9522f8f8e310714fcb1d6a1069feb24336d18d2ef7c42e77d0210",
+      "etag": "\"18bttt0g9ou66z\"",
+      "hash": "0214a32b4af6afce811ee7f33423723152ef0e8b948fcde68ce2087f62012bb2",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_kQmVjdr90p2onIIAnijgU8u9iUUAOXM2I",
           "kind": "playlist",
-          "subtitle": "32 首",
+          "subtitle": "51 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/SEZGNciuVco/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/SMn30uII-pE/mqdefault.jpg",
           "title": "今日柔和爵士"
         },
         {
           "id": "RDCLAK5uy_lDA1IUXJfnEH78l7lLI-CcD7pwXSuAyNY",
           "kind": "playlist",
-          "subtitle": "79 首",
+          "subtitle": "42 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/WVqkbOREswE/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/kkJeYkvrYCc/mqdefault.jpg",
           "title": "拉丁爵士"
         },
         {
@@ -98891,7 +99089,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/1IDFtEvOMqc/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/UWLPu1zjmsc/mqdefault.jpg",
           "title": "Jazz 2016"
         },
         {
@@ -98913,7 +99111,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/UJkxFhFRFDA/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/jsFST-7Hx-Y/mqdefault.jpg",
           "title": "Pure... Jazz"
         },
         {
@@ -98930,9 +99128,9 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_jazz:24:12": {
-      "etag": "\"yth6394h0k2dq\"",
-      "hash": "ae761288df8001d30a6d347c81fb094428d183d91f01a1628bbd41b2bb7973cc",
-      "itemCount": 4,
+      "etag": "\"11r5q02np8q7i5\"",
+      "hash": "5a242e1d6b02ef1d71437511020f575f51cc167ef597d5b31ee8ff71d4ca3c19",
+      "itemCount": 12,
       "payload": [
         {
           "id": "18366397",
@@ -98977,6 +99175,233 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/BRfjKKw1A2M/mqdefault.jpg",
           "title": "Most Popular Jazz Songs of the Month (201502)"
+        },
+        {
+          "id": "RDCLAK5uy_m7EF_vYZXBhXNuduyXmhT00DYapc8cobs",
+          "kind": "playlist",
+          "subtitle": "42 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ylXk1LBvIqU/mqdefault.jpg",
+          "title": "爵士鑑賞"
+        },
+        {
+          "id": "RDCLAK5uy_nm4NA8cldZNPqj1D0ayZxfySeY89qedRs",
+          "kind": "playlist",
+          "subtitle": "80 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/naPLm44NWqA/mqdefault.jpg",
+          "title": "最柔美的爵士"
+        },
+        {
+          "id": "RDCLAK5uy_kL57PLcOmExjhzqGfGhvA82ZWe4fPH2c4",
+          "kind": "playlist",
+          "subtitle": "58 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jC6H1-wpG2Q/mqdefault.jpg",
+          "title": "輕柔爵士音樂"
+        },
+        {
+          "id": "RDCLAK5uy_neriXH6JbZPr7Pf4LOi5bGQP-_lWRZXs4",
+          "kind": "playlist",
+          "subtitle": "62 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FcG3HxiOMJE/mqdefault.jpg",
+          "title": "舒適的爵士樂"
+        },
+        {
+          "id": "RDCLAK5uy_lKqeKxF4FjM0MB8ywbT0n54TCTtm8jhKU",
+          "kind": "playlist",
+          "subtitle": "29 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GNCd_ERZvZM/mqdefault.jpg",
+          "title": "2010年代爵士"
+        },
+        {
+          "id": "RDCLAK5uy_nRr0zn4n0C5AGQqZKdSaSzs2zmbImOIwU",
+          "kind": "playlist",
+          "subtitle": "88 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EWC5x9G45yo/mqdefault.jpg",
+          "title": "鋼琴與爵士"
+        },
+        {
+          "id": "RDCLAK5uy_m6aBO70zO2mNRnBrz9vLCLyjMf8hsZKeE",
+          "kind": "playlist",
+          "subtitle": "61 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/r7tnPNYdqOY/mqdefault.jpg",
+          "title": "Jazz Coffee Shop"
+        },
+        {
+          "id": "RDCLAK5uy_l_2hw6aZpjgIxEsMFWku27S5_WJDv9m1E",
+          "kind": "playlist",
+          "subtitle": "100 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ylXk1LBvIqU/mqdefault.jpg",
+          "title": "爵士晚餐派對"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_genre_jazz:36:12": {
+      "etag": "\"fz3yd2lk7n7v5\"",
+      "hash": "654da107040e8da27462a8ada3c7ea3cf7a47660ef6a8961aa7acc183acdf174",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_kY-qKujvKmhfzV5CJW73SBPkDuZByO8xI",
+          "kind": "playlist",
+          "subtitle": "96 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tyKu0uZS86Q/mqdefault.jpg",
+          "title": "精緻醇美爵士美聲"
+        },
+        {
+          "id": "RDCLAK5uy_mdTxN0bl86mzbRbdr9gW6MEXhBJ8h-mME",
+          "kind": "playlist",
+          "subtitle": "64 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/REryc1TpeY8/mqdefault.jpg",
+          "title": "女音樂家的爵士佳作"
+        },
+        {
+          "id": "RDCLAK5uy_n2cq0PxECLzVblC6NOorWjaCtF5NwXJT4",
+          "kind": "playlist",
+          "subtitle": "31 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fqPWwLBq1M8/mqdefault.jpg",
+          "title": "助眠爵士"
+        },
+        {
+          "id": "RDCLAK5uy_nVGlSRAJGpBoC9aVGFGOLC0aWnEFenoQs",
+          "kind": "playlist",
+          "subtitle": "78 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bR01hUFKQ-A/mqdefault.jpg",
+          "title": "學習時聽的爵士樂"
+        },
+        {
+          "id": "RDCLAK5uy_mzxc6CP7BTB7mvYNEpOPB5Aa3Ix1hNZA4",
+          "kind": "playlist",
+          "subtitle": "56 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/otFVFLtRF_s/mqdefault.jpg",
+          "title": "爵士樂早午餐"
+        },
+        {
+          "id": "RDCLAK5uy_lzki7nUlzgW62wBDmL__RL8DiBx5Xhd8o",
+          "kind": "playlist",
+          "subtitle": "79 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sEhQTjgoTdU/mqdefault.jpg",
+          "title": "融合爵士樂"
+        },
+        {
+          "id": "RDCLAK5uy_ntdRx4j4KAbBT9I9Rh2tqgVLeODUQuygY",
+          "kind": "playlist",
+          "subtitle": "25 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/79TAyvMXDSs/mqdefault.jpg",
+          "title": "輕鬆愉悅的爵士樂"
+        },
+        {
+          "id": "RDCLAK5uy_k7a3ErfM0mejMiVztB0eN4NdTGJMKf9mQ",
+          "kind": "playlist",
+          "subtitle": "59 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YFham2Xu6nA/mqdefault.jpg",
+          "title": "高級宴會爵士樂"
+        },
+        {
+          "id": "RDCLAK5uy_lOB7GHW5BVWDQa_ek2rB9iV6gPxs0TX_A",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1qJU8G7gR_g/mqdefault.jpg",
+          "title": "感受爵士藍調音樂"
+        },
+        {
+          "id": "RDCLAK5uy_k3-yjf13QIvUoJbOuOTtTe9NFSP1eruLQ",
+          "kind": "playlist",
+          "subtitle": "24 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GP2cWBfa-j0/mqdefault.jpg",
+          "title": "適合雞尾酒會用的爵士音樂"
+        },
+        {
+          "id": "RDCLAK5uy_mQHYdV2Vf3lFugUQfkpSsiSfgGdweAV4c",
+          "kind": "playlist",
+          "subtitle": "57 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LYfF9VKMp4w/mqdefault.jpg",
+          "title": "Swinging Jazz"
+        },
+        {
+          "id": "RDCLAK5uy_kQhKviYMP4sYcy2RH3VYd-1dyW4gzrTAo",
+          "kind": "playlist",
+          "subtitle": "36 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/frYLvC0mM50/mqdefault.jpg",
+          "title": "Easy Upbeat Jazz"
         }
       ]
     },
@@ -103881,6 +104306,496 @@
         }
       ]
     },
+    "vector:vector_systemlist_zh_mood_romance:132:12": {
+      "etag": "\"s1upasuumi83t\"",
+      "hash": "d0d2ffe10da8b3f07acd81d866146711c111b85d9542e68340b5a8520ea8aef2",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_kbN8FIUVsK_JmyaVGsJYGFskQ-PVSz9dc",
+          "kind": "playlist",
+          "subtitle": "79 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ea3NPjCXPeg/mqdefault.jpg",
+          "title": "OPM 浪漫歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_kyd8ndeZITSdzHwmZV5sZOA2m-EvY3YKU",
+          "kind": "playlist",
+          "subtitle": "38 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fC1HF29n9UA/mqdefault.jpg",
+          "title": "phonk lovers"
+        },
+        {
+          "id": "RDCLAK5uy_kaRoBBGlE8Xh1enKL7w9DqNyCkBaZJjOI",
+          "kind": "playlist",
+          "subtitle": "107 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UooE3twEpEA/mqdefault.jpg",
+          "title": "Turkish Acoustic Lovers"
+        },
+        {
+          "id": "RDCLAK5uy_nP132ski9jlcBsUUit2Qe0QMwqWMZ0zKY",
+          "kind": "playlist",
+          "subtitle": "38 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zaX-2HGB33o/mqdefault.jpg",
+          "title": "Rap Love"
+        },
+        {
+          "id": "RDCLAK5uy_km8j1Msn0n8FTLRIw0krI9k2sf-t1Z4hg",
+          "kind": "playlist",
+          "subtitle": "31 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fOymevxe1pI/mqdefault.jpg",
+          "title": "Acoustic Covers of Love Songs"
+        },
+        {
+          "id": "RDCLAK5uy_kyBjXiKUuGfPYEb6TuImB59ptF0i8e0jA",
+          "kind": "playlist",
+          "subtitle": "97 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Gb1FrnjlXoo/mqdefault.jpg",
+          "title": "Romantic Boleros"
+        },
+        {
+          "id": "RDCLAK5uy_mRvRqNRjubqiglRr1IjbTramMA-M84jtg",
+          "kind": "playlist",
+          "subtitle": "78 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9ZMf70xR-fs/mqdefault.jpg",
+          "title": "告別前男友"
+        },
+        {
+          "id": "RDCLAK5uy_kODrJiB2r2jrx_oITwxntKLvofERV0NSE",
+          "kind": "playlist",
+          "subtitle": "25 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bdso4qwyul0/mqdefault.jpg",
+          "title": "Turkish Love Classics"
+        },
+        {
+          "id": "RDCLAK5uy_lsbm2vEBPj4k2CFjNmvf6AMRGUcJAqcsg",
+          "kind": "playlist",
+          "subtitle": "68 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gFb1TftvdoM/mqdefault.jpg",
+          "title": "Love Songs for Confession"
+        },
+        {
+          "id": "RDCLAK5uy_kokCuQn8yREntqCg07KWr-q01wLJgM-50",
+          "kind": "playlist",
+          "subtitle": "56 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lUdbxJXBuig/mqdefault.jpg",
+          "title": "Ukrainian Rock Ballads"
+        },
+        {
+          "id": "RDCLAK5uy_nZexkv7Z-x6_aS9MlGSpmnXZceVKEsBms",
+          "kind": "playlist",
+          "subtitle": "68 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dZzfjLPC-Rk/mqdefault.jpg",
+          "title": "烏克蘭流行民謠"
+        },
+        {
+          "id": "RDCLAK5uy_knJgnKiVdvnzUynFfbpRcofIWNv3IjZ-Q",
+          "kind": "playlist",
+          "subtitle": "47 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iXsaghV1-K4/mqdefault.jpg",
+          "title": "泰國流行原聲音樂"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_romance:144:12": {
+      "etag": "\"ymbkezhwy81c\"",
+      "hash": "5223b7cb18d1b666b8d64d40c310aa79bd78c1a82f71bb0f4a5066d993895835",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_mwPENoJkIZpAZvKBEUH-Sqxb5bvc-7QRw",
+          "kind": "playlist",
+          "subtitle": "41 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jQztFLKaZEU/mqdefault.jpg",
+          "title": "Zouk Love"
+        },
+        {
+          "id": "RDCLAK5uy_lqvJfFetHnlbN8ml5vo7yFAIwTyEFCs2I",
+          "kind": "playlist",
+          "subtitle": "52 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dmBRyBvAEy8/mqdefault.jpg",
+          "title": "Beautiful Korean Duet"
+        },
+        {
+          "id": "RDCLAK5uy_lGZNsVQescoTzcvJkcEhSjpyn_98D4lq0",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/u14rrcxENDw/mqdefault.jpg",
+          "title": "粵語情歌合輯"
+        },
+        {
+          "id": "RDCLAK5uy_kr2cSFpj4mFgorpgYn66fsxXRXHGsv5fk",
+          "kind": "playlist",
+          "subtitle": "43 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qGuLqe-NMKg/mqdefault.jpg",
+          "title": "浪漫的雷鬼情歌"
+        },
+        {
+          "id": "RDCLAK5uy_lE1mKJYjSGAi2wWJ_289TZ1VDItr7wjEE",
+          "kind": "playlist",
+          "subtitle": "101 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DnB162O1AYo/mqdefault.jpg",
+          "title": "Turkish Love Songs"
+        },
+        {
+          "id": "RDCLAK5uy_lHvyZXwRwQ09MxfS5Tx-iRZABLyClrlIU",
+          "kind": "playlist",
+          "subtitle": "52 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/X5nF7BdC4No/mqdefault.jpg",
+          "title": "烏克蘭浪漫搖滾"
+        },
+        {
+          "id": "RDCLAK5uy_l9ZQC0N6EMs4gOCaPhOVbRCx9x-POOy6c",
+          "kind": "playlist",
+          "subtitle": "106 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/t7M89YJAPhM/mqdefault.jpg",
+          "title": "Romantic Brazilian Music"
+        },
+        {
+          "id": "RDCLAK5uy_k1KQjTt3MaexXBq8UATmtJSFaR0IDt2XA",
+          "kind": "playlist",
+          "subtitle": "46 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_ZyeZqrKXpU/mqdefault.jpg",
+          "title": "Rock Lovers Mixtape"
+        },
+        {
+          "id": "RDCLAK5uy_msL3-7KY0LeHykE9eC_-evOsnQ6uc2ky0",
+          "kind": "playlist",
+          "subtitle": "58 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BouNQ9lREyA/mqdefault.jpg",
+          "title": "UK Rap Lovers"
+        },
+        {
+          "id": "RDCLAK5uy_mPsH4O0kN38oqEvsuw4zYVgsKanndhwLQ",
+          "kind": "playlist",
+          "subtitle": "45 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qYYJqWsBb1U/mqdefault.jpg",
+          "title": "Will You Marry Me"
+        },
+        {
+          "id": "RDCLAK5uy_nm4NA8cldZNPqj1D0ayZxfySeY89qedRs",
+          "kind": "playlist",
+          "subtitle": "76 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/naPLm44NWqA/mqdefault.jpg",
+          "title": "最柔美的爵士"
+        },
+        {
+          "id": "RDCLAK5uy_lpcenrGYN3AxC3juoc-ZJIBeCX6EgC7dc",
+          "kind": "playlist",
+          "subtitle": "62 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qqflFMhkqHM/mqdefault.jpg",
+          "title": "神啊救救我吧！"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_romance:156:12": {
+      "etag": "\"b0xirorxu7vu\"",
+      "hash": "90cce2d6c01cee3c044648bd65060b5fc2150131ab1883f364cc5a6eab6d7751",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_mtQ5lds7IYeZ3TsZurHJX2w0CLMJ3w8Y4",
+          "kind": "playlist",
+          "subtitle": "60 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9Unrl9Yi55s/mqdefault.jpg",
+          "title": "柔順溫醇的韓國饒舌歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_neriXH6JbZPr7Pf4LOi5bGQP-_lWRZXs4",
+          "kind": "playlist",
+          "subtitle": "62 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FcG3HxiOMJE/mqdefault.jpg",
+          "title": "舒適的爵士樂"
+        },
+        {
+          "id": "RDCLAK5uy_kgAnMK10ZXQoUjCKQrN4kUjtgE67oN7eI",
+          "kind": "playlist",
+          "subtitle": "58 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ghab5geaddM/mqdefault.jpg",
+          "title": "French Lovers"
+        },
+        {
+          "id": "RDCLAK5uy_lh-nhVB6RoYXshpB7z4eUKkEAdQ0bk97E",
+          "kind": "playlist",
+          "subtitle": "77 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/E-Ju7zjY_8A/mqdefault.jpg",
+          "title": "愛是情歌"
+        },
+        {
+          "id": "RDCLAK5uy_n_tNgN_4k2rGY2oXy-25mlHokxtZznlD4",
+          "kind": "playlist",
+          "subtitle": "48 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PxH3skG_UII/mqdefault.jpg",
+          "title": "OPM 雙人合唱"
+        },
+        {
+          "id": "RDCLAK5uy_kY-qKujvKmhfzV5CJW73SBPkDuZByO8xI",
+          "kind": "playlist",
+          "subtitle": "96 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tyKu0uZS86Q/mqdefault.jpg",
+          "title": "精緻醇美爵士美聲"
+        },
+        {
+          "id": "RDCLAK5uy_n3qkemHBD9k_a0B_pX2VWB0RPvebkR7uU",
+          "kind": "playlist",
+          "subtitle": "45 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CSK5eApRGwQ/mqdefault.jpg",
+          "title": "Afro R&B Wave"
+        },
+        {
+          "id": "RDCLAK5uy_kL7seJinYAVpulQQbre887jeaIDkrnAg0",
+          "kind": "playlist",
+          "subtitle": "43 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ylXk1LBvIqU/mqdefault.jpg",
+          "title": "背景爵士樂"
+        },
+        {
+          "id": "RDCLAK5uy_lsdV5oBPFEC87QS1yTL1UFbqzVmKNAisE",
+          "kind": "playlist",
+          "subtitle": "52 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6U7KrkErwAo/mqdefault.jpg",
+          "title": "Lonely Hearts Club"
+        },
+        {
+          "id": "RDCLAK5uy_nmtndnZTQekmbarKBtV4DVi3yJKY27yws",
+          "kind": "playlist",
+          "subtitle": "61 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IF04M75KBC0/mqdefault.jpg",
+          "title": "Candid Pop"
+        },
+        {
+          "id": "RDCLAK5uy_maovv9y-Oy2wvzXzMPLlbcvSZgUhnvPAc",
+          "kind": "playlist",
+          "subtitle": "97 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vDKIheHefbE/mqdefault.jpg",
+          "title": "K-Drama Romance"
+        },
+        {
+          "id": "RDCLAK5uy_kujHHFkpZkDcuyi7TNreotQ0F-UYjSAjo",
+          "kind": "playlist",
+          "subtitle": "47 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CQ0xIXi1QcE/mqdefault.jpg",
+          "title": "Classical Romance"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_romance:168:12": {
+      "etag": "\"3hponnms1242o\"",
+      "hash": "2f367a002c5424259df1a0b6f051958c2d555b4cb76b481c39d0f50fa8228ee7",
+      "itemCount": 6,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_klZswePrKb8XZQSmOz8kbgDb4PgzFvRQk",
+          "kind": "playlist",
+          "subtitle": "53 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/v5FVmJKPSrY/mqdefault.jpg",
+          "title": "孤獨的爵士"
+        },
+        {
+          "id": "RDCLAK5uy_kQmVjdr90p2onIIAnijgU8u9iUUAOXM2I",
+          "kind": "playlist",
+          "subtitle": "51 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SMn30uII-pE/mqdefault.jpg",
+          "title": "今日柔和爵士"
+        },
+        {
+          "id": "RDCLAK5uy_k_nVgsjkPzM50opxbtIq9DnQP9v1-1vWc",
+          "kind": "playlist",
+          "subtitle": "22 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jrKn4o_9LB0/mqdefault.jpg",
+          "title": "今晚的妳，很迷人！"
+        },
+        {
+          "id": "RDCLAK5uy_mXUrV3_kqn3WUflvb3nZr35f3F5Q049H0",
+          "kind": "playlist",
+          "subtitle": "43 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/B6ppp6WBCKg/mqdefault.jpg",
+          "title": "Kollywood Romance Hitlist"
+        },
+        {
+          "id": "RDCLAK5uy_mErBkQfx-R-FQHnM6CsikE72lJlMuFKNs",
+          "kind": "playlist",
+          "subtitle": "41 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XzupjqG2zRg/mqdefault.jpg",
+          "title": "Tollywood Romance Hitlist"
+        },
+        {
+          "id": "RDCLAK5uy_ludDlR3pkrO25XIlHNKEgoODycL5mcGX4",
+          "kind": "playlist",
+          "subtitle": "110 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hVD34mP9ZUc/mqdefault.jpg",
+          "title": "Romantic Pagode"
+        }
+      ]
+    },
     "vector:vector_systemlist_zh_mood_romance:24:12": {
       "etag": "\"9rwmbojo2l6io\"",
       "hash": "8d74a8f896b086dba1f2cb990ab7932217a7e17a3b2f9b92bb340523aa41404e",
@@ -104844,8 +105759,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:0:12": {
-      "etag": "\"y3mqsaaofe76p\"",
-      "hash": "986e760584c708e53f78dfc66105082ea1532a8e7f08bc6f3f3822e08360c4ee",
+      "etag": "\"ebxtd2k8cp72s\"",
+      "hash": "add17cc336425f719706ed2ec730acd3c6822e1183c519638edceedfde59c44d",
       "itemCount": 12,
       "payload": [
         {
@@ -104862,12 +105777,12 @@
         {
           "id": "RDCLAK5uy_k8GvsGbBT2D5lvGqOc6gAitzrcWVvecYI",
           "kind": "playlist",
-          "subtitle": "33 首",
+          "subtitle": "59 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/NT1aFEDdAQU/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/E5yHKx_liYs/mqdefault.jpg",
           "title": "慢搖"
         },
         {
@@ -104939,12 +105854,12 @@
         {
           "id": "RDCLAK5uy_n2cq0PxECLzVblC6NOorWjaCtF5NwXJT4",
           "kind": "playlist",
-          "subtitle": "64 首",
+          "subtitle": "31 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/fqPWwLBq1M8/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/h9G1kh4ola4/mqdefault.jpg",
           "title": "助眠爵士"
         },
         {
@@ -104961,8 +105876,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:12:12": {
-      "etag": "\"n8oxmfqrr25x6\"",
-      "hash": "5d3e04fcaae946f8dd7cbf64f4532e0746bc44696b6f3ef4416d12645ab4be8f",
+      "etag": "\"119bwvr73qm5xa\"",
+      "hash": "c41d29bc6225727b581916cfad03283bf54af7fbf47fefece5565324e1852f24",
       "itemCount": 12,
       "payload": [
         {
@@ -105017,7 +105932,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/AG8HtuOjkH0/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/7q2DrrQ33OQ/mqdefault.jpg",
           "title": "窗邊的深夜"
         },
         {
@@ -105061,7 +105976,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/BoGHg3CCsv8/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/bqWfosgn_QI/mqdefault.jpg",
           "title": "趴體催落去"
         },
         {
@@ -105078,8 +105993,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:24:12": {
-      "etag": "\"4c8x2ylfpa6g3\"",
-      "hash": "1043eda04898869cd6aacef9798339ea5c9ba7e6218934f0afcac7b7c6c321d6",
+      "etag": "\"7yzawex32u6g5\"",
+      "hash": "d362fb6fe19eca3fd9f17b721804518be6434d1cdb8b0fd90af7bbaf62f0c990",
       "itemCount": 12,
       "payload": [
         {
@@ -105145,7 +106060,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/mikudzy6Ddo/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/WYd788abQ6g/mqdefault.jpg",
           "title": "Easy Listening (201611)"
         },
         {
@@ -105217,8 +106132,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:36:12": {
-      "etag": "\"2cst0zod4x6cu\"",
-      "hash": "c7cda1be820088063ae1bf7024f4e9b1a6ec0e20da3fc3341e72f35712529f77",
+      "etag": "\"cjsi9q4oyy6cy\"",
+      "hash": "2deb2c6582fca120c1b96093283f95953246058e6b99e504c21c04b65ee15874",
       "itemCount": 12,
       "payload": [
         {
@@ -105284,7 +106199,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/UJkxFhFRFDA/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/jsFST-7Hx-Y/mqdefault.jpg",
           "title": "Pure... Jazz"
         },
         {
@@ -105328,7 +106243,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/laLQCbj83QQ/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/nSDgHBxUbVQ/mqdefault.jpg",
           "title": "Slow Melody Vol.1"
         },
         {
@@ -105356,9 +106271,9 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:48:12": {
-      "etag": "\"142smmh3e1n5tk\"",
-      "hash": "32c59c0a3085d3e16d71813fcc6cbd6dbc06138065319dcb23932f1fff3d94e7",
-      "itemCount": 11,
+      "etag": "\"v0l6i667m16lm\"",
+      "hash": "0d3b5b27e9e59c6c5cdf9897a3406740f342264add809dc1b8919039af3b0870",
+      "itemCount": 12,
       "payload": [
         {
           "id": "20818236",
@@ -105445,7 +106360,7 @@
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/J-wBN941vj8/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/k9L3jhSJgrQ/mqdefault.jpg",
           "title": "New York Chillout Lounge Music Vol.3"
         },
         {
@@ -105480,7 +106395,443 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/_d8C4AIFgUg/mqdefault.jpg",
           "title": "Songs for Peace"
+        },
+        {
+          "id": "RDCLAK5uy_laoIDYZBBSweaeIvrkZ0YaPkYjqX_uuj0",
+          "kind": "playlist",
+          "subtitle": "40 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7h2ryr_uUEs/mqdefault.jpg",
+          "title": "Noches de Insomnio"
         }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_sleep:60:12": {
+      "etag": "\"gzkwxye6437vo\"",
+      "hash": "10186ae6645095d6ba33120e158722e81c1a0ea008daca6a2482bc18b6a813b9",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_mcMBXir4RT5m0mkGIRtbwFOtD4nbiVSvg",
+          "kind": "playlist",
+          "subtitle": "97 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BSJa1UytM8w/mqdefault.jpg",
+          "title": "Midnight Romance: Hindi"
+        },
+        {
+          "id": "RDCLAK5uy_mKB2zduLwMALlWPw98K0857E9c1HYkitI",
+          "kind": "playlist",
+          "subtitle": "80 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/M7ySK0keirY/mqdefault.jpg",
+          "title": "依偎著"
+        },
+        {
+          "id": "RDCLAK5uy_mnKbfhUjUd3pHiBjNTWyxOlPQ5FzL4Pe4",
+          "kind": "playlist",
+          "subtitle": "59 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_nW5AF0m9Zw/mqdefault.jpg",
+          "title": "Indie Lullaby"
+        },
+        {
+          "id": "RDCLAK5uy_krjFmKbzWzkGvhqkYvvNnUbdrHy0QN1S8",
+          "kind": "playlist",
+          "subtitle": "49 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PK02_Q5hHKo/mqdefault.jpg",
+          "title": "適合感傷夜晚聽的嘻哈/R&B"
+        },
+        {
+          "id": "RDCLAK5uy_ntOL7kXTRxvIvmIsrYzKQ_MEpBdIywpQc",
+          "kind": "playlist",
+          "subtitle": "67 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZZMZiBCRX4c/mqdefault.jpg",
+          "title": "輕柔舒眠"
+        },
+        {
+          "id": "RDCLAK5uy_k2f_-SF4oCrVKPcgHNVifHzjEHkNbvszU",
+          "kind": "playlist",
+          "subtitle": "40 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/omFa4Yk9Fmg/mqdefault.jpg",
+          "title": "OPM 放鬆音樂"
+        },
+        {
+          "id": "RDCLAK5uy_k2csipDOuQwX6-GGZd4ys5MM5bueEqkrE",
+          "kind": "playlist",
+          "subtitle": "65 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wGF7PswOENQ/mqdefault.jpg",
+          "title": "舒眠音樂"
+        },
+        {
+          "id": "RDCLAK5uy_l7nE3iR6eJpMdU08uxoNBJ7QenxwqfY0E",
+          "kind": "playlist",
+          "subtitle": "56 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ospQ06jJe-I/mqdefault.jpg",
+          "title": "絲絨美聲"
+        },
+        {
+          "id": "RDCLAK5uy_mdwsZFtQhJyGQPuQA612VoRPXp-OJfzx8",
+          "kind": "playlist",
+          "subtitle": "35 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_T2ydRYLt-U/mqdefault.jpg",
+          "title": "Hits Unplugged"
+        },
+        {
+          "id": "RDCLAK5uy_ldooV6iHaoPy6VKyVuHDq0DT4lh-3tRqQ",
+          "kind": "playlist",
+          "subtitle": "60 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/peeWNtGKoD4/mqdefault.jpg",
+          "title": "溫柔鋼琴"
+        },
+        {
+          "id": "RDCLAK5uy_l2OjbOL4oVkkHE86UT6oQCNufuv8d0luQ",
+          "kind": "playlist",
+          "subtitle": "86 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BWJZas9Yog8/mqdefault.jpg",
+          "title": "深度睡眠冥想"
+        },
+        {
+          "id": "RDCLAK5uy_kGHYAi69KWgIEaGH9-sYOJKbvhuUovJUM",
+          "kind": "playlist",
+          "subtitle": "70 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/o3lohh-TVJA/mqdefault.jpg",
+          "title": "OPM 原聲音樂"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_sleep:72:12": {
+      "etag": "\"f4omzdt8fe7v2\"",
+      "hash": "0b9f515cd3e980b02a785b48eb4a9965d9525d9d94ce4522f42867a40816e269",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_kL57PLcOmExjhzqGfGhvA82ZWe4fPH2c4",
+          "kind": "playlist",
+          "subtitle": "58 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jC6H1-wpG2Q/mqdefault.jpg",
+          "title": "輕柔爵士音樂"
+        },
+        {
+          "id": "RDCLAK5uy_lQ2iiRFCsEvoxLRfTCOyVd6-tdZ75Gw-E",
+          "kind": "playlist",
+          "subtitle": "30 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nexwpgowsok/mqdefault.jpg",
+          "title": "雨聲"
+        },
+        {
+          "id": "RDCLAK5uy_mfg_6GSiCHx47UrIySSqhp4L-v1sxGPLo",
+          "kind": "playlist",
+          "subtitle": "66 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RLvzra02z6Y/mqdefault.jpg",
+          "title": "緩拍電子樂"
+        },
+        {
+          "id": "RDCLAK5uy_kGcITlIUh14Xy7FgqGiLtEJtKoDax4TkI",
+          "kind": "playlist",
+          "subtitle": "76 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Wr3gdYqL2qo/mqdefault.jpg",
+          "title": "風雨交加"
+        },
+        {
+          "id": "RDCLAK5uy_kC7zQrU0zB_7fpmDNsc5zf_0DjoGw7LZA",
+          "kind": "playlist",
+          "subtitle": "25 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BzYnNdJhZQw/mqdefault.jpg",
+          "title": "Calm Korean Music for Night Time"
+        },
+        {
+          "id": "RDCLAK5uy_m9YprJ504SUVUWr1oygQy6p-lV8N11BZw",
+          "kind": "playlist",
+          "subtitle": "6 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OPerYBqzBlI/mqdefault.jpg",
+          "title": "白噪"
+        },
+        {
+          "id": "RDCLAK5uy_l4rPvz8nCpkqPnBxstuE6OhDSRsCW4aVk",
+          "kind": "playlist",
+          "subtitle": "78 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/85ubAv-IxFs/mqdefault.jpg",
+          "title": "nuGaze"
+        },
+        {
+          "id": "RDCLAK5uy_m7I7OhxMQp4dAK2AKvrEoiNmrIDnAX5Z8",
+          "kind": "playlist",
+          "subtitle": "46 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nyVmM0Q_jCs/mqdefault.jpg",
+          "title": "禪意冥想"
+        },
+        {
+          "id": "RDCLAK5uy_kj1TrDdKf7kPkNout7Sq34EsX45iWBaBw",
+          "kind": "playlist",
+          "subtitle": "69 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RAe38ekvpNI/mqdefault.jpg",
+          "title": "Sleeping Therapy Music"
+        },
+        {
+          "id": "RDCLAK5uy_lsl0WiIp96sJajCIcHkUnOWtsU29tDSNg",
+          "kind": "playlist",
+          "subtitle": "35 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fsHlvsajSvI/mqdefault.jpg",
+          "title": "柔和純原音音樂"
+        },
+        {
+          "id": "RDCLAK5uy_nA42_0IX0YmeKb7pLRjm_J8e2ja445Urc",
+          "kind": "playlist",
+          "subtitle": "99 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/l64xC1lsYM4/mqdefault.jpg",
+          "title": "舒緩音調"
+        },
+        {
+          "id": "RDCLAK5uy_ljjZXYOZsVqtkknNg4nai7elA6kVq0cac",
+          "kind": "playlist",
+          "subtitle": "38 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8xV45TLlQzw/mqdefault.jpg",
+          "title": "寶寶搖籃曲"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_sleep:84:12": {
+      "etag": "\"wmggg9wnbe7rc\"",
+      "hash": "1ca52c1e0c9acc9d17c5c09da86980c28e87dba2481666cb06512b56812b7d62",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_ldLj_raotpFCQGWiQ7L-Ag5GTbGOyjgRY",
+          "kind": "playlist",
+          "subtitle": "54 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AobkVpyenfQ/mqdefault.jpg",
+          "title": "古典樂冥想"
+        },
+        {
+          "id": "RDCLAK5uy_mS5x3haS3YiflmBHa8rK0rOZHgn0lhG0w",
+          "kind": "playlist",
+          "subtitle": "64 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ntri-r3O5ig/mqdefault.jpg",
+          "title": "寧靜交響曲"
+        },
+        {
+          "id": "RDCLAK5uy_lW6vYWQsUf4Jlhvy9Bo7476unA14vqfPo",
+          "kind": "playlist",
+          "subtitle": "44 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HH9MsurmUZI/mqdefault.jpg",
+          "title": "甜蜜的搖籃曲"
+        },
+        {
+          "id": "RDCLAK5uy_mSTV5z2uzELcKu99EJcQxfuDZwO6CMLFM",
+          "kind": "playlist",
+          "subtitle": "27 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lTH2BbXJY-U/mqdefault.jpg",
+          "title": "大自然音樂"
+        },
+        {
+          "id": "RDCLAK5uy_ma_ODYOCz1SAA-VLTd57GwSFUiPJmcerg",
+          "kind": "playlist",
+          "subtitle": "34 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cvV3B7MXZdw/mqdefault.jpg",
+          "title": "海邊舒眠音樂"
+        },
+        {
+          "id": "RDCLAK5uy_kABC3nlv35ioOf0D9mih-37tNip6SWre8",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rx46tEekNKc/mqdefault.jpg",
+          "title": "經典搖滾搖籃曲"
+        },
+        {
+          "id": "RDCLAK5uy_kkRECg2hUY0thQbY5MaLzPgcN9s4yb87w",
+          "kind": "playlist",
+          "subtitle": "29 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/t47F_oSln04/mqdefault.jpg",
+          "title": "Brown Noise"
+        },
+        {
+          "id": "RDCLAK5uy_n_58P2jZ53FkGBStYWQTPEu74PG4VDttM",
+          "kind": "playlist",
+          "subtitle": "25 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6AdXfdeJub4/mqdefault.jpg",
+          "title": "Turkish Lullabies"
+        },
+        {
+          "id": "RDCLAK5uy_lbcexX19-ShfMgzXpxayVFh_9l4Dml-kg",
+          "kind": "playlist",
+          "subtitle": "96 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NtpApriqbQA/mqdefault.jpg",
+          "title": "輕柔抒情的鋼琴獨奏"
+        },
+        {
+          "id": "RDCLAK5uy_l08LfbwAl2vGIbyjo6_wAHcMzazdLIdBE",
+          "kind": "playlist",
+          "subtitle": "51 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0Zz_ApLSRwQ/mqdefault.jpg",
+          "title": "幼兒搖籃曲"
+        },
+        {
+          "id": "RDCLAK5uy_naZbZR0biQkhIHsrfLLQ8bn2qNIzFy05s",
+          "kind": "playlist",
+          "subtitle": "52 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LlN8MPS7KQs/mqdefault.jpg",
+          "title": "sleep"
+        },
+        {
+          "id": "RDCLAK5uy_kTgC4HnOI3u2_HgrS_x6D9n3gyImsgnh0",
+          "kind": "playlist",
+          "subtitle": "122 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GAKyAs1Yroo/mqdefault.jpg",
+          "title": "Acoustic Indie & Alternative"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_sleep:96:12": {
+      "etag": "\"e98jahgeo27k\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 0,
+      "payload": [
+
       ]
     },
     "vector:vector_systemlist_zh_mood_travel:0:12": {
@@ -106469,9 +107820,9 @@
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_jazz": {
-      "complete": true,
+      "complete": false,
       "lastCompletedAt": "2026-07-21T15:53:10Z",
-      "nextOffset": 0
+      "nextOffset": 48
     },
     "vector_systemlist_zh_genre_jpop": {
       "complete": true,
@@ -106519,13 +107870,13 @@
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_romance": {
-      "complete": false,
-      "lastCompletedAt": "2026-08-09T03:53:00Z",
-      "nextOffset": 132
+      "complete": true,
+      "lastCompletedAt": "2026-08-14T15:06:47Z",
+      "nextOffset": 0
     },
     "vector_systemlist_zh_mood_sleep": {
       "complete": true,
-      "lastCompletedAt": "2026-08-11T09:13:30Z",
+      "lastCompletedAt": "2026-08-14T15:06:51Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_travel": {
