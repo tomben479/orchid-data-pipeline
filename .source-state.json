@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "e406c32fb3f42b5c4b0aa9805524a11c3fbec9ab3e407d590addbe50153c5dab",
+    "hash": "b272269063cfc53595521bdd8a241ef730b7895469c9ddfe21fc4de9d57c6bf6",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -21,7 +21,8 @@
       "vector_systemlist_zh_mood_party",
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
-      "vector_systemlist_zh_mood_sleep"
+      "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_jazz"
     ]
   },
   "resources": {
@@ -36991,6 +36992,149 @@
         }
       ]
     },
+    "playlist:27384147": {
+      "etag": "\"8i8fxd4wiyaog\"",
+      "hash": "663e8de00b286aa97b52c4b3434cba01ffbf69fd4a1ae0d3e5f2e4025e09dda0",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:10",
+          "id": "tayK86ZPpNE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tayK86ZPpNE/mqdefault.jpg",
+          "title": "詹惟中 - 祈福 官方完整版MV"
+        },
+        {
+          "durationText": "3:53",
+          "id": "vK81yQi8iMc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vK81yQi8iMc/mqdefault.jpg",
+          "title": "詹惟中 - 誰是醜八怪 官方完整版MV"
+        }
+      ]
+    },
+    "playlist:27384148": {
+      "etag": "\"uqh5jozfbmao0\"",
+      "hash": "5d54ba4fbae8803942e7b675e369737d42524ee10bdf6883553e3781f903c17e",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:18",
+          "id": "ij5H_vE8x8A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ij5H_vE8x8A/mqdefault.jpg",
+          "title": "KRIS 沈建宏 - Some kinds of love＿feat.NaNa (DT-Family- Official HD MV )"
+        },
+        {
+          "durationText": "4:05",
+          "id": "tDNhZAFZcwI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tDNhZAFZcwI/mqdefault.jpg",
+          "title": "Kris.K - Baby Girl (DT-Family Official_HD MV)"
+        },
+        {
+          "durationText": "4:19",
+          "id": "MuInoaJKfJg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MuInoaJKfJg/mqdefault.jpg",
+          "title": "Kris.K - Some kinds of love＿feat.NaNa Lu 뮤직비디오 (DT-Family- Official HD MV )"
+        }
+      ]
+    },
+    "playlist:27384823": {
+      "etag": "\"13idic2q2klafi\"",
+      "hash": "edd70ae69459d909daf3dfa2c0c27f2d3a3e7ec7471630614ba1bfe64352b9de",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "2:29",
+          "id": "ew99FiYS9Q0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ew99FiYS9Q0/mqdefault.jpg",
+          "title": "Joanna Wang 王若琳《Isn’t It Exciting?  這不是很令人興奮嗎?》Official Music Video"
+        },
+        {
+          "durationText": "9:04",
+          "id": "DSw2lU1fL7c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DSw2lU1fL7c/mqdefault.jpg",
+          "title": "Joanna Wang 王若琳《The Rightful Heir 正當繼承人》Official Music Video"
+        }
+      ]
+    },
+    "playlist:27631632": {
+      "etag": "\"pnzrqn0gwpabs\"",
+      "hash": "b8a7da0930a5407072431eac256f1e079eccffe73cfbfe8a7fc865b143707576",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "7:47",
+          "id": "saiJbqHBuew",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/saiJbqHBuew/mqdefault.jpg",
+          "title": "魏如萱 waa wei [ 你啊你啊 Only You ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:27631633": {
+      "etag": "\"fr81tdbincaq2\"",
+      "hash": "50dc11bc9387a1e5727104374fcf75066830fe81dd3351ce5aee14f50d81774b",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "5:33",
+          "id": "rt7Eedk7i5I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rt7Eedk7i5I/mqdefault.jpg",
+          "title": "楊乃文 Naiwen Yang -【離心力 Centrifugal Force】[Official Music Video]"
+        },
+        {
+          "durationText": "4:50",
+          "id": "dy0ZLb6JsJU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dy0ZLb6JsJU/mqdefault.jpg",
+          "title": "楊乃文 Naiwen Yang -【推開世界的門 Through You】[Official Music Video]"
+        }
+      ]
+    },
+    "playlist:27631634": {
+      "etag": "\"tgtvlnsj7ja31\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 3,
+      "payload": [
+
+      ]
+    },
     "playlist:27814764": {
       "etag": "\"makzou9xmz2o\"",
       "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
@@ -37175,6 +37319,70 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/TStnTNodCJI/mqdefault.jpg",
           "title": "aMEI【 姊妹 2016 （平行宇宙版）】Official  MV"
+        }
+      ]
+    },
+    "playlist:28179644": {
+      "etag": "\"c8u50px9jza40\"",
+      "hash": "95f4aaf7e970b20741da7f42730c9f311e871c1dca469f8eaf97f424d067c92d",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:17",
+          "id": "4rDQZt55XE8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4rDQZt55XE8/mqdefault.jpg",
+          "title": "藍又時Shadya Lan【聽說聽說】Official 完整版MV [HD]"
+        },
+        {
+          "durationText": "4:26",
+          "id": "4xVHPJFt1Xg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4xVHPJFt1Xg/mqdefault.jpg",
+          "title": "藍又時Shadya Lan【太傻了】Official 完整版MV[HD]（韓劇「嫉妒的化身」片尾曲）"
+        }
+      ]
+    },
+    "playlist:28201660": {
+      "etag": "\"11sr1hy2j77bh4\"",
+      "hash": "d10480f361483a7712db83cc4d64e3c70332e5fa1b9909463044acc3ae6b3199",
+      "itemCount": 11,
+      "payload": [
+        {
+          "durationText": "2:34",
+          "id": "3TDnyvuZ3XM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3TDnyvuZ3XM/mqdefault.jpg",
+          "title": "吳建豪 Van Ness Wu – 下一首情歌 One Last Smile (Dance Video)"
+        },
+        {
+          "durationText": "4:22",
+          "id": "AP_o4Z8VHqw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AP_o4Z8VHqw/mqdefault.jpg",
+          "title": "吳建豪 Van Ness Wu - BOOGIE (Dance Video Full Version)"
+        },
+        {
+          "durationText": "4:30",
+          "id": "GLte9WilT_o",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GLte9WilT_o/mqdefault.jpg",
+          "title": "吳建豪 Van Ness Wu – 屬於你和我之間的事 Faded Pictures (Lyric Video)"
         }
       ]
     },
@@ -72673,7 +72881,7 @@
       ]
     },
     "vector:vector_featured_zh:444:12": {
-      "etag": "\"51aqyhsv436cb\"",
+      "etag": "\"u1684chnkz6cb\"",
       "hash": "692e521c34031d8dff55648f3f5b86501f6486c63b2b95a4e70c065b05eb7826",
       "itemCount": 12,
       "payload": [
@@ -72812,7 +73020,7 @@
       ]
     },
     "vector:vector_featured_zh:456:12": {
-      "etag": "\"i6aj1ihyye69s\"",
+      "etag": "\"rbzpu7q2du69s\"",
       "hash": "dc1e7f62613402c03d26ff8b92a119999dff23317ccb4d8b35914621dfdbf84a",
       "itemCount": 12,
       "payload": [
@@ -72951,7 +73159,7 @@
       ]
     },
     "vector:vector_featured_zh:468:12": {
-      "etag": "\"y514tmrfp69h\"",
+      "etag": "\"eiwygbr2zt69h\"",
       "hash": "77fe64d0ebe2d99bf549eb0e92c30d2c6287057def0f8a6cf91e8ef5a8c5a4b2",
       "itemCount": 12,
       "payload": [
@@ -73090,7 +73298,7 @@
       ]
     },
     "vector:vector_featured_zh:480:12": {
-      "etag": "\"33hpajgdbx6c2\"",
+      "etag": "\"1cw9tw67b56c2\"",
       "hash": "938f24e17e80317877c4a5478a1a7a28a6a3a54f9d2dbc39830dc311a5849bfe",
       "itemCount": 12,
       "payload": [
@@ -73368,7 +73576,7 @@
       ]
     },
     "vector:vector_featured_zh:492:12": {
-      "etag": "\"12jdjq3t5rw69z\"",
+      "etag": "\"fkgs79oyeo69z\"",
       "hash": "13205974f6dc51db7bb2d7a78c0b33e0a09405705a558bee6ef7ffe21378c9f1",
       "itemCount": 12,
       "payload": [
@@ -73507,7 +73715,7 @@
       ]
     },
     "vector:vector_featured_zh:504:12": {
-      "etag": "\"dg84b4aoz6bs\"",
+      "etag": "\"bl0p0iue4m6bs\"",
       "hash": "8225a94425b94fbe6b80a89928fe6cf606ce96729f51ce51cf6765e87bb33e13",
       "itemCount": 12,
       "payload": [
@@ -73646,7 +73854,7 @@
       ]
     },
     "vector:vector_featured_zh:516:12": {
-      "etag": "\"ridf3jxg8m68t\"",
+      "etag": "\"lc8qy6pknc68t\"",
       "hash": "3e482704773ffad55f7de7e396235d4cd8e0bcce962329322c600bd6b65c335b",
       "itemCount": 12,
       "payload": [
@@ -73785,7 +73993,7 @@
       ]
     },
     "vector:vector_featured_zh:528:12": {
-      "etag": "\"10xvw92yfjy68p\"",
+      "etag": "\"y55ye48b0o68p\"",
       "hash": "127bedbedf9fad75d9580b3aa0274c9e02c56936a87647007d7cd66ab2f9c853",
       "itemCount": 12,
       "payload": [
@@ -73924,7 +74132,7 @@
       ]
     },
     "vector:vector_featured_zh:540:12": {
-      "etag": "\"16lc4en14mw6aq\"",
+      "etag": "\"jnl3e04qhd6aq\"",
       "hash": "81c118ffb8b444e84d9bd924501861a235e937947ac13c1b80741d00bc673b63",
       "itemCount": 12,
       "payload": [
@@ -74063,7 +74271,7 @@
       ]
     },
     "vector:vector_featured_zh:552:12": {
-      "etag": "\"p4hjeuw9zg68i\"",
+      "etag": "\"holbct4np368i\"",
       "hash": "cd9942d3d85dae1601562c256e72e286344b0a2bf0c496c7e4354d11715beb3b",
       "itemCount": 12,
       "payload": [
@@ -74202,7 +74410,7 @@
       ]
     },
     "vector:vector_featured_zh:564:12": {
-      "etag": "\"7cj2mh9j496db\"",
+      "etag": "\"sx3idx8qvb6db\"",
       "hash": "aaaa67e7e35cab6930949f89aba86a21e72294b23a226cf2e571c6b2eeac3b6b",
       "itemCount": 12,
       "payload": [
@@ -74341,7 +74549,7 @@
       ]
     },
     "vector:vector_featured_zh:576:12": {
-      "etag": "\"jayd2joieg6bs\"",
+      "etag": "\"klsa0i4x566bs\"",
       "hash": "a4f7ce83e47efaf9ae85541d1a8d297a477d34f54738f2615a1236b028846671",
       "itemCount": 12,
       "payload": [
@@ -74480,7 +74688,7 @@
       ]
     },
     "vector:vector_featured_zh:588:12": {
-      "etag": "\"gokmvqij896bt\"",
+      "etag": "\"mqs6cwadtt6bt\"",
       "hash": "e942f861664f5d71ba15d678cae633bf92a39fa828362e8a9233eb370c6db508",
       "itemCount": 12,
       "payload": [
@@ -74619,7 +74827,7 @@
       ]
     },
     "vector:vector_featured_zh:600:12": {
-      "etag": "\"12hrogr2izn67e\"",
+      "etag": "\"xymn3qfh0j67e\"",
       "hash": "367b7d76ebadf326f090f28a425c8fd5abb548c95d013ac63353173478dab63e",
       "itemCount": 12,
       "payload": [
@@ -74897,7 +75105,7 @@
       ]
     },
     "vector:vector_featured_zh:612:12": {
-      "etag": "\"14m0qju6kq169w\"",
+      "etag": "\"do951mbkza69w\"",
       "hash": "d871bb215d8f72be4ce88bff1a8d39f5ec59417643a713cf034fe4fd632cea3b",
       "itemCount": 12,
       "payload": [
@@ -75036,7 +75244,7 @@
       ]
     },
     "vector:vector_featured_zh:624:12": {
-      "etag": "\"ldpmn2e2yy69b\"",
+      "etag": "\"11av73lxopa69b\"",
       "hash": "b2c8aa02e8ebb0e6986d565bb1b836032128d668ffd1f61ba1d729010ccb4700",
       "itemCount": 12,
       "payload": [
@@ -75175,7 +75383,7 @@
       ]
     },
     "vector:vector_featured_zh:636:12": {
-      "etag": "\"177tmsi4k3x6az\"",
+      "etag": "\"h10uym7q6i6az\"",
       "hash": "21ea39fd786b27fbcacdff9c68ee6f0a71288b729371b754292071629182f88c",
       "itemCount": 12,
       "payload": [
@@ -75314,7 +75522,7 @@
       ]
     },
     "vector:vector_featured_zh:648:12": {
-      "etag": "\"1pl1b3xvcp69t\"",
+      "etag": "\"t97q0jbxdp69t\"",
       "hash": "f44a33c5b26ad3b6d505058de4b9638d2d451c3f64de4076c74fe5c946e445c5",
       "itemCount": 12,
       "payload": [
@@ -75453,7 +75661,7 @@
       ]
     },
     "vector:vector_featured_zh:660:12": {
-      "etag": "\"kgvqu5x1us687\"",
+      "etag": "\"dkhqgsaxg5687\"",
       "hash": "b19d50df4e80f753e635a82ba53bf56bafdb904da40ab8eaaf978ed47a6c360e",
       "itemCount": 12,
       "payload": [
@@ -75592,7 +75800,7 @@
       ]
     },
     "vector:vector_featured_zh:672:12": {
-      "etag": "\"ofnvbu354f6bh\"",
+      "etag": "\"108uuqroh0n6bh\"",
       "hash": "a8a6b3c414fb71633393576d1402973183e72fe4a140125648c0206596cd5226",
       "itemCount": 12,
       "payload": [
@@ -75731,7 +75939,7 @@
       ]
     },
     "vector:vector_featured_zh:684:12": {
-      "etag": "\"18b8e9ueynx6bj\"",
+      "etag": "\"12pot6zozp16bj\"",
       "hash": "0702d1480bb1f75d9f586046f4c99df3649e7166f4be69e38a28406161a5a75a",
       "itemCount": 12,
       "payload": [
@@ -75870,7 +76078,7 @@
       ]
     },
     "vector:vector_featured_zh:696:12": {
-      "etag": "\"153holuxy8o6b6\"",
+      "etag": "\"taypixw57t6b6\"",
       "hash": "6ebb0ab1476f3c5ea75fb93640df9d50a538e4cf467fcf925c84ed0eb389367a",
       "itemCount": 12,
       "payload": [
@@ -76009,7 +76217,7 @@
       ]
     },
     "vector:vector_featured_zh:708:12": {
-      "etag": "\"587r0jsq136cq\"",
+      "etag": "\"c5crrbtbcw6cq\"",
       "hash": "0065f2f0cb11ac00e49c1508edfefece8a5d2ac21942f331b2ca1f6394b70e36",
       "itemCount": 12,
       "payload": [
@@ -76148,7 +76356,7 @@
       ]
     },
     "vector:vector_featured_zh:720:12": {
-      "etag": "\"wcws0d735k6bc\"",
+      "etag": "\"9gnhsb7bsl6bc\"",
       "hash": "25f8bfb468af7422596005d65c647e1a3d9d0c9586704b14ff82cb80a2a3edfa",
       "itemCount": 12,
       "payload": [
@@ -123716,7 +123924,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 444
+      "nextOffset": 732
     },
     "vector_latest_zh": {
       "complete": true,
