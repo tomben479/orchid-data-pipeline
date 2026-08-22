@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "0ee2f462e7211f9e110ff31f999fdec834552bf00e4db5ce8c9761f25b8b6aef",
+    "hash": "276714b8147c63aa91d0c30ae64e67cd0fb2eb2b64ecd09617c373c27dd4a8c9",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,11 +22,12 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_country",
       "vector_systemlist_zh_genre_jazz",
-      "vector_systemlist_zh_genre_soundtrack",
+      "vector_systemlist_zh_genre_country",
+      "vector_systemlist_zh_genre_relax",
+      "vector_systemlist_zh_mood_gaming",
       "vector_systemlist_zh_mood_commute",
-      "vector_systemlist_zh_mood_focus",
+      "vector_systemlist_zh_mood_sad",
       "vector_promote_playlist_zh"
     ]
   },
@@ -36997,6 +36998,233 @@
         }
       ]
     },
+    "playlist:25204147": {
+      "etag": "\"14awvgfz6f79ya\"",
+      "hash": "9a2679066b8cfd599903c05a73648647cdd919c2eea61a0b2050d90c606b23fd",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:58",
+          "id": "SKZ0b4wiV-g",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SKZ0b4wiV-g/mqdefault.jpg",
+          "title": "楊丞琳Rainie Yang- 【年輪說】歌詞版MV(Official Lyric Video) 附指紋掃描測驗"
+        }
+      ]
+    },
+    "playlist:25204148": {
+      "etag": "\"izetuxwlzpb7j\"",
+      "hash": "399068465757fefda0bbbd856bb8dbd79d30a2fa62318c4e208c438e6e025b29",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "4:06",
+          "id": "tDeT8_yA9ko",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tDeT8_yA9ko/mqdefault.jpg",
+          "title": "【HD】崔子格 - 沒有錯的人 [新歌][歌詞字幕][完整高清音質] Cui Zige - There Is No Wrong Person"
+        },
+        {
+          "durationText": "4:17",
+          "id": "mPWBuBcJ4yI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mPWBuBcJ4yI/mqdefault.jpg",
+          "title": "【HD】崔子格 - 為悅己者容 [新歌][歌詞字幕][完整高清音質] CuiZiGe"
+        },
+        {
+          "durationText": "3:20",
+          "id": "muhYHeVsdKA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/muhYHeVsdKA/mqdefault.jpg",
+          "title": "【HD】崔子格 - 不愛拉倒 [新歌][歌詞字幕][完整高清音質] Cui Zige"
+        },
+        {
+          "durationText": "5:09",
+          "id": "_jZDLY6uYXo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_jZDLY6uYXo/mqdefault.jpg",
+          "title": "【HD】崔子格 - 過山車 Roller Coaster [新歌][歌詞字幕][完整高清音質]"
+        }
+      ]
+    },
+    "playlist:25204149": {
+      "etag": "\"mm78sg92l4a80\"",
+      "hash": "e38513bdde732f8aba91cb221f02d5046b1ceb718931581ae543c95d347636dc",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:57",
+          "id": "rLi5FinL9dY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rLi5FinL9dY/mqdefault.jpg",
+          "title": "秀蘭瑪雅《滴答滴》官方 MV (三立戲劇白鷺鷥的願望片頭曲)"
+        },
+        {
+          "durationText": "4:05",
+          "id": "XlAY5DAWEa8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XlAY5DAWEa8/mqdefault.jpg",
+          "title": "秀蘭瑪雅《心內的雨》官方 MV (三立戲劇 白鷺鷥的願望 片尾曲)"
+        },
+        {
+          "durationText": "5:02",
+          "id": "5kBzb9BIUSY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5kBzb9BIUSY/mqdefault.jpg",
+          "title": "秀蘭瑪雅《唱乎甲己來聽》官方 MV (三立戲劇 白鷺鷥的願望 插曲)│金曲獎歌曲"
+        }
+      ]
+    },
+    "playlist:25204417": {
+      "etag": "\"xkn46wgfu3awe\"",
+      "hash": "a8e9e00ea6f99ca61445b1b337fad0123ec6d2c1a53ab12f55ecc751e559e1ea",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:52",
+          "id": "SC8Iwlt2b4I",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SC8Iwlt2b4I/mqdefault.jpg",
+          "title": "耀樂團 YAO【我】HD 高清官方完整版 MV"
+        },
+        {
+          "durationText": "4:00",
+          "id": "Kt-sHQ_D-oQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Kt-sHQ_D-oQ/mqdefault.jpg",
+          "title": "耀樂團 YAO【吹牛皮】HD 高清官方完整版 MV"
+        },
+        {
+          "durationText": "4:32",
+          "id": "q7Gm30f0Wk4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/q7Gm30f0Wk4/mqdefault.jpg",
+          "title": "耀樂團 YAO【如果你也有夢想】排練室版 MV"
+        }
+      ]
+    },
+    "playlist:25332607": {
+      "etag": "\"edw4biu88dbcg\"",
+      "hash": "9c68f80e171db75ac4b239e30991daf44a766e7171a8e5f774c94b7e4c680a47",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "5:07",
+          "id": "xcDp5bySaQ4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xcDp5bySaQ4/mqdefault.jpg",
+          "title": "張芸京Jing Chang【失敗的高歌 】Official 完整版MV [HD]"
+        },
+        {
+          "durationText": "4:46",
+          "id": "aCQLgYytBno",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aCQLgYytBno/mqdefault.jpg",
+          "title": "張芸京Jing Chang【等我變了之後 】Official 完整版MV [HD]"
+        }
+      ]
+    },
+    "playlist:25383280": {
+      "etag": "\"pypagfc8jbaou\"",
+      "hash": "a856ff313dd8971ff58809593e27c370cc48d77baa507c8b5df0261c9194b1f1",
+      "itemCount": 11,
+      "payload": [
+        {
+          "durationText": "4:08",
+          "id": "7DwmdkPfOBE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7DwmdkPfOBE/mqdefault.jpg",
+          "title": "别，千万别"
+        }
+      ]
+    },
+    "playlist:25383284": {
+      "etag": "\"11su3biaskwacz\"",
+      "hash": "5beb7168d6ee1ffb9d9d33c7b73e47eb7f4632e61aa1da6fd6259472c44def77",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "5:35",
+          "id": "tAK2t0nvqII",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tAK2t0nvqII/mqdefault.jpg",
+          "title": "黃宥傑 Antonio - 恐龍   [Official MV]"
+        },
+        {
+          "durationText": "4:35",
+          "id": "3wj6k1heZh4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3wj6k1heZh4/mqdefault.jpg",
+          "title": "黃宥傑 Antonio Huang【眼淚拌飯】Official Lyric Video"
+        },
+        {
+          "durationText": "7:03",
+          "id": "Naz5lN25P9g",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Naz5lN25P9g/mqdefault.jpg",
+          "title": "黃宥傑 Antonio - 眼淚拌飯 [Official MV]"
+        }
+      ]
+    },
+    "playlist:25383395": {
+      "etag": "\"15nb524at1gbk7\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 12,
+      "payload": [
+
+      ]
+    },
     "playlist:26041434": {
       "etag": "\"f48294fwn0aif\"",
       "hash": "abd3d1cfab02f611788d96ea579b79d207c745724bb94a0487f6c24b21f079c5",
@@ -62218,65 +62446,10 @@
       ]
     },
     "vector:vector_featured_zh:1596:12": {
-      "etag": "\"ma9zt65tpj6ae\"",
-      "hash": "ab7bfcceee5b9d97c45c271786b83ccc723d332d5f2e34152f64b4abdfc2b1b2",
+      "etag": "\"rxml8gylgh661\"",
+      "hash": "bad131cc6370c660d451d5a30ee6f9860673f47c281810f431fa46105582729f",
       "itemCount": 12,
       "payload": [
-        {
-          "id": "9437483",
-          "kind": "playlist",
-          "subtitle": "11 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/xXRFG5gMZpc/hqdefault.jpg",
-          "title": "2014 Video Music Awards Nominees Vol.2"
-        },
-        {
-          "id": "9426965",
-          "kind": "playlist",
-          "subtitle": "14 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/InryspyFNnE/hqdefault.jpg",
-          "title": "5 Seconds of Summer"
-        },
-        {
-          "id": "9209900",
-          "kind": "playlist",
-          "subtitle": "13 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/VxIeJ1zTbPo/hqdefault.jpg",
-          "title": "Beautiful Voices Vol.9"
-        },
-        {
-          "id": "9482874",
-          "kind": "playlist",
-          "subtitle": "14 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/jA3tBgEs2zw/hqdefault.jpg",
-          "title": "父親節快樂：老爸! 我愛你"
-        },
-        {
-          "id": "9482526",
-          "kind": "playlist",
-          "subtitle": "20 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/Y-FhDScM_2w/hqdefault.jpg",
-          "title": "Most Popular K-Pop of the Month (201408)"
-        },
         {
           "id": "9220756",
           "kind": "playlist",
@@ -62353,14 +62526,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/5tDjYuqJRJQ/hqdefault.jpg",
           "title": "New Releases of the Month (201407)"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1608:12": {
-      "etag": "\"bu3nm9yn4c67j\"",
-      "hash": "d25dbfa67832a58d8e28ba191f3b7594c6d8bb9aa4c49c5e7e443c6973434483",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "8943671",
           "kind": "playlist",
@@ -62415,7 +62581,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/UWOmoOM8HU4/hqdefault.jpg",
           "title": "Hot featuring Vol.11"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1608:12": {
+      "etag": "\"jw8pl26ufq62k\"",
+      "hash": "80bc392b2e89bea472a81dbb0b77e1c3aa370ad347f45af34cf6ee522b3280e7",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "9380677",
           "kind": "playlist",
@@ -62492,14 +62665,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/X7GtzFfgSKw/hqdefault.jpg",
           "title": "Beautiful Voices Vol.8"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1620:12": {
-      "etag": "\"pu1nzf52fj65j\"",
-      "hash": "d0d7b8bc3de8c1b43693caded925ed0ef863cc0fdc561136fc9e5ab8fa3bf8a9",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "9242044",
           "kind": "playlist",
@@ -62554,7 +62720,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/PdcheAL3J9I/hqdefault.jpg",
           "title": "王者丑生"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1620:12": {
+      "etag": "\"6g1m7cv0ua69x\"",
+      "hash": "9c50d5281564629f8acb4f4d78b1c501ec6bfb698b7607b52d2e8cd0c5828a4f",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "9154775",
           "kind": "playlist",
@@ -62631,14 +62804,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/fvLPaP1T8w0/hqdefault.jpg",
           "title": "隨時都在"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1632:12": {
-      "etag": "\"wa0k0m20et659\"",
-      "hash": "1284b056c73a8bdcfe2b8c24a419274e701a54ee297a4a8f8d90c908841c1be5",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "9077931",
           "kind": "playlist",
@@ -62693,7 +62859,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/DAvyzqbwFL8/hqdefault.jpg",
           "title": "Pure... Fitness Vol.2"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1632:12": {
+      "etag": "\"ehhk8g1n2s61y\"",
+      "hash": "8d40065b6354aee2183e8f3c9680733e4ba72123f9101ffcde78662c04a09d15",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "9077884",
           "kind": "playlist",
@@ -62770,14 +62943,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/Xk04-C_92ME/hqdefault.jpg",
           "title": "Pure... Summer Vol.1"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1644:12": {
-      "etag": "\"9ujusvgns66aa\"",
-      "hash": "086103ffc11c086bd61f3bf90140826a1effd677073a715b07dbfc41e794f112",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "8976694",
           "kind": "playlist",
@@ -62832,7 +62998,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/hH5ZecYkrXo/hqdefault.jpg",
           "title": "Project WAO女生團結音樂節元年"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1644:12": {
+      "etag": "\"hsm21lpg5z68m\"",
+      "hash": "5def5851237c31e053f7a51663e2f27ca95cb809af1008088b1b4f52ba0dedc9",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "8885685",
           "kind": "playlist",
@@ -62909,14 +63082,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/2BK9bc8-wbo/hqdefault.jpg",
           "title": "第25屆金曲獎入圍名單 Vol.2"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1656:12": {
-      "etag": "\"9vuyh72bcl608\"",
-      "hash": "c0aa7f2431e8f362271bcc67394b2eb7677ed556a138d5a2c2842f1b8f2c8fbd",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "8700700",
           "kind": "playlist",
@@ -62971,7 +63137,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/hH5ZecYkrXo/hqdefault.jpg",
           "title": "本月熱門排行 (201405)"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1656:12": {
+      "etag": "\"15fdc732i82664\"",
+      "hash": "534f8baab3a4c9b697580788fa6fbaa2f2a921f9a60fa6367658cbc59e39faa5",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "8700547",
           "kind": "playlist",
@@ -63048,14 +63221,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/icPpoNWGglA/hqdefault.jpg",
           "title": "FIFA World Cup Songs Vol.1"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1668:12": {
-      "etag": "\"f2r09gmkuy69u\"",
-      "hash": "35a90b60218af1f0813090b8505af6f1bd1c50380aed4bec7ba5d3b646eedb21",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "8494995",
           "kind": "playlist",
@@ -63110,7 +63276,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/sn_kOkkQ3Fg/hqdefault.jpg",
           "title": "我要跳舞 搶先聽"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1668:12": {
+      "etag": "\"bx0jw4u9mz6az\"",
+      "hash": "e7feff8f7628186212e28c5fbef45fdfe19d0e45091ff661469e623e91a5395b",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "8475030",
           "kind": "playlist",
@@ -63187,14 +63360,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/Gxy6DPrAjQM/hqdefault.jpg",
           "title": "HAPPY MOOD BOOST"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1680:12": {
-      "etag": "\"kolkgwo74f660\"",
-      "hash": "4c0af823c3573c9fdc223acbb8a018bd286802cab4030b963ba754441de6b910",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "8381613",
           "kind": "playlist",
@@ -63249,7 +63415,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/Vou2IgLCe34/hqdefault.jpg",
           "title": "本週華語新曲報到 (20140504)"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1680:12": {
+      "etag": "\"qkfq6didc25z3\"",
+      "hash": "4a963cd547fe8a8af1d764e63dfc6f0d29fa7f53a6b736593ff7f1fa4e0013a8",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "8131542",
           "kind": "playlist",
@@ -63271,6 +63444,17 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/pSRq81PE0-4/hqdefault.jpg",
           "title": "無盡閃亮的哀愁"
+        },
+        {
+          "id": "8144976",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Cpr6IdLl0Vs/hqdefault.jpg",
+          "title": "好歌平反：被忽略的好歌Vol.5"
         },
         {
           "id": "8131491",
@@ -63315,6 +63499,61 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/D7Yj-9z9h9Q/hqdefault.jpg",
           "title": "New New York - EP"
+        },
+        {
+          "id": "8057564",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2bybTTLQkvY/hqdefault.jpg",
+          "title": "一起喔喔 搶先聽"
+        },
+        {
+          "id": "8131242",
+          "kind": "playlist",
+          "subtitle": "4 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/h0ozQg4E-YY/hqdefault.jpg",
+          "title": "午夜劇院"
+        },
+        {
+          "id": "8131301",
+          "kind": "playlist",
+          "subtitle": "3 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-Tb3W-TOLeU/hqdefault.jpg",
+          "title": "100分的朋友"
+        },
+        {
+          "id": "8131335",
+          "kind": "playlist",
+          "subtitle": "4 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wVqYn3B4c-A/hqdefault.jpg",
+          "title": "飛行的100個理由"
+        },
+        {
+          "id": "7071538",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DyFIzKYQQYE/hqdefault.jpg",
+          "title": "偶像劇經典歌曲大回顧 Vol.4"
         }
       ]
     },
@@ -63458,65 +63697,10 @@
       ]
     },
     "vector:vector_featured_zh:1692:12": {
-      "etag": "\"szes8x17hm5xt\"",
-      "hash": "e63e86f5749a9b664fcd47c6c7d01ad1f8cd1bb1be6f2b9a372b521d48ab0f21",
+      "etag": "\"17cu0avxypt61b\"",
+      "hash": "e65c9237e326e499c273f3bb116a6bf9f9d27c16221a736298aedb6240435d19",
       "itemCount": 12,
       "payload": [
-        {
-          "id": "8057564",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/2bybTTLQkvY/hqdefault.jpg",
-          "title": "一起喔喔 搶先聽"
-        },
-        {
-          "id": "8131242",
-          "kind": "playlist",
-          "subtitle": "4 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/h0ozQg4E-YY/hqdefault.jpg",
-          "title": "午夜劇院"
-        },
-        {
-          "id": "8131301",
-          "kind": "playlist",
-          "subtitle": "3 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/-Tb3W-TOLeU/hqdefault.jpg",
-          "title": "100分的朋友"
-        },
-        {
-          "id": "8131335",
-          "kind": "playlist",
-          "subtitle": "4 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/wVqYn3B4c-A/hqdefault.jpg",
-          "title": "飛行的100個理由"
-        },
-        {
-          "id": "7071538",
-          "kind": "playlist",
-          "subtitle": "14 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/DyFIzKYQQYE/hqdefault.jpg",
-          "title": "偶像劇經典歌曲大回顧 Vol.4"
-        },
         {
           "id": "8057857",
           "kind": "playlist",
@@ -63593,14 +63777,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/hQSj6893F1w/hqdefault.jpg",
           "title": "我是歌手第二季 第1.2期"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1704:12": {
-      "etag": "\"hl3ovzupz0639\"",
-      "hash": "6889241bd4fc34332a655c4931d481a04061b41eca3a94b54001f89ff453b9c9",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "7819312",
           "kind": "playlist",
@@ -63655,7 +63832,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/Nse84q83Du0/hqdefault.jpg",
           "title": "M Swing"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1704:12": {
+      "etag": "\"14mbei5lt5u649\"",
+      "hash": "5269cb253901c8aae1838b3ed181e2e4f382e762a1666569104325c442de1632",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "7737071",
           "kind": "playlist",
@@ -63732,14 +63916,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/IWk_d_C1z2E/hqdefault.jpg",
           "title": "本週華語新曲報到 (20140406)"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1716:12": {
-      "etag": "\"15y5gm46n0d6bz\"",
-      "hash": "d40e35f282f8a1f57a4c4fb2448d56b6b2713f441057294ab62ccecc23369635",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "7154225",
           "kind": "playlist",
@@ -63794,7 +63971,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/8PphpPwncEg/hqdefault.jpg",
           "title": "Best of the Month (201403)"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1716:12": {
+      "etag": "\"s3kme5auk6a5\"",
+      "hash": "999cd7e9845a2045ae6a2c251e9d6ae70f5456dfd995846df56ca555dd8d0ce1",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "7736616",
           "kind": "playlist",
@@ -63871,14 +64055,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/cEaEdLQbAFM/hqdefault.jpg",
           "title": "Guilty All the Same (feat. Rakim)"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1728:12": {
-      "etag": "\"sq2nxf1ijw658\"",
-      "hash": "6cff5afd1bf7b40681b20a99bb5b840a1a3b658d86880db2b4bfd513bde95b9e",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "7454936",
           "kind": "playlist",
@@ -63933,7 +64110,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/gon-kSOO-JI/hqdefault.jpg",
           "title": "本週華語新曲報到 (20140316)"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1728:12": {
+      "etag": "\"v5pgq63gke66a\"",
+      "hash": "50e6586afb6da5573aecd426e9d6bd2096b8b475a8d666a4e17c75d08c986782",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "7070072",
           "kind": "playlist",
@@ -63968,6 +64152,17 @@
           "title": "New Releases This Week (20140316)"
         },
         {
+          "id": "7318419",
+          "kind": "playlist",
+          "subtitle": "5 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ppvqjPkQ0BY/hqdefault.jpg",
+          "title": "克卜勒"
+        },
+        {
           "id": "7454718",
           "kind": "playlist",
           "subtitle": "2 首",
@@ -63999,14 +64194,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/cEYGrO6I86g/hqdefault.jpg",
           "title": "Fantasy 搶先聽"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1740:12": {
-      "etag": "\"h4g3k1jw0r6bs\"",
-      "hash": "4e1035bc468bb917bfe671c3a67ee442e683528bf097313917ae0dfe4532c732",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "6960524",
           "kind": "playlist",
@@ -64061,7 +64249,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/1JMFo_vPaKE/hqdefault.jpg",
           "title": "好歌平反：被忽略的好歌Vol.3"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1740:12": {
+      "etag": "\"xtv2tvxnev69x\"",
+      "hash": "efd87aa35b01e3fb337c85e83f0cee0fc2f22b200eddd7b9a1dbe53c72b1910a",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "7318007",
           "kind": "playlist",
@@ -64138,14 +64333,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/z1Ir489EpgI/hqdefault.jpg",
           "title": "Most Important Band"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1752:12": {
-      "etag": "\"eu24eawd46642\"",
-      "hash": "a2e6e1993e93467e61ef0d2fe44e5f0c00f5e0a558b53aa8705faae32d3666c3",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "7002441",
           "kind": "playlist",
@@ -64200,7 +64388,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/K_73lX3bzE4/hqdefault.jpg",
           "title": "OK蹦 搶先聽"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1752:12": {
+      "etag": "\"k5snvrqg5m630\"",
+      "hash": "34cc9b3da3224c4428921201e6a0d1ca6201b3954f60e163847baaee15305c9b",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "6733149",
           "kind": "playlist",
@@ -64277,14 +64472,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/9MPGyx7N1XI/hqdefault.jpg",
           "title": "Frozen - O.S.T."
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1764:12": {
-      "etag": "\"6wt3a5z50z5z2\"",
-      "hash": "17b2116b5c0abbe3cb2d35f9a227ae1b3124740106124d1ced4058ae521f50b2",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "6734133",
           "kind": "playlist",
@@ -64339,7 +64527,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/Jvtb6EK3j8U/hqdefault.jpg",
           "title": "Love is Love"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1764:12": {
+      "etag": "\"9o17ogqke65zx\"",
+      "hash": "eb9c4c7c20885b79b581f1718f95c52dc52fbee2bfbbc4a0b9a7b62b7b6d01c8",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "5892378",
           "kind": "playlist",
@@ -64416,14 +64611,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/irhFr-I9luk/hqdefault.jpg",
           "title": "歡喜洋洋迎新年"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1776:12": {
-      "etag": "\"159a564satw61h\"",
-      "hash": "dfe26f346eec71282fd55fcae21775398d881cc8dbeba0f67a099a9a15df44e3",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "6511000",
           "kind": "playlist",
@@ -64478,7 +64666,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/TblsMcP0Qgs/hqdefault.jpg",
           "title": "天台電影原聲帶"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1776:12": {
+      "etag": "\"4egyutmygf655\"",
+      "hash": "55ce4f316da985ede961deba77b7ca25e9ed346fd187a8dae9630e63bd939b44",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "6512033",
           "kind": "playlist",
@@ -64500,6 +64695,28 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/6EmGkxFscmw/hqdefault.jpg",
           "title": "用寂寞，釋放寂寞"
+        },
+        {
+          "id": "6511000",
+          "kind": "playlist",
+          "subtitle": "48 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nfgBm4bSHnE/hqdefault.jpg",
+          "title": "本月熱門排行 (201401)"
+        },
+        {
+          "id": "4890577",
+          "kind": "playlist",
+          "subtitle": "7 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TblsMcP0Qgs/hqdefault.jpg",
+          "title": "天台電影原聲帶"
         },
         {
           "id": "6595960",
@@ -64533,14 +64750,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/KOZnfLsmmmg/hqdefault.jpg",
           "title": "Billboard Best of 2013"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1788:12": {
-      "etag": "\"zn8vcewwqw64z\"",
-      "hash": "16e816d51a4871b50689d11528277b90e75575bf5408bc93a6087cacb2924f42",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "6510207",
           "kind": "playlist",
@@ -64584,7 +64794,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/mgebFEYjRro/hqdefault.jpg",
           "title": "金式代"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1788:12": {
+      "etag": "\"cmhymfg2dj61l\"",
+      "hash": "be38590d3cfffdb7a7c21e898c71c61537550ce541301fd0aa2572b7781539a3",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "6241257",
           "kind": "playlist",
@@ -64630,6 +64847,17 @@
           "title": "2014 潛力新銳樂團大賞"
         },
         {
+          "id": "5698927",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gt7ZO5YAMuM/hqdefault.jpg",
+          "title": "最愛情歌集 Vol.2"
+        },
+        {
           "id": "5881430",
           "kind": "playlist",
           "subtitle": "15 首",
@@ -64650,14 +64878,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/0oexpMmBagg/hqdefault.jpg",
           "title": "歐漢聲首張同名專輯"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1800:12": {
-      "etag": "\"3a5zn8xhga67w\"",
-      "hash": "8315b8f765a0d16665fe25045416aa29dba21f8d1e5600072a4c45ec26eaeb99",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "6242464",
           "kind": "playlist",
@@ -64712,7 +64933,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/YWRcqF4FNqg/hqdefault.jpg",
           "title": "R.I.P. Paul Walker"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1800:12": {
+      "etag": "\"161b0qr2a8u69w\"",
+      "hash": "4ef127e1839401b9b77ac578defc4a49753af91e5dd8d4b30e447cae9870f7c2",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "5881430",
           "kind": "playlist",
@@ -64789,6 +65017,61 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/KgYWeyPRw50/hqdefault.jpg",
           "title": "Most Popular Dance/Club Songs of the Month (201312)"
+        },
+        {
+          "id": "5991834",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SIR-jaHcLxo/hqdefault.jpg",
+          "title": "本月新歌精選 (201312)"
+        },
+        {
+          "id": "5892378",
+          "kind": "playlist",
+          "subtitle": "19 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Th9jkUId9L4/hqdefault.jpg",
+          "title": "時間的歌"
+        },
+        {
+          "id": "5940559",
+          "kind": "playlist",
+          "subtitle": "42 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4-pRwF75-Ew/hqdefault.jpg",
+          "title": "Best of the Month (201312)"
+        },
+        {
+          "id": "5991575",
+          "kind": "playlist",
+          "subtitle": "48 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9qq7cFhznpU/hqdefault.jpg",
+          "title": "本月熱門排行 (201312)"
+        },
+        {
+          "id": "5880490",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/a_Y-eDM-3Cw/hqdefault.jpg",
+          "title": "Christmas Eve"
         }
       ]
     },
@@ -64932,65 +65215,10 @@
       ]
     },
     "vector:vector_featured_zh:1812:12": {
-      "etag": "\"10tnvhg3spr67g\"",
-      "hash": "1afa34f6a05a5f4f911a4213ed7707cee9f9ed2ecee11019b21f7759ff07f440",
+      "etag": "\"14o84hffq7p65g\"",
+      "hash": "a94149f71703dc1f7e292a58d3091da70d4a215a8d3553bf950bac8d6fb16c18",
       "itemCount": 12,
       "payload": [
-        {
-          "id": "5991834",
-          "kind": "playlist",
-          "subtitle": "20 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/SIR-jaHcLxo/hqdefault.jpg",
-          "title": "本月新歌精選 (201312)"
-        },
-        {
-          "id": "5892378",
-          "kind": "playlist",
-          "subtitle": "19 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/Th9jkUId9L4/hqdefault.jpg",
-          "title": "時間的歌"
-        },
-        {
-          "id": "5940559",
-          "kind": "playlist",
-          "subtitle": "42 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/4-pRwF75-Ew/hqdefault.jpg",
-          "title": "Best of the Month (201312)"
-        },
-        {
-          "id": "5991575",
-          "kind": "playlist",
-          "subtitle": "48 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/9qq7cFhznpU/hqdefault.jpg",
-          "title": "本月熱門排行 (201312)"
-        },
-        {
-          "id": "5880490",
-          "kind": "playlist",
-          "subtitle": "14 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/a_Y-eDM-3Cw/hqdefault.jpg",
-          "title": "Christmas Eve"
-        },
         {
           "id": "5644625",
           "kind": "playlist",
@@ -65067,14 +65295,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/pIOOwhmkoLo/hqdefault.jpg",
           "title": "Songs of the Summer 1998 - 2012"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1824:12": {
-      "etag": "\"ducdm23p6s64s\"",
-      "hash": "dca72bfe0ade351744ff60a81a168e7fdfe8dede3f6e58b18054953990dd39ef",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "5609847",
           "kind": "playlist",
@@ -65129,7 +65350,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/gUu2ZEAIrV0/hqdefault.jpg",
           "title": "千年"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1824:12": {
+      "etag": "\"4q7geogbej6b1\"",
+      "hash": "028f8d87d4441e90c90cd128b05ed7753608aa23d78c7c5abff734cf95f44d0e",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "5594409",
           "kind": "playlist",
@@ -65195,14 +65423,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/lpRDHaP7uJE/hqdefault.jpg",
           "title": "獅子吼"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1836:12": {
-      "etag": "\"6zdpq113kq68v\"",
-      "hash": "43d204155bcf6a6136b94cbd4eaa0bbe71da8b33948e9275c6edc4ebe8f7a134",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "5263485",
           "kind": "playlist",
@@ -65257,7 +65478,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/FQqnAqtFnIM/hqdefault.jpg",
           "title": "New Releases of the Month (201311)"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1836:12": {
+      "etag": "\"s53qs46u456a2\"",
+      "hash": "cee47d791c9eb3f6000db5e35538e7c35e83705c93e53d6530acb9be01453993",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "5410769",
           "kind": "playlist",
@@ -65292,6 +65520,17 @@
           "title": "我的世界沒有你的音準"
         },
         {
+          "id": "5271286",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XYOTu6lOSI0/hqdefault.jpg",
+          "title": "隨波逐流我不介意"
+        },
+        {
           "id": "5180456",
           "kind": "playlist",
           "subtitle": "50 首",
@@ -65323,14 +65562,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/yrs3YGgAqxQ/hqdefault.jpg",
           "title": "RECHARGED"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1848:12": {
-      "etag": "\"owxtr0cswu6bi\"",
-      "hash": "fec6968df0f03dd6f0b677d3668d9ae0f156276f3d4fa42bbe4134f59e634994",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "5180180",
           "kind": "playlist",
@@ -65385,7 +65617,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/Mksguh7f5GY/hqdefault.jpg",
           "title": "試新室"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1848:12": {
+      "etag": "\"5x1j1gn9zg659\"",
+      "hash": "6a20acf1a9d647d793650bf1aaa644e4b64531343dd6b39b2b1295a122006f79",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "5063765",
           "kind": "playlist",
@@ -65462,14 +65701,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/qIBzi8KLTNU/hqdefault.jpg",
           "title": "Say The Words我為你歌唱"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1860:12": {
-      "etag": "\"ws4ffkit75671\"",
-      "hash": "4c749e603bf59ff3747d701e1412139fc2d6dd06816810a84ea1c51e9e30e634",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "4920661",
           "kind": "playlist",
@@ -65524,7 +65756,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/HifxVQdu--Y/hqdefault.jpg",
           "title": "The Best Commercial Hits Of Car No.2"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1860:12": {
+      "etag": "\"jv9ulw1w406ac\"",
+      "hash": "ff99d912e7684191d1f53a4549a04d8e9c9b9e95200645ac9f10814b3ebe34a8",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "4944205",
           "kind": "playlist",
@@ -65601,14 +65840,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/Ft7-xEiwvJw/hqdefault.jpg",
           "title": "Most Popular Dance/Club Songs of the Month (201310)"
-        }
-      ]
-    },
-    "vector:vector_featured_zh:1872:12": {
-      "etag": "\"80a6gwqkkb69a\"",
-      "hash": "3cb97eacecbeacafe2f9113530ea89d813818e60707cae8edac947b5dae43537",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "4783811",
           "kind": "playlist",
@@ -65663,7 +65895,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/jzaVZYg0Fdw/hqdefault.jpg",
           "title": "Stoker Soundtrack"
-        },
+        }
+      ]
+    },
+    "vector:vector_featured_zh:1872:12": {
+      "etag": "\"kxxxid5ogg66o\"",
+      "hash": "7ec52ef37ce57fe9da9b237c7546473a3777fc2db78f4e6ae04a5bfb0058b3a9",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "4663780",
           "kind": "playlist",
@@ -65740,6 +65979,61 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/BWymNs8NoI0/hqdefault.jpg",
           "title": "北京巷弄"
+        },
+        {
+          "id": "4512290",
+          "kind": "playlist",
+          "subtitle": "6 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/p-GxujMwlOM/hqdefault.jpg",
+          "title": "聽見下雨的聲音 電影原聲帶"
+        },
+        {
+          "id": "4512615",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QaRz7oWziSU/hqdefault.jpg",
+          "title": "史上最殺對唱組合"
+        },
+        {
+          "id": "4513140",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4PxfKSpCrzc/hqdefault.jpg",
+          "title": "True"
+        },
+        {
+          "id": "4378754",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/96ahoEZxEJY/hqdefault.jpg",
+          "title": "蔡健雅 新歌+精選"
+        },
+        {
+          "id": "4133979",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/I3dezFzsNss/hqdefault.jpg",
+          "title": "Most Popular K-Pop of the Month (201309)"
         }
       ]
     },
@@ -124977,7 +125271,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-07-13T05:48:35Z",
-      "nextOffset": 1596
+      "nextOffset": 1884
     },
     "vector_latest_zh": {
       "complete": true,
