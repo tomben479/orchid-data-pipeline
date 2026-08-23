@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "dbc2b74075cc8bde4affced57c2e85a7685dbc823024629cc21262bf30b1877d",
+    "hash": "56870f8a299f9ce434413751ec370bafd1e600c201a6b06ccaa86ae7ad27c59a",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -23,13 +23,10 @@
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
       "vector_systemlist_zh_genre_country",
-      "vector_systemlist_zh_genre_jazz",
-      "vector_systemlist_zh_genre_soundtrack",
       "vector_systemlist_zh_genre_relax",
-      "vector_systemlist_zh_mood_gaming",
-      "vector_systemlist_zh_mood_sad",
-      "vector_systemlist_zh_mood_mood",
-      "vector_systemlist_zh_mood_workout",
+      "vector_systemlist_zh_genre_soundtrack",
+      "vector_systemlist_zh_mood_themed",
+      "vector_systemlist_zh_mood_energy",
       "vector_promote_playlist_zh"
     ]
   },
@@ -36997,6 +36994,274 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/XGKJxb2b3ZI/mqdefault.jpg",
           "title": "benny blanco, Selena Gomez, Becky G - Te Olvido (La La) [Official Music Video]"
+        }
+      ]
+    },
+    "playlist:23303643": {
+      "etag": "\"3hdbm4gtcjb5o\"",
+      "hash": "d04cf87ace62c9c1435d87b5002801384085d6bc98b7cd172904d6b9bb778f38",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "4:05",
+          "id": "KQNV3jQXo8g",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KQNV3jQXo8g/mqdefault.jpg",
+          "title": "趙泳鑫 Steelo【Get Out】官方完整版 MV"
+        }
+      ]
+    },
+    "playlist:23303644": {
+      "etag": "\"tw5pogauoqa0v\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 3,
+      "payload": [
+
+      ]
+    },
+    "playlist:23303645": {
+      "etag": "\"zbdblil1swaqr\"",
+      "hash": "1c2ca11858aa347ed0ab3c05eb3db9131cf765d60e86b370bffc03ef4bf7a235",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "4:39",
+          "id": "LBUxl6SHSfo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LBUxl6SHSfo/mqdefault.jpg",
+          "title": "陳潔儀 Kit Chan 【被風吹散的人們】官方完整版 MV"
+        },
+        {
+          "durationText": "4:50",
+          "id": "ZV-vDDunueI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZV-vDDunueI/mqdefault.jpg",
+          "title": "陳潔儀 Kit Chan【天堂邊緣】官方完整版 MV"
+        }
+      ]
+    },
+    "playlist:23303646": {
+      "etag": "\"714f5fak3nae1\"",
+      "hash": "d958c4db9c9c27454811268cc336475c1bdf6e747e55724ef7b1bca79732e801",
+      "itemCount": 7,
+      "payload": [
+        {
+          "durationText": "4:44",
+          "id": "5BpgskWzxlg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5BpgskWzxlg/mqdefault.jpg",
+          "title": "曾沛慈 Pets Tseng - 我不是你該愛的那個人 If We Don't Belong Together (官方歌詞版)  - 電視劇《終極一班4》片尾曲"
+        },
+        {
+          "durationText": "4:41",
+          "id": "GcgXUjHjEQU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GcgXUjHjEQU/mqdefault.jpg",
+          "title": "曾沛慈 Pets Tseng - 粉筆和塗鴉 Chalk N Doodle (官方歌詞版) - 衛視中文台戲劇「長不大的爸爸」插曲"
+        },
+        {
+          "durationText": "4:47",
+          "id": "ct8oCmGvh2E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ct8oCmGvh2E/mqdefault.jpg",
+          "title": "曾沛慈 Pets Tseng - 坦然 What's past is past (官方歌詞版) - 電視劇《後菜鳥的燦爛時代》、《星座愛情魔羯女》插曲"
+        },
+        {
+          "durationText": "3:14",
+          "id": "JfxU6XqfC_0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JfxU6XqfC_0/mqdefault.jpg",
+          "title": "曾沛慈 Pets Tseng - 不再怕寂寞 No longer alone (官方歌詞版) - 電視劇 《幸福不二家》片頭曲"
+        },
+        {
+          "durationText": "4:41",
+          "id": "smbaFSmqtME",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/smbaFSmqtME/mqdefault.jpg",
+          "title": "曾沛慈 Pets Tseng - 我才沒有那樣呢 I Said Nothing Like That (官方歌詞版) - 電視劇《聶小倩》插曲"
+        }
+      ]
+    },
+    "playlist:23531691": {
+      "etag": "\"ceimvxt86v1lo\"",
+      "hash": "092246e4a3741117ebb30c9da91d9b616bd02a50c4dd25ff6257a55b555f9885",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:00",
+          "id": "Snrt1ad7_Zg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Snrt1ad7_Zg/mqdefault.jpg",
+          "title": "H.T.J.樂團(Hail The Judge)[ 這就是愛 ] Official Music Video"
+        },
+        {
+          "durationText": "4:24",
+          "id": "TASQAZPwoQ8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TASQAZPwoQ8/mqdefault.jpg",
+          "title": "H.T.J.樂團 【這就是愛】 Official Lyrics Video 官方歌詞版"
+        }
+      ]
+    },
+    "playlist:23531693": {
+      "etag": "\"feuews9psvaeb\"",
+      "hash": "54f2b90d1a340d0717afc5fde8f9fa61445d12b0cec15f9bbd851a58be6a9f1a",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "5:57",
+          "id": "pd3eV-SG23E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pd3eV-SG23E/mqdefault.jpg",
+          "title": "Mayday五月天 [ 後來的我們 Here, After, Us ] Official Music Video"
+        },
+        {
+          "durationText": "3:50",
+          "id": "eZMH6Mo0f9A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eZMH6Mo0f9A/mqdefault.jpg",
+          "title": "Mayday五月天 [ 如果我們不曾相遇What If We Had Never Met ] Official Music Video"
+        },
+        {
+          "durationText": "4:44",
+          "id": "Fn7NLWHJw4s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Fn7NLWHJw4s/mqdefault.jpg",
+          "title": "MAYDAY五月天 [ 派對動物Party Animal ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:23531694": {
+      "etag": "\"17p1tsfddbj970\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 3,
+      "payload": [
+
+      ]
+    },
+    "playlist:23531896": {
+      "etag": "\"jzttg55z7raya\"",
+      "hash": "5542762fc2c51072fd459f9fa3ab67fe7657b415009adb625f1d5392df74d34b",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "3:40",
+          "id": "xfsMKA4uaF0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xfsMKA4uaF0/mqdefault.jpg",
+          "title": "Angela 張韶涵 - 「還記得嗎 青春搖滾版」官方歌詞版MV ＊"
+        },
+        {
+          "durationText": "4:44",
+          "id": "Ntm_9BM8ups",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ntm_9BM8ups/mqdefault.jpg",
+          "title": "張韶涵 Angela【再見之前】Official MV【HD】"
+        },
+        {
+          "durationText": "5:04",
+          "id": "2tJBMiE7A7g",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2tJBMiE7A7g/mqdefault.jpg",
+          "title": "張韶涵《把你信仰》HD戲劇版MV 尋找愛的冒險 片尾曲 2016全新單曲"
+        },
+        {
+          "durationText": "4:00",
+          "id": "8slG1EGbalw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8slG1EGbalw/mqdefault.jpg",
+          "title": "張韶涵 Angela【不害怕】Official MV【HD】"
+        },
+        {
+          "durationText": "3:13",
+          "id": "smCFFvyoFuQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/smCFFvyoFuQ/mqdefault.jpg",
+          "title": "張韶涵-GO"
+        },
+        {
+          "durationText": "4:02",
+          "id": "9T4ITxgioW8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9T4ITxgioW8/mqdefault.jpg",
+          "title": "張韶涵-忘了"
+        },
+        {
+          "durationText": "4:36",
+          "id": "c-pGTn7X0RM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/c-pGTn7X0RM/mqdefault.jpg",
+          "title": "張韶涵-終於"
+        },
+        {
+          "durationText": "4:06",
+          "id": "d6iBJPADQn4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/d6iBJPADQn4/mqdefault.jpg",
+          "title": "張韶涵-第一頁"
         }
       ]
     },
@@ -119041,6 +119306,840 @@
 
       ]
     },
+    "vector:vector_systemlist_zh_mood_energy:0:12": {
+      "etag": "\"108bltn9abw80x\"",
+      "hash": "a57611144c6587c8ca70e5fdd0bbcabbfaae3b13ad3a5b3414d14be9dc31fb92",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_mVJ3RRi_YBfUJnZnQxLAedQQcXHujbUcg",
+          "kind": "playlist",
+          "subtitle": "114 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OPf0YbXqDm0/mqdefault.jpg",
+          "title": "令人振奮的西洋流行樂"
+        },
+        {
+          "id": "RDCLAK5uy_nfs_t4FUu00E5ED6lveEBBX1VMYe1mFjk",
+          "kind": "playlist",
+          "subtitle": "161 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/k2qgadSvNyU/mqdefault.jpg",
+          "title": "Dance Pop Bangers"
+        },
+        {
+          "id": "RDCLAK5uy_k6PkYWus1Mt-aKrbb0Ne8SkA2BgAk1Yy4",
+          "kind": "playlist",
+          "subtitle": "391 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/m7Bc3pLyij0/mqdefault.jpg",
+          "title": "Dance Hits"
+        },
+        {
+          "id": "RDCLAK5uy_l7u7RCjtiI_I3m5EgnI-V9yWAgx0RNy1E",
+          "kind": "playlist",
+          "subtitle": "79 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JRfuAukYTKg/mqdefault.jpg",
+          "title": "All-Time Pumped-Up Hits"
+        },
+        {
+          "id": "RDCLAK5uy_lV2nSIwNU8070lncN33m1P_VbWwkGKxzE",
+          "kind": "playlist",
+          "subtitle": "67 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OPf0YbXqDm0/mqdefault.jpg",
+          "title": "Ultimate Happy Songs"
+        },
+        {
+          "id": "RDCLAK5uy_m2516Cz955UxQM4DgjKPrKeGwAcQ6wj3Q",
+          "kind": "playlist",
+          "subtitle": "48 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PMivT7MJ41M/mqdefault.jpg",
+          "title": "放克流行金曲"
+        },
+        {
+          "id": "RDCLAK5uy_lb6CVU6S4uVugLVNTU9WhqfaomWAgnho4",
+          "kind": "playlist",
+          "subtitle": "90 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ys7-6_t7OEQ/mqdefault.jpg",
+          "title": "就要大聲唱出來的熱門金曲"
+        },
+        {
+          "id": "RDCLAK5uy_lvHI2Z7dSfpD5g8wvmePjWPfYwq5IgkLo",
+          "kind": "playlist",
+          "subtitle": "132 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CdqoNKCCt7A/mqdefault.jpg",
+          "title": "80 年代流行搖滾金曲"
+        },
+        {
+          "id": "RDCLAK5uy_km8O-Ih1wUwDSDLdsobHb0PURoU136_5Q",
+          "kind": "playlist",
+          "subtitle": "75 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eVTXPUF4Oz4/mqdefault.jpg",
+          "title": "銳不可當的搖滾樂"
+        },
+        {
+          "id": "RDCLAK5uy_mUIp1N8FUbTNf-J5pTqpUhzJD_9oJOjpY",
+          "kind": "playlist",
+          "subtitle": "87 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hTWKbfoikeg/mqdefault.jpg",
+          "title": "Get Pumped: Rock Anthems"
+        },
+        {
+          "id": "RDCLAK5uy_mAURaX3BiQydKi75-h_oqtIU_ZshsHStk",
+          "kind": "playlist",
+          "subtitle": "77 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Vzo-EL_62fQ/mqdefault.jpg",
+          "title": "Powerful Women of Pop"
+        },
+        {
+          "id": "RDCLAK5uy_mVQsicmiGWIirrcMMQO4g7QL3BQKuKCSM",
+          "kind": "playlist",
+          "subtitle": "98 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GxBSyx85Kp8/mqdefault.jpg",
+          "title": "00 年代熱門金曲"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:12:12": {
+      "etag": "\"m3mmaokhas7xr\"",
+      "hash": "e4b31c4086e3564e7a1fbfdf8ba27a17ce8b6b7f6f1ff95c5264e0986eef9833",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_lGEOjy5U8xV41C8_LyqNnAZKOH6sGyutI",
+          "kind": "playlist",
+          "subtitle": "84 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6m50keINEOI/mqdefault.jpg",
+          "title": "Bubble Pop"
+        },
+        {
+          "id": "RDCLAK5uy_npkgrjOge0uceDgFNjxp5ymEDMdUUHQ_4",
+          "kind": "playlist",
+          "subtitle": "85 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/F1_aOX0acbY/mqdefault.jpg",
+          "title": "Fiesta Latina"
+        },
+        {
+          "id": "RDCLAK5uy_mFaoBNPmTUVcY51UGFuAYedXv4kXuqg5M",
+          "kind": "playlist",
+          "subtitle": "83 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EcOCb6veGao/mqdefault.jpg",
+          "title": "必聽的雷鬼動歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_nGla7fZdBfRak2-LrbYP0aHdjz8Lwv7lQ",
+          "kind": "playlist",
+          "subtitle": "102 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6hzrDeceEKc/mqdefault.jpg",
+          "title": "20年間經典獨立音樂"
+        },
+        {
+          "id": "RDCLAK5uy_mwrn2QlMTGaTnHg45Gut1T6treNoLC6x4",
+          "kind": "playlist",
+          "subtitle": "65 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IcrbM1l_BoI/mqdefault.jpg",
+          "title": "Viva La Vida"
+        },
+        {
+          "id": "RDCLAK5uy_k1vMt2fo8e-Jy78tTSddZxMBjGSmQfwmU",
+          "kind": "playlist",
+          "subtitle": "75 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1w7OgIMMRc4/mqdefault.jpg",
+          "title": "琅琅上口的搖滾歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_kIlC_He_q02_we1RKAq1_4JEYmueTqnGs",
+          "kind": "playlist",
+          "subtitle": "91 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JRfuAukYTKg/mqdefault.jpg",
+          "title": "能量電音"
+        },
+        {
+          "id": "RDCLAK5uy_kPqJ_FiGk-lbXtgM4IF42uokskSJZiVTI",
+          "kind": "playlist",
+          "subtitle": "98 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PzNLMmAOlEU/mqdefault.jpg",
+          "title": "適合有氧運動的西洋流行樂"
+        },
+        {
+          "id": "RDCLAK5uy_ldBAkQeU6YAhiggxft8yStLU00mfVXrl0",
+          "kind": "playlist",
+          "subtitle": "74 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GtSRKwDCaZM/mqdefault.jpg",
+          "title": "Ellas Quieren Perrear"
+        },
+        {
+          "id": "RDCLAK5uy_m_h-nx7OCFaq9AlyXv78lG0AuloqW_NUA",
+          "kind": "playlist",
+          "subtitle": "120 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vabnZ9-ex7o/mqdefault.jpg",
+          "title": "'90s Alternative"
+        },
+        {
+          "id": "RDCLAK5uy_k1Wu8QbZASiGVqr1wmie9NIYo38aBqscQ",
+          "kind": "playlist",
+          "subtitle": "101 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lcOxhH8N3Bo/mqdefault.jpg",
+          "title": "'80s Pop"
+        },
+        {
+          "id": "RDCLAK5uy_nBQm8_YpP--R6zU8p3dypKm1QKqzWY6qU",
+          "kind": "playlist",
+          "subtitle": "112 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KQ6zr6kCPj8/mqdefault.jpg",
+          "title": "帶來震撼感的電子舞曲"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:24:12": {
+      "etag": "\"l9bd5lde5v7xs\"",
+      "hash": "7c1c903511097ec70ac7b3527dc88567563a50d52eaea60a7323ad004c1ce80f",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_k946mnOlDHorplHEKWHE9BRttevrYJSIY",
+          "kind": "playlist",
+          "subtitle": "67 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0JeughwzfR0/mqdefault.jpg",
+          "title": "Wild Perreo!"
+        },
+        {
+          "id": "RDCLAK5uy_mjFIQx6np0uEk0EFQnkGFxqR3OMxReYv0",
+          "kind": "playlist",
+          "subtitle": "78 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/B9synWjqBn8/mqdefault.jpg",
+          "title": "嘻哈能量"
+        },
+        {
+          "id": "RDCLAK5uy_kP2172rQNb3KFXz880xp6M98R_ME5CIKA",
+          "kind": "playlist",
+          "subtitle": "77 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eaPzCHEQExs/mqdefault.jpg",
+          "title": "Hip-Hop Classics"
+        },
+        {
+          "id": "RDCLAK5uy_kdHQTBPDpDNGmQJ3L88OpEa5lLoyPHiGU",
+          "kind": "playlist",
+          "subtitle": "63 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8UFIYGkROII/mqdefault.jpg",
+          "title": "00 年代饒舌歌"
+        },
+        {
+          "id": "RDCLAK5uy_lM94XXowHJpx6zExfintoS34TTV321rdI",
+          "kind": "playlist",
+          "subtitle": "85 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QvypZSdjO8M/mqdefault.jpg",
+          "title": "Calentura"
+        },
+        {
+          "id": "RDCLAK5uy_l7K78k4EkjcFojhd1617rmUjY-aet6-t0",
+          "kind": "playlist",
+          "subtitle": "120 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/L8ZnXgbyUuc/mqdefault.jpg",
+          "title": "K-Pop 派對熱門歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_mfdqvCAl8wodlx2P2_Ai2gNkiRDAufkkI",
+          "kind": "playlist",
+          "subtitle": "70 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WcIcVapfqXw/mqdefault.jpg",
+          "title": "快樂流行歌曲精選"
+        },
+        {
+          "id": "RDCLAK5uy_nvu_HUY0DPNpbB_V0moUfs9s5zABAF8xQ",
+          "kind": "playlist",
+          "subtitle": "118 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fPO76Jlnz6c/mqdefault.jpg",
+          "title": "90 年代派對熱門金曲"
+        },
+        {
+          "id": "RDCLAK5uy_mPQpnaIsGWUG7bUICy-c4Th7zyyx-JivU",
+          "kind": "playlist",
+          "subtitle": "75 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Q_gIYp078so/mqdefault.jpg",
+          "title": "Sale el Sol"
+        },
+        {
+          "id": "RDCLAK5uy_lw21MuKaqFsDBIPZSbRmZcoDrHmV_c6uY",
+          "kind": "playlist",
+          "subtitle": "74 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/w8l33K5D5CI/mqdefault.jpg",
+          "title": "Happy Latin Pop"
+        },
+        {
+          "id": "RDCLAK5uy_kVRnJPeKUO-68eZiQwF8cf9v-rPjnUM4A",
+          "kind": "playlist",
+          "subtitle": "97 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7iNbnineUCI/mqdefault.jpg",
+          "title": "搖滾派對流行金曲"
+        },
+        {
+          "id": "RDCLAK5uy_nHl3QTEJsWnqZQU8pzNrBudfrbzr_kLCg",
+          "kind": "playlist",
+          "subtitle": "80 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OPf0YbXqDm0/mqdefault.jpg",
+          "title": "Don't Worry Be Happy"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:36:12": {
+      "etag": "\"px010qgki07x3\"",
+      "hash": "7371c9c859ce7c49f34784149482287c9d0c533933245902c93a4ce13f3e60c2",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_lX24L_CGP46xH6pM4FgXpX4yNr3jX9xpU",
+          "kind": "playlist",
+          "subtitle": "98 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5qm8PH4xAss/mqdefault.jpg",
+          "title": "Cardio Hip Hop"
+        },
+        {
+          "id": "RDCLAK5uy_mx8e76iA69eSkgLpj_oxbrgchR0I5Fa1U",
+          "kind": "playlist",
+          "subtitle": "75 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0J2QdDbelmY/mqdefault.jpg",
+          "title": "Rock & Run!"
+        },
+        {
+          "id": "RDCLAK5uy_leZZSfq6Chk5yNm1m0e4VTNOhLHSONkXY",
+          "kind": "playlist",
+          "subtitle": "72 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5X-Mrc2l1d0/mqdefault.jpg",
+          "title": "R&B Party-Starters"
+        },
+        {
+          "id": "RDCLAK5uy_ny800pDYXFLBKqgRJqVCNI5-Qi8GWNvsc",
+          "kind": "playlist",
+          "subtitle": "46 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eVTXPUF4Oz4/mqdefault.jpg",
+          "title": "金屬狂潮"
+        },
+        {
+          "id": "RDCLAK5uy_lVm93MPGWY2gMYbeUHn2Y5HnRNRzMbQfM",
+          "kind": "playlist",
+          "subtitle": "53 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xFYQQPAOz7Y/mqdefault.jpg",
+          "title": "Lose Yourself 找自己"
+        },
+        {
+          "id": "RDCLAK5uy_nKbdRGm-ovEaiFG7smcm4hgTi2_w01ZLc",
+          "kind": "playlist",
+          "subtitle": "44 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SC4xMk98Pdc/mqdefault.jpg",
+          "title": "嘻哈健身音樂"
+        },
+        {
+          "id": "RDCLAK5uy_klY80tDUG8t6V0eXb5ttfGqRZZb8c5JZg",
+          "kind": "playlist",
+          "subtitle": "89 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1w7OgIMMRc4/mqdefault.jpg",
+          "title": "經典搖滾派對"
+        },
+        {
+          "id": "RDCLAK5uy_k1VVBVsS6pu1pVkYZK2B0EWic3i4j_TY4",
+          "kind": "playlist",
+          "subtitle": "118 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/B9synWjqBn8/mqdefault.jpg",
+          "title": "野獸模式嘻哈"
+        },
+        {
+          "id": "RDCLAK5uy_liAgzYL2wFo_HtdRiJPHArYaO37XDl4Zs",
+          "kind": "playlist",
+          "subtitle": "80 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HsVnUpl2IKQ/mqdefault.jpg",
+          "title": "Sports Gaming"
+        },
+        {
+          "id": "RDCLAK5uy_khfoBlJ96kYmBivOddcrO8UO33YbRbLf4",
+          "kind": "playlist",
+          "subtitle": "82 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/L_jWHffIx5E/mqdefault.jpg",
+          "title": "人不輕狂枉少年"
+        },
+        {
+          "id": "RDCLAK5uy_nUzDYmqMzeuOz5H0h_3jRjK3-c6_cNn4s",
+          "kind": "playlist",
+          "subtitle": "55 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZbZSe6N_BXs/mqdefault.jpg",
+          "title": "Good Vibe饒舌歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_n4nQnHcu8HSMwBu2fiX3cOWUopULmLc8E",
+          "kind": "playlist",
+          "subtitle": "64 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hTWKbfoikeg/mqdefault.jpg",
+          "title": "90年代搖滾夜店派對"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:48:12": {
+      "etag": "\"dphggu92lq7z6\"",
+      "hash": "675924a0185be1fec105269ca25ed66b69c278bb57b48fe887f8f4248a47e377",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_lzB6nj0ob7hek-ioXrT29KKMrjqyTDN5w",
+          "kind": "playlist",
+          "subtitle": "77 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/04F4xlWSFh0/mqdefault.jpg",
+          "title": "Hard Rock, Hard Bod"
+        },
+        {
+          "id": "RDCLAK5uy_mdFeaJL-S0sClXygtjtCC1WlP1F0-qRRk",
+          "kind": "playlist",
+          "subtitle": "57 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Y92toVGxfqs/mqdefault.jpg",
+          "title": "至尊嘻哈派對"
+        },
+        {
+          "id": "RDCLAK5uy_mAyu9Ae_cC4uin9kgHk3Eopb7qoLo2AbQ",
+          "kind": "playlist",
+          "subtitle": "70 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6fVE8kSM43I/mqdefault.jpg",
+          "title": "The Metal Moshpit"
+        },
+        {
+          "id": "RDCLAK5uy_lhDj6v_l4ZFQr3Gcsnk84Ignq2qQbQjuY",
+          "kind": "playlist",
+          "subtitle": "99 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mexXOdAF50g/mqdefault.jpg",
+          "title": "Adrenaline Gaming"
+        },
+        {
+          "id": "RDCLAK5uy_kDbOKa_TCEawlmyd3bIhWj9oMaKs0U9UQ",
+          "kind": "playlist",
+          "subtitle": "89 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kXYiU_JCYtU/mqdefault.jpg",
+          "title": "高能量的硬式搖滾"
+        },
+        {
+          "id": "RDCLAK5uy_l3XabTm3_hzKqB9XOpyJj2xYRO597H5eE",
+          "kind": "playlist",
+          "subtitle": "211 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UkN2hji6Wa4/mqdefault.jpg",
+          "title": "隨著嘻哈音樂嗨起來"
+        },
+        {
+          "id": "RDCLAK5uy_mi47l5H-V2OnJvmpEC6K51_SLwmDxZtAs",
+          "kind": "playlist",
+          "subtitle": "39 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/btPJPFnesV4/mqdefault.jpg",
+          "title": "Standards Soundtracks"
+        },
+        {
+          "id": "RDCLAK5uy_kztWUiOd42stlpXD8mCA1cch2CRQABk2c",
+          "kind": "playlist",
+          "subtitle": "81 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eVTXPUF4Oz4/mqdefault.jpg",
+          "title": "搖滾的日與夜"
+        },
+        {
+          "id": "RDCLAK5uy_mPqT1su7A0jeg2kTWdhj7I6JyDfwD4O-4",
+          "kind": "playlist",
+          "subtitle": "90 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/j0lSpNtjPM8/mqdefault.jpg",
+          "title": "Rage Rock"
+        },
+        {
+          "id": "RDCLAK5uy_n3VXlgOKj6OxuN3TpKEnVBX4qia-_2c1k",
+          "kind": "playlist",
+          "subtitle": "95 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/D3zkX-Am4o4/mqdefault.jpg",
+          "title": "香檳之夜"
+        },
+        {
+          "id": "RDCLAK5uy_k6ACq4WNfG-uJSz_jML9ZkUEULUoCzWIw",
+          "kind": "playlist",
+          "subtitle": "85 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SlgtjRq5AXs/mqdefault.jpg",
+          "title": "Cumbia Megamix"
+        },
+        {
+          "id": "RDCLAK5uy_nQWv_1Zu_YJ48qNPtI2ED3YlJsSOssF5k",
+          "kind": "playlist",
+          "subtitle": "47 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XoiOOiuH8iI/mqdefault.jpg",
+          "title": "Non-Stop Booty Shake"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:60:12": {
+      "etag": "\"1b29f246ta7xz\"",
+      "hash": "70caec6b2b46fe6023104431bdb580111b75da61b30b960e1c8315ec7d39c720",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_mo6Yju-l1p19WsGcI9OjTMgyCZarfyEIk",
+          "kind": "playlist",
+          "subtitle": "97 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/seM8oqrU2qA/mqdefault.jpg",
+          "title": "The Turkish Hits: 10s"
+        },
+        {
+          "id": "RDCLAK5uy_mIQflmQBA90-jAkgaySBrqPONwaiI_CAA",
+          "kind": "playlist",
+          "subtitle": "106 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eXvBjCO19QY/mqdefault.jpg",
+          "title": "饒舌王者"
+        },
+        {
+          "id": "RDCLAK5uy_kdvxMsHE0RUWzsMvo_HxpFf4eYX0WdhxU",
+          "kind": "playlist",
+          "subtitle": "106 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/c18441Eh_WE/mqdefault.jpg",
+          "title": "2000年代西洋舞曲"
+        },
+        {
+          "id": "RDCLAK5uy_mMmidNt_lIg_g4kXndSRlF2_Uoi7Ppjy4",
+          "kind": "playlist",
+          "subtitle": "54 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TQTlCHxyuu8/mqdefault.jpg",
+          "title": "富饒趣味的韓國流行舞蹈音樂"
+        },
+        {
+          "id": "RDCLAK5uy_k2u2jgHBqCiaxlmoV-1AO227ocJLIVKbk",
+          "kind": "playlist",
+          "subtitle": "89 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CMX2lPum_pg/mqdefault.jpg",
+          "title": "流行龐克"
+        },
+        {
+          "id": "RDCLAK5uy_koaEa1YORan2lNuouw57zD3XLBVC5BDyY",
+          "kind": "playlist",
+          "subtitle": "92 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uJ_1HMAGb4k/mqdefault.jpg",
+          "title": "Handclapping & Footstomping"
+        },
+        {
+          "id": "RDCLAK5uy_mxtFfheklLrGa6G273CV86EhAG9yZiElc",
+          "kind": "playlist",
+          "subtitle": "67 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iBHNgV6_znU/mqdefault.jpg",
+          "title": "2000年代R&B派對"
+        },
+        {
+          "id": "RDCLAK5uy_kwJTdGJj4KpaItCZogif_xkH69VyeERKw",
+          "kind": "playlist",
+          "subtitle": "137 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rtwpk9rb1Dc/mqdefault.jpg",
+          "title": "R&B 派對"
+        },
+        {
+          "id": "RDCLAK5uy_k59GXAlPBRGnPK4iQupnDUUI1AIz1t6QM",
+          "kind": "playlist",
+          "subtitle": "61 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CD-E-LDc384/mqdefault.jpg",
+          "title": "榮獲金神獎的金屬音樂"
+        },
+        {
+          "id": "RDCLAK5uy_nw_HsAh4RUoqLazzpalfWycO3BItUjEmY",
+          "kind": "playlist",
+          "subtitle": "58 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EmZvOhHF85I/mqdefault.jpg",
+          "title": "嘻哈女王"
+        },
+        {
+          "id": "RDCLAK5uy_kXqa46CUBtZyFu2tCNPjy1a4E5Cfi7ioI",
+          "kind": "playlist",
+          "subtitle": "52 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tUJXtHMXDY0/mqdefault.jpg",
+          "title": "To the Baile Funk"
+        },
+        {
+          "id": "RDCLAK5uy_lwDv3rm5dXJn1Y8v5xXYzrQVhYq-3lro0",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/T6QKqFPRZSA/mqdefault.jpg",
+          "title": "90年代R&B派對"
+        }
+      ]
+    },
     "vector:vector_systemlist_zh_mood_gaming:0:12": {
       "etag": "\"zor2xyt61n77k\"",
       "hash": "0064509f5f5d02e5294df7671b96887b64b6f21e659fdb9cd7579faef411fa16",
@@ -127783,6 +128882,2376 @@
 
       ]
     },
+    "vector:vector_systemlist_zh_mood_themed:0:12": {
+      "etag": "\"cb0jz3wqjz558\"",
+      "hash": "788a88dfa58fd89ed9bc633b12c639786b8d2dd6c0fc0d5c391595cd1a790764",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "28241234",
+          "kind": "playlist",
+          "subtitle": "28 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mBfCmfAV6DA/mqdefault.jpg",
+          "title": "宮崎駿"
+        },
+        {
+          "id": "28241205",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yCjJyiqpAuU/mqdefault.jpg",
+          "title": "經典西洋兒歌"
+        },
+        {
+          "id": "24628558",
+          "kind": "playlist",
+          "subtitle": "21 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rL4J-XIAKvw/mqdefault.jpg",
+          "title": "鄉村好時光"
+        },
+        {
+          "id": "29951554",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cFKR35V4qxA/mqdefault.jpg",
+          "title": "經典不朽"
+        },
+        {
+          "id": "28546878",
+          "kind": "playlist",
+          "subtitle": "19 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0QQdEGWZ1CE/mqdefault.jpg",
+          "title": "2016精彩合作曲大回顧"
+        },
+        {
+          "id": "28179641",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6VCpmBYAKXI/mqdefault.jpg",
+          "title": "2016 YouTube 熱門音樂影片"
+        },
+        {
+          "id": "28148113",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yyDUC1LUXSU/mqdefault.jpg",
+          "title": "The Longest-Leading Hot 100 No. 1s"
+        },
+        {
+          "id": "28794726",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/I2lVEiwKVFM/mqdefault.jpg",
+          "title": "Disney (201701)"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:108:12": {
+      "etag": "\"nmu19jujij6il\"",
+      "hash": "5f37bab5c10158ef58cffb3f7028b76e30f9ecef1a314cf25cd35c480bde8f26",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "20465124",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KrZHPOeOxQQ/mqdefault.jpg",
+          "title": "Powerful Morning Vol.2"
+        },
+        {
+          "id": "20491299",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gEnCxGh8kBg/mqdefault.jpg",
+          "title": "Songs For A Rainy Day"
+        },
+        {
+          "id": "20332709",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iZ3vbhFD85o/mqdefault.jpg",
+          "title": "Beach Music"
+        },
+        {
+          "id": "20063053",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jTTNWpag6fI/mqdefault.jpg",
+          "title": "Songs About Friends Vol.1"
+        },
+        {
+          "id": "19953425",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PWgvGjAhvIw/mqdefault.jpg",
+          "title": "Powerful Morning Vol.1"
+        },
+        {
+          "id": "18770925",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fWNaR-rxAic/mqdefault.jpg",
+          "title": "Music With Happy Mood Vol.2"
+        },
+        {
+          "id": "19116612",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4gPpq0D6PoQ/mqdefault.jpg",
+          "title": "Oscar Winners 2016"
+        },
+        {
+          "id": "18859610",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uGwH-x4VoH8/mqdefault.jpg",
+          "title": "Songs About Cheating"
+        },
+        {
+          "id": "18770926",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KIYiGA_rIls/mqdefault.jpg",
+          "title": "Music With Happy Mood Vol.1"
+        },
+        {
+          "id": "17260555",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jeg60eAQEhQ/mqdefault.jpg",
+          "title": "Love Songs With A Meaning Vol.2"
+        },
+        {
+          "id": "18312778",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/840NbiFF1zM/mqdefault.jpg",
+          "title": "Valentine's Day: Love Forever"
+        },
+        {
+          "id": "17360687",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/akvu1AOnUIw/mqdefault.jpg",
+          "title": "Little Winter Love"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:120:12": {
+      "etag": "\"t40o1evdcl699\"",
+      "hash": "1a46b33b14b6dea61ea6662330c5284a3e520fb45fe620697412d30f87d33c27",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "17260556",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pCVlfqNTZ3c/mqdefault.jpg",
+          "title": "Love Songs With A Meaning Vol.1"
+        },
+        {
+          "id": "17092154",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qS8daaudtgE/mqdefault.jpg",
+          "title": "詞曲金字招牌：陳小霞vs姚若龍 Vol.1"
+        },
+        {
+          "id": "16909564",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VEYVQmgWsIg/mqdefault.jpg",
+          "title": "這些都是蔡健雅寫的歌"
+        },
+        {
+          "id": "16909460",
+          "kind": "playlist",
+          "subtitle": "19 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/27R6ZavdzzQ/mqdefault.jpg",
+          "title": "你就是工具人嗎？"
+        },
+        {
+          "id": "16246761",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/81DINpa-lnE/mqdefault.jpg",
+          "title": "關於潔癖"
+        },
+        {
+          "id": "16614863",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7GCzSHc43nE/mqdefault.jpg",
+          "title": "金馬52表演曲目一次回顧"
+        },
+        {
+          "id": "15599713",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pg0Zxqi1MVU/mqdefault.jpg",
+          "title": "他們都愛張惠妹"
+        },
+        {
+          "id": "15920214",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jUb1XQzNiCI/mqdefault.jpg",
+          "title": "追星少女必備清單"
+        },
+        {
+          "id": "15849587",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Uwhk1xJrk74/mqdefault.jpg",
+          "title": "棒球應援歌曲超精選"
+        },
+        {
+          "id": "15139892",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BzNBQnEnwhE/mqdefault.jpg",
+          "title": "宅男女神點點名"
+        },
+        {
+          "id": "15065466",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iuz6QvKxGPw/mqdefault.jpg",
+          "title": "車上也能兩人KTV"
+        },
+        {
+          "id": "14750459",
+          "kind": "playlist",
+          "subtitle": "9 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/y7t68zwelZo/mqdefault.jpg",
+          "title": "這些都是魏如萱寫的歌"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:12:12": {
+      "etag": "\"1akoxikda26mq\"",
+      "hash": "eaa4958fe3fb4008b165ffbf50a47f4258f7fd60b2094b508c71e392f9820323",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "28394191",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Pw-0pbY9JeU/mqdefault.jpg",
+          "title": "Billboard Hot Songs - Year-End 2016 Vol.2"
+        },
+        {
+          "id": "28394193",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7PCkvCPvDXk/mqdefault.jpg",
+          "title": "UK Singles Chart NO.1 Vol.31"
+        },
+        {
+          "id": "28394196",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uo35R9zQsAI/mqdefault.jpg",
+          "title": "Billboard Hot Songs - Year-End 2016 Vol.1"
+        },
+        {
+          "id": "28202714",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/P_pyfLArjQg/mqdefault.jpg",
+          "title": "給藍瘦香菇的你"
+        },
+        {
+          "id": "27814676",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Jotp1RHvWDY/mqdefault.jpg",
+          "title": "大明星MV跨刀超吸睛 Vol.3"
+        },
+        {
+          "id": "26436931",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/l1vViPLR0kk/mqdefault.jpg",
+          "title": "大明星MV跨刀超吸睛 Vol.2"
+        },
+        {
+          "id": "27383989",
+          "kind": "playlist",
+          "subtitle": "23 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tDNhZAFZcwI/mqdefault.jpg",
+          "title": "本月新歌精選 (201612)"
+        },
+        {
+          "id": "27221453",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BsvIwqyiaJw/mqdefault.jpg",
+          "title": "本月熱門排行 (201612)"
+        },
+        {
+          "id": "28148604",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rcruBy7iU_w/mqdefault.jpg",
+          "title": "Office Christmas Party Soundtrack"
+        },
+        {
+          "id": "28125658",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yXQViqx6GMY/mqdefault.jpg",
+          "title": "Best of the Month (201701)"
+        },
+        {
+          "id": "27957771",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9r4xDFcYxck/mqdefault.jpg",
+          "title": "Kanye West Songs Remixed: Listen to 10 of the Best"
+        },
+        {
+          "id": "27957777",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Cbo2n2MzxxE/mqdefault.jpg",
+          "title": "Teen Choice Awards 2002"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:132:12": {
+      "etag": "\"kv7hbx8grw6ao\"",
+      "hash": "3fa2af22a4098b9b83741afdaf351fe907384b79052cd31fcb697c110849daee",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "13871663",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RZBd3MZraBA/mqdefault.jpg",
+          "title": "精選同志劇情的華語音樂MV Vol.3"
+        },
+        {
+          "id": "14749372",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hmPiLIu3lKw/mqdefault.jpg",
+          "title": "吃熱炒就要配這味"
+        },
+        {
+          "id": "14749520",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Lzb33Ku8k_w/mqdefault.jpg",
+          "title": "一個人的寂寞包廂"
+        },
+        {
+          "id": "14749670",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/k50EKVjrEB0/mqdefault.jpg",
+          "title": "這些都是戴佩妮寫的歌"
+        },
+        {
+          "id": "14798250",
+          "kind": "playlist",
+          "subtitle": "32 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZtUaPoxE35c/mqdefault.jpg",
+          "title": "再見江蕙：祝福演唱會歌單"
+        },
+        {
+          "id": "14535212",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BUYOVuAdHAg/mqdefault.jpg",
+          "title": "2015最新對唱歌曲 Vol.2"
+        },
+        {
+          "id": "14351311",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TwLXNkZSz8k/mqdefault.jpg",
+          "title": "今天沒回家"
+        },
+        {
+          "id": "13871092",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Y4fewoO56NE/mqdefault.jpg",
+          "title": "精選同志劇情的華語音樂MV Vol.2"
+        },
+        {
+          "id": "14308484",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1fgwZsCPoDA/mqdefault.jpg",
+          "title": "2015最新對唱歌曲 Vol.1"
+        },
+        {
+          "id": "14202991",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/02AZDtUI6lg/mqdefault.jpg",
+          "title": "父親節特輯"
+        },
+        {
+          "id": "13181023",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BXj7vu_4F1c/mqdefault.jpg",
+          "title": "這些都是方大同寫的歌Vol.2"
+        },
+        {
+          "id": "13871087",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/i9e8K2MpuS0/mqdefault.jpg",
+          "title": "精選同志劇情的華語音樂MV Vol.1"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:144:12": {
+      "etag": "\"170ow6vl2p6675\"",
+      "hash": "376e6c570b430ecdc21204c7c0413725e7f471b0d48fee5bb72ce8ca5987fad0",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "13302718",
+          "kind": "playlist",
+          "subtitle": "18 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RGW_DCRShh8/mqdefault.jpg",
+          "title": "超長歌名作品精選"
+        },
+        {
+          "id": "13180926",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KMVCUKxKWxg/mqdefault.jpg",
+          "title": "這些都是方大同寫的歌Vol.1"
+        },
+        {
+          "id": "13180630",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/B8JjcC0MTKU/mqdefault.jpg",
+          "title": "華語跨世代合作曲一次聽"
+        },
+        {
+          "id": "12299485",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wGAmgmZg-48/mqdefault.jpg",
+          "title": "關於夢想"
+        },
+        {
+          "id": "12299343",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Uq4qAPxrxDM/mqdefault.jpg",
+          "title": "宇宙主題歌正夯"
+        },
+        {
+          "id": "12412579",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XWKwEtWYdaA/mqdefault.jpg",
+          "title": "我不想長大！"
+        },
+        {
+          "id": "12608554",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/feyFTU6DcSk/mqdefault.jpg",
+          "title": "送給媽媽的歌曲"
+        },
+        {
+          "id": "12299249",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lZn1tDDxnb0/mqdefault.jpg",
+          "title": "重口味MV挑戰你的心臟強度"
+        },
+        {
+          "id": "12288472",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Y6yIpO1KRDw/mqdefault.jpg",
+          "title": "下雨吧！"
+        },
+        {
+          "id": "12091921",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Z-J7GVKYUBE/mqdefault.jpg",
+          "title": "這些都是青峰寫的歌Vol.2"
+        },
+        {
+          "id": "12093020",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qDFQ6lJTuRo/mqdefault.jpg",
+          "title": "翻唱好好聽 Vol.9"
+        },
+        {
+          "id": "12091823",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IfOqZ_Otfdg/mqdefault.jpg",
+          "title": "這些都是青峰寫的歌"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:156:12": {
+      "etag": "\"em2quz1web6b0\"",
+      "hash": "85f437ca02e6b27952ffe5760505d4b8909b1fd9b3bc08dc40f7a68e367abf96",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "12068045",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/f1DAlpfC4Gg/mqdefault.jpg",
+          "title": "2015大港開唱"
+        },
+        {
+          "id": "11945961",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HenAli59n6A/mqdefault.jpg",
+          "title": "翻唱好好聽 Vol.8"
+        },
+        {
+          "id": "11534277",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BcrMf0R-30c/mqdefault.jpg",
+          "title": "鑑聽寶典 Vol.3"
+        },
+        {
+          "id": "11835918",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fzetCVijZDM/mqdefault.jpg",
+          "title": "拒絕內傷，不爽就要喊出來！"
+        },
+        {
+          "id": "11534236",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-b4ndR0SW6Y/mqdefault.jpg",
+          "title": "鑑聽寶典 Vol.2"
+        },
+        {
+          "id": "11621330",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BGQ8rgpxgLo/mqdefault.jpg",
+          "title": "春節應景組曲"
+        },
+        {
+          "id": "11534181",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jrobbhGAl40/mqdefault.jpg",
+          "title": "鑑聽寶典 Vol.1"
+        },
+        {
+          "id": "10763009",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ig6BKTLP-lw/mqdefault.jpg",
+          "title": "他們都愛翻唱中島美雪的歌曲"
+        },
+        {
+          "id": "10509779",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FS9NFQKnqgc/mqdefault.jpg",
+          "title": "翻唱好好聽 Vol.7"
+        },
+        {
+          "id": "17279974",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Bb1ad7r5oN8/mqdefault.jpg",
+          "title": "New Year's Eve Party"
+        },
+        {
+          "id": "17025233",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lbh7RFWS4Ro/mqdefault.jpg",
+          "title": "Christmas Eve"
+        },
+        {
+          "id": "17025234",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/b_4rdHIMDfk/mqdefault.jpg",
+          "title": "Most Popular Modern Christmas Songs"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:168:12": {
+      "etag": "\"q47pmg9txq6ik\"",
+      "hash": "c6ae3756c22c2c736a256691bf7c427880367d6dff8fd91f4f914d01c67bd3d2",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "16952271",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yXQViqx6GMY/mqdefault.jpg",
+          "title": "The Most Played Christmas Songs Vol.1"
+        },
+        {
+          "id": "16409300",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZN3E9Yyd1HA/mqdefault.jpg",
+          "title": "The 20 best Thanksgiving Songs"
+        },
+        {
+          "id": "15815937",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ooDHEe6kelE/mqdefault.jpg",
+          "title": "Jerky Soul"
+        },
+        {
+          "id": "15815779",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/l63odUVJ6w8/mqdefault.jpg",
+          "title": "Just Be YOU! The Anthem"
+        },
+        {
+          "id": "15073264",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mIBTg7q9oNc/mqdefault.jpg",
+          "title": "Pure... America"
+        },
+        {
+          "id": "15598888",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ClowdBJ-AO0/mqdefault.jpg",
+          "title": "Trick or Treat - Happy Halloween"
+        },
+        {
+          "id": "15210887",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zVzhpkFBFP8/mqdefault.jpg",
+          "title": "Teen Party"
+        },
+        {
+          "id": "15210479",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/03fHvzOALFw/mqdefault.jpg",
+          "title": "Funky Heavy Bluesy Vol.2"
+        },
+        {
+          "id": "15207770",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/My4rWJMUjLI/mqdefault.jpg",
+          "title": "Funky Heavy Bluesy Vol.1"
+        },
+        {
+          "id": "14180867",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/S09F5MejfBE/mqdefault.jpg",
+          "title": "Heartbreak Songs Vol.3"
+        },
+        {
+          "id": "14180706",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VDSsxzxoskM/mqdefault.jpg",
+          "title": "Heartbreak Songs Vol.2"
+        },
+        {
+          "id": "14046341",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DQF5aHVOW5s/mqdefault.jpg",
+          "title": "Hot Summer, Hot Songs"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:180:12": {
+      "etag": "\"upghagkr156jh\"",
+      "hash": "15566e10437d826c1fc521a697f81aed19ced2456f9329f10a5ff203a9da203f",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "13872891",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LXEKuttVRIo/mqdefault.jpg",
+          "title": "Heartbreak Songs Vol.1"
+        },
+        {
+          "id": "13425858",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/r0qBaBb1Y-U/mqdefault.jpg",
+          "title": "The Selection for Dad"
+        },
+        {
+          "id": "12780073",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BI2Et19vDCM/mqdefault.jpg",
+          "title": "2015 Coachella Vol.2"
+        },
+        {
+          "id": "12779956",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/i3Jv9fNPjgk/mqdefault.jpg",
+          "title": "2015 Coachella Vol.1"
+        },
+        {
+          "id": "12434862",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iLmbsKnx4F4/mqdefault.jpg",
+          "title": "Songs from Texas"
+        },
+        {
+          "id": "12608691",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/z1VlFPSK6p8/mqdefault.jpg",
+          "title": "Most Adorable Songs About Moms"
+        },
+        {
+          "id": "12121073",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DCswMKnMHtU/mqdefault.jpg",
+          "title": "Platium Voice Vol.3"
+        },
+        {
+          "id": "11977739",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pEIZGu7Dzso/mqdefault.jpg",
+          "title": "10 Best Super Bowl Halftime Shows"
+        },
+        {
+          "id": "12120976",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/a1sucRV3w10/mqdefault.jpg",
+          "title": "Platium Voice Vol.2"
+        },
+        {
+          "id": "11977895",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/n5u10mS3LwM/mqdefault.jpg",
+          "title": "Platium Voice Vol.1"
+        },
+        {
+          "id": "11977625",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/f55KlPe81Yw/mqdefault.jpg",
+          "title": "Top Girl Group Songs Of All Time Vol.1"
+        },
+        {
+          "id": "11727436",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NdYWuo9OFAw/mqdefault.jpg",
+          "title": "Love in the Movies Vol.2"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:192:12": {
+      "etag": "\"aargc2mm1r6ti\"",
+      "hash": "251d64c1d1c0d06a04ef8de621fef8ef03a7de226f2f33cff82e54fe4a6487e6",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "11908859",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/n1WSC99ANnQ/mqdefault.jpg",
+          "title": "Songs That Were Sampled"
+        },
+        {
+          "id": "11727337",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rtOvBOTyX00/mqdefault.jpg",
+          "title": "Love in the Movies"
+        },
+        {
+          "id": "11748125",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FlmjI--q2DQ/mqdefault.jpg",
+          "title": "African Vibes"
+        },
+        {
+          "id": "11620286",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Uz1Jwyxd4tE/mqdefault.jpg",
+          "title": "Post Punk Revival"
+        },
+        {
+          "id": "10403565",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ry4ngf766N0/mqdefault.jpg",
+          "title": "Diamonds Love Song II Vol.4"
+        },
+        {
+          "id": "11587808",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-2U0Ivkn2Ds/mqdefault.jpg",
+          "title": "Grammy Winners 2015"
+        },
+        {
+          "id": "11276985",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8sgycukafqQ/mqdefault.jpg",
+          "title": "Tunes for Gaming"
+        },
+        {
+          "id": "11276715",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LExCRKCS5SM/mqdefault.jpg",
+          "title": "Women of Soul"
+        },
+        {
+          "id": "11246595",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bUS6DzpVdd4/mqdefault.jpg",
+          "title": "Most-Googled Musicians 2014"
+        },
+        {
+          "id": "RDCLAK5uy_kxNBMwO-3Y3t2Qmd759aoNFExwanVckuc",
+          "kind": "playlist",
+          "subtitle": "142 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pZ1NdE69VTs/mqdefault.jpg",
+          "title": "冬季戀歌在首爾"
+        },
+        {
+          "id": "RDCLAK5uy_kOeihDkxwRjMxrIyvzrY3K-iUiWeaxZhY",
+          "kind": "playlist",
+          "subtitle": "86 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aAkMkVFwAoo/mqdefault.jpg",
+          "title": "Christmas Hits: 熱門西洋聖誕歌"
+        },
+        {
+          "id": "RDCLAK5uy_mvTa0vNT6iQSa0HxQm7XM-a8zmtwoKNus",
+          "kind": "playlist",
+          "subtitle": "73 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/x8CgehqveLI/mqdefault.jpg",
+          "title": "聖誕J-Pop"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:204:12": {
+      "etag": "\"16qc36bn17s2p2\"",
+      "hash": "9e1bd7a9829ab2446eaa02891e2d384e452919a228368b9c03ddd806cfd01f4e",
+      "itemCount": 4,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_llPgYj30oZ9K42v2fvAIRa7kbRXTzHWUg",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TFsZy9t-qDc/mqdefault.jpg",
+          "title": "搖滾聖誕"
+        },
+        {
+          "id": "RDCLAK5uy_lW2KQJ_R-6omECYaWyBk1p5JMZsLjyRuk",
+          "kind": "playlist",
+          "subtitle": "61 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TFsZy9t-qDc/mqdefault.jpg",
+          "title": "聖誕K歌一起唱"
+        },
+        {
+          "id": "RDCLAK5uy_mHkFNBTuR8DZUj61H5XY2onS7nRujVFx8",
+          "kind": "playlist",
+          "subtitle": "60 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/i7gSzSQX2aQ/mqdefault.jpg",
+          "title": "聖誕爵士樂"
+        },
+        {
+          "id": "RDCLAK5uy_ns8ghALwo2t9QqB7VBq_8FT6ktbL1XGIk",
+          "kind": "playlist",
+          "subtitle": "51 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tmy1-mr0RhA/mqdefault.jpg",
+          "title": "今年的聖誕"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:24:12": {
+      "etag": "\"iyx4j29jh76oi\"",
+      "hash": "3aeb9cd7034db62b6bf5dfc0bd5ef81c8091a3efaec4bac5408e144e762fa14b",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "27814976",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qp1Pq2Fuw30/mqdefault.jpg",
+          "title": "Billboard Emerging Artists (201612)"
+        },
+        {
+          "id": "27070489",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nAI_xI9wQnE/mqdefault.jpg",
+          "title": "Christmas Hits Vol.3"
+        },
+        {
+          "id": "26685520",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ztl-iwUSqbw/mqdefault.jpg",
+          "title": "Kidz Bop 26"
+        },
+        {
+          "id": "27070483",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dPWy7gyAKkk/mqdefault.jpg",
+          "title": "Christmas Hits Vol.1"
+        },
+        {
+          "id": "27382022",
+          "kind": "playlist",
+          "subtitle": "28 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Xn599R0ZBwg/mqdefault.jpg",
+          "title": "New Releases of the Month (201612)"
+        },
+        {
+          "id": "27193105",
+          "kind": "playlist",
+          "subtitle": "21 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BiQIc7fG9pA/mqdefault.jpg",
+          "title": "Songs You Must Play This Week (20161114)"
+        },
+        {
+          "id": "27193104",
+          "kind": "playlist",
+          "subtitle": "51 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Pw-0pbY9JeU/mqdefault.jpg",
+          "title": "Best of the Month (201612)"
+        },
+        {
+          "id": "26436933",
+          "kind": "playlist",
+          "subtitle": "28 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ut2vuI_hoe0/mqdefault.jpg",
+          "title": "本月新歌精選 (201611)"
+        },
+        {
+          "id": "27013637",
+          "kind": "playlist",
+          "subtitle": "18 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wwwQ4uVGGSE/mqdefault.jpg",
+          "title": "Before the Flood (Music from the Motion Picture)"
+        },
+        {
+          "id": "26685934",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_KztNIg4cvE/mqdefault.jpg",
+          "title": "15 Tracks from Space Ibiza's Last Ever Closing Party"
+        },
+        {
+          "id": "26775483",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Fj6MjDFD1Kw/mqdefault.jpg",
+          "title": "Travel (201611)"
+        },
+        {
+          "id": "26448605",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jjnmICxvoVY/mqdefault.jpg",
+          "title": "Teen Choice Awards 2000"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:36:12": {
+      "etag": "\"12ii1fxox0m6o3\"",
+      "hash": "b726676294937276730a56e4386ac6bc69ab080daf4d4d8fe629817801af0cc0",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "26519895",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rk7p2kPqm_c/mqdefault.jpg",
+          "title": "Best 'Saturday Night Live' Musical Performances"
+        },
+        {
+          "id": "26519894",
+          "kind": "playlist",
+          "subtitle": "26 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Y56lpXvXbs0/mqdefault.jpg",
+          "title": "New Releases of the Month (201611)"
+        },
+        {
+          "id": "25816812",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/H0Eu1syELno/mqdefault.jpg",
+          "title": "食物。好友。歡聚"
+        },
+        {
+          "id": "26300174",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fPsgY4_OlU4/mqdefault.jpg",
+          "title": "本月熱門排行 (201611)"
+        },
+        {
+          "id": "26041305",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zk18puh_vKY/mqdefault.jpg",
+          "title": "這些天后都是媽媽了呢！"
+        },
+        {
+          "id": "26304725",
+          "kind": "playlist",
+          "subtitle": "23 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8ouI5KcyHfE/mqdefault.jpg",
+          "title": "Luke Cage Soundtrack"
+        },
+        {
+          "id": "26127493",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Mq1sHDwpgqo/mqdefault.jpg",
+          "title": "The 10 Best Music Videos Inspired By a Movie"
+        },
+        {
+          "id": "26127497",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1OgHtf7DQNA/mqdefault.jpg",
+          "title": "Now That's What I Call Music! 21"
+        },
+        {
+          "id": "26173973",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/V0lw3qylVfY/mqdefault.jpg",
+          "title": "Best of the Month (201611)"
+        },
+        {
+          "id": "25937634",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/V0lw3qylVfY/mqdefault.jpg",
+          "title": "iTunes Top Singles of This Week (20160316)"
+        },
+        {
+          "id": "25973200",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1Q_oibJXUZo/mqdefault.jpg",
+          "title": "Songs with Street Names in the Title"
+        },
+        {
+          "id": "25939576",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uh4dTLJ9q9o/mqdefault.jpg",
+          "title": "Disney (201610)"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:48:12": {
+      "etag": "\"111dz0dpvhf6co\"",
+      "hash": "b19df75c4fea05b77f763e619c308d2036eb1d4fcfa5e3765192a194fbffa511",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "25817568",
+          "kind": "playlist",
+          "subtitle": "18 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yFYSm5oeaO8/mqdefault.jpg",
+          "title": "56不能亡：2016金鐘獎合體"
+        },
+        {
+          "id": "25816811",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7QcCPmXlcqY/mqdefault.jpg",
+          "title": "曾經瘋狂！向台灣巨砲陳金鋒致敬"
+        },
+        {
+          "id": "25332609",
+          "kind": "playlist",
+          "subtitle": "48 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XqXnQ3gQJ8Y/mqdefault.jpg",
+          "title": "本月熱門排行 (201610)"
+        },
+        {
+          "id": "25785298",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ru0K8uYEZWw/mqdefault.jpg",
+          "title": "Trolls Soundtrack"
+        },
+        {
+          "id": "25787996",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tIZitK6_IMQ/mqdefault.jpg",
+          "title": "WOW Hits 2017"
+        },
+        {
+          "id": "25183326",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/F9mUH1JltbA/mqdefault.jpg",
+          "title": "Travel (201609)"
+        },
+        {
+          "id": "25183327",
+          "kind": "playlist",
+          "subtitle": "52 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pXRviuL6vMY/mqdefault.jpg",
+          "title": "Best of the Month (201610)"
+        },
+        {
+          "id": "23854451",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/49xsEr77YCc/mqdefault.jpg",
+          "title": "名詞歌 Vol.2"
+        },
+        {
+          "id": "24742410",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/L_GJWjwh3Dc/mqdefault.jpg",
+          "title": "服務生心裡OS超多！"
+        },
+        {
+          "id": "24804891",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2zda1Tr4big/mqdefault.jpg",
+          "title": "音樂特輯：吉卜力的動畫世界"
+        },
+        {
+          "id": "24745315",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GlzLXFv5Sko/mqdefault.jpg",
+          "title": "光速般的暑假就這麼過了!!!"
+        },
+        {
+          "id": "24945862",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NdYWuo9OFAw/mqdefault.jpg",
+          "title": "Teen Choice Awards 1999"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:60:12": {
+      "etag": "\"mnvxjn4y1h6dz\"",
+      "hash": "7f88a0a6e23f38a5c876dcbbfb21522b5b88003482f1557a39e0ffbb862f6d1a",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "24081823",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pjiyjYCwNyY/mqdefault.jpg",
+          "title": "Same Love Vol.2"
+        },
+        {
+          "id": "24709587",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6VJBBUqr1wM/mqdefault.jpg",
+          "title": "Happy Birthday to Avicii - 9/8"
+        },
+        {
+          "id": "23535718",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cLgWck4MUic/mqdefault.jpg",
+          "title": "Kidz Bop 29"
+        },
+        {
+          "id": "24365695",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BKLGkuGuCjQ/mqdefault.jpg",
+          "title": "本月熱門排行 (201609)"
+        },
+        {
+          "id": "24603252",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gCYcHz2k5x0/mqdefault.jpg",
+          "title": "UK Singles Chart NO.1 Vol.29"
+        },
+        {
+          "id": "24603250",
+          "kind": "playlist",
+          "subtitle": "25 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/h-ywrqeQPto/mqdefault.jpg",
+          "title": "New Releases of the Month (201609)"
+        },
+        {
+          "id": "24330065",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GsPq9mzFNGY/mqdefault.jpg",
+          "title": "Best of the Month (201609)"
+        },
+        {
+          "id": "23854452",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JbS1jxtZO4Q/mqdefault.jpg",
+          "title": "名詞歌 Vol.1"
+        },
+        {
+          "id": "24112793",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oMoCehlOqmQ/mqdefault.jpg",
+          "title": "鬼月限定精選歌曲"
+        },
+        {
+          "id": "24081824",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4Cm9jZPQ_Cw/mqdefault.jpg",
+          "title": "Same Love Vol.1"
+        },
+        {
+          "id": "24113468",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Moy3pRysP6Y/mqdefault.jpg",
+          "title": "Rio 2016"
+        },
+        {
+          "id": "23822968",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EScKfUivHis/mqdefault.jpg",
+          "title": "七夕情歌對唱最精選"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:72:12": {
+      "etag": "\"15bhaxncti86ha\"",
+      "hash": "ff561029921c19faf2f3232b555546fa48b77a77dd4be7da4b11d5d97d06bfff",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "23822966",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bHX3rDzk3Ck/mqdefault.jpg",
+          "title": "爸，父親節快樂啦！"
+        },
+        {
+          "id": "23854590",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EQEz16re1-w/mqdefault.jpg",
+          "title": "Relaxation (201608)"
+        },
+        {
+          "id": "23854589",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oTmTEbUHT5w/mqdefault.jpg",
+          "title": "Coffee Shop Music (201608)"
+        },
+        {
+          "id": "23532442",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hf4LBfF0Csg/mqdefault.jpg",
+          "title": "這些都是張宇寫的歌"
+        },
+        {
+          "id": "23535430",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3_5b5BLT1CM/mqdefault.jpg",
+          "title": "Happy Birthday to Charli XCX - 8/2"
+        },
+        {
+          "id": "23150015",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1nP3XB7hrFo/mqdefault.jpg",
+          "title": "Love Songs of A Raining Day"
+        },
+        {
+          "id": "23149067",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nSDgHBxUbVQ/mqdefault.jpg",
+          "title": "Slow Melody Vol.1"
+        },
+        {
+          "id": "22936518",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WrG3MZUVS-U/mqdefault.jpg",
+          "title": "Racing Car Music Vol.1"
+        },
+        {
+          "id": "22945278",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-rey3m8SWQI/mqdefault.jpg",
+          "title": "Billboard Emerging Artists (201607)"
+        },
+        {
+          "id": "22812598",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aupA8iyP71Y/mqdefault.jpg",
+          "title": "Songs featuring Flo Rida"
+        },
+        {
+          "id": "23047136",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XqXnQ3gQJ8Y/mqdefault.jpg",
+          "title": "本月熱門排行 (201608)"
+        },
+        {
+          "id": "23047134",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FvF6yQUJqrE/mqdefault.jpg",
+          "title": "這些都是徐佳瑩寫的歌"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:84:12": {
+      "etag": "\"onfxs58qnq69a\"",
+      "hash": "9832e2897c953982414032b662dc266d0f7f99d5dfe4ecf02b648c4edcb7ca56",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "21046481",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wspFaDUnc5c/mqdefault.jpg",
+          "title": "愛妻歌單"
+        },
+        {
+          "id": "20949886",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4shwLyB7690/mqdefault.jpg",
+          "title": "中華音樂人交流協會 1998 年十大單曲"
+        },
+        {
+          "id": "20309196",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LZh9ymHIYnI/mqdefault.jpg",
+          "title": "你喜歡甚麼顏色?"
+        },
+        {
+          "id": "20818205",
+          "kind": "playlist",
+          "subtitle": "18 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_B8RaLCNUZw/mqdefault.jpg",
+          "title": "媽媽我愛尼~"
+        },
+        {
+          "id": "20687846",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-3TmzrEDuJ8/mqdefault.jpg",
+          "title": "給每一位努力工作的朋友：勞動節快樂"
+        },
+        {
+          "id": "19485305",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NSwnsmLvVAk/mqdefault.jpg",
+          "title": "春日小情歌"
+        },
+        {
+          "id": "20063349",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XOYxs1SXdvQ/mqdefault.jpg",
+          "title": "我是台灣人"
+        },
+        {
+          "id": "17092153",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7atniCTPnGY/mqdefault.jpg",
+          "title": "詞曲金字招牌：陳小霞vs姚若龍 Vol.2"
+        },
+        {
+          "id": "19703824",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/H8S40zQvf-k/mqdefault.jpg",
+          "title": "我喜歡你，你知道嗎？"
+        },
+        {
+          "id": "19562433",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ng5rE7s-AMU/mqdefault.jpg",
+          "title": "我們的那時此刻：電影音樂史"
+        },
+        {
+          "id": "18090304",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/J3Z5g5gTBsk/mqdefault.jpg",
+          "title": "同一和弦創作的眾多華語好歌 Vol.2"
+        },
+        {
+          "id": "18992303",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fzetCVijZDM/mqdefault.jpg",
+          "title": "別當低頭族了!"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_themed:96:12": {
+      "etag": "\"jsi7lbb7pu6d9\"",
+      "hash": "fa91ea39abec7f5bbf684751d3385b0a0f7911ee6558bb7f628d393e9b1675e7",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "18090305",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Hn8yhgxpzS4/mqdefault.jpg",
+          "title": "同一和弦創作的眾多華語好歌 Vol.1"
+        },
+        {
+          "id": "18091175",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sU_ByeHJtw8/mqdefault.jpg",
+          "title": "單身情人節"
+        },
+        {
+          "id": "18093877",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pz2ZgVbDBrM/mqdefault.jpg",
+          "title": "情人節就該聽的甜蜜對唱"
+        },
+        {
+          "id": "17898657",
+          "kind": "playlist",
+          "subtitle": "14 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Qw4oUF4o8t0/mqdefault.jpg",
+          "title": "不想你也難 Vol.1"
+        },
+        {
+          "id": "17825369",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/K7LQArL-WgU/mqdefault.jpg",
+          "title": "冬日暖心歌曲"
+        },
+        {
+          "id": "17559836",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4yT6Wb3yGFA/mqdefault.jpg",
+          "title": "追劇必聽：2015華語戲劇歌曲精選"
+        },
+        {
+          "id": "17387786",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zVVk8J1E54k/mqdefault.jpg",
+          "title": "冬天來賞雪去"
+        },
+        {
+          "id": "20951228",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/s8QYxmpuyxg/mqdefault.jpg",
+          "title": "For My Ex"
+        },
+        {
+          "id": "20974868",
+          "kind": "playlist",
+          "subtitle": "13 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RJUkOLGLgwg/mqdefault.jpg",
+          "title": "Songs That Were Hippie Anthems"
+        },
+        {
+          "id": "20839042",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9yQ-9Ia6mPQ/mqdefault.jpg",
+          "title": "Songs with Kinds of Music in the Title"
+        },
+        {
+          "id": "20564725",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cl_WkTiH6-Q/mqdefault.jpg",
+          "title": "K.O.B.E"
+        },
+        {
+          "id": "20643603",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-_6BBAVfzqM/mqdefault.jpg",
+          "title": "Songs About Being Misunderstood"
+        }
+      ]
+    },
     "vector:vector_systemlist_zh_mood_travel:0:12": {
       "etag": "\"30tmay682p5mc\"",
       "hash": "58111cd9c666f473707101d11fda2e7640e7a18c6f7fed1bae83628e4406ec6a",
@@ -130346,6 +133815,10 @@
       "lastCompletedAt": "2026-08-22T20:39:42Z",
       "nextOffset": 0
     },
+    "vector_systemlist_zh_mood_energy": {
+      "complete": false,
+      "nextOffset": 72
+    },
     "vector_systemlist_zh_mood_gaming": {
       "complete": true,
       "lastCompletedAt": "2026-08-22T20:39:42Z",
@@ -130379,6 +133852,11 @@
     "vector_systemlist_zh_mood_sleep": {
       "complete": true,
       "lastCompletedAt": "2026-08-20T20:46:02Z",
+      "nextOffset": 0
+    },
+    "vector_systemlist_zh_mood_themed": {
+      "complete": true,
+      "lastCompletedAt": "2026-08-23T08:48:18Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_travel": {
