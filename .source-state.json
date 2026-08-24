@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "6d76d975d8e77e8007eea1942f0c516617e59af5a85856e00a979a89d890de4f",
+    "hash": "12e45aa9495501614e021c3c9450563558052c769a967397c4c060016702743e",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,13 +22,12 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
+      "vector_systemlist_zh_genre_jazz",
       "vector_systemlist_zh_genre_country",
       "vector_systemlist_zh_genre_soundtrack",
-      "vector_systemlist_zh_genre_relax",
-      "vector_systemlist_zh_genre_jazz",
-      "vector_systemlist_zh_mood_gaming",
       "vector_systemlist_zh_mood_mood",
-      "vector_systemlist_zh_mood_chill",
+      "vector_systemlist_zh_mood_sad",
+      "vector_systemlist_zh_mood_dinner",
       "vector_promote_playlist_zh"
     ]
   },
@@ -31501,6 +31500,204 @@
         }
       ]
     },
+    "playlist:20643605": {
+      "etag": "\"16otcr2vq2dbdv\"",
+      "hash": "1e3cba1f3d5989bfd8d3e21526a0b002459cdd4e25c1f023c31cad7517b4043c",
+      "itemCount": 11,
+      "payload": [
+        {
+          "durationText": "3:29",
+          "id": "aE0eV2YR51k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aE0eV2YR51k/mqdefault.jpg",
+          "title": "[MV] t Yoonmirae(t 윤미래) - ALWAYS l Descendants of the Sun 태양의 후예 OST"
+        },
+        {
+          "durationText": "3:09",
+          "id": "fTc5tuEn6_U",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fTc5tuEn6_U/mqdefault.jpg",
+          "title": "[MV] CHEN(첸)XPunch(펀치) - Everytime l Descendants of the Sun 태양의 후예 OST"
+        },
+        {
+          "durationText": "3:50",
+          "id": "XyzaMpAVm3s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XyzaMpAVm3s/mqdefault.jpg",
+          "title": "[MV] DAVICHI(다비치) - This Love(이 사랑) l Descendants of the Sun 태양의 후예 OST"
+        },
+        {
+          "durationText": "4:11",
+          "id": "ToASX6axGuw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ToASX6axGuw/mqdefault.jpg",
+          "title": "[MV] Gummy(거미) - You Are My Everything l Descendants of the Sun 태양의 후예 OST"
+        },
+        {
+          "durationText": "3:56",
+          "id": "YmC53o2_gWk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YmC53o2_gWk/mqdefault.jpg",
+          "title": "[MV] Mad Clown(매드클라운) & Kim Na Young(김나영) - Once Again(다시 너를) l Descendants of the Sun 태양의 후예 OST"
+        },
+        {
+          "durationText": "3:37",
+          "id": "SdHQkkRc-hc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SdHQkkRc-hc/mqdefault.jpg",
+          "title": "[MV] K.will(케이윌) - Talk Love(말해! 뭐해?) l Descendants of the Sun 태양의 후예 OST"
+        },
+        {
+          "durationText": "3:46",
+          "id": "Jkf8TrvtjTk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Jkf8TrvtjTk/mqdefault.jpg",
+          "title": "[MV] SG WANNABE(SG워너비) - By My Side(사랑하자) l Descendants of the Sun 태양의 후예 OST"
+        },
+        {
+          "durationText": "4:05",
+          "id": "GKVNfsSAFys",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GKVNfsSAFys/mqdefault.jpg",
+          "title": "[MV] M.C THE MAX(엠씨더맥스) - Wind Beneath Your Wings(그대, 바람이 되어) l Descendants of the Sun 태양의 후예 OST"
+        },
+        {
+          "durationText": "4:35",
+          "id": "kTCmv8_AnhM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kTCmv8_AnhM/mqdefault.jpg",
+          "title": "[MV] XIA(JUNSU) - How Can I Love You l Descendants of the Sun 태양의 후예 OST"
+        }
+      ]
+    },
+    "playlist:20687260": {
+      "etag": "\"14lkvz1wilqb1r\"",
+      "hash": "aee28d94adf4e76889fb90d028db8e7b3841f9d57e43314ca5dd6e2b5d02f96b",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:40",
+          "id": "BsvIwqyiaJw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BsvIwqyiaJw/mqdefault.jpg",
+          "title": "李毓芬Tia Lee《是我不夠好Not Good Enough》Official Music Video HD"
+        }
+      ]
+    },
+    "playlist:20687480": {
+      "etag": "\"tjjdnx3sula9j\"",
+      "hash": "8667726765cff1ea703b1fc80aef823b02c4a460a14bd2c7db06cd3adf39a2de",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "4:04",
+          "id": "Z8AGycGfVOQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Z8AGycGfVOQ/mqdefault.jpg",
+          "title": "李佳薇Jess Lee_最好的幸福『電視劇《千金女賊》插曲』"
+        },
+        {
+          "durationText": "4:57",
+          "id": "UvbQfr_ln3Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UvbQfr_ln3Y/mqdefault.jpg",
+          "title": "李佳薇   別來無恙"
+        },
+        {
+          "durationText": "3:57",
+          "id": "HrTOf_AyRIc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HrTOf_AyRIc/mqdefault.jpg",
+          "title": "李佳薇Jess Lee_佔據幸福『電視劇《一見不鍾情》插曲』"
+        }
+      ]
+    },
+    "playlist:20687596": {
+      "etag": "\"zpk3homn97ari\"",
+      "hash": "fa23f64d5247ea4e4c3e26452bf728882436edc7c98f50d49b038eb533e38349",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "4:47",
+          "id": "BbyY9G0z-Qo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BbyY9G0z-Qo/mqdefault.jpg",
+          "title": "魏如昀【木】官方完整版MV (HD)"
+        },
+        {
+          "durationText": "4:41",
+          "id": "rW-MXFF37TA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rW-MXFF37TA/mqdefault.jpg",
+          "title": "魏如昀【偶】官方完整版MV (HD)"
+        },
+        {
+          "durationText": "3:41",
+          "id": "dfBKjrUeHR4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dfBKjrUeHR4/mqdefault.jpg",
+          "title": "魏如昀 Queen Wei - 我們沒有再見 We Don't Say Goodbye 完整試聽版 三立華劇「舞吧舞吧在一起」片尾曲"
+        },
+        {
+          "durationText": "4:37",
+          "id": "B9L58gY3Y6E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/B9L58gY3Y6E/mqdefault.jpg",
+          "title": "魏如昀 Queen Wei - 初戀 First Love 完整試聽版 三立華劇「舞吧舞吧在一起」插曲"
+        }
+      ]
+    },
     "playlist:208781085": {
       "etag": "\"wyd6kjjb0zafi\"",
       "hash": "5d3de055752e8c94dd9799c28d3578f6dbb6d064126a25b5bc76547356fd6afd",
@@ -36996,6 +37193,224 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/XGKJxb2b3ZI/mqdefault.jpg",
           "title": "benny blanco, Selena Gomez, Becky G - Te Olvido (La La) [Official Music Video]"
+        }
+      ]
+    },
+    "playlist:20949882": {
+      "etag": "\"xhv16leskpaj4\"",
+      "hash": "6a1fdea7768963a7e42e889ab30786270c8fcf42610af53016bab1f7aff1e069",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "5:12",
+          "id": "JFsEdKNo0QI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JFsEdKNo0QI/mqdefault.jpg",
+          "title": "草蜢 Grasshopper - 完美 MV [Official] [官方]"
+        },
+        {
+          "durationText": "6:39",
+          "id": "I-74QFk6nEk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/I-74QFk6nEk/mqdefault.jpg",
+          "title": "草蜢 Grasshoppper - 我要跳舞 MV [Official] [官方]"
+        }
+      ]
+    },
+    "playlist:20949883": {
+      "etag": "\"rntk3ayem5akj\"",
+      "hash": "329145321df77c43f5ed39374decd1fc0a57f7edddf13f0d243ecf73f95af9ce",
+      "itemCount": 7,
+      "payload": [
+        {
+          "durationText": "3:40",
+          "id": "gc5t5nHA1IE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gc5t5nHA1IE/mqdefault.jpg",
+          "title": "馮允謙 Jay Fung (Feat. MastaMic)《Keep On, Fight On》[Official MV]"
+        },
+        {
+          "durationText": "3:55",
+          "id": "i3U1B5wizAw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/i3U1B5wizAw/mqdefault.jpg",
+          "title": "馮允謙 Jay Fung《後知後覺》[Official MV]"
+        },
+        {
+          "durationText": "4:17",
+          "id": "JhLPNEcp-Zk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JhLPNEcp-Zk/mqdefault.jpg",
+          "title": "馮允謙 Jay Fung《把眼淚握在手裡》[Official MV]"
+        },
+        {
+          "durationText": "4:24",
+          "id": "Al6qRIppX4w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Al6qRIppX4w/mqdefault.jpg",
+          "title": "馮允謙 Jay Fung《葡萄釀的淚》[Lyrics MV]"
+        },
+        {
+          "durationText": "3:44",
+          "id": "b3ev6Gc8kZU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/b3ev6Gc8kZU/mqdefault.jpg",
+          "title": "馮允謙 Jay Fung《Keep On, Fight On》(English Acoustic Version) [Official MV]"
+        }
+      ]
+    },
+    "playlist:20949884": {
+      "etag": "\"2ejfzzkd3xba6\"",
+      "hash": "3198d63942696d5ebb01a6826e5c3af61b95874925de6c2e95a24d6d6c205bf5",
+      "itemCount": 11,
+      "payload": [
+        {
+          "durationText": "3:02",
+          "id": "vTKh9DYSN_A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vTKh9DYSN_A/mqdefault.jpg",
+          "title": "天天想你音樂劇原聲帶 04 水藍色眼淚"
+        },
+        {
+          "durationText": "4:36",
+          "id": "TlN8xxZo0iI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TlN8xxZo0iI/mqdefault.jpg",
+          "title": "天天想你音樂劇原聲帶 11 我期待"
+        },
+        {
+          "durationText": "3:42",
+          "id": "2DWQcrLULxs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2DWQcrLULxs/mqdefault.jpg",
+          "title": "天天想你音樂劇原聲帶 09 沒有菸抽的日子"
+        },
+        {
+          "durationText": "3:52",
+          "id": "32GsQ2CAqVQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/32GsQ2CAqVQ/mqdefault.jpg",
+          "title": "天天想你音樂劇原聲帶 06 口是心非"
+        },
+        {
+          "durationText": "5:17",
+          "id": "sr7dyhP1P6c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sr7dyhP1P6c/mqdefault.jpg",
+          "title": "天天想你音樂劇原聲帶 05 孤單 Tequila"
+        },
+        {
+          "durationText": "5:07",
+          "id": "BDSrtGKdCKQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BDSrtGKdCKQ/mqdefault.jpg",
+          "title": "天天想你音樂劇原聲帶 10 隨你"
+        },
+        {
+          "durationText": "3:02",
+          "id": "AWBOS7TQn44",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AWBOS7TQn44/mqdefault.jpg",
+          "title": "天天想你音樂劇原聲帶 01 天天想你"
+        },
+        {
+          "durationText": "5:47",
+          "id": "ybSNxNPZDNI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ybSNxNPZDNI/mqdefault.jpg",
+          "title": "天天想你音樂劇原聲帶 08 當我開始偷偷地想你(組曲)"
+        },
+        {
+          "durationText": "4:57",
+          "id": "Tnj10yrvZSM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Tnj10yrvZSM/mqdefault.jpg",
+          "title": "天天想你音樂劇原聲帶 07 我是一顆秋天的樹"
+        }
+      ]
+    },
+    "playlist:20949885": {
+      "etag": "\"rzrbfte33ga4y\"",
+      "hash": "bb54fcbe928457dfbc360ec2c4728ac9adeec48a00d12d1a90de796ec2f4f07f",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:25",
+          "id": "OjRH4vSJovE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OjRH4vSJovE/mqdefault.jpg",
+          "title": "李千娜 Nana Lee - 最愛的人 feat. 王大文 Dawen （Official MV 官方完整版）"
+        },
+        {
+          "durationText": "5:19",
+          "id": "NiKzHzL2ois",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NiKzHzL2ois/mqdefault.jpg",
+          "title": "李千娜 Nana Lee – 說實話 (Official Music Video)"
+        },
+        {
+          "durationText": "4:21",
+          "id": "HrZ5Bd-jII4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HrZ5Bd-jII4/mqdefault.jpg",
+          "title": "李千娜 Nana Lee - 甜美的繩索（Official MV 官方完整版）"
         }
       ]
     },
@@ -117679,7 +118094,7 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_kpop:0:12": {
-      "etag": "\"drejrvkpb16kg\"",
+      "etag": "\"12oewfhy7om6ah\"",
       "hash": "d55275ad4446abe8c6d62c12af8ef8133f0ded0683499499c2241bd20bc12535",
       "itemCount": 12,
       "payload": [
@@ -118041,8 +118456,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_kpop:36:12": {
-      "etag": "\"ykygdn9v534mf\"",
-      "hash": "a3eba103eca3dcb02a1d1f93b28ac8378346bcdaea9a406836c8bf081f0fc158",
+      "etag": "\"q04ftdqyll4mf\"",
+      "hash": "0f2da2995c0d1a28cfe49cb14c0e49e3471c16c2623a422a78137c35e96dfb12",
       "itemCount": 7,
       "payload": [
         {
@@ -118070,7 +118485,7 @@
         {
           "id": "RDCLAK5uy_lYPvoz4gPFnKMw_BFojpMk7xRSIqVBkEE",
           "kind": "playlist",
-          "subtitle": "66 首",
+          "subtitle": "90 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -118103,7 +118518,7 @@
         {
           "id": "RDCLAK5uy_m9ty3WvAucm7-5KsKdro9_HnocE8LSS9o",
           "kind": "playlist",
-          "subtitle": "90 首",
+          "subtitle": "88 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -118860,8 +119275,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_pop:108:12": {
-      "etag": "\"lbxcb8u9lw7wh\"",
-      "hash": "e9e6b7201c098b41d8e6ff91095e2a04b68a8fec626e774bbc4fcd5e377e03e3",
+      "etag": "\"o65rb3ktl27wh\"",
+      "hash": "d69cc625aebef1dc06e928f766ac8ebb18bb07b3955eac546696477e7c7cfd45",
       "itemCount": 12,
       "payload": [
         {
@@ -118944,7 +119359,7 @@
         {
           "id": "RDCLAK5uy_n47GxdoomrFNTUFtgEbZVtRt5WaIOMbCM",
           "kind": "playlist",
-          "subtitle": "70 首",
+          "subtitle": "85 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -119361,7 +119776,7 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_pop:24:12": {
-      "etag": "\"do0bvepwki6re\"",
+      "etag": "\"12lkd8cqh3p6re\"",
       "hash": "e500211eace096b5633a266a8ccbc1cd76ef653ea833e491b1993e4f0bed0720",
       "itemCount": 12,
       "payload": [
@@ -119917,14 +120332,14 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_pop:72:12": {
-      "etag": "\"meymk15s5b7un\"",
-      "hash": "c8bd20f6b52643ff94e12ac66507acf582db84886fc11f073cbe8294fc61f316",
+      "etag": "\"11t4f0je5su7un\"",
+      "hash": "7e66b69148156a6b82a151b62fcaabd061a0b24d1c551cffe7d9089b909f2301",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_k5DxhF_vXgbHHoaQ_d2hRBlY11Qgr3xpY",
           "kind": "playlist",
-          "subtitle": "50 首",
+          "subtitle": "47 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -119946,7 +120361,7 @@
         {
           "id": "RDCLAK5uy_mItjo5v7FEAngOlR08hW5s5TtIwfrexxY",
           "kind": "playlist",
-          "subtitle": "50 首",
+          "subtitle": "45 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -120001,7 +120416,7 @@
         {
           "id": "RDCLAK5uy_njvsGKIUycy_a4h7zTS8upbKhHcMVzHFM",
           "kind": "playlist",
-          "subtitle": "51 首",
+          "subtitle": "48 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -120056,8 +120471,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_pop:84:12": {
-      "etag": "\"cck0s78yu17w3\"",
-      "hash": "16fe6fc3765294881e1926a8921fd0340d7b0e5262a7c1ac88cd018f28bfe40d",
+      "etag": "\"j5aisomgox7w3\"",
+      "hash": "cabced3a769ef02889a1f2337bf7e27d49b72d5c732817bbdd291a20a5725b9c",
       "itemCount": 12,
       "payload": [
         {
@@ -120085,7 +120500,7 @@
         {
           "id": "RDCLAK5uy_lGEOjy5U8xV41C8_LyqNnAZKOH6sGyutI",
           "kind": "playlist",
-          "subtitle": "84 首",
+          "subtitle": "86 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -120195,8 +120610,8 @@
       ]
     },
     "vector:vector_systemlist_zh_genre_pop:96:12": {
-      "etag": "\"b3de84saol7y3\"",
-      "hash": "824d9b95e9777e1438eaf22604b4437e8aceabbf29e48652a93e1ffa8991a15e",
+      "etag": "\"1wb1vpt1ye7y3\"",
+      "hash": "9817aaa5dcfdeadd8fec361003c67f2481ca9892564705bf910ba66b973e74f6",
       "itemCount": 12,
       "payload": [
         {
@@ -120290,7 +120705,7 @@
         {
           "id": "RDCLAK5uy_kiVGsxsxfhDCvIsBIQ1k3V0hRPeEz6SuE",
           "kind": "playlist",
-          "subtitle": "90 首",
+          "subtitle": "77 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -146847,7 +147262,7 @@
     },
     "vector_systemlist_zh_genre_kpop": {
       "complete": true,
-      "lastCompletedAt": "2026-08-23T20:38:47Z",
+      "lastCompletedAt": "2026-08-24T20:47:54Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_never_go_out": {
@@ -146857,7 +147272,7 @@
     },
     "vector_systemlist_zh_genre_pop": {
       "complete": true,
-      "lastCompletedAt": "2026-08-23T20:38:46Z",
+      "lastCompletedAt": "2026-08-24T20:47:53Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_relax": {
