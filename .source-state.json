@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "dceeeb89238132a9533de82c83f024ab95ef394f1143255bb1dc87eea2c13a2b",
+    "hash": "4be1f7b5b0182db28b4eff6537fd87b4038b55f327421bc2640f3d6ea8cd28c6",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,14 +22,10 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_jazz",
       "vector_systemlist_zh_genre_relax",
-      "vector_systemlist_zh_genre_country",
-      "vector_systemlist_zh_genre_soundtrack",
-      "vector_systemlist_zh_mood_dinner",
-      "vector_systemlist_zh_mood_commute",
-      "vector_systemlist_zh_mood_focus",
+      "vector_systemlist_zh_genre_jazz",
       "vector_systemlist_zh_mood_sad",
+      "vector_systemlist_zh_mood_energy",
       "vector_promote_playlist_zh"
     ]
   },
@@ -36998,6 +36994,263 @@
           "thumbnailURL": "https://i.ytimg.com/vi/XGKJxb2b3ZI/mqdefault.jpg",
           "title": "benny blanco, Selena Gomez, Becky G - Te Olvido (La La) [Official Music Video]"
         }
+      ]
+    },
+    "playlist:21557122": {
+      "etag": "\"wdow8o4s8h9tt\"",
+      "hash": "671ae8a5e4a450397d0f0a5263fca327b5bd094d7f4926e11d8a398ce64177a5",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:02",
+          "id": "755M6K7_qJc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/755M6K7_qJc/mqdefault.jpg",
+          "title": "動力火車 Power Station [ 下一站 Next Station ] 歌詞版MV (動力火車「下一站」世界巡迴演唱會主題曲)"
+        }
+      ]
+    },
+    "playlist:21557123": {
+      "etag": "\"163luyyjwocbht\"",
+      "hash": "fa53d5406f7796d213977c2809638a1d59896bd0600c630e13fb8611b025398e",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "5:01",
+          "id": "xAwRvGryCDc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xAwRvGryCDc/mqdefault.jpg",
+          "title": "hush! Ｘ 10 Everyone's gonna miss you"
+        },
+        {
+          "durationText": "3:23",
+          "id": "RvU1xF-PlW4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RvU1xF-PlW4/mqdefault.jpg",
+          "title": "hush! Ｘ 01.討厭的王八蛋"
+        },
+        {
+          "durationText": "4:29",
+          "id": "rl8GV4ygudg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rl8GV4ygudg/mqdefault.jpg",
+          "title": "hush! Ｘ 07 第三人稱"
+        },
+        {
+          "durationText": "4:02",
+          "id": "ru2MuWyGyQk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ru2MuWyGyQk/mqdefault.jpg",
+          "title": "hush! Ｘ 03.之間"
+        },
+        {
+          "durationText": "5:46",
+          "id": "zRbSgTh0jIE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zRbSgTh0jIE/mqdefault.jpg",
+          "title": "hush! Ｘ 09 那裡沒有我"
+        },
+        {
+          "durationText": "4:17",
+          "id": "4UTDemO6BiY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4UTDemO6BiY/mqdefault.jpg",
+          "title": "hush! Ｘ 08 藍綠藻的夢"
+        },
+        {
+          "durationText": "3:36",
+          "id": "_ThqYsulMIo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_ThqYsulMIo/mqdefault.jpg",
+          "title": "hush! Ｘ 02.障礙賽"
+        },
+        {
+          "durationText": "5:58",
+          "id": "DwNKOnyeM10",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DwNKOnyeM10/mqdefault.jpg",
+          "title": "hush! Ｘ 06 X"
+        },
+        {
+          "durationText": "5:04",
+          "id": "qbo2Qf1MXio",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qbo2Qf1MXio/mqdefault.jpg",
+          "title": "hush! Ｘ 05 集體催眠"
+        },
+        {
+          "durationText": "4:23",
+          "id": "4HwuxF796Lc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4HwuxF796Lc/mqdefault.jpg",
+          "title": "hush! Ｘ 04 出竅"
+        }
+      ]
+    },
+    "playlist:21557124": {
+      "etag": "\"ur5gdvbpkpacd\"",
+      "hash": "ac00cdfc8685b246f4e5759bdd68caf7664ae2a06cec0582dc7ee6deede655f1",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:44",
+          "id": "Fn7NLWHJw4s",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Fn7NLWHJw4s/mqdefault.jpg",
+          "title": "MAYDAY五月天 [ 派對動物Party Animal ] Official Music Video"
+        }
+      ]
+    },
+    "playlist:21557181": {
+      "etag": "\"xgl3lxvvmham3\"",
+      "hash": "ccaa233648247d6a96c91c43393914cf4fce7958ad6e3030020e4fea99803737",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:15",
+          "id": "Mmh1GH6qxE0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Mmh1GH6qxE0/mqdefault.jpg",
+          "title": "RK金承熙-BIKINI 官方完整中文版MV(Official Full MV)"
+        },
+        {
+          "durationText": "4:24",
+          "id": "lVRoRqcP__M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lVRoRqcP__M/mqdefault.jpg",
+          "title": "RK金承熙-每天每天 官方完整版MV(Official Full MV)"
+        },
+        {
+          "durationText": "4:41",
+          "id": "6vJ9u8zeAmo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6vJ9u8zeAmo/mqdefault.jpg",
+          "title": "RK金承熙-하루하루 官方完整版MV(Official Full MV)"
+        }
+      ]
+    },
+    "playlist:21644552": {
+      "etag": "\"yahcodq4g5a2s\"",
+      "hash": "6ecac8dab329af0f6a536bb24484830aa0c81c7bfcf20eaa281fad9034e6a8d6",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:47",
+          "id": "v7YjS1O8oo8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/v7YjS1O8oo8/mqdefault.jpg",
+          "title": "Eric周興哲《你，好不好？ How Have You Been?》Official Lyric Video《遺憾拼圖》片尾曲"
+        }
+      ]
+    },
+    "playlist:21644553": {
+      "etag": "\"avevbo5ctzaak\"",
+      "hash": "11c8735b4e062fe97ed66612f2d66639f2597c95d9c36b277fe3e60f245291ad",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:31",
+          "id": "8okvODQBVXo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8okvODQBVXo/mqdefault.jpg",
+          "title": "畢書盡 Bii - Catch Your Double Eye (官方版MV) - 2016 Bii畢書盡演唱會主題曲"
+        }
+      ]
+    },
+    "playlist:21644554": {
+      "etag": "\"s7qatjrorrafb\"",
+      "hash": "f0315c770779e724d16efb6ccb98d9ae864d07942b4c22aee315db08d1bd8570",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "3:56",
+          "id": "JGZOpm9FfEs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JGZOpm9FfEs/mqdefault.jpg",
+          "title": "吳思賢《怕笑聲的人》官方歌詞版 ( 三立偶像劇 舞吧舞吧在一起 插曲 )"
+        },
+        {
+          "durationText": "4:40",
+          "id": "btHOZVX6dgI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/btHOZVX6dgI/mqdefault.jpg",
+          "title": "吳思賢 《別說》官方歌詞版 ( 三立偶像劇 舞吧舞吧在一起 插曲 )"
+        },
+        {
+          "durationText": "3:36",
+          "id": "ULC3y0yYx9Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ULC3y0yYx9Q/mqdefault.jpg",
+          "title": "吳思賢《陪你飛》官方版 KALA ( 三立偶像劇 舞吧舞吧在一起 主題曲 )"
+        }
+      ]
+    },
+    "playlist:21644620": {
+      "etag": "\"106bhuzc2m89tr\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 3,
+      "payload": [
+
       ]
     },
     "playlist:21862516": {
@@ -125303,6 +125556,284 @@
         }
       ]
     },
+    "vector:vector_systemlist_zh_mood_energy:108:12": {
+      "etag": "\"bp41i2itef815\"",
+      "hash": "941f6e987f1dab9ef5c189acdb5ec71771b678c4db12a3981d8e9944e3c65cc3",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_m_bbrhyrZB8vRu9Tws3uyyMoH-8ULRyVg",
+          "kind": "playlist",
+          "subtitle": "33 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vqkfEUqjl6Y/mqdefault.jpg",
+          "title": "K-Pop Radar"
+        },
+        {
+          "id": "RDCLAK5uy_kdshiZQPflIs1aaHlgZhp5YI197wEP9mY",
+          "kind": "playlist",
+          "subtitle": "95 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Aa9Y0Hlrlbs/mqdefault.jpg",
+          "title": "Muddin' and Truckin'"
+        },
+        {
+          "id": "RDCLAK5uy_l23ciejFJWrpUgto4eqmxNLanDwVsbMOI",
+          "kind": "playlist",
+          "subtitle": "72 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WxCYlG-OyU0/mqdefault.jpg",
+          "title": "Arabic Rap Royalty"
+        },
+        {
+          "id": "RDCLAK5uy_nE25QmHW2mSEyfGan1RwORJyb0MzZqOpI",
+          "kind": "playlist",
+          "subtitle": "56 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FGBhQbmPwH8/mqdefault.jpg",
+          "title": "純粹舞曲"
+        },
+        {
+          "id": "RDCLAK5uy_lysW1jKAEassYxVOmLnd_nVwY5M8ObX0Y",
+          "kind": "playlist",
+          "subtitle": "63 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0xyxtzD54rM/mqdefault.jpg",
+          "title": "路跑金屬樂"
+        },
+        {
+          "id": "RDCLAK5uy_lfgBSVSqqZ19m8nPWzXBT8_IYXy38ZDzs",
+          "kind": "playlist",
+          "subtitle": "75 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pSY3i5XHHXo/mqdefault.jpg",
+          "title": "UK Rap & Grime Bangers"
+        },
+        {
+          "id": "RDCLAK5uy_mkE6r615BalCSEv66e0vFgWKbTe8nbq00",
+          "kind": "playlist",
+          "subtitle": "98 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OVh0bMNSFss/mqdefault.jpg",
+          "title": "野獸模式 Phonk"
+        },
+        {
+          "id": "RDCLAK5uy_kmPRjHDECIcuVwnKsx2Ng7fyNgFKWNJFs",
+          "kind": "playlist",
+          "subtitle": "55 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nUsrYVxrDwI/mqdefault.jpg",
+          "title": "The Hit List"
+        },
+        {
+          "id": "RDCLAK5uy_k2pS49OPwSZtJeXgWnvAPmlB8gJCphDes",
+          "kind": "playlist",
+          "subtitle": "93 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-q-IjQE8nTY/mqdefault.jpg",
+          "title": "The Throwdown"
+        },
+        {
+          "id": "RDCLAK5uy_lxyYFz9HM1dHqshLRZTm2Vnyh6BMOgn6g",
+          "kind": "playlist",
+          "subtitle": "160 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tpFljbJxZiw/mqdefault.jpg",
+          "title": "旁遮普饒舌音樂金曲"
+        },
+        {
+          "id": "RDCLAK5uy_nJbR-8l4mhUUclTVrykXZdK1vqjU3caCg",
+          "kind": "playlist",
+          "subtitle": "104 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JEmbyx8NLxA/mqdefault.jpg",
+          "title": "Energy Boost - Pop & Dance"
+        },
+        {
+          "id": "RDCLAK5uy_llM83Y-j8DfoxM_iJMHCU2NMM_UytLTT0",
+          "kind": "playlist",
+          "subtitle": "49 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/h4UqMyldS7Q/mqdefault.jpg",
+          "title": "Back to the Block Party"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:120:12": {
+      "etag": "\"eiwmq23rl83d\"",
+      "hash": "2867a1e7b856528873a1cb2a2cd6dbaf19e0223ef05b7b375d754c99812b49b6",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_m55iAnFa25l8bl7m8vsTsmGph3-_yVBW0",
+          "kind": "playlist",
+          "subtitle": "69 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/M0_z5WmMV-c/mqdefault.jpg",
+          "title": "Singalong Hits Germany"
+        },
+        {
+          "id": "RDCLAK5uy_kSBA4QYRS3z-HZyp9P8Kp1_egtDFqzaG4",
+          "kind": "playlist",
+          "subtitle": "138 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UX-3pMAo0Sk/mqdefault.jpg",
+          "title": "當德西嘻哈遇上其他音樂"
+        },
+        {
+          "id": "RDCLAK5uy_lZQJ2uAh2UWSQ16Z8ry8g3ttQDLNiXiWs",
+          "kind": "playlist",
+          "subtitle": "116 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Jvzd-35w6pM/mqdefault.jpg",
+          "title": "Pop Tadka"
+        },
+        {
+          "id": "RDCLAK5uy_k_ezXyRvn0j4XstBByLdZ9wqoScv1Qj84",
+          "kind": "playlist",
+          "subtitle": "35 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PhDSVGcWXMc/mqdefault.jpg",
+          "title": "C'est Marseille BB"
+        },
+        {
+          "id": "RDCLAK5uy_mzE-hKfgQBgAY_ZN4O85nOo_H9U0P47Mc",
+          "kind": "playlist",
+          "subtitle": "38 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IxX_QHay02M/mqdefault.jpg",
+          "title": "EDM Fun Core"
+        },
+        {
+          "id": "RDCLAK5uy_mrs1tV3lbiyfEXRciVwDvVFuhHjAK2yuI",
+          "kind": "playlist",
+          "subtitle": "78 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eWAdpUyzCkI/mqdefault.jpg",
+          "title": "Energy Booster Korean Hip-Hop"
+        },
+        {
+          "id": "RDCLAK5uy_nDVIvez-uLWJPb86S25zDqieTZRiGGS8Q",
+          "kind": "playlist",
+          "subtitle": "74 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Lw4unI3tVNQ/mqdefault.jpg",
+          "title": "Energetic Turkish Rock"
+        },
+        {
+          "id": "RDCLAK5uy_ljm2pVSIkXSIKp1im9yxV0XgLmkBbGR-E",
+          "kind": "playlist",
+          "subtitle": "126 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2cnloO84LA0/mqdefault.jpg",
+          "title": "phonk"
+        },
+        {
+          "id": "RDCLAK5uy_mhLCwdOhIfhWnBCZnN-B22eC2TbgXooqM",
+          "kind": "playlist",
+          "subtitle": "106 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cpp69ghR1IM/mqdefault.jpg",
+          "title": "The Turkish Hits: 90s"
+        },
+        {
+          "id": "RDCLAK5uy_mNI4xGDvO3hANTfAnMpgMRuFyxmhcRPoA",
+          "kind": "playlist",
+          "subtitle": "53 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UTlpwAeQDSY/mqdefault.jpg",
+          "title": "Feel-Good German Rap"
+        },
+        {
+          "id": "RDCLAK5uy_kMV8D6xyDudzUMstUx1-Ow5anGYJxfnrE",
+          "kind": "playlist",
+          "subtitle": "87 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LX2zshAgECQ/mqdefault.jpg",
+          "title": "Bollywood Remixes"
+        },
+        {
+          "id": "RDCLAK5uy_mqyWrEinpkO47PY_Rlhl5zVu3U6dcFk5w",
+          "kind": "playlist",
+          "subtitle": "56 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/s4OCilO8oDo/mqdefault.jpg",
+          "title": "Dale Dembow"
+        }
+      ]
+    },
     "vector:vector_systemlist_zh_mood_energy:12:12": {
       "etag": "\"m3mmaokhas7xr\"",
       "hash": "e4b31c4086e3564e7a1fbfdf8ba27a17ce8b6b7f6f1ff95c5264e0986eef9833",
@@ -125439,6 +125970,1202 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/KQ6zr6kCPj8/mqdefault.jpg",
           "title": "帶來震撼感的電子舞曲"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:132:12": {
+      "etag": "\"10ue1gnde5p7yq\"",
+      "hash": "47aea4ec8cc474584214c0d99d51992c0bffc074e9826fc916a9d65648702222",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_k2OYqPg43nZTTCvVe5NuhwicugPlPg9rw",
+          "kind": "playlist",
+          "subtitle": "139 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/x_4pnGTRVCY/mqdefault.jpg",
+          "title": "阿拉伯EDM最佳歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_kOwmIQLjxvqBZ98AP3eARfb2MI1kaie4g",
+          "kind": "playlist",
+          "subtitle": "42 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OVh0bMNSFss/mqdefault.jpg",
+          "title": "遊戲Phonk"
+        },
+        {
+          "id": "RDCLAK5uy_nCDa4LLlnoMWB4l9fkePWyXPQKCjnM_KQ",
+          "kind": "playlist",
+          "subtitle": "82 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Gs069dndIYk/mqdefault.jpg",
+          "title": "1970年代R&B"
+        },
+        {
+          "id": "RDCLAK5uy_miLVOuCHnbtfW7swwNA8o-LjeiaDXy3x8",
+          "kind": "playlist",
+          "subtitle": "72 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8dzV0B3iCsM/mqdefault.jpg",
+          "title": "Turkish Rap Pioneers"
+        },
+        {
+          "id": "RDCLAK5uy_n9KufLagQKUCDBLHzH0OQyKEIjYK1RuEM",
+          "kind": "playlist",
+          "subtitle": "52 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5eZjEIk8voE/mqdefault.jpg",
+          "title": "巴西 Phonk"
+        },
+        {
+          "id": "RDCLAK5uy_kALCBm3tpg2jxGslk0EAtH6iujrEupNEc",
+          "kind": "playlist",
+          "subtitle": "60 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/18KfSl-z8ok/mqdefault.jpg",
+          "title": "German Rap Party"
+        },
+        {
+          "id": "RDCLAK5uy_m9Rw_g5eCJtMhuRgP1eqU3H-XW7UL6uWQ",
+          "kind": "playlist",
+          "subtitle": "109 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sBzrzS1Ag_g/mqdefault.jpg",
+          "title": "Indie Anthems"
+        },
+        {
+          "id": "RDCLAK5uy_lex9NHfswlZnM4EZ8TyJ0QSLaf5Q-hJoI",
+          "kind": "playlist",
+          "subtitle": "99 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wcssYcD8znU/mqdefault.jpg",
+          "title": "Khaleeji 派對音樂"
+        },
+        {
+          "id": "RDCLAK5uy_krJV3IenlHxk3FNjMX3OlrI9dn5F_mvWk",
+          "kind": "playlist",
+          "subtitle": "76 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9NoDUUybUe8/mqdefault.jpg",
+          "title": "Turkish Folk Remixed"
+        },
+        {
+          "id": "RDCLAK5uy_miEDbTEB2wkTklDaoV0_srC3Jqez-pTwA",
+          "kind": "playlist",
+          "subtitle": "75 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cpp69ghR1IM/mqdefault.jpg",
+          "title": "Such Fun"
+        },
+        {
+          "id": "RDCLAK5uy_nhSTJDYjFhwODP-S1ofc--v8NiGnxbcc8",
+          "kind": "playlist",
+          "subtitle": "51 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/q09Gs6e5XVI/mqdefault.jpg",
+          "title": "日本饒舌金曲"
+        },
+        {
+          "id": "RDCLAK5uy_meKJG4fRVGUG1Z5P6O-OVRJIja9U3Ctt8",
+          "kind": "playlist",
+          "subtitle": "39 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BNHamTwxJ6Q/mqdefault.jpg",
+          "title": "Party Schlager"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:144:12": {
+      "etag": "\"i4iq0qr2nc82s\"",
+      "hash": "cb2953ca6078febd7a89bfe7de617d1237e1ff0de6959db845702f8500e3ea65",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_mlZxK41b9W2tgD4_TnQ9yVjHp6JcQcYaQ",
+          "kind": "playlist",
+          "subtitle": "55 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6dfNMwl6sSM/mqdefault.jpg",
+          "title": "Revolución Rap"
+        },
+        {
+          "id": "RDCLAK5uy_mAS17Kus0n-4lqR-KhwQBCy5vM1rPwfWo",
+          "kind": "playlist",
+          "subtitle": "66 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xFrGuyw1V8s/mqdefault.jpg",
+          "title": "Dancing to the Oldies"
+        },
+        {
+          "id": "RDCLAK5uy_n24VQSq-J5UBG0hJUFTThmNJZEdWApSUw",
+          "kind": "playlist",
+          "subtitle": "78 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/B8vlk1UR99k/mqdefault.jpg",
+          "title": "Drum & Bass 歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_kFd1iE505__CqqloXKUTDSaL263ckon2E",
+          "kind": "playlist",
+          "subtitle": "48 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OUTqP0YBzas/mqdefault.jpg",
+          "title": "Electronic Brazil Hits"
+        },
+        {
+          "id": "RDCLAK5uy_lg36laJkH5iin6JlBwj360bw9niO9q8F8",
+          "kind": "playlist",
+          "subtitle": "32 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Pvope7xOzHg/mqdefault.jpg",
+          "title": "Fiesta Ska"
+        },
+        {
+          "id": "RDCLAK5uy_noA_LBnBbj0hdkOq1UGHUSscifZ2C5iQE",
+          "kind": "playlist",
+          "subtitle": "95 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yBA0gbPudgY/mqdefault.jpg",
+          "title": "Country rock"
+        },
+        {
+          "id": "RDCLAK5uy_ko2PIq5KOHLmiE7dae7rXkozaGlz2ilTU",
+          "kind": "playlist",
+          "subtitle": "44 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gCYcHz2k5x0/mqdefault.jpg",
+          "title": "2024 Top DJ Lineup"
+        },
+        {
+          "id": "RDCLAK5uy_nmIXHaaeVFhiHZtMELYpv6_dNb6t3jPrM",
+          "kind": "playlist",
+          "subtitle": "97 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lHZtcC67yrY/mqdefault.jpg",
+          "title": "Schlager Motivation"
+        },
+        {
+          "id": "RDCLAK5uy_kNLcXpai14qYdMRmcNpIEhWGopkIJIlNg",
+          "kind": "playlist",
+          "subtitle": "41 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pSY3i5XHHXo/mqdefault.jpg",
+          "title": "LEGACY"
+        },
+        {
+          "id": "RDCLAK5uy_kBZeKox9RlWG1cl_SDiFEoDPLQrORHBOA",
+          "kind": "playlist",
+          "subtitle": "46 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/i4RtnCrAyZs/mqdefault.jpg",
+          "title": "Egyptian Rap Essentials"
+        },
+        {
+          "id": "RDCLAK5uy_nwi2pOvC9hy9_gxyh87wd7Urt6sgdVhEg",
+          "kind": "playlist",
+          "subtitle": "80 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bWnBatCH4bc/mqdefault.jpg",
+          "title": "Turkish Club Hits"
+        },
+        {
+          "id": "RDCLAK5uy_nBrLYLD4uLur0yOG-Ayla-Ig64ZzZcy7A",
+          "kind": "playlist",
+          "subtitle": "112 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IZ36b3q1elI/mqdefault.jpg",
+          "title": "Huge House Anthems"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:156:12": {
+      "etag": "\"lxdjrpjn327x6\"",
+      "hash": "1ba5660a53dfd066527cd7142574aa6ce01e6d0ad5d3350c47f583ea4bc2bcda",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_kgq15xjENxUuOZNY3PFZhM_FcQjvwZn28",
+          "kind": "playlist",
+          "subtitle": "57 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/88ppxPT95bo/mqdefault.jpg",
+          "title": "Afropoppin'"
+        },
+        {
+          "id": "RDCLAK5uy_ll_3x-AJOymCxeODF09ZjyXg7b6m7OBqs",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vutbVGewIcg/mqdefault.jpg",
+          "title": "Perreo"
+        },
+        {
+          "id": "RDCLAK5uy_lBGRuQnsG37Akr1CY4SxL0VWFbPrbO4gs",
+          "kind": "playlist",
+          "subtitle": "95 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PXxbEfhtDiM/mqdefault.jpg",
+          "title": "流行嘻哈金曲"
+        },
+        {
+          "id": "RDCLAK5uy_npQKlKQ8OHt82UTqPHGw6eg_dRtThs5iU",
+          "kind": "playlist",
+          "subtitle": "34 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wgGa9SgxhJI/mqdefault.jpg",
+          "title": "非洲電音舞曲"
+        },
+        {
+          "id": "RDCLAK5uy_lwP-V7kSIhX3CJEV7zRd9P8Nj0F1l5RbY",
+          "kind": "playlist",
+          "subtitle": "157 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bE3Kvqyef_E/mqdefault.jpg",
+          "title": "Drum & Bass Room"
+        },
+        {
+          "id": "RDCLAK5uy_kuwISRPpQ0pWcFUwdd1gigwj4wGWbISII",
+          "kind": "playlist",
+          "subtitle": "435 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zwa7NzNBQig/mqdefault.jpg",
+          "title": "Hot Girl Rap"
+        },
+        {
+          "id": "RDCLAK5uy_mJGVFXt0gqpyQkEb_Z7qfTYtTKUUsD_YE",
+          "kind": "playlist",
+          "subtitle": "68 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ka4WTFKkfH0/mqdefault.jpg",
+          "title": "Prog House Never Died"
+        },
+        {
+          "id": "RDCLAK5uy_kJ2idOvqiYDM2aOEgFSxTKduivnTEPMwc",
+          "kind": "playlist",
+          "subtitle": "60 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Hgnpi3eBQ9o/mqdefault.jpg",
+          "title": "充滿力量的華語搖滾樂"
+        },
+        {
+          "id": "RDCLAK5uy_lBVNxnQ9RF9ebeFNHsaLPTJdem3IPWl7o",
+          "kind": "playlist",
+          "subtitle": "62 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/i97OkCXwotE/mqdefault.jpg",
+          "title": "鞭笞金屬的樣貌"
+        },
+        {
+          "id": "RDCLAK5uy_kNzdtZz5yF-crDDcYxlIDOju50Tyqnrig",
+          "kind": "playlist",
+          "subtitle": "109 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1GOr4Cef-5I/mqdefault.jpg",
+          "title": "饒舌巨擘"
+        },
+        {
+          "id": "RDCLAK5uy_m-9cRIi1Dmvk1yVduEisR1oGWceWAYKn4",
+          "kind": "playlist",
+          "subtitle": "77 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/mqdefault.jpg",
+          "title": "Loud and Proud"
+        },
+        {
+          "id": "RDCLAK5uy_n7QjhERM2Q4Ha5B6t6ZmzyhOtRYjQtxKk",
+          "kind": "playlist",
+          "subtitle": "87 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/j4NPNp8SEk0/mqdefault.jpg",
+          "title": "Flow Superior"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:168:12": {
+      "etag": "\"g3qiybhg7a81p\"",
+      "hash": "07028660d015bd85c2615feeddca9f894c1b465e9e5d5450fcf7d9b1fd1d726f",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_nr0cQgAVMsVsHgz8Ryftxqez9G4nittWw",
+          "kind": "playlist",
+          "subtitle": "53 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aHM2RKeMaeM/mqdefault.jpg",
+          "title": "Heavy Korean Hip-Hop"
+        },
+        {
+          "id": "RDCLAK5uy_kOJNgwq4_Es1d2f9Z95etYKgzaQ6l5xd8",
+          "kind": "playlist",
+          "subtitle": "35 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BHcYFxU4fMo/mqdefault.jpg",
+          "title": "動感的放克與靈魂樂"
+        },
+        {
+          "id": "RDCLAK5uy_mU14EejSbDsfLuPc9KpNzoC0o-YQvi6I4",
+          "kind": "playlist",
+          "subtitle": "39 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NhWFyYKhEqQ/mqdefault.jpg",
+          "title": "Christian Hits"
+        },
+        {
+          "id": "RDCLAK5uy_kV0Nh-OIcnh8LppyiFE4lhhWZEvaPQEOY",
+          "kind": "playlist",
+          "subtitle": "78 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/myDIeOjqQos/mqdefault.jpg",
+          "title": "Hot Reggaeton"
+        },
+        {
+          "id": "RDCLAK5uy_lBfTSdVdgXeN399Mxt2L3C6hLarC1aaN0",
+          "kind": "playlist",
+          "subtitle": "70 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kmBYatrA_2g/mqdefault.jpg",
+          "title": "Amp On"
+        },
+        {
+          "id": "RDCLAK5uy_kh8Lql3OCDc5uAW9WsrPpQFymSgp5euyI",
+          "kind": "playlist",
+          "subtitle": "26 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oESfa8jt0p8/mqdefault.jpg",
+          "title": "Neue Deutsche Welle"
+        },
+        {
+          "id": "RDCLAK5uy_lyoNj0Q6ICbWoFgMJOSjLDhVxJRH6xYu4",
+          "kind": "playlist",
+          "subtitle": "73 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HvvECHLHKrM/mqdefault.jpg",
+          "title": "Electronic Euphoria"
+        },
+        {
+          "id": "RDCLAK5uy_lfU6d5d-whk0KvABtxS0yZrj6n4NW2eTM",
+          "kind": "playlist",
+          "subtitle": "52 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7MI3buZedOw/mqdefault.jpg",
+          "title": "Noise Riot: Rock Hits"
+        },
+        {
+          "id": "RDCLAK5uy_m5-Ur8LO4mxLbawH6xdL4htYBw9mq-1RI",
+          "kind": "playlist",
+          "subtitle": "56 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/y6120QOlsfU/mqdefault.jpg",
+          "title": "Trance Classics"
+        },
+        {
+          "id": "RDCLAK5uy_k1YZQSV3BiZVKj-vZbGJsJoNLc6LxLJV8",
+          "kind": "playlist",
+          "subtitle": "48 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/S69w0zMW-A0/mqdefault.jpg",
+          "title": "史詩電音"
+        },
+        {
+          "id": "RDCLAK5uy_nX21_ZSVbClYkXhcLsVUEbABHn3ZqgCvs",
+          "kind": "playlist",
+          "subtitle": "104 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KNnzWaehR6s/mqdefault.jpg",
+          "title": "Melodic House & Techno"
+        },
+        {
+          "id": "RDCLAK5uy_lpDndrjgkdnk6rdJ2-dpwdb41Mt4caq8s",
+          "kind": "playlist",
+          "subtitle": "61 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/i34pFNr42mc/mqdefault.jpg",
+          "title": "Today’s Club Sounds"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:180:12": {
+      "etag": "\"128hu5nfxn881d\"",
+      "hash": "f2ecb3fe9615f6da215a681ff1da9f49a5ea6926d83b6de735fb95e7a43a7605",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_kGgoKYMbZN3uiYZL0dtWaDkLrVPvrxwPg",
+          "kind": "playlist",
+          "subtitle": "37 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KCQ5Vcp4uKo/mqdefault.jpg",
+          "title": "非洲嘻哈熱門音樂"
+        },
+        {
+          "id": "RDCLAK5uy_mOkF_WNb9xhnpJqANdoJRZt2QEBWjm_Ws",
+          "kind": "playlist",
+          "subtitle": "80 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Kfb4HhDv1uw/mqdefault.jpg",
+          "title": "Bass Boost 2026"
+        },
+        {
+          "id": "RDCLAK5uy_kLwgLlrxA4-_EchctXgTyHR4rwRaRv1wk",
+          "kind": "playlist",
+          "subtitle": "160 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sK4n2s4kRJk/mqdefault.jpg",
+          "title": "House Music 2026"
+        },
+        {
+          "id": "RDCLAK5uy_kumKEaPpcfaAOpnEdpjtp4jyLoiqZdRnU",
+          "kind": "playlist",
+          "subtitle": "48 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/P8UqZ5IF-QE/mqdefault.jpg",
+          "title": "Luxe Life"
+        },
+        {
+          "id": "RDCLAK5uy_k7O9KByATGA1TqFYhyOkylpJ6fM1avtww",
+          "kind": "playlist",
+          "subtitle": "106 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/o4OEg34SslQ/mqdefault.jpg",
+          "title": "Clout Rising"
+        },
+        {
+          "id": "RDCLAK5uy_kTh6wa62hZCbKX0oevcV-_LD-A8l7CInk",
+          "kind": "playlist",
+          "subtitle": "199 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/foE1mO2yM04/mqdefault.jpg",
+          "title": "Chill Bangers"
+        },
+        {
+          "id": "RDCLAK5uy_mVvnZOzJPD1C1SqIu44Hwl9AT00fafKNs",
+          "kind": "playlist",
+          "subtitle": "88 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5uOa3w3WS-4/mqdefault.jpg",
+          "title": "Deep House Pure"
+        },
+        {
+          "id": "RDCLAK5uy_nAMC9uqfyVcU6eIqEC47D2uFNyqjlcvUg",
+          "kind": "playlist",
+          "subtitle": "49 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/n4uhmetIV2o/mqdefault.jpg",
+          "title": "Russian Rave"
+        },
+        {
+          "id": "RDCLAK5uy_l_R-6is1bNUGonnSTSg0vF7r5cDj8ENZY",
+          "kind": "playlist",
+          "subtitle": "48 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BvUNc2RlWVw/mqdefault.jpg",
+          "title": "Egyptian Rap"
+        },
+        {
+          "id": "RDCLAK5uy_mbO8rK39lM8U6sBbSggQKBHiBLrJ7jS2M",
+          "kind": "playlist",
+          "subtitle": "60 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2bogFCHDAzE/mqdefault.jpg",
+          "title": "Turkish Indie Party"
+        },
+        {
+          "id": "RDCLAK5uy_k3ZZMbcC_yMLnKyto6L54zeVkj7Yytk3g",
+          "kind": "playlist",
+          "subtitle": "119 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9NixMYOdiOE/mqdefault.jpg",
+          "title": "Today's Hardstyle"
+        },
+        {
+          "id": "RDCLAK5uy_n4oG0HK-gS2c_tstquxLhCBjs-CF2g8Qg",
+          "kind": "playlist",
+          "subtitle": "61 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Gh8Gl2GwB6s/mqdefault.jpg",
+          "title": "Line Up: Indie + Alternative"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:192:12": {
+      "etag": "\"lyppmrpkuq7x3\"",
+      "hash": "c99fd6c544d4920aa7a560e7365e918b8fdf1d9ace176b1edd3ea68de878fc9a",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_m_4zR2FQcuFQfy7QIrhKRL0Sa6RKL7Jvk",
+          "kind": "playlist",
+          "subtitle": "110 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/g1iYm4BMBxU/mqdefault.jpg",
+          "title": "日本流行龐克"
+        },
+        {
+          "id": "RDCLAK5uy_mq8aFg7Y3lRXxbIQG7VVtVte2vmBWArH8",
+          "kind": "playlist",
+          "subtitle": "43 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/p2-_PW4kzQo/mqdefault.jpg",
+          "title": "維京戰神遊戲：史詩戰爭金屬搖滾"
+        },
+        {
+          "id": "RDCLAK5uy_lUrzaYWnJvQv7UqkwbYLo9K_Qbui6WDgo",
+          "kind": "playlist",
+          "subtitle": "71 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HvhGGJmTlWk/mqdefault.jpg",
+          "title": "Groovy Beats"
+        },
+        {
+          "id": "RDCLAK5uy_lhKsFGmKkGIdQFU4VmpyHI1sgwNu4n-KI",
+          "kind": "playlist",
+          "subtitle": "44 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/18Ddh0UFVN8/mqdefault.jpg",
+          "title": "日本金屬樂"
+        },
+        {
+          "id": "RDCLAK5uy_kXYktYDAnKxMWW341vMmFTmj8zEToMzLs",
+          "kind": "playlist",
+          "subtitle": "66 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qOlGLfTplcQ/mqdefault.jpg",
+          "title": "Techno trip"
+        },
+        {
+          "id": "RDCLAK5uy_kqBGsek2woUWKPChLBxxERoeZVtdFQ7cE",
+          "kind": "playlist",
+          "subtitle": "52 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/L5iB99VaZLE/mqdefault.jpg",
+          "title": "Punk Indo"
+        },
+        {
+          "id": "RDCLAK5uy_l2zLaMIWOqWSePvTSmt49GcuR8460ZR10",
+          "kind": "playlist",
+          "subtitle": "41 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rvZoZmI__78/mqdefault.jpg",
+          "title": "Hits Remixed"
+        },
+        {
+          "id": "RDCLAK5uy_khFJzdpmtk0_MaUuWNgqYbNamuGV623kk",
+          "kind": "playlist",
+          "subtitle": "56 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AUSl0rtytz8/mqdefault.jpg",
+          "title": "Techno Room"
+        },
+        {
+          "id": "RDCLAK5uy_mSn-M-lIm2IdR8jiJpnYnbwO8BUCTAjX0",
+          "kind": "playlist",
+          "subtitle": "49 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RnMXa3f_fKU/mqdefault.jpg",
+          "title": "AmaPiano電音舞曲之旅"
+        },
+        {
+          "id": "RDCLAK5uy_ly_AXtK47X3yXEDDeUjaIZ-uPyrTQ9vRE",
+          "kind": "playlist",
+          "subtitle": "112 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2EaE0_gQLw0/mqdefault.jpg",
+          "title": "出神音樂饗宴"
+        },
+        {
+          "id": "RDCLAK5uy_nhrn9P59Ud6qvVDGuKJKJlkkuLivIzahc",
+          "kind": "playlist",
+          "subtitle": "125 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Y1HUL-TALoE/mqdefault.jpg",
+          "title": "迪斯可2026"
+        },
+        {
+          "id": "RDCLAK5uy_lWTgqLdhy5rDQos4WkIQtJlDExOqVQnT4",
+          "kind": "playlist",
+          "subtitle": "70 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/B3uFm9t3FMM/mqdefault.jpg",
+          "title": "EDM Instrumentals"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:204:12": {
+      "etag": "\"b8n5v2sisw82d\"",
+      "hash": "09a86a54c5865eb26f843317c5429e2bd98b69d205ca333260bc79824cac58d5",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_lMXERBY0Uw6-9ZW1DVmMu8cicbwkkg15Q",
+          "kind": "playlist",
+          "subtitle": "57 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VLDJ_-wrwj8/mqdefault.jpg",
+          "title": "SAY NO MORE: Rap + R&B Hits"
+        },
+        {
+          "id": "RDCLAK5uy_k5vcGRXixxemtzK1eKDS7BeHys7mvYOdk",
+          "kind": "playlist",
+          "subtitle": "50 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3wZ1S1iV50o/mqdefault.jpg",
+          "title": "Maximum Decibels: Today's Rock Hits"
+        },
+        {
+          "id": "RDCLAK5uy_lwuEBboC99qPJNGXs0Um80VvHYNtxSTFg",
+          "kind": "playlist",
+          "subtitle": "46 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ur-yovkgg3E/mqdefault.jpg",
+          "title": "史詩般電影主題"
+        },
+        {
+          "id": "RDCLAK5uy_kFR_dUAeIwAH_KMLOVWjd0Vd-8pviVMCQ",
+          "kind": "playlist",
+          "subtitle": "36 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zm96T-_2edI/mqdefault.jpg",
+          "title": "靈魂&美聲(不插電)"
+        },
+        {
+          "id": "RDCLAK5uy_kL7PtHbNz_dQ7upbxgcviuJ1bnRkVQY4I",
+          "kind": "playlist",
+          "subtitle": "121 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/v0ZJ9fqonOQ/mqdefault.jpg",
+          "title": "EDC Orlando 2023"
+        },
+        {
+          "id": "RDCLAK5uy_kijGNzEJh9L_T8tbNp9dPRLoP_CpR2aZE",
+          "kind": "playlist",
+          "subtitle": "58 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jNc31tF9vyY/mqdefault.jpg",
+          "title": "前衛搖滾派對音樂"
+        },
+        {
+          "id": "RDCLAK5uy_nHGuTnohZ82uuk0HQle7s-UgP7h3aoCqg",
+          "kind": "playlist",
+          "subtitle": "117 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EOZUxpuO7Qw/mqdefault.jpg",
+          "title": "清新電子舞曲"
+        },
+        {
+          "id": "RDCLAK5uy_kdYeOg2PuX1pYE0n0sZwrDe0wQacapJ9g",
+          "kind": "playlist",
+          "subtitle": "22 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ggGzE5KfCio/mqdefault.jpg",
+          "title": "The Power of Classical Blues"
+        },
+        {
+          "id": "RDCLAK5uy_mOGSCVBsZurORfvybL5lEwxKsNFlZ8cPY",
+          "kind": "playlist",
+          "subtitle": "146 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oS82C8m1RCM/mqdefault.jpg",
+          "title": "EDM 2026"
+        },
+        {
+          "id": "RDCLAK5uy_miUZvgsFyAog8xtjdFBCnM3EGJcG5ZRUk",
+          "kind": "playlist",
+          "subtitle": "58 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bIIb_JLYOHM/mqdefault.jpg",
+          "title": "Motive: UK Rap"
+        },
+        {
+          "id": "RDCLAK5uy_n64_P7t3MmbTu7jziSk48DL-oRWO98CPE",
+          "kind": "playlist",
+          "subtitle": "146 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2LDPHjXMOEM/mqdefault.jpg",
+          "title": "House & Techno Hotlist"
+        },
+        {
+          "id": "RDCLAK5uy_k7a3ErfM0mejMiVztB0eN4NdTGJMKf9mQ",
+          "kind": "playlist",
+          "subtitle": "59 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gfW398PdTGM/mqdefault.jpg",
+          "title": "高級宴會爵士樂"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:216:12": {
+      "etag": "\"y1thfqm0057zj\"",
+      "hash": "1e991f31cc8cceed9da5dbfc85dfa46e3ca0b1d1f6bddaae79a461589f81330e",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_kGkR7V7cd7-CC6FkeYB1d-Jn9_4iWgZ4M",
+          "kind": "playlist",
+          "subtitle": "62 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Mv026dXXfl8/mqdefault.jpg",
+          "title": "Brazilian Funk Big Beats"
+        },
+        {
+          "id": "RDCLAK5uy_kGkB7EEwai6x7o-GZXQm6SsZOCxkxDIt4",
+          "kind": "playlist",
+          "subtitle": "52 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HratrZ056-U/mqdefault.jpg",
+          "title": "Techno 2026"
+        },
+        {
+          "id": "RDCLAK5uy_m50Vt6DvR0QUO6YQXcQlH9fMifwz9f_i0",
+          "kind": "playlist",
+          "subtitle": "51 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7SVATk4dqRA/mqdefault.jpg",
+          "title": "努力工作"
+        },
+        {
+          "id": "RDCLAK5uy_ldlwpMghzMwGCDSOA4Kw6TrOCXDaqXQMo",
+          "kind": "playlist",
+          "subtitle": "42 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bEp1VxlYcw8/mqdefault.jpg",
+          "title": "The Grime Hotlist"
+        },
+        {
+          "id": "RDCLAK5uy_nMYjrmCLs_0l1aOCNB3ij7tAlqbjrSe9A",
+          "kind": "playlist",
+          "subtitle": "103 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RW7lodiycTg/mqdefault.jpg",
+          "title": "陷阱音樂"
+        },
+        {
+          "id": "RDCLAK5uy_mQHYdV2Vf3lFugUQfkpSsiSfgGdweAV4c",
+          "kind": "playlist",
+          "subtitle": "30 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LYfF9VKMp4w/mqdefault.jpg",
+          "title": "Swinging Jazz"
+        },
+        {
+          "id": "RDCLAK5uy_m08wpXSZElSkZcJtFIQdVC9bnIx31GMw0",
+          "kind": "playlist",
+          "subtitle": "87 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BRUfY1aSWqE/mqdefault.jpg",
+          "title": "基督教電子音樂"
+        },
+        {
+          "id": "RDCLAK5uy_mKiUysCgZF2XA7o_mtki6NYjC_MGy55QM",
+          "kind": "playlist",
+          "subtitle": "27 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/g7Px2wK10jg/mqdefault.jpg",
+          "title": "充滿能量的現代爵士"
+        },
+        {
+          "id": "RDCLAK5uy_lFvj5xRFCJBtjkjdaPBCqiGOIxFjvsHI8",
+          "kind": "playlist",
+          "subtitle": "38 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lcqViSFrC6A/mqdefault.jpg",
+          "title": "Underground Grime"
+        },
+        {
+          "id": "RDCLAK5uy_kHiJYeN9KHADI5iV9WxeMU_hHtXn6o498",
+          "kind": "playlist",
+          "subtitle": "49 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/k6ncA9fD9Aw/mqdefault.jpg",
+          "title": "Tokyo Clubbing"
+        },
+        {
+          "id": "RDCLAK5uy_miMSxuvE6h6QxKk8pnABxR-CbiRcA5KiI",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5A0pSK3c2WU/mqdefault.jpg",
+          "title": "Chicago House Foundation"
+        },
+        {
+          "id": "RDCLAK5uy_k0RPAZDb4p0DEIY5DKIR3vdKSGHSdIPM8",
+          "kind": "playlist",
+          "subtitle": "60 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xoDfMf8yKSg/mqdefault.jpg",
+          "title": "Maghreb Rap"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:228:12": {
+      "etag": "\"fuxi5s2tns4qh\"",
+      "hash": "82aa24fb846c5e400910481668b8c1ede38790d36bef4956dacdf4397b05cc76",
+      "itemCount": 7,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_n3-fNPhB7TmNTTBRXDZhcnQJg2ahWDIY8",
+          "kind": "playlist",
+          "subtitle": "235 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6J1vjq6fedk/mqdefault.jpg",
+          "title": "Drum & Bass 2026"
+        },
+        {
+          "id": "RDCLAK5uy_l6VW_gdtNdhXipqvA-dm4HnJfnmbArbjQ",
+          "kind": "playlist",
+          "subtitle": "46 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8lsH-edxors/mqdefault.jpg",
+          "title": "Fresh Arabic Rap"
+        },
+        {
+          "id": "RDCLAK5uy_m4Nf66w53gEgzlYDl8qywtm_jOAIXvnrM",
+          "kind": "playlist",
+          "subtitle": "37 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/za6SSE_RnBc/mqdefault.jpg",
+          "title": "Turkish Rap The New Generation"
+        },
+        {
+          "id": "RDCLAK5uy_nfFpW0kcdCmKFGMvORFMSqQG4QAXB2YXE",
+          "kind": "playlist",
+          "subtitle": "47 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Eg_QVdB5698/mqdefault.jpg",
+          "title": "عربي RAP"
+        },
+        {
+          "id": "RDCLAK5uy_nh3v6aejB2HjZPMJa7uuCMfyIKyH2K-kw",
+          "kind": "playlist",
+          "subtitle": "75 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZUfAUd3StjM/mqdefault.jpg",
+          "title": "Heavy Stereo: Indie Rock"
+        },
+        {
+          "id": "RDCLAK5uy_kHqJTKgRLbBjlK0SRmaLgecTtXtyAhjvs",
+          "kind": "playlist",
+          "subtitle": "179 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Oi2m21V6-wU/mqdefault.jpg",
+          "title": "新 Dance 2026"
+        },
+        {
+          "id": "RDCLAK5uy_n2YZ2tg_cPKwwuyYdZJwHHRG6pjc6DpTA",
+          "kind": "playlist",
+          "subtitle": "59 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Go8Uobt-EVg/mqdefault.jpg",
+          "title": "New Turkish Rap"
         }
       ]
     },
@@ -125995,6 +127722,423 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/T6QKqFPRZSA/mqdefault.jpg",
           "title": "90年代R&B派對"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:72:12": {
+      "etag": "\"hmb90vwimz7zn\"",
+      "hash": "9c8bb196540d73f47ce778e916a46d44190aabbf41ec074b39c83176103e0d69",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_mdid1pUFM6J4P-ocDQgVQEPbsav7oUW8k",
+          "kind": "playlist",
+          "subtitle": "47 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UEchfRz0D8Q/mqdefault.jpg",
+          "title": "Rock & Playa"
+        },
+        {
+          "id": "RDCLAK5uy_nZ-kEsmlcJGdCIYuPv4miPsFUf5uFK2v8",
+          "kind": "playlist",
+          "subtitle": "148 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4R5zsoxjARk/mqdefault.jpg",
+          "title": "阿拉伯派對音樂"
+        },
+        {
+          "id": "RDCLAK5uy_laqTzdIfMc0lFCcLCFWl0BG468ZP19wNg",
+          "kind": "playlist",
+          "subtitle": "101 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rhOAyPKHWEo/mqdefault.jpg",
+          "title": "感覺很讚的阿拉伯歌曲"
+        },
+        {
+          "id": "RDCLAK5uy_lkc6zoUgat_9ifg8CCcqE_9I4cc8nNZv8",
+          "kind": "playlist",
+          "subtitle": "59 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/r9uizdKZAGE/mqdefault.jpg",
+          "title": "1980年代R&B"
+        },
+        {
+          "id": "RDCLAK5uy_kARjHJyNbGSYZZ_YHvXPP0wR3s1nrBiIc",
+          "kind": "playlist",
+          "subtitle": "99 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kR0EX8XK-8I/mqdefault.jpg",
+          "title": "Ultimate Turkish Pop Hits"
+        },
+        {
+          "id": "RDCLAK5uy_kpuUbU8iJ4nMJCwXTKm94T4eO9ixEWY4I",
+          "kind": "playlist",
+          "subtitle": "65 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/F7sGJVUrkjQ/mqdefault.jpg",
+          "title": "清新閃亮韓流風"
+        },
+        {
+          "id": "RDCLAK5uy_nX6UmhaEyaWe200N_vATudKrScwKqiawI",
+          "kind": "playlist",
+          "subtitle": "94 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LGRKsd-lrUc/mqdefault.jpg",
+          "title": "Turkish Pop Party"
+        },
+        {
+          "id": "RDCLAK5uy_lHCkw5gWSHBLzu_ZGfxx-6EZPcq_5C28k",
+          "kind": "playlist",
+          "subtitle": "57 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/W3q8Od5qJio/mqdefault.jpg",
+          "title": "另類金屬健身音樂"
+        },
+        {
+          "id": "RDCLAK5uy_lijxTrN9H-IeegaWgv_YHMQBSZTzscJmg",
+          "kind": "playlist",
+          "subtitle": "65 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cHHLHGNpCSA/mqdefault.jpg",
+          "title": "Happy Beats"
+        },
+        {
+          "id": "RDCLAK5uy_nv-k4tlNoIYtsPgLrt19JSIBQNGYuLdns",
+          "kind": "playlist",
+          "subtitle": "77 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dw8VIqTrnhs/mqdefault.jpg",
+          "title": "埃及派對開始音樂"
+        },
+        {
+          "id": "RDCLAK5uy_lFlKms7Zm3D734_wJr1p7ErNkAivAHGVs",
+          "kind": "playlist",
+          "subtitle": "177 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/90RLzVUuXe4/mqdefault.jpg",
+          "title": "Massive Pop Remixes"
+        },
+        {
+          "id": "RDCLAK5uy_mSpTnu0yGFc7ogsk3y6tzNnLPonqB17AY",
+          "kind": "playlist",
+          "subtitle": "75 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EgqUJOudrcM/mqdefault.jpg",
+          "title": "Feel-Good Floor Fillers"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:84:12": {
+      "etag": "\"94msg9rt197yg\"",
+      "hash": "61a0b6e92a49a4cd80f5b4e4dca9fc4718c6b0a45d0d1eab66036c49e81459b9",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_lc4yBYpywmmgjplkuzYxzUgLJ8UvDKUUk",
+          "kind": "playlist",
+          "subtitle": "69 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6IeEdTxXqrA/mqdefault.jpg",
+          "title": "Salsa Mix"
+        },
+        {
+          "id": "RDCLAK5uy_mgTbGYlLvRaYK81TXg7JUq4_QJSmv5ok0",
+          "kind": "playlist",
+          "subtitle": "90 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ph_tbASm31Y/mqdefault.jpg",
+          "title": "Arabic Workout"
+        },
+        {
+          "id": "RDCLAK5uy_l8NrEO1BCEfhIJe3Wryc2-4osqJQg4PGE",
+          "kind": "playlist",
+          "subtitle": "55 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7Ho86ggAVrY/mqdefault.jpg",
+          "title": "Tropical Classics"
+        },
+        {
+          "id": "RDCLAK5uy_n7IwbsDhxuCUi5B8YPrv-E8kd6Tej5ujY",
+          "kind": "playlist",
+          "subtitle": "57 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_ovdm2yX4MA/mqdefault.jpg",
+          "title": "Turbo Dance"
+        },
+        {
+          "id": "RDCLAK5uy_nwL5OO1y9H8qEuUiX_MKRADbyvpNMc_sc",
+          "kind": "playlist",
+          "subtitle": "87 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/j7CDb610Bg0/mqdefault.jpg",
+          "title": "經典日本搖滾"
+        },
+        {
+          "id": "RDCLAK5uy_kEBBeiM3vLTUSZI97z7RYrwx3RFU_E004",
+          "kind": "playlist",
+          "subtitle": "74 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5yXQJBU8A28/mqdefault.jpg",
+          "title": "Tropical House"
+        },
+        {
+          "id": "RDCLAK5uy_ln5QrejQxkRjfKqqrWPtxtAOjkGR2w1FI",
+          "kind": "playlist",
+          "subtitle": "175 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8uMuhOFDHCk/mqdefault.jpg",
+          "title": "The Deep Hits"
+        },
+        {
+          "id": "RDCLAK5uy_lPjlW9s89WQaynRhm_f1hUwAIL8McUgds",
+          "kind": "playlist",
+          "subtitle": "87 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3knHALzEC7M/mqdefault.jpg",
+          "title": "El Gai Ahla"
+        },
+        {
+          "id": "RDCLAK5uy_ljghXQ9bHNpyxDxcXOagYeZYIITqGj7eU",
+          "kind": "playlist",
+          "subtitle": "49 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ztC8bM-EYOg/mqdefault.jpg",
+          "title": "巴西放克派對"
+        },
+        {
+          "id": "RDCLAK5uy_k-4bBZpMA00LtvrMiVcRNr0caz135-Ydw",
+          "kind": "playlist",
+          "subtitle": "46 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dZzBa7jlXY0/mqdefault.jpg",
+          "title": "Pop with Drops"
+        },
+        {
+          "id": "RDCLAK5uy_k_OEunzsOIJ_BOfbbTDgYN253bcPItURY",
+          "kind": "playlist",
+          "subtitle": "186 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NLIGDjKBLY0/mqdefault.jpg",
+          "title": "J-Pop Stress Busters"
+        },
+        {
+          "id": "RDCLAK5uy_nMqMWmqwZwDvMcqcAohgO_Dp_7zT1nSC8",
+          "kind": "playlist",
+          "subtitle": "90 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NZP153MUpHY/mqdefault.jpg",
+          "title": "BEAT ON"
+        }
+      ]
+    },
+    "vector:vector_systemlist_zh_mood_energy:96:12": {
+      "etag": "\"10furcgmddz7zr\"",
+      "hash": "25a6d270c6f9f64d0f877e76c64b1dc0a5f8d841c853558c5d05d193bed25321",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "RDCLAK5uy_mhmPRtdsF1Qcf-4iiXifBtxNVpsUJhnM4",
+          "kind": "playlist",
+          "subtitle": "115 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5CF5769fddM/mqdefault.jpg",
+          "title": "伊拉克派對"
+        },
+        {
+          "id": "RDCLAK5uy_mVTPKuxOCw9lTge4lfOCcFyzG5S6Xllp4",
+          "kind": "playlist",
+          "subtitle": "178 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MPuK06zUIhc/mqdefault.jpg",
+          "title": "Street Rap Bangers"
+        },
+        {
+          "id": "RDCLAK5uy_kWiJXUNLZM9EyS3GBGznl1ku8_cOos97U",
+          "kind": "playlist",
+          "subtitle": "82 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BX0lKSa_PTk/mqdefault.jpg",
+          "title": "超人氣舞曲熱門金曲"
+        },
+        {
+          "id": "RDCLAK5uy_lFScXiIb-vQnEX186pRe2ijM5r1CgxGEE",
+          "kind": "playlist",
+          "subtitle": "108 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nUsrYVxrDwI/mqdefault.jpg",
+          "title": "夏日鄉村音樂"
+        },
+        {
+          "id": "RDCLAK5uy_nhVoJli5s8qeV5aGOlouoJjsvblS7NANk",
+          "kind": "playlist",
+          "subtitle": "68 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QryoOF5jEbc/mqdefault.jpg",
+          "title": "擺動身體"
+        },
+        {
+          "id": "RDCLAK5uy_k-R9-M_MoPNXLwGQrxPQW9LavsOgSwONg",
+          "kind": "playlist",
+          "subtitle": "88 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/59adw8yKKhk/mqdefault.jpg",
+          "title": "Sunshine French Pop"
+        },
+        {
+          "id": "RDCLAK5uy_l1BnI_Z1w4u9RWuZEXSBHJg7EMM_5IDsk",
+          "kind": "playlist",
+          "subtitle": "89 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4QIZE708gJ4/mqdefault.jpg",
+          "title": "Hell Raisin' Country"
+        },
+        {
+          "id": "RDCLAK5uy_lHAc8IzmTYSw6TW4t90RSXWjK1AoFCV7s",
+          "kind": "playlist",
+          "subtitle": "54 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0R6zBcV9JiY/mqdefault.jpg",
+          "title": "巴西放克 150 BPM"
+        },
+        {
+          "id": "RDCLAK5uy_l63FFr2xGnXGVPfOWTNtAirWzsmZW_fBU",
+          "kind": "playlist",
+          "subtitle": "62 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0xji3PXYSxU/mqdefault.jpg",
+          "title": "Turkish Trap Party"
+        },
+        {
+          "id": "RDCLAK5uy_nbu2-fubCWEuBFeksTcYQGCax2kixpsp4",
+          "kind": "playlist",
+          "subtitle": "67 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zNOgNM0cRKI/mqdefault.jpg",
+          "title": "令人輕鬆愉悅的 Khaleeji 音樂"
+        },
+        {
+          "id": "RDCLAK5uy_lmuZKUgysMJKp759FYYSSWn7EQIOrBpNs",
+          "kind": "playlist",
+          "subtitle": "66 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MVDJxMxzTL0/mqdefault.jpg",
+          "title": "Country Workout"
+        },
+        {
+          "id": "RDCLAK5uy_k8M88-3MJRUSCbipYWLH5socYNhDI06Sc",
+          "kind": "playlist",
+          "subtitle": "20 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_ovdm2yX4MA/mqdefault.jpg",
+          "title": "EDM Anthems"
         }
       ]
     },
@@ -135468,8 +137612,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:0:12": {
-      "etag": "\"iusr6fwy6772s\"",
-      "hash": "6c316343094c9603d129d81e95f72688d07859a5b1317b0dd9fdf2245ae9be76",
+      "etag": "\"10afvquqazo7cr\"",
+      "hash": "1e3033417633bfabc9aee29cf78d5f368664030dfc3f9af4169e66a79fd698f6",
       "itemCount": 12,
       "payload": [
         {
@@ -135497,7 +137641,7 @@
         {
           "id": "RDCLAK5uy_lWpivTL71XRxOpopcMR26TK35Swhkgl7A",
           "kind": "playlist",
-          "subtitle": "42 首",
+          "subtitle": "49 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -135519,12 +137663,12 @@
         {
           "id": "RDCLAK5uy_lakC34Al6Kd5kidN8Bq0jpdnGUpIw2ctQ",
           "kind": "playlist",
-          "subtitle": "60 首",
+          "subtitle": "61 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/YAtV3BDRu5Y/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/wiFpK5uS4Zw/mqdefault.jpg",
           "title": "夢境"
         },
         {
@@ -135563,12 +137707,12 @@
         {
           "id": "RDCLAK5uy_n2cq0PxECLzVblC6NOorWjaCtF5NwXJT4",
           "kind": "playlist",
-          "subtitle": "31 首",
+          "subtitle": "64 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/h9G1kh4ola4/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/fqPWwLBq1M8/mqdefault.jpg",
           "title": "助眠爵士"
         },
         {
@@ -135980,8 +138124,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:48:12": {
-      "etag": "\"12e2h55yo7k6lm\"",
-      "hash": "8aec1070328d3974307ed84a82c76ae2b35259690bcfe0379ac0ca52bf1aa90d",
+      "etag": "\"631gsa9zgb6lm\"",
+      "hash": "5f95b1d538a2723bdeabfe28e5d12ffce9ac9dbbab2a59b504a0a4aeb0596965",
       "itemCount": 12,
       "payload": [
         {
@@ -136108,7 +138252,7 @@
         {
           "id": "RDCLAK5uy_laoIDYZBBSweaeIvrkZ0YaPkYjqX_uuj0",
           "kind": "playlist",
-          "subtitle": "49 首",
+          "subtitle": "41 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136119,8 +138263,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:60:12": {
-      "etag": "\"jux7bpy03g7vq\"",
-      "hash": "b175239887b5bc6dcdee24e4ba5daf1b7641fd1f279fc56d786dc8629f736251",
+      "etag": "\"kv8l16hkns7vr\"",
+      "hash": "57a906a24736b999041cf3b993bd3374687b33965cca9d1ed11379c925673a0b",
       "itemCount": 12,
       "payload": [
         {
@@ -136170,7 +138314,7 @@
         {
           "id": "RDCLAK5uy_ntOL7kXTRxvIvmIsrYzKQ_MEpBdIywpQc",
           "kind": "playlist",
-          "subtitle": "67 首",
+          "subtitle": "101 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136192,7 +138336,7 @@
         {
           "id": "RDCLAK5uy_k2csipDOuQwX6-GGZd4ys5MM5bueEqkrE",
           "kind": "playlist",
-          "subtitle": "64 首",
+          "subtitle": "51 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136203,7 +138347,7 @@
         {
           "id": "RDCLAK5uy_l7nE3iR6eJpMdU08uxoNBJ7QenxwqfY0E",
           "kind": "playlist",
-          "subtitle": "56 首",
+          "subtitle": "64 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136214,7 +138358,7 @@
         {
           "id": "RDCLAK5uy_mdwsZFtQhJyGQPuQA612VoRPXp-OJfzx8",
           "kind": "playlist",
-          "subtitle": "35 首",
+          "subtitle": "50 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136236,7 +138380,7 @@
         {
           "id": "RDCLAK5uy_l2OjbOL4oVkkHE86UT6oQCNufuv8d0luQ",
           "kind": "playlist",
-          "subtitle": "54 首",
+          "subtitle": "86 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136247,7 +138391,7 @@
         {
           "id": "RDCLAK5uy_kGHYAi69KWgIEaGH9-sYOJKbvhuUovJUM",
           "kind": "playlist",
-          "subtitle": "67 首",
+          "subtitle": "52 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136258,14 +138402,14 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:72:12": {
-      "etag": "\"17tzmgcfsj87v3\"",
-      "hash": "b2de89ad9e67278a9c7c98c9694c0eb0160781ba6396bfffe699bc5f49746352",
+      "etag": "\"q3afyl0pwc7v2\"",
+      "hash": "bd1945c7544ed165718468103e2ba534a3586e5f8aa801a7bb0e52d5b69c89f2",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_kL57PLcOmExjhzqGfGhvA82ZWe4fPH2c4",
           "kind": "playlist",
-          "subtitle": "58 首",
+          "subtitle": "59 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136298,7 +138442,7 @@
         {
           "id": "RDCLAK5uy_kGcITlIUh14Xy7FgqGiLtEJtKoDax4TkI",
           "kind": "playlist",
-          "subtitle": "76 首",
+          "subtitle": "11 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136309,7 +138453,7 @@
         {
           "id": "RDCLAK5uy_kC7zQrU0zB_7fpmDNsc5zf_0DjoGw7LZA",
           "kind": "playlist",
-          "subtitle": "65 首",
+          "subtitle": "63 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136320,7 +138464,7 @@
         {
           "id": "RDCLAK5uy_m9YprJ504SUVUWr1oygQy6p-lV8N11BZw",
           "kind": "playlist",
-          "subtitle": "28 首",
+          "subtitle": "6 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136331,7 +138475,7 @@
         {
           "id": "RDCLAK5uy_l4rPvz8nCpkqPnBxstuE6OhDSRsCW4aVk",
           "kind": "playlist",
-          "subtitle": "99 首",
+          "subtitle": "73 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136353,7 +138497,7 @@
         {
           "id": "RDCLAK5uy_kj1TrDdKf7kPkNout7Sq34EsX45iWBaBw",
           "kind": "playlist",
-          "subtitle": "68 首",
+          "subtitle": "66 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136375,7 +138519,7 @@
         {
           "id": "RDCLAK5uy_nA42_0IX0YmeKb7pLRjm_J8e2ja445Urc",
           "kind": "playlist",
-          "subtitle": "54 首",
+          "subtitle": "97 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136397,14 +138541,14 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_sleep:84:12": {
-      "etag": "\"16m7mbpqhts7rc\"",
-      "hash": "91143ec0f197d06f8457ba84911327cd2dfe0c86d2884a2ce71a2d532623ad56",
+      "etag": "\"k2ttlhy7os7rc\"",
+      "hash": "d64bcc36b9fa389b4c12f9256be77f61dab5d17fca9dac453afc2422973756d6",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_ldLj_raotpFCQGWiQ7L-Ag5GTbGOyjgRY",
           "kind": "playlist",
-          "subtitle": "83 首",
+          "subtitle": "54 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136415,7 +138559,7 @@
         {
           "id": "RDCLAK5uy_mS5x3haS3YiflmBHa8rK0rOZHgn0lhG0w",
           "kind": "playlist",
-          "subtitle": "43 首",
+          "subtitle": "64 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136426,7 +138570,7 @@
         {
           "id": "RDCLAK5uy_lW6vYWQsUf4Jlhvy9Bo7476unA14vqfPo",
           "kind": "playlist",
-          "subtitle": "19 首",
+          "subtitle": "44 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136437,7 +138581,7 @@
         {
           "id": "RDCLAK5uy_mSTV5z2uzELcKu99EJcQxfuDZwO6CMLFM",
           "kind": "playlist",
-          "subtitle": "29 首",
+          "subtitle": "15 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136481,7 +138625,7 @@
         {
           "id": "RDCLAK5uy_n_58P2jZ53FkGBStYWQTPEu74PG4VDttM",
           "kind": "playlist",
-          "subtitle": "25 首",
+          "subtitle": "55 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136492,7 +138636,7 @@
         {
           "id": "RDCLAK5uy_lbcexX19-ShfMgzXpxayVFh_9l4Dml-kg",
           "kind": "playlist",
-          "subtitle": "96 首",
+          "subtitle": "98 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136503,7 +138647,7 @@
         {
           "id": "RDCLAK5uy_l08LfbwAl2vGIbyjo6_wAHcMzazdLIdBE",
           "kind": "playlist",
-          "subtitle": "51 首",
+          "subtitle": "33 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -136525,7 +138669,7 @@
         {
           "id": "RDCLAK5uy_kTgC4HnOI3u2_HgrS_x6D9n3gyImsgnh0",
           "kind": "playlist",
-          "subtitle": "142 首",
+          "subtitle": "120 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -141457,9 +143601,9 @@
       "nextOffset": 0
     },
     "vector_systemlist_zh_genre_relax": {
-      "complete": true,
+      "complete": false,
       "lastCompletedAt": "2026-08-24T03:16:29Z",
-      "nextOffset": 0
+      "nextOffset": 12
     },
     "vector_systemlist_zh_genre_rock": {
       "complete": true,
@@ -141482,8 +143626,9 @@
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_energy": {
-      "complete": false,
-      "nextOffset": 72
+      "complete": true,
+      "lastCompletedAt": "2026-08-24T09:04:27Z",
+      "nextOffset": 0
     },
     "vector_systemlist_zh_mood_focus": {
       "complete": true,
@@ -141522,7 +143667,7 @@
     },
     "vector_systemlist_zh_mood_sleep": {
       "complete": true,
-      "lastCompletedAt": "2026-08-20T20:46:02Z",
+      "lastCompletedAt": "2026-08-24T09:04:29Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_themed": {
