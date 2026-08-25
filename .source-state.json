@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "3f3d7c4a39cf1f9ce048695bec1a91a2a369cabc3aa1dd8377dc30aa268f3e62",
+    "hash": "a3800746eba1a09b75ab52de4270969bf385179e0f96ef9ae3eea4d0720916ef",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,11 +22,12 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_jazz",
+      "vector_systemlist_zh_genre_soundtrack",
+      "vector_systemlist_zh_genre_relax",
       "vector_systemlist_zh_genre_country",
-      "vector_systemlist_zh_mood_workout",
+      "vector_systemlist_zh_mood_dinner",
       "vector_systemlist_zh_mood_mood",
-      "vector_systemlist_zh_mood_focus",
+      "vector_systemlist_zh_mood_chill",
       "vector_promote_playlist_zh"
     ]
   },
@@ -37192,6 +37193,272 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/XGKJxb2b3ZI/mqdefault.jpg",
           "title": "benny blanco, Selena Gomez, Becky G - Te Olvido (La La) [Official Music Video]"
+        }
+      ]
+    },
+    "playlist:208867862": {
+      "etag": "\"46vsqaqmwwom\"",
+      "hash": "d768c70347d7e9e3f016ae9f6f14752e8143709ce0ad4df142950d157bf895ac",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:19",
+          "id": "XF9ylbYGopQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XF9ylbYGopQ/mqdefault.jpg",
+          "title": "Bubble"
+        }
+      ]
+    },
+    "playlist:208867864": {
+      "etag": "\"12r4w6dq8quqc\"",
+      "hash": "cd1c450f695fc59e81720ab5280d23a0098fbb48dedbc64d40a53a021721a295",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:40",
+          "id": "KEfjvc5iRiY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KEfjvc5iRiY/mqdefault.jpg",
+          "title": "坚持到底 - (R&B版) ｜『是你讓我翻破愛情的祕笈 四個字 堅持到底』"
+        }
+      ]
+    },
+    "playlist:208867865": {
+      "etag": "\"78tx8yhwokoy\"",
+      "hash": "5bd647b313b22263f7ee3a869dfd61d37133299977990cc10bbd2e09bd7dda75",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "2:58",
+          "id": "WKjypLs1pbA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WKjypLs1pbA/mqdefault.jpg",
+          "title": "甲乙丙丁 (R&B说唱版)"
+        }
+      ]
+    },
+    "playlist:208867866": {
+      "etag": "\"vddg83evn4p0\"",
+      "hash": "5edc8705b9220f4459213ba85aee0278fbbcbfc3ed8d551d6745cc028e0aa611",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "5:18",
+          "id": "tyalcBAQgs0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tyalcBAQgs0/mqdefault.jpg",
+          "title": "冰川之下"
+        }
+      ]
+    },
+    "playlist:208867867": {
+      "etag": "\"zt0zaaqn5hqc\"",
+      "hash": "c577fe3bb6832a45c9558de126d412dac3c55782c5f9a7a7008bd486c6c14f98",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:58",
+          "id": "XcalNJRHHW4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XcalNJRHHW4/mqdefault.jpg",
+          "title": "冬日恋歌 ｜(R&B版) ｜Winter Sonata"
+        }
+      ]
+    },
+    "playlist:208867868": {
+      "etag": "\"ab9pifpmvc25i\"",
+      "hash": "3fc5c7ef739fdf3ceda6ebd3cfe4d2336ca2f3698647fb824adc2438f8df83ed",
+      "itemCount": 13,
+      "payload": [
+        {
+          "durationText": "4:07",
+          "id": "JhuAPwrmH1Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JhuAPwrmH1Q/mqdefault.jpg",
+          "title": "Orenji"
+        },
+        {
+          "durationText": "4:09",
+          "id": "KV1nQTezazk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KV1nQTezazk/mqdefault.jpg",
+          "title": "Toppakou"
+        },
+        {
+          "durationText": "4:36",
+          "id": "3UJYxh535Lw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3UJYxh535Lw/mqdefault.jpg",
+          "title": "Kessensupiritto"
+        },
+        {
+          "durationText": "4:08",
+          "id": "b5lsuPxMFmw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/b5lsuPxMFmw/mqdefault.jpg",
+          "title": "BURNOUT SYNDROMES 『PHOENIX』Music Video（TVアニメ「ハイキュー!! TO THE TOP」オープニングテーマ）"
+        },
+        {
+          "durationText": "4:42",
+          "id": "dfMb37KGqdE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dfMb37KGqdE/mqdefault.jpg",
+          "title": "BURNOUT SYNDROMES - Hikariare"
+        },
+        {
+          "durationText": "2:27",
+          "id": "txgg-fbVjf4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/txgg-fbVjf4/mqdefault.jpg",
+          "title": "BURNOUT SYNDROMES - Fly High!! (Short Version)"
+        },
+        {
+          "durationText": "3:40",
+          "id": "SQ56SCvaYKI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SQ56SCvaYKI/mqdefault.jpg",
+          "title": "Aimu A Biriba"
+        },
+        {
+          "durationText": "3:32",
+          "id": "6qW39emYthA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6qW39emYthA/mqdefault.jpg",
+          "title": "LEO"
+        },
+        {
+          "durationText": "4:17",
+          "id": "7VyO8FY7UW0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7VyO8FY7UW0/mqdefault.jpg",
+          "title": "Ah Yeah!!"
+        },
+        {
+          "durationText": "4:46",
+          "id": "FHbfXtjUaWs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FHbfXtjUaWs/mqdefault.jpg",
+          "title": "Tenchi Gaeshi"
+        },
+        {
+          "durationText": "2:55",
+          "id": "4Z4XOEDf8Xs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4Z4XOEDf8Xs/mqdefault.jpg",
+          "title": "IMAJINESHON"
+        },
+        {
+          "durationText": "1:41",
+          "id": "kUtraZEed1w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kUtraZEed1w/mqdefault.jpg",
+          "title": "haikyu!!"
+        }
+      ]
+    },
+    "playlist:208867869": {
+      "etag": "\"twnhp00ufust\"",
+      "hash": "430d33c1e6fda979f3c24210a8e1f4412fe925967a6bd7cac96dc35da382e313",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "2:30",
+          "id": "jGvihirVVQg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jGvihirVVQg/mqdefault.jpg",
+          "title": "ILLIT | I Got Your Back (Feat. JISOO, MOMOKA of HANA) Korean Ver. | Special Video 📣"
+        }
+      ]
+    },
+    "playlist:208867870": {
+      "etag": "\"vf5if7gkdfxw\"",
+      "hash": "f26be01ea3404b0e39656b28cc26d21b1230d45355e11abab773047d4d5ee8c8",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "1:46",
+          "id": "8a_SRI2mGUU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8a_SRI2mGUU/mqdefault.jpg",
+          "title": "vengeance (super slowed)"
+        },
+        {
+          "durationText": "1:39",
+          "id": "EbFDhKdSByc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EbFDhKdSByc/mqdefault.jpg",
+          "title": "vengeance (slowed)"
+        },
+        {
+          "durationText": "1:24",
+          "id": "4fjdvcE2qkY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4fjdvcE2qkY/mqdefault.jpg",
+          "title": "vengeance"
         }
       ]
     },
@@ -105510,419 +105777,419 @@
       ]
     },
     "vector:vector_latest_zh:576:12": {
-      "etag": "\"am6bwcgyd96jk\"",
-      "hash": "72d8fab82bdff5271008c130a59d469ed3cfed8a4102f3ef3b3cc5905d4d4bcc",
+      "etag": "\"10pdxy35bh56h0\"",
+      "hash": "f691d7594b77672906c1f39e3d6bc09ce463f999580c75bc463140371efa7491",
       "itemCount": 12,
       "payload": [
         {
-          "id": "157278998",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/zOqjc7ZSVHg/mqdefault.jpg",
-          "title": "兜轉 - Single"
-        },
-        {
-          "id": "157278755",
+          "id": "166295808",
           "kind": "playlist",
           "subtitle": "10 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/tIk01ITX0Ik/mqdefault.jpg",
-          "title": "各自安好"
+          "thumbnailURL": "https://i.ytimg.com/vi/kkDF65JxnzA/mqdefault.jpg",
+          "title": "fff"
         },
         {
-          "id": "157278723",
+          "id": "165858810",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/bZ1nTf_jVKw/mqdefault.jpg",
-          "title": "八三夭 - 我不需要每個人都愛我 - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/g-HuUJtZx-8/mqdefault.jpg",
+          "title": "別怕 - 單曲"
         },
         {
-          "id": "156762729",
+          "id": "165858794",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/9y_p8n0mHZU/mqdefault.jpg",
-          "title": "青春咱的夢 - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/bpxpV0g0l-g/mqdefault.jpg",
+          "title": "勇氣 - 單曲"
         },
         {
-          "id": "156762695",
+          "id": "165858756",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/Ja9KjenzA7g/mqdefault.jpg",
-          "title": "別像個男人 - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/AUp8MZbkQfI/mqdefault.jpg",
+          "title": "青空未來 - 單曲"
         },
         {
-          "id": "156762664",
+          "id": "165858727",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/AkNN29N7OHg/mqdefault.jpg",
-          "title": "希望的明日 - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/JmPa470LdBY/mqdefault.jpg",
+          "title": "WE KNOW (feat. BG8LOCC) - 單曲"
         },
         {
-          "id": "156762643",
+          "id": "165398170",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/0rp3pP2Xwhs/mqdefault.jpg",
-          "title": "茄子蛋 - 愛情你比我想的閣較偉大 - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/W_bWRJlJ7oE/mqdefault.jpg",
+          "title": "第一個愛人 - 單曲"
         },
         {
-          "id": "156291118",
+          "id": "165398065",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/2MrGsRnqMRc/mqdefault.jpg",
-          "title": "時間・時間 - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/n14hKntNel0/mqdefault.jpg",
+          "title": "2020 古堡 - 單曲"
         },
         {
-          "id": "156290457",
+          "id": "165397994",
           "kind": "playlist",
-          "subtitle": "6 首",
+          "subtitle": "4 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/sfBdispxvdA/mqdefault.jpg",
-          "title": "勉強的愛"
+          "thumbnailURL": "https://i.ytimg.com/vi/Y-tRjCkK3Mo/mqdefault.jpg",
+          "title": "諾言"
         },
         {
-          "id": "156290406",
+          "id": "165397815",
           "kind": "playlist",
-          "subtitle": "1 首",
+          "subtitle": "12 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/5Ao0rJCDl5E/mqdefault.jpg",
-          "title": "心靈的冒險 - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/fcxNzaSQ6WM/mqdefault.jpg",
+          "title": "鑽石之心"
         },
         {
-          "id": "156290306",
+          "id": "164890396",
           "kind": "playlist",
-          "subtitle": "1 首",
+          "subtitle": "9 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/uK8wzj7JLMY/mqdefault.jpg",
-          "title": "十分鐘的戀愛 - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/zjWFRZ8VlHg/mqdefault.jpg",
+          "title": "25 歲的我明天還是要上班"
         },
         {
-          "id": "155831253",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/s9ju4E7JI4A/mqdefault.jpg",
-          "title": "如果海能夠 - Single"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:588:12": {
-      "etag": "\"ypo6728no46kj\"",
-      "hash": "121f581e2e1c65cdc296494756a816ef4b1c5c6eaf3f3819f953b9f6cf1a8d6a",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "155831242",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/SB--yOC2xg8/mqdefault.jpg",
-          "title": "就懂了 - Single"
-        },
-        {
-          "id": "155831199",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/E341o6aow7E/mqdefault.jpg",
-          "title": "親愛的朋友 - Single"
-        },
-        {
-          "id": "155831109",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/B1tArM5XYuc/mqdefault.jpg",
-          "title": "88bars - single"
-        },
-        {
-          "id": "155399127",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/fwAvcglDtFE/mqdefault.jpg",
-          "title": "小心翻閱 - Single"
-        },
-        {
-          "id": "155398799",
-          "kind": "playlist",
-          "subtitle": "3 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/We8cR9jQ9PE/mqdefault.jpg",
-          "title": "周末 - Single"
-        },
-        {
-          "id": "155398692",
-          "kind": "playlist",
-          "subtitle": "7 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/NI78oRsoXB4/mqdefault.jpg",
-          "title": "PEDESTA"
-        },
-        {
-          "id": "155398670",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/NGdX2CAR6Ng/mqdefault.jpg",
-          "title": "Have A Nice Day - Single"
-        },
-        {
-          "id": "154917222",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/lCRX7MvuRkE/mqdefault.jpg",
-          "title": "我要用黑魔法把你變成一隻魚 - Single"
-        },
-        {
-          "id": "154917215",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/EM1Vgi4cTD4/mqdefault.jpg",
-          "title": "甘蔗掰掰 - Single"
-        },
-        {
-          "id": "154917211",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/JW52KtyGMBI/mqdefault.jpg",
-          "title": "平行世界 - Single"
-        },
-        {
-          "id": "154917202",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/EIrKX29kPbQ/mqdefault.jpg",
-          "title": "不完美的我 - Single"
-        },
-        {
-          "id": "154426099",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/oZEW9sznNxo/mqdefault.jpg",
-          "title": "My Love is Selfish - Single"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:600:12": {
-      "etag": "\"qr9hpagqh86hz\"",
-      "hash": "d112b263b1d9bc7a4c215358c3170a72d1d803ac0ec549f95c3e46c1acfcc822",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "154426069",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/UX7oP6HJlwI/mqdefault.jpg",
-          "title": "黃金年代 - Single"
-        },
-        {
-          "id": "154425982",
-          "kind": "playlist",
-          "subtitle": "7 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/1ryrCK-JdWA/mqdefault.jpg",
-          "title": "木曜跨界演唱會 - Rising"
-        },
-        {
-          "id": "154425931",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/aZ8ZyjiULEU/mqdefault.jpg",
-          "title": "用破碎的心修好破碎的心 - Single"
-        },
-        {
-          "id": "153867117",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/wBScjyf6qns/mqdefault.jpg",
-          "title": "馬克吐溫 - Single"
-        },
-        {
-          "id": "153867110",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/sW53pwHgaQ0/mqdefault.jpg",
-          "title": "漢堡包 - Single"
-        },
-        {
-          "id": "153867040",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/2oZr3uv_ddc/mqdefault.jpg",
-          "title": "戀曲 2020 - Single"
-        },
-        {
-          "id": "153866991",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/IqEbBNavkH4/mqdefault.jpg",
-          "title": "餘額 - Single"
-        },
-        {
-          "id": "152187143",
-          "kind": "playlist",
-          "subtitle": "6 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/0IWdoXl6piY/mqdefault.jpg",
-          "title": "日環食"
-        },
-        {
-          "id": "152185873",
+          "id": "164890712",
           "kind": "playlist",
           "subtitle": "8 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/BjrPNxQ5ezU/mqdefault.jpg",
-          "title": "來日方長"
+          "thumbnailURL": "https://i.ytimg.com/vi/O4ToX25tbDI/mqdefault.jpg",
+          "title": "大嘻哈時代，Vol. 2, Ep. 4"
         },
         {
-          "id": "152185811",
-          "kind": "playlist",
-          "subtitle": "2 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/jl7224xs9Uw/mqdefault.jpg",
-          "title": "Ladies & Gentlemen"
-        },
-        {
-          "id": "152185783",
+          "id": "164890677",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/D61vQ64qV5I/mqdefault.jpg",
-          "title": "依然你在 - Single"
-        },
+          "thumbnailURL": "https://i.ytimg.com/vi/OArZO5WICI8/mqdefault.jpg",
+          "title": "變成你 - 單曲"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:588:12": {
+      "etag": "\"83lhlggofn6gr\"",
+      "hash": "0e5d37700ac0e7dcf23b27b304210dc88416c78939a2d66a11f1d1be31a3f46e",
+      "itemCount": 12,
+      "payload": [
         {
-          "id": "152185677",
+          "id": "164890384",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/KjwpX-agTZ0/mqdefault.jpg",
-          "title": "溜浪 - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/zfqiLSjxJ14/mqdefault.jpg",
+          "title": "出走 - 單曲"
+        },
+        {
+          "id": "164359658",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lzKBvl_7QqQ/mqdefault.jpg",
+          "title": "better off without you - 單曲"
+        },
+        {
+          "id": "164359628",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mWtGH9_AKT0/mqdefault.jpg",
+          "title": "英雄 - 單曲"
+        },
+        {
+          "id": "164359681",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6acon9ad9UQ/mqdefault.jpg",
+          "title": "我還是一個人 - 單曲"
+        },
+        {
+          "id": "164359693",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QYF5NXK41z0/mqdefault.jpg",
+          "title": "再見"
+        },
+        {
+          "id": "163924602",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BxjZcGTUWJM/mqdefault.jpg",
+          "title": "終點起點 - 單曲"
+        },
+        {
+          "id": "163924605",
+          "kind": "playlist",
+          "subtitle": "4 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fMAlzNjqvHs/mqdefault.jpg",
+          "title": "消化不良"
+        },
+        {
+          "id": "163924592",
+          "kind": "playlist",
+          "subtitle": "4 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zo0Yitd3Vo8/mqdefault.jpg",
+          "title": "和。唱"
+        },
+        {
+          "id": "163924591",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EEagk7Xs3i4/mqdefault.jpg",
+          "title": "Have A Nice Day"
+        },
+        {
+          "id": "163467143",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aT_S2K32ZAE/mqdefault.jpg",
+          "title": "FREEWAY - 單曲"
+        },
+        {
+          "id": "163466927",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZsbaD7-4bgc/mqdefault.jpg",
+          "title": "裹著心的光 - 單曲"
+        },
+        {
+          "id": "163466900",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zo0Yitd3Vo8/mqdefault.jpg",
+          "title": "禁愛條款 - 單曲"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:600:12": {
+      "etag": "\"7kd25f9ep66hj\"",
+      "hash": "309cbc27d4a9163c3020bfbfcf163ff9f8b99f56deda924c515cd51ddc08c9d5",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "163466877",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jJpAGm3e2Tg/mqdefault.jpg",
+          "title": "Changing - 單曲"
+        },
+        {
+          "id": "163001886",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wvaCpJ3gojk/mqdefault.jpg",
+          "title": "憑什麼 - 單曲"
+        },
+        {
+          "id": "163001884",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qg15WCJQcZU/mqdefault.jpg",
+          "title": "諾言 - 單曲"
+        },
+        {
+          "id": "163001879",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fMAlzNjqvHs/mqdefault.jpg",
+          "title": "消化不良 - 單曲"
+        },
+        {
+          "id": "163001872",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qWEsv4DJddE/mqdefault.jpg",
+          "title": "Tell Me - 單曲"
+        },
+        {
+          "id": "162551432",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CEJ9C3ZScPY/mqdefault.jpg",
+          "title": "離開你以後 - 單曲"
+        },
+        {
+          "id": "162551407",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hvs11gOcT9Y/mqdefault.jpg",
+          "title": "小薇 - 單曲"
+        },
+        {
+          "id": "162551382",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8c_pgYjJ_JE/mqdefault.jpg",
+          "title": "I Wanna Holiday - 單曲"
+        },
+        {
+          "id": "162551301",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QUJZDjDGKXY/mqdefault.jpg",
+          "title": "甩 - 單曲"
+        },
+        {
+          "id": "162066457",
+          "kind": "playlist",
+          "subtitle": "4 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/inTX4ZypaJs/mqdefault.jpg",
+          "title": "一切都是為了與你相遇"
+        },
+        {
+          "id": "162066437",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tjJgpZY2qqY/mqdefault.jpg",
+          "title": "有毒不回 - 單曲"
+        },
+        {
+          "id": "162066374",
+          "kind": "playlist",
+          "subtitle": "8 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zQGiiIMqisQ/mqdefault.jpg",
+          "title": "Mama Jeans and Daddy Shoes"
         }
       ]
     },
@@ -106066,7 +106333,841 @@
       ]
     },
     "vector:vector_latest_zh:612:12": {
-      "etag": "\"189ajl335b26fi\"",
+      "etag": "\"wtmw8s63y06hf\"",
+      "hash": "88711bfd2b9aac094a57dceb72ed9ab5c42c74a147e3f34a37100e8e93dbc9e0",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "162064866",
+          "kind": "playlist",
+          "subtitle": "3 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IfgyvmHgKX4/mqdefault.jpg",
+          "title": "PHAT LIFE"
+        },
+        {
+          "id": "161699155",
+          "kind": "playlist",
+          "subtitle": "3 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9wE3E5BQOzc/mqdefault.jpg",
+          "title": "輕輕 - Single"
+        },
+        {
+          "id": "161699129",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gEhmvlpP9eE/mqdefault.jpg",
+          "title": "Floaty Shit - Single"
+        },
+        {
+          "id": "161699037",
+          "kind": "playlist",
+          "subtitle": "7 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dMygzQFa4s4/mqdefault.jpg",
+          "title": "Sky"
+        },
+        {
+          "id": "161698816",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zOqjc7ZSVHg/mqdefault.jpg",
+          "title": "唯一想了解的人"
+        },
+        {
+          "id": "161163849",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1a7V8zwbD8o/mqdefault.jpg",
+          "title": "因為是你 - Single"
+        },
+        {
+          "id": "161162045",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CyqQP0hDhV8/mqdefault.jpg",
+          "title": "支線任務 - Single"
+        },
+        {
+          "id": "161163825",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gXma0KbQ2oQ/mqdefault.jpg",
+          "title": "家 - Single"
+        },
+        {
+          "id": "161161949",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dhBXaUKEGSc/mqdefault.jpg",
+          "title": "國蛋 - Let Me Talk - Single"
+        },
+        {
+          "id": "160768406",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tEVUwLdakRM/mqdefault.jpg",
+          "title": "奶奶 - Single"
+        },
+        {
+          "id": "160768348",
+          "kind": "playlist",
+          "subtitle": "4 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6b1BogVMcRo/mqdefault.jpg",
+          "title": "底片裡的夏卡爾"
+        },
+        {
+          "id": "160768179",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nFWXxxWJeCs/mqdefault.jpg",
+          "title": "太難唱了"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:624:12": {
+      "etag": "\"h6uxbvv0pg6kt\"",
+      "hash": "f5374aad4d0b9abf77ed8abd22eabdb661c740b7a5eef200b0314686de62c2e8",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "160768097",
+          "kind": "playlist",
+          "subtitle": "7 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YRrhsBZ1HwU/mqdefault.jpg",
+          "title": "第四象限"
+        },
+        {
+          "id": "160315945",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NDDa_AV8cks/mqdefault.jpg",
+          "title": "Sweet Baby - Single"
+        },
+        {
+          "id": "160315969",
+          "kind": "playlist",
+          "subtitle": "9 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ikdxgMSdnkM/mqdefault.jpg",
+          "title": "歹勢好勢"
+        },
+        {
+          "id": "160315959",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/99OCenFFIQc/mqdefault.jpg",
+          "title": "Fall in Love - Single"
+        },
+        {
+          "id": "160315950",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ryjh-YcO4ag/mqdefault.jpg",
+          "title": "規則就是用來打破的 - Single"
+        },
+        {
+          "id": "159849636",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yjQhQduQFZc/mqdefault.jpg",
+          "title": "戒掉你 - Single"
+        },
+        {
+          "id": "159849618",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ILOdvywgUrE/mqdefault.jpg",
+          "title": "四月是適合說謊的日子 - Single"
+        },
+        {
+          "id": "159849612",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_wXlhqP-8x4/mqdefault.jpg",
+          "title": "Trash Talk - Single"
+        },
+        {
+          "id": "159849583",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SNTu7cHdy9s/mqdefault.jpg",
+          "title": "FEEL - Single"
+        },
+        {
+          "id": "159327498",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/R29NO7iMY-w/mqdefault.jpg",
+          "title": "I"
+        },
+        {
+          "id": "159327483",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3HsIaWuNeX0/mqdefault.jpg",
+          "title": "我很好騙 - Single"
+        },
+        {
+          "id": "159327465",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/f56eHwC8jEQ/mqdefault.jpg",
+          "title": "最美的風景 (feat. 莫宰羊) - Single"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:636:12": {
+      "etag": "\"zo7v58vr3r6m4\"",
+      "hash": "89b034453e536ae57fa80bba04d790d2108ccea7427a9bf4a6009c0e00b5c658",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "158642994",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2GMz3JpHquE/mqdefault.jpg",
+          "title": "NEED NO MORE - Single"
+        },
+        {
+          "id": "158643099",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8kiZEa4y6uw/mqdefault.jpg",
+          "title": "走建國路回家但後座少ㄌ泥 - Single"
+        },
+        {
+          "id": "158643010",
+          "kind": "playlist",
+          "subtitle": "9 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iqU66VfCqkw/mqdefault.jpg",
+          "title": "N1： 那屋瓦一號作品"
+        },
+        {
+          "id": "158642946",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IfgyvmHgKX4/mqdefault.jpg",
+          "title": "大淵 - FatBoyGang - Single"
+        },
+        {
+          "id": "158180334",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/m-xUq4fwS90/mqdefault.jpg",
+          "title": "那卡西 - Single"
+        },
+        {
+          "id": "158180038",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xV8a3ccBj5Y/mqdefault.jpg",
+          "title": "Do Do Do - Single"
+        },
+        {
+          "id": "158179503",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/A-OziFCxXsA/mqdefault.jpg",
+          "title": "舞台 - Single"
+        },
+        {
+          "id": "158179250",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-7uaa_ONFo0/mqdefault.jpg",
+          "title": "超能力 - Single"
+        },
+        {
+          "id": "157720287",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fIayoapgBiw/mqdefault.jpg",
+          "title": "豐盈與匱乏的孩子 - Single"
+        },
+        {
+          "id": "157720261",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BsBIeJO_Pho/mqdefault.jpg",
+          "title": "我沒錯 - Single"
+        },
+        {
+          "id": "157720168",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/olEOQLafBzs/mqdefault.jpg",
+          "title": "囝仔汗 - Single"
+        },
+        {
+          "id": "157720140",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QuoEeSO22vU/mqdefault.jpg",
+          "title": "棉花糖 - 我常常想起你 - Single"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:648:12": {
+      "etag": "\"17ay15lm9146jk\"",
+      "hash": "72d8fab82bdff5271008c130a59d469ed3cfed8a4102f3ef3b3cc5905d4d4bcc",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "157278998",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zOqjc7ZSVHg/mqdefault.jpg",
+          "title": "兜轉 - Single"
+        },
+        {
+          "id": "157278755",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tIk01ITX0Ik/mqdefault.jpg",
+          "title": "各自安好"
+        },
+        {
+          "id": "157278723",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bZ1nTf_jVKw/mqdefault.jpg",
+          "title": "八三夭 - 我不需要每個人都愛我 - Single"
+        },
+        {
+          "id": "156762729",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9y_p8n0mHZU/mqdefault.jpg",
+          "title": "青春咱的夢 - Single"
+        },
+        {
+          "id": "156762695",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ja9KjenzA7g/mqdefault.jpg",
+          "title": "別像個男人 - Single"
+        },
+        {
+          "id": "156762664",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AkNN29N7OHg/mqdefault.jpg",
+          "title": "希望的明日 - Single"
+        },
+        {
+          "id": "156762643",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0rp3pP2Xwhs/mqdefault.jpg",
+          "title": "茄子蛋 - 愛情你比我想的閣較偉大 - Single"
+        },
+        {
+          "id": "156291118",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2MrGsRnqMRc/mqdefault.jpg",
+          "title": "時間・時間 - Single"
+        },
+        {
+          "id": "156290457",
+          "kind": "playlist",
+          "subtitle": "6 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sfBdispxvdA/mqdefault.jpg",
+          "title": "勉強的愛"
+        },
+        {
+          "id": "156290406",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5Ao0rJCDl5E/mqdefault.jpg",
+          "title": "心靈的冒險 - Single"
+        },
+        {
+          "id": "156290306",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uK8wzj7JLMY/mqdefault.jpg",
+          "title": "十分鐘的戀愛 - Single"
+        },
+        {
+          "id": "155831253",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/s9ju4E7JI4A/mqdefault.jpg",
+          "title": "如果海能夠 - Single"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:660:12": {
+      "etag": "\"jxctuudmhy6kj\"",
+      "hash": "121f581e2e1c65cdc296494756a816ef4b1c5c6eaf3f3819f953b9f6cf1a8d6a",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "155831242",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SB--yOC2xg8/mqdefault.jpg",
+          "title": "就懂了 - Single"
+        },
+        {
+          "id": "155831199",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/E341o6aow7E/mqdefault.jpg",
+          "title": "親愛的朋友 - Single"
+        },
+        {
+          "id": "155831109",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/B1tArM5XYuc/mqdefault.jpg",
+          "title": "88bars - single"
+        },
+        {
+          "id": "155399127",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fwAvcglDtFE/mqdefault.jpg",
+          "title": "小心翻閱 - Single"
+        },
+        {
+          "id": "155398799",
+          "kind": "playlist",
+          "subtitle": "3 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/We8cR9jQ9PE/mqdefault.jpg",
+          "title": "周末 - Single"
+        },
+        {
+          "id": "155398692",
+          "kind": "playlist",
+          "subtitle": "7 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NI78oRsoXB4/mqdefault.jpg",
+          "title": "PEDESTA"
+        },
+        {
+          "id": "155398670",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NGdX2CAR6Ng/mqdefault.jpg",
+          "title": "Have A Nice Day - Single"
+        },
+        {
+          "id": "154917222",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lCRX7MvuRkE/mqdefault.jpg",
+          "title": "我要用黑魔法把你變成一隻魚 - Single"
+        },
+        {
+          "id": "154917215",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EM1Vgi4cTD4/mqdefault.jpg",
+          "title": "甘蔗掰掰 - Single"
+        },
+        {
+          "id": "154917211",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JW52KtyGMBI/mqdefault.jpg",
+          "title": "平行世界 - Single"
+        },
+        {
+          "id": "154917202",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EIrKX29kPbQ/mqdefault.jpg",
+          "title": "不完美的我 - Single"
+        },
+        {
+          "id": "154426099",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oZEW9sznNxo/mqdefault.jpg",
+          "title": "My Love is Selfish - Single"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:672:12": {
+      "etag": "\"10e480jtzao6hz\"",
+      "hash": "d112b263b1d9bc7a4c215358c3170a72d1d803ac0ec549f95c3e46c1acfcc822",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "154426069",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UX7oP6HJlwI/mqdefault.jpg",
+          "title": "黃金年代 - Single"
+        },
+        {
+          "id": "154425982",
+          "kind": "playlist",
+          "subtitle": "7 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1ryrCK-JdWA/mqdefault.jpg",
+          "title": "木曜跨界演唱會 - Rising"
+        },
+        {
+          "id": "154425931",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aZ8ZyjiULEU/mqdefault.jpg",
+          "title": "用破碎的心修好破碎的心 - Single"
+        },
+        {
+          "id": "153867117",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wBScjyf6qns/mqdefault.jpg",
+          "title": "馬克吐溫 - Single"
+        },
+        {
+          "id": "153867110",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sW53pwHgaQ0/mqdefault.jpg",
+          "title": "漢堡包 - Single"
+        },
+        {
+          "id": "153867040",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2oZr3uv_ddc/mqdefault.jpg",
+          "title": "戀曲 2020 - Single"
+        },
+        {
+          "id": "153866991",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IqEbBNavkH4/mqdefault.jpg",
+          "title": "餘額 - Single"
+        },
+        {
+          "id": "152187143",
+          "kind": "playlist",
+          "subtitle": "6 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0IWdoXl6piY/mqdefault.jpg",
+          "title": "日環食"
+        },
+        {
+          "id": "152185873",
+          "kind": "playlist",
+          "subtitle": "8 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BjrPNxQ5ezU/mqdefault.jpg",
+          "title": "來日方長"
+        },
+        {
+          "id": "152185811",
+          "kind": "playlist",
+          "subtitle": "2 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jl7224xs9Uw/mqdefault.jpg",
+          "title": "Ladies & Gentlemen"
+        },
+        {
+          "id": "152185783",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/D61vQ64qV5I/mqdefault.jpg",
+          "title": "依然你在 - Single"
+        },
+        {
+          "id": "152185677",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KjwpX-agTZ0/mqdefault.jpg",
+          "title": "溜浪 - Single"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:684:12": {
+      "etag": "\"xs7vplw8mi6fi\"",
       "hash": "f9e31a637ef4f53ab26ca6ce855f7c01277b148e2b4ef229783f1d21aea99175",
       "itemCount": 12,
       "payload": [
@@ -106204,8 +107305,8 @@
         }
       ]
     },
-    "vector:vector_latest_zh:624:12": {
-      "etag": "\"oopdf913k76jo\"",
+    "vector:vector_latest_zh:696:12": {
+      "etag": "\"hhx6s4hgx76jo\"",
       "hash": "551b1d75ec84260944985b7a174e93bcf69f9b356219b26ef55d9e00cf5c4f22",
       "itemCount": 12,
       "payload": [
@@ -106343,8 +107444,8 @@
         }
       ]
     },
-    "vector:vector_latest_zh:636:12": {
-      "etag": "\"aom7m5a7ln6hj\"",
+    "vector:vector_latest_zh:708:12": {
+      "etag": "\"s3t10oa43l6hj\"",
       "hash": "8234b80b0ebed6e7d68c044595dbe0823db8a502e73757812d09cfc655315180",
       "itemCount": 12,
       "payload": [
@@ -106482,8 +107583,8 @@
         }
       ]
     },
-    "vector:vector_latest_zh:648:12": {
-      "etag": "\"14pnvhclvve6l0\"",
+    "vector:vector_latest_zh:720:12": {
+      "etag": "\"j1jlcr51dv6l0\"",
       "hash": "1123e75f5f4f9572de12583bc517ab05f76fcd918e2262fc34fb1966d3621281",
       "itemCount": 12,
       "payload": [
@@ -106618,840 +107719,6 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/r0FpAnqsti0/mqdefault.jpg",
           "title": "安森 Girl - Single"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:660:12": {
-      "etag": "\"mx4woie32i6jq\"",
-      "hash": "33f01f2e26c3015132c67a7cbc909b2d9d1229ba5a3c8cb4961e7fc8949ec691",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "146331421",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/vaWmoDYEJjc/mqdefault.jpg",
-          "title": "誰 - Single"
-        },
-        {
-          "id": "146330254",
-          "kind": "playlist",
-          "subtitle": "6 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/tAqbRXUCdDE/mqdefault.jpg",
-          "title": "Let Everything Happen"
-        },
-        {
-          "id": "146330211",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/V3itv1XpnOk/mqdefault.jpg",
-          "title": "別再想見我 - Single"
-        },
-        {
-          "id": "145799824",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/JlGqXdJz1T4/mqdefault.jpg",
-          "title": "FUTURE IN YOUR EYES - Single"
-        },
-        {
-          "id": "145799709",
-          "kind": "playlist",
-          "subtitle": "7 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/5sbFn-FPdAk/mqdefault.jpg",
-          "title": "冊葉一：一與一"
-        },
-        {
-          "id": "145798966",
-          "kind": "playlist",
-          "subtitle": "2 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/yKKwyLdhwbU/mqdefault.jpg",
-          "title": "倖存者"
-        },
-        {
-          "id": "145798947",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/uW0ag9ajpsI/mqdefault.jpg",
-          "title": "女孩們 - Single"
-        },
-        {
-          "id": "145295541",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/kb0whVogBkI/mqdefault.jpg",
-          "title": "Candlelight - Single"
-        },
-        {
-          "id": "145295859",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/TFcd1KERBv0/mqdefault.jpg",
-          "title": "四季 - Single"
-        },
-        {
-          "id": "145295664",
-          "kind": "playlist",
-          "subtitle": "12 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/1OPl-jhic4k/mqdefault.jpg",
-          "title": "嗜愛動物"
-        },
-        {
-          "id": "145295616",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/OBIm_LdGndo/mqdefault.jpg",
-          "title": "孤獨 - Single"
-        },
-        {
-          "id": "144788218",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/1jgLpAPbciM/mqdefault.jpg",
-          "title": "Messed Up (feat. 邱鋒澤) - Single"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:672:12": {
-      "etag": "\"8dzs0u80mj6js\"",
-      "hash": "1450ec2a6cbdbbb187a50481372258ebc46485937176b4a4cef38b80563be193",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "144788162",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/hgotFWqe_H8/mqdefault.jpg",
-          "title": "HAHA - Single"
-        },
-        {
-          "id": "144788141",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/F_ftEjOi7-o/mqdefault.jpg",
-          "title": "還有沒有愛 - Single"
-        },
-        {
-          "id": "144295790",
-          "kind": "playlist",
-          "subtitle": "10 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/YB7rz_2R2rs/mqdefault.jpg",
-          "title": "Local"
-        },
-        {
-          "id": "144295743",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/oj3XSsdeI9o/mqdefault.jpg",
-          "title": "想怎樣 - Single"
-        },
-        {
-          "id": "144295707",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/PG3Hd_wI1Cg/mqdefault.jpg",
-          "title": "Singing in the Rain - Single"
-        },
-        {
-          "id": "144295672",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/qFbnc9M9BFk/mqdefault.jpg",
-          "title": "扛得住 - Single"
-        },
-        {
-          "id": "143761787",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/Sv0OblpjrOw/mqdefault.jpg",
-          "title": "茄子蛋 - 恰似你的溫柔 - Single"
-        },
-        {
-          "id": "143762121",
-          "kind": "playlist",
-          "subtitle": "6 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/Nf1C1fSJG_8/mqdefault.jpg",
-          "title": "無人知曉"
-        },
-        {
-          "id": "143761810",
-          "kind": "playlist",
-          "subtitle": "9 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/LN4rYKaNV1g/mqdefault.jpg",
-          "title": "Lesurely"
-        },
-        {
-          "id": "143761759",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/5sbFn-FPdAk/mqdefault.jpg",
-          "title": "吳青峰 - 最難的是相遇 - Single"
-        },
-        {
-          "id": "143314982",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/1n_i0JupwRA/mqdefault.jpg",
-          "title": "怪天氣 - Single"
-        },
-        {
-          "id": "143314968",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/o166gvlkCao/mqdefault.jpg",
-          "title": "Bad Lady - Single"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:684:12": {
-      "etag": "\"11d90v788d16ie\"",
-      "hash": "e57fa3305e6b9ba043a854980c4b9d126d94b6ae1069b4de67fc40af2996cd1f",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "143314631",
-          "kind": "playlist",
-          "subtitle": "11 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/I7I49VtqrrM/mqdefault.jpg",
-          "title": "Mr. R&Beat"
-        },
-        {
-          "id": "143314612",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/mNQwhIx_0CM/mqdefault.jpg",
-          "title": "交換餘生 - Single"
-        },
-        {
-          "id": "142796976",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/2cX7SzDSA5o/mqdefault.jpg",
-          "title": "費洛蒙小姐 - Single"
-        },
-        {
-          "id": "142796960",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/oRJKbrYznpk/mqdefault.jpg",
-          "title": "李友廷 - 直到我遇見了你 - Single"
-        },
-        {
-          "id": "142797003",
-          "kind": "playlist",
-          "subtitle": "4 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/mCYfg-E5dYg/mqdefault.jpg",
-          "title": "U"
-        },
-        {
-          "id": "142796922",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/aOSYxTR6U3I/mqdefault.jpg",
-          "title": "或是一首歌 - Single"
-        },
-        {
-          "id": "142333239",
-          "kind": "playlist",
-          "subtitle": "7 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/nbxLDgRWWEE/mqdefault.jpg",
-          "title": "29"
-        },
-        {
-          "id": "142333210",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/QJFJ_hS5IZs/mqdefault.jpg",
-          "title": "愛已死 - Single"
-        },
-        {
-          "id": "142333027",
-          "kind": "playlist",
-          "subtitle": "8 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/ARpUg_tb_Yw/mqdefault.jpg",
-          "title": "Masterpiece"
-        },
-        {
-          "id": "142332991",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/LpFyeofOgI0/mqdefault.jpg",
-          "title": "新世界 - Single"
-        },
-        {
-          "id": "141874743",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/m78lJuzftcc/mqdefault.jpg",
-          "title": "盧廣仲 - 刻在我心底的名字 - Single"
-        },
-        {
-          "id": "141874698",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/qdI05V6M25s/mqdefault.jpg",
-          "title": "4am Calls - Single"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:696:12": {
-      "etag": "\"hdcpe0ust36ku\"",
-      "hash": "74f268497f9940f88e08e7ec00eb524559e052f68aa5224ae0697a6ab399f0d8",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "141874681",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/PLKl85x8etc/mqdefault.jpg",
-          "title": "楊丞琳 - 像是一顆星星 - Single"
-        },
-        {
-          "id": "141874670",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/uZtXXPr0MaY/mqdefault.jpg",
-          "title": "再見錯的人 - Single"
-        },
-        {
-          "id": "141384586",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/z1jTD6KXMPc/mqdefault.jpg",
-          "title": "先這樣 - Single"
-        },
-        {
-          "id": "141384384",
-          "kind": "playlist",
-          "subtitle": "11 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/E_Wl23yvQjQ/mqdefault.jpg",
-          "title": "23"
-        },
-        {
-          "id": "141383455",
-          "kind": "playlist",
-          "subtitle": "8 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/8denoJh5V1s/mqdefault.jpg",
-          "title": "市井小明"
-        },
-        {
-          "id": "141383184",
-          "kind": "playlist",
-          "subtitle": "10 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/2l4x_TvBKiw/mqdefault.jpg",
-          "title": "麻雀"
-        },
-        {
-          "id": "140899004",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/3pJr8vLgXwA/mqdefault.jpg",
-          "title": "周湯豪 - THANKS FOR THE LOVE - Single"
-        },
-        {
-          "id": "140898983",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/5epYuU0zdUM/mqdefault.jpg",
-          "title": "絕對發言 - Single"
-        },
-        {
-          "id": "140898966",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/kTNNPbVFNHQ/mqdefault.jpg",
-          "title": "So Bad - Single"
-        },
-        {
-          "id": "140898925",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/2HwQQwDWO2s/mqdefault.jpg",
-          "title": "魚丁糸 - 沙發裡有沙發 Radio - Single"
-        },
-        {
-          "id": "140407608",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/FNJG6MsKO0k/mqdefault.jpg",
-          "title": "好樂團 - 他們說我是沒有用的年輕人 - Single"
-        },
-        {
-          "id": "140407446",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/Ndl8QKr3sOQ/hqdefault.jpg",
-          "title": "都挺好的 (feat. 張震嶽) - Single"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:708:12": {
-      "etag": "\"azc21gtvtj6c7\"",
-      "hash": "d72b71e2475caf0c3bd2c04ba267bfc1084cfcb002a502474277145a64612b0f",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "140407245",
-          "kind": "playlist",
-          "subtitle": "8 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/nwA55Z0ixKQ/hqdefault.jpg",
-          "title": "A Bedroom of One's Own"
-        },
-        {
-          "id": "139923185",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/JzadD_leBSM/hqdefault.jpg",
-          "title": "田馥甄 - 先知 - Single"
-        },
-        {
-          "id": "139923210",
-          "kind": "playlist",
-          "subtitle": "3 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/QrSt4Euxy9c/hqdefault.jpg",
-          "title": "關詩敏 - 美麗的 我不碰就是了 - Single"
-        },
-        {
-          "id": "139923972",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/AgANhq8ecDA/hqdefault.jpg",
-          "title": "李友廷 - 能不能 (feat. 林孟辰) - Single"
-        },
-        {
-          "id": "139923896",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/778oM7Vs5_o/hqdefault.jpg",
-          "title": "五百 - Single"
-        },
-        {
-          "id": "139431680",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/deoS5ISDCUU/hqdefault.jpg",
-          "title": "All Day - Single"
-        },
-        {
-          "id": "139431695",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/eHKl1DaeiOQ/hqdefault.jpg",
-          "title": "9m88 - Hello Bye Bye - Single"
-        },
-        {
-          "id": "139431644",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/zzslll4qNhk/hqdefault.jpg",
-          "title": "9Million - Single"
-        },
-        {
-          "id": "139431360",
-          "kind": "playlist",
-          "subtitle": "17 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/EZxVmhM6UpE/hqdefault.jpg",
-          "title": "五月天 - 突然好想見到你 live in the sky"
-        },
-        {
-          "id": "138975529",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/1LFl5KJwtRA/hqdefault.jpg",
-          "title": "To Be Loved - Single"
-        },
-        {
-          "id": "138975498",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/0Rk099vYgDo/hqdefault.jpg",
-          "title": "一一 - Single"
-        },
-        {
-          "id": "138975573",
-          "kind": "playlist",
-          "subtitle": "11 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/ymvUlfZCrbw/hqdefault.jpg",
-          "title": "OUTTA BODY"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:720:12": {
-      "etag": "\"5ccx6a3ke164w\"",
-      "hash": "5e93d95e617159e666a83231a5a3b20ec3e84e24fe31cff409a6e3336772bd50",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "138975474",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/om-OQ2VaN-w/hqdefault.jpg",
-          "title": "Lava! - Single"
-        },
-        {
-          "id": "138491480",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/KymNPCq0_Io/hqdefault.jpg",
-          "title": "有毒不回 - Single"
-        },
-        {
-          "id": "138491461",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/ymvUlfZCrbw/hqdefault.jpg",
-          "title": "WAIT - Single"
-        },
-        {
-          "id": "138491432",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/MTYXorv2Zwg/hqdefault.jpg",
-          "title": "草爺 - 兄弟你說 - Single"
-        },
-        {
-          "id": "138491416",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/dPfrMVHTXVg/hqdefault.jpg",
-          "title": "都好 - Single"
-        },
-        {
-          "id": "138009036",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/OBM4kh4ffDI/hqdefault.jpg",
-          "title": "邊緣人 - Single"
-        },
-        {
-          "id": "138008800",
-          "kind": "playlist",
-          "subtitle": "2 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/ZXSO_FCoek4/hqdefault.jpg",
-          "title": "美麗舊世界"
-        },
-        {
-          "id": "138008755",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/jj2ILzL_OsU/hqdefault.jpg",
-          "title": "林凡 - 浪漫體質 - Single"
-        },
-        {
-          "id": "138008140",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/U1G4lKnYf4o/hqdefault.jpg",
-          "title": "瘦子 - Follow you - Single"
-        },
-        {
-          "id": "137515204",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/PZLxMVz77ps/hqdefault.jpg",
-          "title": "前任 - Single"
-        },
-        {
-          "id": "137515122",
-          "kind": "playlist",
-          "subtitle": "4 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/MPqexQzi5SM/hqdefault.jpg",
-          "title": "不完整的村莊"
-        },
-        {
-          "id": "137515105",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/52teikOwGzE/hqdefault.jpg",
-          "title": "修修臉 - Single"
         }
       ]
     },
@@ -107595,7 +107862,841 @@
       ]
     },
     "vector:vector_latest_zh:732:12": {
-      "etag": "\"82wsgkro0766p\"",
+      "etag": "\"dkbix29cs46jq\"",
+      "hash": "33f01f2e26c3015132c67a7cbc909b2d9d1229ba5a3c8cb4961e7fc8949ec691",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "146331421",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vaWmoDYEJjc/mqdefault.jpg",
+          "title": "誰 - Single"
+        },
+        {
+          "id": "146330254",
+          "kind": "playlist",
+          "subtitle": "6 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tAqbRXUCdDE/mqdefault.jpg",
+          "title": "Let Everything Happen"
+        },
+        {
+          "id": "146330211",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/V3itv1XpnOk/mqdefault.jpg",
+          "title": "別再想見我 - Single"
+        },
+        {
+          "id": "145799824",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JlGqXdJz1T4/mqdefault.jpg",
+          "title": "FUTURE IN YOUR EYES - Single"
+        },
+        {
+          "id": "145799709",
+          "kind": "playlist",
+          "subtitle": "7 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5sbFn-FPdAk/mqdefault.jpg",
+          "title": "冊葉一：一與一"
+        },
+        {
+          "id": "145798966",
+          "kind": "playlist",
+          "subtitle": "2 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yKKwyLdhwbU/mqdefault.jpg",
+          "title": "倖存者"
+        },
+        {
+          "id": "145798947",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uW0ag9ajpsI/mqdefault.jpg",
+          "title": "女孩們 - Single"
+        },
+        {
+          "id": "145295541",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kb0whVogBkI/mqdefault.jpg",
+          "title": "Candlelight - Single"
+        },
+        {
+          "id": "145295859",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/TFcd1KERBv0/mqdefault.jpg",
+          "title": "四季 - Single"
+        },
+        {
+          "id": "145295664",
+          "kind": "playlist",
+          "subtitle": "12 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1OPl-jhic4k/mqdefault.jpg",
+          "title": "嗜愛動物"
+        },
+        {
+          "id": "145295616",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OBIm_LdGndo/mqdefault.jpg",
+          "title": "孤獨 - Single"
+        },
+        {
+          "id": "144788218",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1jgLpAPbciM/mqdefault.jpg",
+          "title": "Messed Up (feat. 邱鋒澤) - Single"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:744:12": {
+      "etag": "\"gv4jvqmzy6js\"",
+      "hash": "1450ec2a6cbdbbb187a50481372258ebc46485937176b4a4cef38b80563be193",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "144788162",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hgotFWqe_H8/mqdefault.jpg",
+          "title": "HAHA - Single"
+        },
+        {
+          "id": "144788141",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/F_ftEjOi7-o/mqdefault.jpg",
+          "title": "還有沒有愛 - Single"
+        },
+        {
+          "id": "144295790",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YB7rz_2R2rs/mqdefault.jpg",
+          "title": "Local"
+        },
+        {
+          "id": "144295743",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oj3XSsdeI9o/mqdefault.jpg",
+          "title": "想怎樣 - Single"
+        },
+        {
+          "id": "144295707",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PG3Hd_wI1Cg/mqdefault.jpg",
+          "title": "Singing in the Rain - Single"
+        },
+        {
+          "id": "144295672",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qFbnc9M9BFk/mqdefault.jpg",
+          "title": "扛得住 - Single"
+        },
+        {
+          "id": "143761787",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Sv0OblpjrOw/mqdefault.jpg",
+          "title": "茄子蛋 - 恰似你的溫柔 - Single"
+        },
+        {
+          "id": "143762121",
+          "kind": "playlist",
+          "subtitle": "6 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Nf1C1fSJG_8/mqdefault.jpg",
+          "title": "無人知曉"
+        },
+        {
+          "id": "143761810",
+          "kind": "playlist",
+          "subtitle": "9 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LN4rYKaNV1g/mqdefault.jpg",
+          "title": "Lesurely"
+        },
+        {
+          "id": "143761759",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5sbFn-FPdAk/mqdefault.jpg",
+          "title": "吳青峰 - 最難的是相遇 - Single"
+        },
+        {
+          "id": "143314982",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1n_i0JupwRA/mqdefault.jpg",
+          "title": "怪天氣 - Single"
+        },
+        {
+          "id": "143314968",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/o166gvlkCao/mqdefault.jpg",
+          "title": "Bad Lady - Single"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:756:12": {
+      "etag": "\"166r3ttfn8u6ie\"",
+      "hash": "e57fa3305e6b9ba043a854980c4b9d126d94b6ae1069b4de67fc40af2996cd1f",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "143314631",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/I7I49VtqrrM/mqdefault.jpg",
+          "title": "Mr. R&Beat"
+        },
+        {
+          "id": "143314612",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mNQwhIx_0CM/mqdefault.jpg",
+          "title": "交換餘生 - Single"
+        },
+        {
+          "id": "142796976",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2cX7SzDSA5o/mqdefault.jpg",
+          "title": "費洛蒙小姐 - Single"
+        },
+        {
+          "id": "142796960",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oRJKbrYznpk/mqdefault.jpg",
+          "title": "李友廷 - 直到我遇見了你 - Single"
+        },
+        {
+          "id": "142797003",
+          "kind": "playlist",
+          "subtitle": "4 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mCYfg-E5dYg/mqdefault.jpg",
+          "title": "U"
+        },
+        {
+          "id": "142796922",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aOSYxTR6U3I/mqdefault.jpg",
+          "title": "或是一首歌 - Single"
+        },
+        {
+          "id": "142333239",
+          "kind": "playlist",
+          "subtitle": "7 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nbxLDgRWWEE/mqdefault.jpg",
+          "title": "29"
+        },
+        {
+          "id": "142333210",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QJFJ_hS5IZs/mqdefault.jpg",
+          "title": "愛已死 - Single"
+        },
+        {
+          "id": "142333027",
+          "kind": "playlist",
+          "subtitle": "8 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ARpUg_tb_Yw/mqdefault.jpg",
+          "title": "Masterpiece"
+        },
+        {
+          "id": "142332991",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LpFyeofOgI0/mqdefault.jpg",
+          "title": "新世界 - Single"
+        },
+        {
+          "id": "141874743",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/m78lJuzftcc/mqdefault.jpg",
+          "title": "盧廣仲 - 刻在我心底的名字 - Single"
+        },
+        {
+          "id": "141874698",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qdI05V6M25s/mqdefault.jpg",
+          "title": "4am Calls - Single"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:768:12": {
+      "etag": "\"mbwghlb3076ku\"",
+      "hash": "74f268497f9940f88e08e7ec00eb524559e052f68aa5224ae0697a6ab399f0d8",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "141874681",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PLKl85x8etc/mqdefault.jpg",
+          "title": "楊丞琳 - 像是一顆星星 - Single"
+        },
+        {
+          "id": "141874670",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uZtXXPr0MaY/mqdefault.jpg",
+          "title": "再見錯的人 - Single"
+        },
+        {
+          "id": "141384586",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/z1jTD6KXMPc/mqdefault.jpg",
+          "title": "先這樣 - Single"
+        },
+        {
+          "id": "141384384",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/E_Wl23yvQjQ/mqdefault.jpg",
+          "title": "23"
+        },
+        {
+          "id": "141383455",
+          "kind": "playlist",
+          "subtitle": "8 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8denoJh5V1s/mqdefault.jpg",
+          "title": "市井小明"
+        },
+        {
+          "id": "141383184",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2l4x_TvBKiw/mqdefault.jpg",
+          "title": "麻雀"
+        },
+        {
+          "id": "140899004",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3pJr8vLgXwA/mqdefault.jpg",
+          "title": "周湯豪 - THANKS FOR THE LOVE - Single"
+        },
+        {
+          "id": "140898983",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5epYuU0zdUM/mqdefault.jpg",
+          "title": "絕對發言 - Single"
+        },
+        {
+          "id": "140898966",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kTNNPbVFNHQ/mqdefault.jpg",
+          "title": "So Bad - Single"
+        },
+        {
+          "id": "140898925",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2HwQQwDWO2s/mqdefault.jpg",
+          "title": "魚丁糸 - 沙發裡有沙發 Radio - Single"
+        },
+        {
+          "id": "140407608",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/FNJG6MsKO0k/mqdefault.jpg",
+          "title": "好樂團 - 他們說我是沒有用的年輕人 - Single"
+        },
+        {
+          "id": "140407446",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ndl8QKr3sOQ/hqdefault.jpg",
+          "title": "都挺好的 (feat. 張震嶽) - Single"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:780:12": {
+      "etag": "\"rhn855k51y6c7\"",
+      "hash": "d72b71e2475caf0c3bd2c04ba267bfc1084cfcb002a502474277145a64612b0f",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "140407245",
+          "kind": "playlist",
+          "subtitle": "8 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nwA55Z0ixKQ/hqdefault.jpg",
+          "title": "A Bedroom of One's Own"
+        },
+        {
+          "id": "139923185",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JzadD_leBSM/hqdefault.jpg",
+          "title": "田馥甄 - 先知 - Single"
+        },
+        {
+          "id": "139923210",
+          "kind": "playlist",
+          "subtitle": "3 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QrSt4Euxy9c/hqdefault.jpg",
+          "title": "關詩敏 - 美麗的 我不碰就是了 - Single"
+        },
+        {
+          "id": "139923972",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AgANhq8ecDA/hqdefault.jpg",
+          "title": "李友廷 - 能不能 (feat. 林孟辰) - Single"
+        },
+        {
+          "id": "139923896",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/778oM7Vs5_o/hqdefault.jpg",
+          "title": "五百 - Single"
+        },
+        {
+          "id": "139431680",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/deoS5ISDCUU/hqdefault.jpg",
+          "title": "All Day - Single"
+        },
+        {
+          "id": "139431695",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/eHKl1DaeiOQ/hqdefault.jpg",
+          "title": "9m88 - Hello Bye Bye - Single"
+        },
+        {
+          "id": "139431644",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zzslll4qNhk/hqdefault.jpg",
+          "title": "9Million - Single"
+        },
+        {
+          "id": "139431360",
+          "kind": "playlist",
+          "subtitle": "17 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EZxVmhM6UpE/hqdefault.jpg",
+          "title": "五月天 - 突然好想見到你 live in the sky"
+        },
+        {
+          "id": "138975529",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1LFl5KJwtRA/hqdefault.jpg",
+          "title": "To Be Loved - Single"
+        },
+        {
+          "id": "138975498",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0Rk099vYgDo/hqdefault.jpg",
+          "title": "一一 - Single"
+        },
+        {
+          "id": "138975573",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ymvUlfZCrbw/hqdefault.jpg",
+          "title": "OUTTA BODY"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:792:12": {
+      "etag": "\"ju69r73w9a64w\"",
+      "hash": "5e93d95e617159e666a83231a5a3b20ec3e84e24fe31cff409a6e3336772bd50",
+      "itemCount": 12,
+      "payload": [
+        {
+          "id": "138975474",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/om-OQ2VaN-w/hqdefault.jpg",
+          "title": "Lava! - Single"
+        },
+        {
+          "id": "138491480",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KymNPCq0_Io/hqdefault.jpg",
+          "title": "有毒不回 - Single"
+        },
+        {
+          "id": "138491461",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ymvUlfZCrbw/hqdefault.jpg",
+          "title": "WAIT - Single"
+        },
+        {
+          "id": "138491432",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MTYXorv2Zwg/hqdefault.jpg",
+          "title": "草爺 - 兄弟你說 - Single"
+        },
+        {
+          "id": "138491416",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dPfrMVHTXVg/hqdefault.jpg",
+          "title": "都好 - Single"
+        },
+        {
+          "id": "138009036",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OBM4kh4ffDI/hqdefault.jpg",
+          "title": "邊緣人 - Single"
+        },
+        {
+          "id": "138008800",
+          "kind": "playlist",
+          "subtitle": "2 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZXSO_FCoek4/hqdefault.jpg",
+          "title": "美麗舊世界"
+        },
+        {
+          "id": "138008755",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jj2ILzL_OsU/hqdefault.jpg",
+          "title": "林凡 - 浪漫體質 - Single"
+        },
+        {
+          "id": "138008140",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/U1G4lKnYf4o/hqdefault.jpg",
+          "title": "瘦子 - Follow you - Single"
+        },
+        {
+          "id": "137515204",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/PZLxMVz77ps/hqdefault.jpg",
+          "title": "前任 - Single"
+        },
+        {
+          "id": "137515122",
+          "kind": "playlist",
+          "subtitle": "4 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MPqexQzi5SM/hqdefault.jpg",
+          "title": "不完整的村莊"
+        },
+        {
+          "id": "137515105",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/52teikOwGzE/hqdefault.jpg",
+          "title": "修修臉 - Single"
+        }
+      ]
+    },
+    "vector:vector_latest_zh:804:12": {
+      "etag": "\"cxgjcw3ggw66p\"",
       "hash": "13b40827d8c22a2532c0b919370dded9935b5a82729f78bdea7e0abb4a73af9f",
       "itemCount": 12,
       "payload": [
@@ -107733,11 +108834,55 @@
         }
       ]
     },
-    "vector:vector_latest_zh:744:12": {
-      "etag": "\"17hu2a3kiwg6bo\"",
-      "hash": "c9fda40438059fd10308c2e2eebf26fa9d32493daf1d08f7002104a296cdd7ec",
+    "vector:vector_latest_zh:816:12": {
+      "etag": "\"189ov3qd0ni69h\"",
+      "hash": "9dd8d063b91295dffec1c2eea5765486b92e93f28bbc7d7ae8da5ddac05a1585",
       "itemCount": 12,
       "payload": [
+        {
+          "id": "135881488",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2rudrHDICQ0/hqdefault.jpg",
+          "title": "玩家 - Single"
+        },
+        {
+          "id": "135280047",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/C8R7qkxno-4/hqdefault.jpg",
+          "title": "太陽 - Single"
+        },
+        {
+          "id": "135279994",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tDw1B_hWwbw/hqdefault.jpg",
+          "title": "逆光 - Single"
+        },
+        {
+          "id": "135279873",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KZpnSghZ-Q8/hqdefault.jpg",
+          "title": "風雲變色 - Single"
+        },
         {
           "id": "135279773",
           "kind": "playlist",
@@ -107825,7 +108970,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/LBqaZW3bHxA/hqdefault.jpg",
           "title": "鄭興 - 眼淚博物館 - Single"
-        },
+        }
+      ]
+    },
+    "vector:vector_latest_zh:828:12": {
+      "etag": "\"9aicrcxrp689\"",
+      "hash": "4e710c78f192bb6c82c0c7c475f96eea8a9f3dff9eba4c54f3ee1b2c53b097fc",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "134161892",
           "kind": "playlist",
@@ -107869,14 +109021,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/LzCPcJHx5y8/hqdefault.jpg",
           "title": "飄洋過海來看你 - Single"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:756:12": {
-      "etag": "\"16crgwfqtbx67o\"",
-      "hash": "725363a6d3050ea4f20bc6714edb29df43e3cc747151d67dc3a5b93d9ee4f310",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "133583526",
           "kind": "playlist",
@@ -107964,7 +109109,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/_fQEVFOFXS0/hqdefault.jpg",
           "title": "你存在 - Single"
-        },
+        }
+      ]
+    },
+    "vector:vector_latest_zh:840:12": {
+      "etag": "\"1qe6gds4gb6ax\"",
+      "hash": "2f6b9a6eb829d9749e47cb8f2b40f36009210ec59a9a6a9a3049b5a41b739f6a",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "132344109",
           "kind": "playlist",
@@ -108008,14 +109160,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/29sbWCkw2HA/hqdefault.jpg",
           "title": "Portal"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:768:12": {
-      "etag": "\"jwgxxokr5q6aq\"",
-      "hash": "c7c5383eba96136c5e3dab1d677a8ee81a4b1e5a21825f489b42a5b87d8120fc",
-      "itemCount": 12,
-      "payload": [
+        },
         {
           "id": "131725648",
           "kind": "playlist",
@@ -108103,884 +109248,6 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/oiYkBcV4FCw/hqdefault.jpg",
           "title": "你 - Single"
-        },
-        {
-          "id": "130466360",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/MJnzEa0FSKk/hqdefault.jpg",
-          "title": "文慧如 - 全放空 (feat. 鼓鼓) - Single"
-        },
-        {
-          "id": "129796266",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/sEf0LuOI4yI/hqdefault.jpg",
-          "title": "滴妹 - 每一個我 - Single"
-        },
-        {
-          "id": "129796232",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/bLNjIBpYxlc/hqdefault.jpg",
-          "title": "別人的 - Single"
-        },
-        {
-          "id": "129796110",
-          "kind": "playlist",
-          "subtitle": "4 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/KvwY9DN7LxY/hqdefault.jpg",
-          "title": "少了一件牛仔褲"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:780:12": {
-      "etag": "\"lwqei4zi3267x\"",
-      "hash": "0530ead3018c4ba04a74176c3545be6a38ddbf2bc5868dac551c2a97fe3639cf",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "129795945",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/S0twBO8l3pI/hqdefault.jpg",
-          "title": "李榮浩 - 等著等著就老了 - Single"
-        },
-        {
-          "id": "129137878",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/uAXCuFTe_xM/hqdefault.jpg",
-          "title": "我想買可樂 - Single"
-        },
-        {
-          "id": "129137861",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/uaymV2BBD4o/hqdefault.jpg",
-          "title": "炙愛 - Single"
-        },
-        {
-          "id": "129137942",
-          "kind": "playlist",
-          "subtitle": "7 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/c4_qKyFuL0Y/hqdefault.jpg",
-          "title": "BOARDING"
-        },
-        {
-          "id": "129137841",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/WVOA8MnOOvI/hqdefault.jpg",
-          "title": "鄧福如 - 在我們的星球眼淚不超過三秒 - Single"
-        },
-        {
-          "id": "128514075",
-          "kind": "playlist",
-          "subtitle": "2 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/NDUnUX5RpvY/hqdefault.jpg",
-          "title": "雙棲動物 - Single"
-        },
-        {
-          "id": "128514037",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/eidQRH4xO-k/hqdefault.jpg",
-          "title": "七十億分之一加一 - Single"
-        },
-        {
-          "id": "128513985",
-          "kind": "playlist",
-          "subtitle": "3 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/t2LdnHAKaqc/hqdefault.jpg",
-          "title": "面面"
-        },
-        {
-          "id": "128513926",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/s5PaMEAXYXQ/hqdefault.jpg",
-          "title": "偶喜翻你 - Single"
-        },
-        {
-          "id": "127878697",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/wap5z-Qh_HM/hqdefault.jpg",
-          "title": "唐仲彣 - 我愛你但我不快樂 - Single"
-        },
-        {
-          "id": "127878542",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/HZ-MBlaWiMc/hqdefault.jpg",
-          "title": "邱振哲 - 太陽（堅持守護希望版）- Single"
-        },
-        {
-          "id": "127878516",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/iXh-PjLpqv4/hqdefault.jpg",
-          "title": "安和 - Single"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:792:12": {
-      "etag": "\"kj8onnt8z8684\"",
-      "hash": "d03c92d23a1d3d10a7384f196f8149a42447fd4ca77d0d87677f544b78a31d02",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "127878501",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/c4_qKyFuL0Y/hqdefault.jpg",
-          "title": "COLORFUL - Single"
-        },
-        {
-          "id": "127308339",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/K-BJVk4QKjM/hqdefault.jpg",
-          "title": "夠不著的你 - Single"
-        },
-        {
-          "id": "127308175",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/lNzXCRAw_Ig/hqdefault.jpg",
-          "title": "背光旅行 -Single"
-        },
-        {
-          "id": "127308100",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/p13tH7Etlzc/hqdefault.jpg",
-          "title": "王艷薇 - 離開我的依賴 - Single"
-        },
-        {
-          "id": "127308007",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/xRIjRbWY_qs/hqdefault.jpg",
-          "title": "Tomorrow will be fine - Single"
-        },
-        {
-          "id": "126692076",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/ZLFMqje5o-A/hqdefault.jpg",
-          "title": "老莫 - 女士優先 (feat. ?te) - Single"
-        },
-        {
-          "id": "126692138",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/Yxgs7ST8RRs/hqdefault.jpg",
-          "title": "愛上現在的我 - Single"
-        },
-        {
-          "id": "126691750",
-          "kind": "playlist",
-          "subtitle": "2 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/NU26wibucNc/hqdefault.jpg",
-          "title": "哭哭睡 - Single"
-        },
-        {
-          "id": "126691720",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/lV5NexEOJb8/hqdefault.jpg",
-          "title": "水哥 2020"
-        },
-        {
-          "id": "126082199",
-          "kind": "playlist",
-          "subtitle": "13 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/FOtuu_AIdLs/hqdefault.jpg",
-          "title": "豆皮少年"
-        },
-        {
-          "id": "126082174",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/53hWU1H2R2g/hqdefault.jpg",
-          "title": "光良 - 里程・旅程 - Single"
-        },
-        {
-          "id": "126082093",
-          "kind": "playlist",
-          "subtitle": "3 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/GmBfueryGes/hqdefault.jpg",
-          "title": "那麼我想再擁有自己"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:804:12": {
-      "etag": "\"1pm1rck7mz6cn\"",
-      "hash": "edf94398930af85b5e0a46785c26277c2856c1e45996b0856e6a3fa25f34c0de",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "126082002",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/ZOxmzpE0Vz4/hqdefault.jpg",
-          "title": "逃 - Single"
-        },
-        {
-          "id": "125448457",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/x2NwVADM-mc/hqdefault.jpg",
-          "title": "Better - Single"
-        },
-        {
-          "id": "125448294",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/-6xZeVqpTXs/hqdefault.jpg",
-          "title": "半衰期 - Single"
-        },
-        {
-          "id": "125448260",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/FcCtOYGxf1Y/hqdefault.jpg",
-          "title": "周湯豪 - i GO (Asia Remix) -Single"
-        },
-        {
-          "id": "125448228",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/Wft1eiYB3PU/hqdefault.jpg",
-          "title": "54 - Single"
-        },
-        {
-          "id": "123628762",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/55zeL4ptZT0/hqdefault.jpg",
-          "title": "迷人的危險 - Single"
-        },
-        {
-          "id": "123628743",
-          "kind": "playlist",
-          "subtitle": "2 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/W9Fq1HC_5hg/hqdefault.jpg",
-          "title": "告五人 - 帶我去找夜生活 - Single"
-        },
-        {
-          "id": "123628565",
-          "kind": "playlist",
-          "subtitle": "11 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/lxsOcRm3dsU/hqdefault.jpg",
-          "title": "小時候的我們"
-        },
-        {
-          "id": "123628339",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/MeGrr-lWpxU/hqdefault.jpg",
-          "title": "TANK - 你的情歌 - Single"
-        },
-        {
-          "id": "123045602",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/7h9uEUvQjcs/hqdefault.jpg",
-          "title": "溫柔 #MaydayBlue20th - Single"
-        },
-        {
-          "id": "123045525",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/SMq0aSLPHsc/hqdefault.jpg",
-          "title": "Karencici - U sTuPiD (feat. ØZI) - Single"
-        },
-        {
-          "id": "123045578",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/ZfGjxiHtoKk/hqdefault.jpg",
-          "title": "郭采潔 - 在我成為井井有條的大人前 - Single"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:816:12": {
-      "etag": "\"y05pj6xxxs62w\"",
-      "hash": "bb9cfbe5947f261cbd596662d7edeaf8cba79becbcba15a49d371103668bb37d",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "123045550",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/KyFol8O6YM0/hqdefault.jpg",
-          "title": "為你變成他 - Single"
-        },
-        {
-          "id": "122549062",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/zPoId89NOM4/hqdefault.jpg",
-          "title": "我是一隻魚 - Single"
-        },
-        {
-          "id": "122548840",
-          "kind": "playlist",
-          "subtitle": "5 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/h42bXA8zzts/hqdefault.jpg",
-          "title": "屁文觀止"
-        },
-        {
-          "id": "122548603",
-          "kind": "playlist",
-          "subtitle": "13 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/A6gIat5xLWI/hqdefault.jpg",
-          "title": "摩天動物園"
-        },
-        {
-          "id": "122548404",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/LKdJPTTCs_8/hqdefault.jpg",
-          "title": "Øzi - 傳教士 - Single"
-        },
-        {
-          "id": "121931815",
-          "kind": "playlist",
-          "subtitle": "21 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/-ceYSag6AIE/hqdefault.jpg",
-          "title": "過"
-        },
-        {
-          "id": "121932371",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/rxpubZXi0sE/hqdefault.jpg",
-          "title": "默念你 - Single"
-        },
-        {
-          "id": "121932393",
-          "kind": "playlist",
-          "subtitle": "3 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/1BQKXKL4L50/hqdefault.jpg",
-          "title": "5am"
-        },
-        {
-          "id": "121932740",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/Dl-ygwweQEc/hqdefault.jpg",
-          "title": "蕭亞軒 - 當你和心跳一起出現 - Single"
-        },
-        {
-          "id": "121337353",
-          "kind": "playlist",
-          "subtitle": "4 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/e5BSHC467B8/hqdefault.jpg",
-          "title": "啥款"
-        },
-        {
-          "id": "121337339",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/sG_5oKUi4zs/hqdefault.jpg",
-          "title": "No Name - Single"
-        },
-        {
-          "id": "121337325",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/A6gIat5xLWI/hqdefault.jpg",
-          "title": "摩天動物園 - Single"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:828:12": {
-      "etag": "\"4ak48zmzfx65j\"",
-      "hash": "bd4ee6b374f80ddfbbca8cd147bde703d10ea50cd896e8cc1156b09ef8e66489",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "121337290",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/TbFWYT9VGRk/hqdefault.jpg",
-          "title": "周杰倫 - 我是如此相信 - Single"
-        },
-        {
-          "id": "120767483",
-          "kind": "playlist",
-          "subtitle": "4 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/Z7hyNxqVwFw/hqdefault.jpg",
-          "title": "給天王星"
-        },
-        {
-          "id": "120767217",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/k7rApwwdHLE/hqdefault.jpg",
-          "title": "鄭心慈 - 幸福藏在哪裡 - Single"
-        },
-        {
-          "id": "120767195",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/2l4x_TvBKiw/hqdefault.jpg",
-          "title": "麻雀 - Single"
-        },
-        {
-          "id": "120767122",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/xxlxAFo2x1M/hqdefault.jpg",
-          "title": "吳卓源 - Things Things Things - Single"
-        },
-        {
-          "id": "120183062",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/CMSrmJi3dNE/hqdefault.jpg",
-          "title": "壞特 - Baby Cakes - Single"
-        },
-        {
-          "id": "120182952",
-          "kind": "playlist",
-          "subtitle": "3 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/0Mp0-qeiPSg/hqdefault.jpg",
-          "title": "Never Die"
-        },
-        {
-          "id": "120182834",
-          "kind": "playlist",
-          "subtitle": "3 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/SDikrkL7JfI/hqdefault.jpg",
-          "title": "越美麗越看不見"
-        },
-        {
-          "id": "120182731",
-          "kind": "playlist",
-          "subtitle": "10 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/J2VUBQ1l8SU/hqdefault.jpg",
-          "title": "藏著不等於遺忘"
-        },
-        {
-          "id": "119577847",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/Du96eQPbfKA/hqdefault.jpg",
-          "title": "兵變 - Single"
-        },
-        {
-          "id": "119577721",
-          "kind": "playlist",
-          "subtitle": "2 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/8R3ZHHbVvR8/hqdefault.jpg",
-          "title": "刪·拾 以後"
-        },
-        {
-          "id": "119577426",
-          "kind": "playlist",
-          "subtitle": "16 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/exmKVvkhys8/hqdefault.jpg",
-          "title": "蟲洞"
-        }
-      ]
-    },
-    "vector:vector_latest_zh:840:12": {
-      "etag": "\"10ckvmnjsw0641\"",
-      "hash": "1d80d8f4406fd4694c7b6278511d7b1647f78ca834687186c4c28326f2a11c87",
-      "itemCount": 12,
-      "payload": [
-        {
-          "id": "119577402",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/7XlqcS6B7WA/hqdefault.jpg",
-          "title": "句號 - Single"
-        },
-        {
-          "id": "118971530",
-          "kind": "playlist",
-          "subtitle": "7 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/u_iOuiIn0og/hqdefault.jpg",
-          "title": "預言家"
-        },
-        {
-          "id": "118971507",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/bQ6rqtn-Nuk/hqdefault.jpg",
-          "title": "心引力 - Single"
-        },
-        {
-          "id": "118971480",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/nnkrwMBK6lQ/hqdefault.jpg",
-          "title": "無名英雄 - Single"
-        },
-        {
-          "id": "118970053",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/8R3ZHHbVvR8/hqdefault.jpg",
-          "title": "節日快樂 - Single"
-        },
-        {
-          "id": "118386654",
-          "kind": "playlist",
-          "subtitle": "4 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/6RPa03i6S70/hqdefault.jpg",
-          "title": "開放世界"
-        },
-        {
-          "id": "118386639",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/OdgyKUXcUIk/hqdefault.jpg",
-          "title": "輸情歌 - Single"
-        },
-        {
-          "id": "118386608",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/UbPKL8gpVsc/hqdefault.jpg",
-          "title": "偽裝 - Single"
-        },
-        {
-          "id": "118386466",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/FQXupe3j1Ds/hqdefault.jpg",
-          "title": "小春 - 沒在怕的 - Single"
-        },
-        {
-          "id": "117782868",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/zkCf1lfinME/hqdefault.jpg",
-          "title": "兵法 - Single"
-        },
-        {
-          "id": "117782726",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/bsilceYOgQA/hqdefault.jpg",
-          "title": "Fever - Single"
-        },
-        {
-          "id": "117782752",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/5DHCZ0x2IFA/hqdefault.jpg",
-          "title": "哥抽菸 - Single"
         }
       ]
     },
@@ -109124,141 +109391,141 @@
       ]
     },
     "vector:vector_latest_zh:852:12": {
-      "etag": "\"qp0k7eoawo65n\"",
-      "hash": "42a13acd4f7e451422bd17e61d432ac743b2bbc9c4c65eae5fe5635ff67c62ff",
+      "etag": "\"17jt9yprion67a\"",
+      "hash": "2b38f9cca7b41bc69e01e660f43e3f0d8ecd64f86016347f612215ee95f1aea9",
       "itemCount": 12,
       "payload": [
         {
-          "id": "117782578",
+          "id": "130466360",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MJnzEa0FSKk/hqdefault.jpg",
+          "title": "文慧如 - 全放空 (feat. 鼓鼓) - Single"
+        },
+        {
+          "id": "129796266",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/sEf0LuOI4yI/hqdefault.jpg",
+          "title": "滴妹 - 每一個我 - Single"
+        },
+        {
+          "id": "129796232",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 360,
+            "width": 480
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bLNjIBpYxlc/hqdefault.jpg",
+          "title": "別人的 - Single"
+        },
+        {
+          "id": "129796110",
           "kind": "playlist",
           "subtitle": "4 首",
           "thumbnailSize": {
             "height": 360,
             "width": 480
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/7YjrU6oLH4Q/hqdefault.jpg",
-          "title": "夜空裡的光"
+          "thumbnailURL": "https://i.ytimg.com/vi/KvwY9DN7LxY/hqdefault.jpg",
+          "title": "少了一件牛仔褲"
         },
         {
-          "id": "117183002",
-          "kind": "playlist",
-          "subtitle": "9 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/SfehQq0wC84/hqdefault.jpg",
-          "title": "幻想曲"
-        },
-        {
-          "id": "117182971",
+          "id": "129795945",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 360,
             "width": 480
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/6RPa03i6S70/hqdefault.jpg",
-          "title": "過期了 - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/S0twBO8l3pI/hqdefault.jpg",
+          "title": "李榮浩 - 等著等著就老了 - Single"
         },
         {
-          "id": "117182945",
+          "id": "129137878",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 360,
             "width": 480
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/tPtNox-zK9M/hqdefault.jpg",
-          "title": "不搖滾 - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/uAXCuFTe_xM/hqdefault.jpg",
+          "title": "我想買可樂 - Single"
         },
         {
-          "id": "116544602",
+          "id": "129137861",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 360,
             "width": 480
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/1YCInueffWc/hqdefault.jpg",
-          "title": "Walk On Water - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/uaymV2BBD4o/hqdefault.jpg",
+          "title": "炙愛 - Single"
         },
         {
-          "id": "116544366",
+          "id": "129137942",
           "kind": "playlist",
-          "subtitle": "4 首",
+          "subtitle": "7 首",
           "thumbnailSize": {
             "height": 360,
             "width": 480
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/U4PWWK6ySeQ/hqdefault.jpg",
-          "title": "候鳥"
+          "thumbnailURL": "https://i.ytimg.com/vi/c4_qKyFuL0Y/hqdefault.jpg",
+          "title": "BOARDING"
         },
         {
-          "id": "116544299",
+          "id": "129137841",
           "kind": "playlist",
-          "subtitle": "3 首",
+          "subtitle": "1 首",
           "thumbnailSize": {
             "height": 360,
             "width": 480
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/iDl7_2VLTmA/hqdefault.jpg",
-          "title": "落落大方"
+          "thumbnailURL": "https://i.ytimg.com/vi/WVOA8MnOOvI/hqdefault.jpg",
+          "title": "鄧福如 - 在我們的星球眼淚不超過三秒 - Single"
         },
         {
-          "id": "116540731",
+          "id": "128514075",
           "kind": "playlist",
           "subtitle": "2 首",
           "thumbnailSize": {
             "height": 360,
             "width": 480
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/LkULPyuLJSA/hqdefault.jpg",
-          "title": "遠走高飛"
+          "thumbnailURL": "https://i.ytimg.com/vi/NDUnUX5RpvY/hqdefault.jpg",
+          "title": "雙棲動物 - Single"
         },
         {
-          "id": "115893340",
+          "id": "128514037",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 360,
             "width": 480
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/j6hnv6CAAQA/hqdefault.jpg",
-          "title": "屁孩, Mizu98 - 她 gucci 的時候眼淚總是 prada prada 的 dior - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/eidQRH4xO-k/hqdefault.jpg",
+          "title": "七十億分之一加一 - Single"
         },
         {
-          "id": "115893227",
+          "id": "128513985",
           "kind": "playlist",
           "subtitle": "3 首",
           "thumbnailSize": {
             "height": 360,
             "width": 480
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/Q9rEL75Crik/hqdefault.jpg",
-          "title": "Juvenile A"
-        },
-        {
-          "id": "115893068",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/sqV-JIEavgU/hqdefault.jpg",
-          "title": "來互相傷害 - Single"
-        },
-        {
-          "id": "115243804",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 360,
-            "width": 480
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/c79upw09pmk/hqdefault.jpg",
-          "title": "街仔路雨落袂停 - Single"
+          "thumbnailURL": "https://i.ytimg.com/vi/t2LdnHAKaqc/hqdefault.jpg",
+          "title": "面面"
         }
       ]
     },
@@ -147969,7 +148236,7 @@
     "vector_latest_zh": {
       "complete": false,
       "lastCompletedAt": "2026-08-20T20:46:00Z",
-      "nextOffset": 576
+      "nextOffset": 864
     },
     "vector_promote_playlist_zh": {
       "complete": true,
