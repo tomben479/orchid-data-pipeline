@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "895d118ae8aaa7aa07e6a530b7454ff6530f4438d461630507cf761daf91cc62",
+    "hash": "924b07fa3e53723ef25277aca670643c128f54cc39a137896d24ccc02c162d53",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,10 +22,11 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_country",
       "vector_systemlist_zh_genre_relax",
+      "vector_systemlist_zh_genre_soundtrack",
       "vector_systemlist_zh_mood_commute",
-      "vector_systemlist_zh_mood_themed",
+      "vector_systemlist_zh_mood_dinner",
+      "vector_systemlist_zh_mood_gaming",
       "vector_promote_playlist_zh"
     ]
   },
@@ -37191,6 +37192,232 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/XGKJxb2b3ZI/mqdefault.jpg",
           "title": "benny blanco, Selena Gomez, Becky G - Te Olvido (La La) [Official Music Video]"
+        }
+      ]
+    },
+    "playlist:208825455": {
+      "etag": "\"l6ttfxm60xog\"",
+      "hash": "4d13d03c40caa23610498d5356e3e9ee02c8863bf42bed5533088a7611160567",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:12",
+          "id": "_sai1hKA_oY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_sai1hKA_oY/mqdefault.jpg",
+          "title": "断弦的琴"
+        }
+      ]
+    },
+    "playlist:208825456": {
+      "etag": "\"46209eq81soh\"",
+      "hash": "07b1b7cb0be91c00863a2e816e7686cb85a063ebdcd29c94c7d385c8a6c89b65",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "2:32",
+          "id": "HBAsa7XjuRQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HBAsa7XjuRQ/mqdefault.jpg",
+          "title": "灰色周一"
+        }
+      ]
+    },
+    "playlist:208825457": {
+      "etag": "\"o98mtjta7pc\"",
+      "hash": "46140614632325de1852308b7b50b789bbead7e2d20c3ddc67874ed8e4347a87",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:16",
+          "id": "g4hyI5xxYcA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/g4hyI5xxYcA/mqdefault.jpg",
+          "title": "lonely"
+        }
+      ]
+    },
+    "playlist:208825458": {
+      "etag": "\"6hyx0p6ahd1pu\"",
+      "hash": "266890ffa34ca492c8490db41817e7b4e25f0acf6cff7563193c5b2397535042",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "4:30",
+          "id": "ap1NP-bEbBc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ap1NP-bEbBc/mqdefault.jpg",
+          "title": "Try Me Tomorrow"
+        },
+        {
+          "durationText": "4:02",
+          "id": "hwaNBbKN3zw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hwaNBbKN3zw/mqdefault.jpg",
+          "title": "Good Vibe, No Plans"
+        },
+        {
+          "durationText": "4:07",
+          "id": "-RuvFy0Mw_Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-RuvFy0Mw_Y/mqdefault.jpg",
+          "title": "We Got There Eventually"
+        },
+        {
+          "durationText": "3:02",
+          "id": "XzcWgNNBX7Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XzcWgNNBX7Q/mqdefault.jpg",
+          "title": "Good for the lore"
+        },
+        {
+          "durationText": "4:16",
+          "id": "kUe1W5WEiyw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kUe1W5WEiyw/mqdefault.jpg",
+          "title": "Glad We Got Stuck"
+        },
+        {
+          "durationText": "3:44",
+          "id": "kXPayY40iT0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kXPayY40iT0/mqdefault.jpg",
+          "title": "Not Checking Out"
+        },
+        {
+          "durationText": "4:02",
+          "id": "GvuofrIKEOw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GvuofrIKEOw/mqdefault.jpg",
+          "title": "Anywhere We Land"
+        },
+        {
+          "durationText": "4:43",
+          "id": "1KuQUiPC6Ks",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1KuQUiPC6Ks/mqdefault.jpg",
+          "title": "Sunset, Let’s Go"
+        },
+        {
+          "durationText": "3:49",
+          "id": "GsCFASVtbr4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GsCFASVtbr4/mqdefault.jpg",
+          "title": "Sorry, I’m on Vacation"
+        }
+      ]
+    },
+    "playlist:208830663": {
+      "etag": "\"d5bohdp4igqd\"",
+      "hash": "e0bf12a32515d91ea97dba3da92c6da2c07b951466e30a0aa2e4aefed1456559",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:52",
+          "id": "I7YT-rZQi38",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/I7YT-rZQi38/mqdefault.jpg",
+          "title": "超好聽中文歌曲｜Fae Elowyn《如果還有如果》No More Us｜如果沒有遇見你｜深夜單曲循環"
+        }
+      ]
+    },
+    "playlist:208832210": {
+      "etag": "\"ohtrqhbwhsh\"",
+      "hash": "9f95c963cf08bec2d4cffa426bd7f85a57520fa889a3d7abd65e2433e740ac68",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:49",
+          "id": "Hhs-2btER7M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Hhs-2btER7M/mqdefault.jpg",
+          "title": "落选 (伴奏)"
+        },
+        {
+          "durationText": "3:48",
+          "id": "bO0Egw82ThQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bO0Egw82ThQ/mqdefault.jpg",
+          "title": "落选"
+        }
+      ]
+    },
+    "playlist:208832212": {
+      "etag": "\"mqk1uxi8f9pd\"",
+      "hash": "3b1157bbc000cdafb61822c8db9fe47f4f75189156afba6499caab57399d542f",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "5:28",
+          "id": "E-HuR_CEdo4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/E-HuR_CEdo4/mqdefault.jpg",
+          "title": "Bell 玲惠《畢竟你是太陽》官方MV"
+        }
+      ]
+    },
+    "playlist:208832213": {
+      "etag": "\"10xi3fvu3i2or\"",
+      "hash": "020e7646b5eeef5394f54bd2e2d34003cbfc6ff7cba14908df16aed3be97fefd",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:37",
+          "id": "9wVkBE61lQE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9wVkBE61lQE/mqdefault.jpg",
+          "title": "神仙灣"
         }
       ]
     },
@@ -151584,7 +151811,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-08-22T20:39:40Z",
-      "nextOffset": 288
+      "nextOffset": 576
     },
     "vector_latest_zh": {
       "complete": true,
