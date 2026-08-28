@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "924b07fa3e53723ef25277aca670643c128f54cc39a137896d24ccc02c162d53",
+    "hash": "7f49d3f3b58cb87bb7dbfccc4f73540dfbe57d3664859ef94f1203e0ddc9ffb9",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,11 +22,10 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_relax",
+      "vector_systemlist_zh_genre_country",
+      "vector_systemlist_zh_genre_jazz",
       "vector_systemlist_zh_genre_soundtrack",
       "vector_systemlist_zh_mood_commute",
-      "vector_systemlist_zh_mood_dinner",
-      "vector_systemlist_zh_mood_gaming",
       "vector_promote_playlist_zh"
     ]
   },
@@ -37192,6 +37191,142 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/XGKJxb2b3ZI/mqdefault.jpg",
           "title": "benny blanco, Selena Gomez, Becky G - Te Olvido (La La) [Official Music Video]"
+        }
+      ]
+    },
+    "playlist:208825412": {
+      "etag": "\"bbcs31ahorou\"",
+      "hash": "8efb3e567db539b031ac8ca4ba729cf5dc20f6a6b4bd8aacae3fb3ed6ea0d679",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:54",
+          "id": "T4SdMdM6f6M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/T4SdMdM6f6M/mqdefault.jpg",
+          "title": "明天过后 (R&B版)"
+        }
+      ]
+    },
+    "playlist:208825422": {
+      "etag": "\"11akmc8smx8pv\"",
+      "hash": "84ca29c28bf1b1cc298ca154f0aec87733ce8380181c013b77c2a2f7c1d9bd0c",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:07",
+          "id": "-Pt0VOObV-M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-Pt0VOObV-M/mqdefault.jpg",
+          "title": "我的眼泪是你的战利品吗 (R&B心碎版)"
+        }
+      ]
+    },
+    "playlist:208825449": {
+      "etag": "\"k43sp8t04hpn\"",
+      "hash": "1e1f7630c99b4ef06ed93bee80447e5033f870a4a76c23122491e860cb2f80e1",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:35",
+          "id": "65QGj4R61V4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/65QGj4R61V4/mqdefault.jpg",
+          "title": "他根本就不爱你 (R&B) 翻唱版"
+        }
+      ]
+    },
+    "playlist:208825450": {
+      "etag": "\"17smc3f8s76p4\"",
+      "hash": "1413737c7ab647d07a1d4ceeb7027d934c50705c84945147033a6f8c13f2a842",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "6:00",
+          "id": "AtnoTS9WdIg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AtnoTS9WdIg/mqdefault.jpg",
+          "title": "你不懂我的心"
+        }
+      ]
+    },
+    "playlist:208825451": {
+      "etag": "\"17kd1eak9ipc\"",
+      "hash": "79c2f2b2cbb2001b2bed6e412f66ed337f9b16ea37a628f1c9ba87aa53b4f47a",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:51",
+          "id": "4jjQhReuuN0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4jjQhReuuN0/mqdefault.jpg",
+          "title": "太多｜(R&B版)"
+        }
+      ]
+    },
+    "playlist:208825452": {
+      "etag": "\"mba8wiooc7pw\"",
+      "hash": "aff86775e6bc81c47df9edee65393a2ffb5054f919c04ac16f3f5e209687f393",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:28",
+          "id": "rQDG1-2SEaw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rQDG1-2SEaw/mqdefault.jpg",
+          "title": "你好我叫白白 (feat. 白白)"
+        }
+      ]
+    },
+    "playlist:208825453": {
+      "etag": "\"fmmwi2x4beop\"",
+      "hash": "bba5c5e0f83b33f57c1fce9ea1c56be0bdb3c639a0fb42005521c88f00f7ac27",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:49",
+          "id": "vOiwJkmOVHA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vOiwJkmOVHA/mqdefault.jpg",
+          "title": "捕风"
+        }
+      ]
+    },
+    "playlist:208825454": {
+      "etag": "\"bpex4hllsppu\"",
+      "hash": "d7d2862cefe35b34a59dd97a103606a4b7508d8161ee37542e0b92595f1bb32f",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:16",
+          "id": "YUx-yA3M9rI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YUx-yA3M9rI/mqdefault.jpg",
+          "title": "《爱的可能 (R&B版) - 陶宏杰"
         }
       ]
     },
@@ -151811,7 +151946,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-08-22T20:39:40Z",
-      "nextOffset": 576
+      "nextOffset": 864
     },
     "vector_latest_zh": {
       "complete": true,
