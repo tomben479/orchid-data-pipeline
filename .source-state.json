@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "2ef9b14788fa3219715eaf0bc9c07046f6a1db36c4701b9a076f71b8ae12286c",
+    "hash": "c9f7bf601c3bfa5cedc23a365ece4b4cd0d7369f8713a930f035b3a5a49a793e",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,11 +22,10 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_jazz",
-      "vector_systemlist_zh_genre_soundtrack",
+      "vector_systemlist_zh_genre_relax",
       "vector_systemlist_zh_genre_country",
-      "vector_systemlist_zh_mood_focus",
-      "vector_systemlist_zh_mood_gaming",
+      "vector_systemlist_zh_mood_workout",
+      "vector_systemlist_zh_mood_sad",
       "vector_promote_playlist_zh"
     ]
   },
@@ -37195,6 +37194,172 @@
         }
       ]
     },
+    "playlist:208822785": {
+      "etag": "\"lumgzdhsmq13t\"",
+      "hash": "981907327182aa343bdfadfe3c9c8bf765baa2f1991738ecebb2847839db7eae",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "5:20",
+          "id": "bJTsqHdvJM4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bJTsqHdvJM4/mqdefault.jpg",
+          "title": "远方的星 the Distant Star"
+        },
+        {
+          "durationText": "4:07",
+          "id": "YTTRT3V06pU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YTTRT3V06pU/mqdefault.jpg",
+          "title": "醉在你的爱里 Drunk in Your Love"
+        },
+        {
+          "durationText": "4:30",
+          "id": "X67Iulk4rSA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/X67Iulk4rSA/mqdefault.jpg",
+          "title": "这是爱吗 Is This Love"
+        },
+        {
+          "durationText": "5:07",
+          "id": "fOlJRoSlUkY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fOlJRoSlUkY/mqdefault.jpg",
+          "title": "Li Yu - Huo Chai (火柴) Matchstick | FM Station Original"
+        }
+      ]
+    },
+    "playlist:208822786": {
+      "etag": "\"rdx1kbsdetol\"",
+      "hash": "fae9d81122739003e6b0faa8b537a518eb677cd75ad8049fb420beb32a71219c",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:14",
+          "id": "LgytAcuTZF8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LgytAcuTZF8/mqdefault.jpg",
+          "title": "Purple Rain"
+        }
+      ]
+    },
+    "playlist:208822787": {
+      "etag": "\"4e18mr39sob\"",
+      "hash": "eafdd35e844b56556c06ee559afaf78934416dfd84006ed97e8b7e82c64726d1",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:04",
+          "id": "b_KsaX4Piqc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/b_KsaX4Piqc/mqdefault.jpg",
+          "title": "清醒"
+        }
+      ]
+    },
+    "playlist:208825398": {
+      "etag": "\"zgdhzw94gnp3\"",
+      "hash": "663aa3b69cc8d5d79b620b993083c9fa8676b650f69176a26cca35e59edeeea9",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:32",
+          "id": "2xLX8Iq1sL8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2xLX8Iq1sL8/mqdefault.jpg",
+          "title": "另外一個我"
+        }
+      ]
+    },
+    "playlist:208825399": {
+      "etag": "\"1514ngzd9jnor\"",
+      "hash": "50efb6adf438b2ce64bec96b76d55482f307c1eff8a63434c4924a77acb8c562",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:21",
+          "id": "BlvZXMC4qpc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BlvZXMC4qpc/mqdefault.jpg",
+          "title": "我们的从前"
+        }
+      ]
+    },
+    "playlist:208825400": {
+      "etag": "\"xn7re63fruod\"",
+      "hash": "116babbcc066512067424ae9b0499cb97c5d83f415b5fdc781e0a1965c1b6e11",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "5:50",
+          "id": "yslNSa_v0UI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yslNSa_v0UI/mqdefault.jpg",
+          "title": "命盤"
+        }
+      ]
+    },
+    "playlist:208825401": {
+      "etag": "\"12zikm900bxpt\"",
+      "hash": "cacbfc596fe2b7c602b7e040fe0fbe8ccffc8641158b62a63c03965c5ee3cdee",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:05",
+          "id": "hLHpSaW2QXk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/hLHpSaW2QXk/mqdefault.jpg",
+          "title": "值得 (R&B 微醺女声版) -苏晚星"
+        }
+      ]
+    },
+    "playlist:208825402": {
+      "etag": "\"ohum8tuu3opu\"",
+      "hash": "3b844d84fda0a34b774e5e0c56519e5b200048917189b007a2525433d94b3465",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:14",
+          "id": "jSMf6k8GEBQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jSMf6k8GEBQ/mqdefault.jpg",
+          "title": "我和她和他的故事 (R&B) 翻唱版"
+        }
+      ]
+    },
     "playlist:208825403": {
       "etag": "\"gv7i29zag0oy\"",
       "hash": "4c5d0cd7909278a7ff488da1cee86ae50a23f9991a76065477c02af982221814",
@@ -68924,7 +69089,7 @@
       ]
     },
     "vector:vector_featured_zh:1464:12": {
-      "etag": "\"118vtvwv123697\"",
+      "etag": "\"mf9fcnm056697\"",
       "hash": "9a39857d204a7e46c709940a31ff577f00b6dbaa52069d53d10cc05a0aa5bf6a",
       "itemCount": 12,
       "payload": [
@@ -69202,7 +69367,7 @@
       ]
     },
     "vector:vector_featured_zh:1488:12": {
-      "etag": "\"14d7a8rbh7y6bz\"",
+      "etag": "\"ndh19kftnl6bz\"",
       "hash": "64824be6c2dec3671db638fa5f2b64911e8c85fd8b07f0c03878c14cf414b5a2",
       "itemCount": 12,
       "payload": [
@@ -69480,7 +69645,7 @@
       ]
     },
     "vector:vector_featured_zh:1512:12": {
-      "etag": "\"b4acyes34u6gg\"",
+      "etag": "\"ux1uq0xhxp6gg\"",
       "hash": "cdf69815b3cc4d0950e6af4bdaddb0bfa215f3f7a67d3d21d7839564076a0d37",
       "itemCount": 12,
       "payload": [
@@ -153049,7 +153214,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-08-22T20:39:40Z",
-      "nextOffset": 1440
+      "nextOffset": 1728
     },
     "vector_latest_zh": {
       "complete": true,
