@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "be6cb70bc7df0321fe94580870bab14662acff3540b01d8493bf756e01e4315a",
+    "hash": "2ef9b14788fa3219715eaf0bc9c07046f6a1db36c4701b9a076f71b8ae12286c",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,11 +22,11 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_soundtrack",
-      "vector_systemlist_zh_genre_relax",
       "vector_systemlist_zh_genre_jazz",
-      "vector_systemlist_zh_mood_workout",
-      "vector_systemlist_zh_mood_energy",
+      "vector_systemlist_zh_genre_soundtrack",
+      "vector_systemlist_zh_genre_country",
+      "vector_systemlist_zh_mood_focus",
+      "vector_systemlist_zh_mood_gaming",
       "vector_promote_playlist_zh"
     ]
   },
@@ -37192,6 +37192,322 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/XGKJxb2b3ZI/mqdefault.jpg",
           "title": "benny blanco, Selena Gomez, Becky G - Te Olvido (La La) [Official Music Video]"
+        }
+      ]
+    },
+    "playlist:208825403": {
+      "etag": "\"gv7i29zag0oy\"",
+      "hash": "4c5d0cd7909278a7ff488da1cee86ae50a23f9991a76065477c02af982221814",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:22",
+          "id": "X6nzMizvGlk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/X6nzMizvGlk/mqdefault.jpg",
+          "title": "贰拾肆"
+        }
+      ]
+    },
+    "playlist:208825404": {
+      "etag": "\"553u1ba2fnpx\"",
+      "hash": "a9450e5badb192ea34f18078d00ec75e6c7362f0cacaf1fbf05b32d3f22e93d1",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:38",
+          "id": "aCj-2UtoUZo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/aCj-2UtoUZo/mqdefault.jpg",
+          "title": "告白氣球｜抒情R&B｜深情對唱｜從愛上你那天起 甜蜜的很輕易."
+        }
+      ]
+    },
+    "playlist:208825405": {
+      "etag": "\"pucbmhbzsvom\"",
+      "hash": "3659f2b03f01246ff8e837ce7d618311fa2fd9f3a2dd5d675b7284b2a064e875",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:40",
+          "id": "ZUe-8dmhV1k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZUe-8dmhV1k/mqdefault.jpg",
+          "title": "再也见不到你"
+        }
+      ]
+    },
+    "playlist:208825407": {
+      "etag": "\"frqwa8g4gn1uv\"",
+      "hash": "7722b9b9f52c12b7cec5cbdc5e8fc73609c3dd7d9e92689901994c066dbc308f",
+      "itemCount": 12,
+      "payload": [
+        {
+          "durationText": "4:28",
+          "id": "NCrVxX93YdU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NCrVxX93YdU/mqdefault.jpg",
+          "title": "獨角戲"
+        },
+        {
+          "durationText": "3:46",
+          "id": "T8ZFVmqv9-k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/T8ZFVmqv9-k/mqdefault.jpg",
+          "title": "如願 as Wished"
+        },
+        {
+          "durationText": "4:00",
+          "id": "xQ41tyhmCC4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xQ41tyhmCC4/mqdefault.jpg",
+          "title": "情難枕"
+        },
+        {
+          "durationText": "4:09",
+          "id": "DvGfV7sU5go",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DvGfV7sU5go/mqdefault.jpg",
+          "title": "你那麼愛她"
+        },
+        {
+          "durationText": "4:05",
+          "id": "Ty1j2sRNz1Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ty1j2sRNz1Q/mqdefault.jpg",
+          "title": "今夜你會不會來"
+        },
+        {
+          "durationText": "3:47",
+          "id": "Qwm1wFKzpkg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Qwm1wFKzpkg/mqdefault.jpg",
+          "title": "心雲"
+        },
+        {
+          "durationText": "4:40",
+          "id": "u98yavE8zh4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/u98yavE8zh4/mqdefault.jpg",
+          "title": "一路上有你"
+        },
+        {
+          "durationText": "4:07",
+          "id": "IQsseyEHqU0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IQsseyEHqU0/mqdefault.jpg",
+          "title": "一千個傷心的理由"
+        },
+        {
+          "durationText": "4:04",
+          "id": "INpkvgAAqAU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/INpkvgAAqAU/mqdefault.jpg",
+          "title": "新鴛鴦蝴蝶夢"
+        },
+        {
+          "durationText": "3:30",
+          "id": "u1TGc7Ol_zc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/u1TGc7Ol_zc/mqdefault.jpg",
+          "title": "Good Bye My Love"
+        },
+        {
+          "durationText": "4:08",
+          "id": "h1iuwFG9HZA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/h1iuwFG9HZA/mqdefault.jpg",
+          "title": "今天"
+        }
+      ]
+    },
+    "playlist:208825408": {
+      "etag": "\"9skbissltdp1\"",
+      "hash": "4b7e56917cc9dc5d4ad00eb0662007f5d71e8b068400d4f826d68adca65408c4",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:08",
+          "id": "kR2zLsuLjcs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kR2zLsuLjcs/mqdefault.jpg",
+          "title": "放手的人注定遗憾"
+        }
+      ]
+    },
+    "playlist:208825409": {
+      "etag": "\"lck9nbf1fp2bh\"",
+      "hash": "2feca32fd2da534529e6debbed5238a7158da2cfe95958b33e7ac5b30805eb3f",
+      "itemCount": 16,
+      "payload": [
+        {
+          "durationText": "2:44",
+          "id": "GR40oszo4Uw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GR40oszo4Uw/mqdefault.jpg",
+          "title": "Just Me"
+        },
+        {
+          "durationText": "3:14",
+          "id": "gvu5W9NQGbk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gvu5W9NQGbk/mqdefault.jpg",
+          "title": "I'll Be Around"
+        },
+        {
+          "durationText": "3:23",
+          "id": "ITP9jc3U-bg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ITP9jc3U-bg/mqdefault.jpg",
+          "title": "See You Tomorrow"
+        },
+        {
+          "durationText": "2:53",
+          "id": "tH3ctbYonXw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tH3ctbYonXw/mqdefault.jpg",
+          "title": "Maybe It's Enough"
+        },
+        {
+          "durationText": "2:54",
+          "id": "nCXeizpI2KM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nCXeizpI2KM/mqdefault.jpg",
+          "title": "The Road I'm On"
+        },
+        {
+          "durationText": "3:01",
+          "id": "0imVFtGjiAo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0imVFtGjiAo/mqdefault.jpg",
+          "title": "Somewhere (We'll Get There)"
+        },
+        {
+          "durationText": "2:56",
+          "id": "JNg9b7Ql39E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JNg9b7Ql39E/mqdefault.jpg",
+          "title": "I Hate Monday"
+        },
+        {
+          "durationText": "3:09",
+          "id": "vb4P51hDSso",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vb4P51hDSso/mqdefault.jpg",
+          "title": "Nobody Else"
+        },
+        {
+          "durationText": "3:15",
+          "id": "RhHIFSUS5Nk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RhHIFSUS5Nk/mqdefault.jpg",
+          "title": "Good Weird"
+        }
+      ]
+    },
+    "playlist:208825410": {
+      "etag": "\"5sz0k5x1dvop\"",
+      "hash": "1c8f5625da5eb5bd568ef89e19af93b76e5f812b3f6bfab5463f9a4113622536",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:09",
+          "id": "SW1UEzb6tpY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/SW1UEzb6tpY/mqdefault.jpg",
+          "title": "清醒"
+        }
+      ]
+    },
+    "playlist:208825411": {
+      "etag": "\"9qyqg72wgspg\"",
+      "hash": "459be1ef03b329a6b2a28d9af70cd58af4cd05e4d4e5f79c20aa50e20316850d",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:13",
+          "id": "QISWmlKxJiE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/QISWmlKxJiE/mqdefault.jpg",
+          "title": "唯一的例外 (电影《不想失去你》片尾曲)"
         }
       ]
     },
@@ -152733,7 +153049,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-08-22T20:39:40Z",
-      "nextOffset": 1152
+      "nextOffset": 1440
     },
     "vector_latest_zh": {
       "complete": true,
