@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "c9f7bf601c3bfa5cedc23a365ece4b4cd0d7369f8713a930f035b3a5a49a793e",
+    "hash": "c66448c15456c3d9098eba45edb3598d7c5a7399bc912e225ca331fd45b938c3",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,10 +22,11 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_relax",
       "vector_systemlist_zh_genre_country",
-      "vector_systemlist_zh_mood_workout",
-      "vector_systemlist_zh_mood_sad",
+      "vector_systemlist_zh_genre_relax",
+      "vector_systemlist_zh_mood_mood",
+      "vector_systemlist_zh_mood_themed",
+      "vector_systemlist_zh_mood_gaming",
       "vector_promote_playlist_zh"
     ]
   },
@@ -37191,6 +37192,392 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/XGKJxb2b3ZI/mqdefault.jpg",
           "title": "benny blanco, Selena Gomez, Becky G - Te Olvido (La La) [Official Music Video]"
+        }
+      ]
+    },
+    "playlist:208822776": {
+      "etag": "\"91t0fpolr9pv\"",
+      "hash": "be4538fe269fffe8165936e8f1878132448182aa95e8f777607584f964be6a7a",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:05",
+          "id": "-tvkj4C0NYk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-tvkj4C0NYk/mqdefault.jpg",
+          "title": "翁祥【回憶像玻璃 Shards of Us】Official Music Video"
+        }
+      ]
+    },
+    "playlist:208822777": {
+      "etag": "\"6o0xxyx6qjpo\"",
+      "hash": "6e32823a60ff09c2168f3a31885ceae75acdbc4125c03766a291ebe48aea605f",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:39",
+          "id": "zxSrZz_Lddo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zxSrZz_Lddo/mqdefault.jpg",
+          "title": "想念是 (一个的事情 两个人的痛)"
+        }
+      ]
+    },
+    "playlist:208822779": {
+      "etag": "\"dpj9g8673qpq\"",
+      "hash": "1cf01948317d6138db0a051c7ebf04ab454a51fe04c824dd4835c46ba2d6d1fd",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "2:11",
+          "id": "uoCvMVQSQhY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uoCvMVQSQhY/mqdefault.jpg",
+          "title": "她来听我的演唱会 ｜(R&B版)"
+        }
+      ]
+    },
+    "playlist:208822780": {
+      "etag": "\"10t6426nmta2bw\"",
+      "hash": "87a588118875030cf84af41fdf4e0e911a96d19e48a510b8c5830115e7222ef3",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "4:08",
+          "id": "RsLI-6qt2ps",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RsLI-6qt2ps/mqdefault.jpg",
+          "title": "閩南語歌曲(560.你兄我弟)你兄我弟來交陪 燒酒一杯閣一杯.青春一去不再回 漂泊男兒無後悔.毋驚考驗遐爾濟 有情有義作伙過 #王哥Ai #原創歌曲 #閩南語歌曲 #台語歌曲 #Ai音樂 #ai歌手"
+        },
+        {
+          "durationText": "4:23",
+          "id": "R_ZeR1U8eBw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/R_ZeR1U8eBw/mqdefault.jpg",
+          "title": "閩南語歌曲(559.進退兩難)愛恨攏困難 阮咧留戀 阮的愛還袂完.愛恨攏困難 行袂出情關 吐袂出怨嘆.今生的遺憾 阮欲按怎放 #王哥Ai #原創歌曲 #閩南語歌曲 #台語歌曲 #Ai音樂 #ai歌手"
+        },
+        {
+          "durationText": "4:20",
+          "id": "XLOZa6_b8BE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XLOZa6_b8BE/mqdefault.jpg",
+          "title": "閩南語歌曲(558.無怨無悔)若閣有一擺機會 我會勇敢講詳細.你是我的一蕊花 化作蝴蝶四界飛.雖然已經無作伙 夢中猶原咧相找 #王哥Ai #原創歌曲 #閩南語歌曲 #台語歌曲 #Ai音樂 #ai歌手"
+        },
+        {
+          "durationText": "4:18",
+          "id": "HE80u51unk4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HE80u51unk4/mqdefault.jpg",
+          "title": "閩南語歌曲(557.心內攏是你)心內攏是你 阮無法度放袂記.吞落寂寞的滋味 才知後悔袂赴市.心內攏是你 阮時不時閣想起.想欲閣 #王哥Ai #原創歌曲 #閩南語歌曲 #台語歌曲 #Ai音樂 #ai歌手"
+        },
+        {
+          "durationText": "4:30",
+          "id": "v1Nye1QfpCc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/v1Nye1QfpCc/mqdefault.jpg",
+          "title": "閩南語歌曲(556.傷心雨)你行你的新腳步 我守我的舊情路.浮沈情海按怎渡 滿腹愛意無底訴.當初愛甲傷糊塗 才會互相來耽誤 #王哥Ai #原創歌曲 #閩南語歌曲 #台語歌曲 #Ai音樂 #ai歌手"
+        },
+        {
+          "durationText": "4:38",
+          "id": "wls4bBhQUi0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wls4bBhQUi0/mqdefault.jpg",
+          "title": "閩南語歌曲(555.只愛你一人)等一工 等一冬 等袂著希望.等春風 等秋風 等甲心茫茫.愈愛愈深 愈深愈重 愈重愈歹放.一生一 #王哥Ai #原創歌曲 #閩南語歌曲 #台語歌曲 #Ai音樂 #ai歌手"
+        },
+        {
+          "durationText": "4:24",
+          "id": "9_wv1H46nKE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/9_wv1H46nKE/mqdefault.jpg",
+          "title": "閩南語歌曲(554.懷念你的溫柔)愛到最後 煞著放手.情路到這 毋免閣再強求.傷心目屎 洗袂去滿腹的憂愁.你無情離開 剩我懷念 #王哥Ai #原創歌曲 #閩南語歌曲 #台語歌曲 #Ai音樂 #ai歌手"
+        },
+        {
+          "durationText": "4:58",
+          "id": "5Hrxu2AQDfc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5Hrxu2AQDfc/mqdefault.jpg",
+          "title": "閩南語歌曲(553.哭無人聽)想欲斷 偏偏割袂斷 一擺一擺叫你的名.想欲怨 偏偏毋甘怨 一聲一聲哭無人聽 #王哥Ai #原創歌曲 #閩南語歌曲 #台語歌曲 #Ai音樂 #ai歌手"
+        },
+        {
+          "durationText": "4:09",
+          "id": "5vc1xtI_zpM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5vc1xtI_zpM/mqdefault.jpg",
+          "title": "閩南語歌曲(551.一錯再錯)若講愛你是錯 我甘願一錯再錯.愛甲艱苦 恨我糊塗 愛無倚靠.愛甲無步 恨你耽誤 恨無退路 #王哥Ai #原創歌曲 #閩南語歌曲 #台語歌曲 #Ai音樂 #ai歌手"
+        }
+      ]
+    },
+    "playlist:208822781": {
+      "etag": "\"zmrj7axgfzos\"",
+      "hash": "6a6aa1ec364286f6c80d0ff460b008fdb88af9dd9dc3f121dbde3239fb593b45",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:22",
+          "id": "vzg92evjenQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vzg92evjenQ/mqdefault.jpg",
+          "title": "也许在下雨天"
+        }
+      ]
+    },
+    "playlist:208822782": {
+      "etag": "\"kw9zt9dui01ps\"",
+      "hash": "4943d013f734bab2c45abd65e746c8bdfb64b3779221a03f6b971b3851373538",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "3:45",
+          "id": "xpU3u-954-A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xpU3u-954-A/mqdefault.jpg",
+          "title": "Never What I Have"
+        },
+        {
+          "durationText": "3:25",
+          "id": "xseR81helr4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xseR81helr4/mqdefault.jpg",
+          "title": "Back For The Rest Of My Dream"
+        },
+        {
+          "durationText": "3:51",
+          "id": "t_WIkEijOxo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/t_WIkEijOxo/mqdefault.jpg",
+          "title": "Doesn't Make Sense"
+        },
+        {
+          "durationText": "3:39",
+          "id": "yVOds03QYgg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yVOds03QYgg/mqdefault.jpg",
+          "title": "A Face I Don't Know"
+        },
+        {
+          "durationText": "2:56",
+          "id": "ZUWk5zjsds8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ZUWk5zjsds8/mqdefault.jpg",
+          "title": "Too Kind"
+        },
+        {
+          "durationText": "3:12",
+          "id": "A1Ai0RQHoHQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/A1Ai0RQHoHQ/mqdefault.jpg",
+          "title": "Just Say Go"
+        },
+        {
+          "durationText": "3:15",
+          "id": "P7nJcljDQCY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/P7nJcljDQCY/mqdefault.jpg",
+          "title": "Home Before I Go"
+        },
+        {
+          "durationText": "3:03",
+          "id": "6ZaDi_Rr7KA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6ZaDi_Rr7KA/mqdefault.jpg",
+          "title": "One More Smile"
+        },
+        {
+          "durationText": "3:02",
+          "id": "jm1nT9fikRM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jm1nT9fikRM/mqdefault.jpg",
+          "title": "Party of One"
+        }
+      ]
+    },
+    "playlist:208822783": {
+      "etag": "\"6fxf8371twt1\"",
+      "hash": "4fcfb0b180a8fea64ac8157fadfc7ace282c69e50e92979d83bf256e54f09c90",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "3:24",
+          "id": "4ZKu3h5ppfA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4ZKu3h5ppfA/mqdefault.jpg",
+          "title": "是我的问题 (伴奏版)"
+        },
+        {
+          "durationText": "3:24",
+          "id": "j8EwdnlSxzo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/j8EwdnlSxzo/mqdefault.jpg",
+          "title": "是我的问题"
+        }
+      ]
+    },
+    "playlist:208822784": {
+      "etag": "\"17kw3f86xgm1rx\"",
+      "hash": "d6d1fff809080e1780a8a4c299a82ca0725c88e339ce1b0369e5390200c6c809",
+      "itemCount": 10,
+      "payload": [
+        {
+          "durationText": "4:30",
+          "id": "Xoib5kCFzzk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Xoib5kCFzzk/mqdefault.jpg",
+          "title": "自我宽容 (伤感 live 万人合唱版)"
+        },
+        {
+          "durationText": "3:28",
+          "id": "DguUvI22JZo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DguUvI22JZo/mqdefault.jpg",
+          "title": "后来的我们 (伤感 live 万人合唱版)"
+        },
+        {
+          "durationText": "3:36",
+          "id": "UPdP-eObOng",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UPdP-eObOng/mqdefault.jpg",
+          "title": "只剩我一人在原地哭 (伤感 live 万人合唱版)"
+        },
+        {
+          "durationText": "3:25",
+          "id": "2LxhYpBOLw4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2LxhYpBOLw4/mqdefault.jpg",
+          "title": "我还在偷偷想你 (伤感 live 万人合唱版)"
+        },
+        {
+          "durationText": "4:40",
+          "id": "rs0gWOQUH50",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/rs0gWOQUH50/mqdefault.jpg",
+          "title": "爱过的背影 (伤感 live 万人合唱版)"
+        },
+        {
+          "durationText": "4:35",
+          "id": "IG2wMr7hwRg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/IG2wMr7hwRg/mqdefault.jpg",
+          "title": "我们只差一点 (伤感 live 万人合唱版)"
+        },
+        {
+          "durationText": "4:36",
+          "id": "E7qnS8Hkv2w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/E7qnS8Hkv2w/mqdefault.jpg",
+          "title": "空位 (伤感 live 万人合唱版)"
+        },
+        {
+          "durationText": "4:59",
+          "id": "AVLmrjZmfBU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AVLmrjZmfBU/mqdefault.jpg",
+          "title": "钥匙 (伤感 live 万人合唱版)"
+        },
+        {
+          "durationText": "4:24",
+          "id": "JWF84xXjAkE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JWF84xXjAkE/mqdefault.jpg",
+          "title": "两清 (伤感 live 万人合唱版)"
         }
       ]
     },
@@ -153214,7 +153601,7 @@
     "vector_featured_zh": {
       "complete": false,
       "lastCompletedAt": "2026-08-22T20:39:40Z",
-      "nextOffset": 1728
+      "nextOffset": 2016
     },
     "vector_latest_zh": {
       "complete": true,
