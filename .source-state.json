@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "be960c20a10bed6efa555cb230a7143916970d63048d2c1cefeb8de6a52a7fa8",
+    "hash": "fe052a4362d99cf3142389c9f4d63b436b682de1b93a4dfc056a0de5beb2fc98",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,10 +22,11 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_relax",
       "vector_systemlist_zh_genre_jazz",
+      "vector_systemlist_zh_genre_country",
       "vector_systemlist_zh_genre_soundtrack",
-      "vector_systemlist_zh_mood_gaming",
+      "vector_systemlist_zh_mood_themed",
+      "vector_systemlist_zh_mood_dinner",
       "vector_promote_playlist_zh"
     ]
   },
@@ -17886,6 +17887,53 @@
         }
       ]
     },
+    "playlist:17047914": {
+      "etag": "\"rajglprk0sajc\"",
+      "hash": "a0ad5dda24917cb9da1b72747c33785897b133cd49d1eebd7bdcb39dc6f183f2",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "3:23",
+          "id": "bKcuh_WDes8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bKcuh_WDes8/mqdefault.jpg",
+          "title": "UNDER LOVER - 愛你，不是我的 (官方Music video)"
+        },
+        {
+          "durationText": "3:47",
+          "id": "laqNcOx1Aek",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/laqNcOx1Aek/mqdefault.jpg",
+          "title": "UNDER LOVER - 玫瑰2.0 (Rose) 官方Music video"
+        },
+        {
+          "durationText": "5:04",
+          "id": "d0oJ8SQQ9A4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/d0oJ8SQQ9A4/mqdefault.jpg",
+          "title": "Under lover - 我愛你,我願意(remix 梁山伯與茱麗葉) 官方Music video"
+        },
+        {
+          "durationText": "5:00",
+          "id": "Ab7SDwyPekE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ab7SDwyPekE/mqdefault.jpg",
+          "title": "UNDER LOVER - 求婚進行曲(官方Music video)"
+        }
+      ]
+    },
     "playlist:170506187": {
       "etag": "\"17frfsv4hh39z1\"",
       "hash": "ba8062cbb9d8702b16bb98c72b69aa4e2cf9f6cffc0dc870ba0620697e702010",
@@ -20031,6 +20079,107 @@
         }
       ]
     },
+    "playlist:17409131": {
+      "etag": "\"cwjojt67p9afv\"",
+      "hash": "2ad77ac1dfe6d5c8ebcfbcf2cb1526e8879f0ce09972186b45bc24fc00836d6f",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "4:01",
+          "id": "g78vvV3-TVk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/g78vvV3-TVk/mqdefault.jpg",
+          "title": "桃園市「台灣好行」同恩｜旅行  [三川娛樂 Official MV]"
+        },
+        {
+          "durationText": "4:49",
+          "id": "xRSZHyLnL7Y",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xRSZHyLnL7Y/mqdefault.jpg",
+          "title": "同恩-散漫人生創作專輯│  路   [ 三川娛樂 Official MV ]"
+        }
+      ]
+    },
+    "playlist:17409132": {
+      "etag": "\"nn1i2isj8aaq8\"",
+      "hash": "3caecc98765d265467934083228310034fd88ff12fbd07bb0e5e0cf3811c49cd",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "3:33",
+          "id": "ld2shy197NU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ld2shy197NU/mqdefault.jpg",
+          "title": "【MV】蔡旻佑Evan Yo - 還沒往下想 Thereafter（一起娛樂 HD 官方完整版）"
+        },
+        {
+          "durationText": "3:18",
+          "id": "au4uvj1Bka0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/au4uvj1Bka0/mqdefault.jpg",
+          "title": "蔡旻佑Evan Yo《愛在八點檔》Official 歌詞版MV"
+        },
+        {
+          "durationText": "4:30",
+          "id": "yS9LJcUzxco",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yS9LJcUzxco/mqdefault.jpg",
+          "title": "【MV】蔡旻佑Evan Yo - 我想我可以 Believe （一起娛樂 HD 官方完整版）"
+        },
+        {
+          "durationText": "2:33",
+          "id": "qUBSpIi-HvI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qUBSpIi-HvI/mqdefault.jpg",
+          "title": "D2B (Dare To Be) 蔡旻佑演唱"
+        },
+        {
+          "durationText": "4:31",
+          "id": "y0KpUcBPxRA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/y0KpUcBPxRA/mqdefault.jpg",
+          "title": "【MV】蔡旻佑Evan Yo - 假男友 The Fake Lovers（一起娛樂HD 官方完整版）"
+        }
+      ]
+    },
+    "playlist:17409915": {
+      "etag": "\"6yw85irmm39v6\"",
+      "hash": "e19f0181eaf0587c49caadb33c9dc210c60821a8726604892c9cd9c70c339a28",
+      "itemCount": 3,
+      "payload": [
+        {
+          "durationText": "4:59",
+          "id": "cilKbr7ofAQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cilKbr7ofAQ/mqdefault.jpg",
+          "title": "蕭敬騰 Jam Hsiao - 一次幸福的機會 The blessed moment (華納official 官方完整版MV)"
+        }
+      ]
+    },
     "playlist:174202163": {
       "etag": "\"x3gs1o2c9za30\"",
       "hash": "57842b46289c4db8576dcc8333a1f6a92b1c48543d4b42b0818b4129a8ca06ed",
@@ -20665,6 +20814,155 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/tmRjB8cncb4/mqdefault.jpg",
           "title": "[avex官方4K] JADE - City Boy"
+        }
+      ]
+    },
+    "playlist:17559446": {
+      "etag": "\"oi58x7nxenahw\"",
+      "hash": "c376deebeb8a47a804351452184b4e4daf936118d0e43be9a1d20096f4b8640a",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "3:59",
+          "id": "bsW_0Iz3kqQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bsW_0Iz3kqQ/mqdefault.jpg",
+          "title": "io樂團【Gotta Give Me】Pop Radio 首播"
+        },
+        {
+          "durationText": "5:10",
+          "id": "LlsymhpcWxE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LlsymhpcWxE/mqdefault.jpg",
+          "title": "io樂團【如果我】i radio 首播"
+        },
+        {
+          "durationText": "1:35",
+          "id": "nmY0aq_CSEo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/nmY0aq_CSEo/mqdefault.jpg",
+          "title": "io樂團 -「2ø14」(情人節嘻哈特別創作OFFICIAL MV)(HD)"
+        },
+        {
+          "durationText": "3:58",
+          "id": "qK3d8N1y2VM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qK3d8N1y2VM/mqdefault.jpg",
+          "title": "io - 我思故我在 (COGITO ERGO SUM) OFFICIAL MUSIC VIDEO HD"
+        }
+      ]
+    },
+    "playlist:17559447": {
+      "etag": "\"5jxgqoo069ai2\"",
+      "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "itemCount": 5,
+      "payload": [
+
+      ]
+    },
+    "playlist:17559448": {
+      "etag": "\"2id4kv0hd7902\"",
+      "hash": "5da7945ec55de31426bba774c6af17cb3ef98621a6607810b88e64a8978b65b4",
+      "itemCount": 8,
+      "payload": [
+        {
+          "durationText": "5:13",
+          "id": "gd38-X3HpbM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/gd38-X3HpbM/mqdefault.jpg",
+          "title": "林俊傑 JJ Lin – 不為誰而作的歌 Twilight (華納 Official 高畫質 HD 官方完整版 MV)"
+        },
+        {
+          "durationText": "4:00",
+          "id": "zSxhdj9N8T0",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/zSxhdj9N8T0/mqdefault.jpg",
+          "title": "英皇電影《破風》電影主題曲《你，有沒有過》(林俊傑主唱)"
+        },
+        {
+          "durationText": "5:01",
+          "id": "OgceC_FPRKQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OgceC_FPRKQ/mqdefault.jpg",
+          "title": "JJ Lin 林俊傑-只要有你的地方（歌詞）"
+        },
+        {
+          "durationText": "3:40",
+          "id": "YJq5gwovR-M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YJq5gwovR-M/mqdefault.jpg",
+          "title": "林俊傑 JJ Lin – 全面開戰Clan Wars Feat. 林志穎（《部落衝突Clash of Clans》主題曲）"
+        },
+        {
+          "durationText": "4:46",
+          "id": "I4FCjlM9lhI",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/I4FCjlM9lhI/mqdefault.jpg",
+          "title": "林俊傑 JJ Lin – 有夢不難 Adolescent (華納 Official 高畫質 HD 官方完整版 MV)"
+        },
+        {
+          "durationText": "4:17",
+          "id": "YFr6p7vB9hc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YFr6p7vB9hc/mqdefault.jpg",
+          "title": "林俊傑 JJ Lin – 關鍵詞 The Key (華納 Official 高畫質 HD 官方完整版 MV)"
+        }
+      ]
+    },
+    "playlist:17559449": {
+      "etag": "\"spzt2ddvmgafy\"",
+      "hash": "d4f9d058d12819137872387214cccabd0fa39c0401a024c32eb605e84f0ed01a",
+      "itemCount": 4,
+      "payload": [
+        {
+          "durationText": "3:50",
+          "id": "p3HHL_SGZYs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/p3HHL_SGZYs/mqdefault.jpg",
+          "title": "郭采潔 - 愛人呢？"
+        },
+        {
+          "durationText": "5:42",
+          "id": "l3cRu7c-dxQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/l3cRu7c-dxQ/mqdefault.jpg",
+          "title": "郭采潔 Amber –  Bird n' Tree (Official 高畫質 HD 官方完整版 MV)"
         }
       ]
     },
@@ -123396,10 +123694,109 @@
       ]
     },
     "vector:vector_promote_playlist_zh:60:12": {
-      "etag": "\"k75ei1406a9u4\"",
-      "hash": "de67211daa402a0a3a35cfad3b19927489b1660efa0a8383114e5ed738830513",
+      "etag": "\"7m8nw0odzq9sw\"",
+      "hash": "60d74ba951ed82c705dc5c7b4716010fbf13d7a2781f87f21d4ae92385abb01e",
       "itemCount": 12,
       "payload": [
+        {
+          "id": "201492143",
+          "kind": "playlist",
+          "subtitle": "181 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Y4RmVcKav9Q/mqdefault.jpg",
+          "title": "權 崔 東 姜｜BIGBANG FOREVER 👑"
+        },
+        {
+          "id": "201597744",
+          "kind": "playlist",
+          "subtitle": "39 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/N0JoUA9YNiw/mqdefault.jpg",
+          "title": "氣質"
+        },
+        {
+          "id": "168746021",
+          "kind": "playlist",
+          "subtitle": "1101 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/fmVBHv5Rg90/mqdefault.jpg",
+          "title": "🗑"
+        },
+        {
+          "id": "201740854",
+          "kind": "playlist",
+          "subtitle": "577 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/DS89Vb07C-U/mqdefault.jpg",
+          "title": "🐶"
+        },
+        {
+          "id": "200706448",
+          "kind": "playlist",
+          "subtitle": "337 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Ncr5DiwNTnU/mqdefault.jpg",
+          "title": "抒情"
+        },
+        {
+          "id": "179890738",
+          "kind": "playlist",
+          "subtitle": "1294 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oAUmNEUJlJ0/mqdefault.jpg",
+          "title": "❤️"
+        },
+        {
+          "id": "44025229",
+          "kind": "playlist",
+          "subtitle": "1107 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/pXRviuL6vMY/mqdefault.jpg",
+          "title": "🔥"
+        },
+        {
+          "id": "155456403",
+          "kind": "playlist",
+          "subtitle": "1015 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3W9U8_rcNFs/mqdefault.jpg",
+          "title": "節奏感｜重旋律｜emo｜抒情Rap｜EDM｜Remix｜混音｜AI｜輕快 🔊🔊🚗"
+        },
+        {
+          "id": "20900225",
+          "kind": "playlist",
+          "subtitle": "389 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/raKsswEF9ag/mqdefault.jpg",
+          "title": "❤️    精選  EDM  🎵🎵"
+        },
         {
           "id": "202484743",
           "kind": "playlist",
@@ -123432,11 +123829,18 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/o2gah6hYm7Y/mqdefault.jpg",
           "title": "開車聽🚗"
-        },
+        }
+      ]
+    },
+    "vector:vector_promote_playlist_zh:72:12": {
+      "etag": "\"z23jhxrwux9t5\"",
+      "hash": "9e0da3483cbf7b3e4ded4eae491e946455992487409e2ab5928c281108f9b21d",
+      "itemCount": 12,
+      "payload": [
         {
           "id": "166120050",
           "kind": "playlist",
-          "subtitle": "1852 首",
+          "subtitle": "1861 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -123447,7 +123851,7 @@
         {
           "id": "195695293",
           "kind": "playlist",
-          "subtitle": "965 首",
+          "subtitle": "969 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -123469,7 +123873,7 @@
         {
           "id": "208562085",
           "kind": "playlist",
-          "subtitle": "13 首",
+          "subtitle": "12 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -123502,7 +123906,7 @@
         {
           "id": "81172825",
           "kind": "playlist",
-          "subtitle": "572 首",
+          "subtitle": "574 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -123513,7 +123917,7 @@
         {
           "id": "203332770",
           "kind": "playlist",
-          "subtitle": "334 首",
+          "subtitle": "337 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -123531,14 +123935,7 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/xyE7XLpdm8s/mqdefault.jpg",
           "title": "華語歌曲🎵"
-        }
-      ]
-    },
-    "vector:vector_promote_playlist_zh:72:12": {
-      "etag": "\"c4bmwz1cc7zb\"",
-      "hash": "a3d2e7775785ac1d3f80433ac55276e7e9b7c718a02fe8dcd4b17d7db5dcee86",
-      "itemCount": 10,
-      "payload": [
+        },
         {
           "id": "208711169",
           "kind": "playlist",
@@ -123553,7 +123950,7 @@
         {
           "id": "81032417",
           "kind": "playlist",
-          "subtitle": "1901 首",
+          "subtitle": "1906 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -123571,7 +123968,14 @@
           },
           "thumbnailURL": "https://i.ytimg.com/vi/0UUBkbsCsjQ/mqdefault.jpg",
           "title": "。1234555"
-        },
+        }
+      ]
+    },
+    "vector:vector_promote_playlist_zh:84:12": {
+      "etag": "\"hklsaukstr5np\"",
+      "hash": "1a716f643450f4d68dabb807a07da928eda7f013212e833093b2da5394f8637d",
+      "itemCount": 7,
+      "payload": [
         {
           "id": "30682299",
           "kind": "playlist",
@@ -123586,7 +123990,7 @@
         {
           "id": "171513203",
           "kind": "playlist",
-          "subtitle": "1779 首",
+          "subtitle": "1780 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -123608,7 +124012,7 @@
         {
           "id": "116508948",
           "kind": "playlist",
-          "subtitle": "573 首",
+          "subtitle": "576 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -123641,7 +124045,7 @@
         {
           "id": "203106784",
           "kind": "playlist",
-          "subtitle": "675 首",
+          "subtitle": "679 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147115,14 +147519,14 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:0:12": {
-      "etag": "\"7ndqjp19427pj\"",
-      "hash": "52dbb41fa4b3ca8bb1fa9009213f4c05ba21a28434aaa78cd43d03e5871489ef",
+      "etag": "\"f3juytw1jj7pj\"",
+      "hash": "3b1894334b57a0114433d0f20c683d43565ffb168444cdd23e057969b4c3804e",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_mfdqvCAl8wodlx2P2_Ai2gNkiRDAufkkI",
           "kind": "playlist",
-          "subtitle": "70 首",
+          "subtitle": "69 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147144,7 +147548,7 @@
         {
           "id": "RDCLAK5uy_npkiQvDU863KxBgX_eaYo-LCIuM3qZtqo",
           "kind": "playlist",
-          "subtitle": "143 首",
+          "subtitle": "142 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147155,7 +147559,7 @@
         {
           "id": "RDCLAK5uy_nEOENcLJBr5ZWcX5KsRFqlkLp05vN23Yk",
           "kind": "playlist",
-          "subtitle": "76 首",
+          "subtitle": "73 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147166,7 +147570,7 @@
         {
           "id": "RDCLAK5uy_lNvwIE3Qra5IBQSBBG460nLyxbwnzjDRU",
           "kind": "playlist",
-          "subtitle": "45 首",
+          "subtitle": "69 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147221,7 +147625,7 @@
         {
           "id": "RDCLAK5uy_mVJ3RRi_YBfUJnZnQxLAedQQcXHujbUcg",
           "kind": "playlist",
-          "subtitle": "115 首",
+          "subtitle": "114 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147243,8 +147647,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:108:12": {
-      "etag": "\"u2lgjh5geh81z\"",
-      "hash": "c0f93045c235b4d77d1ac30fa1f86a35542dd8871b59307a7e3dc662ac7b5f3f",
+      "etag": "\"81uy1ko69s81z\"",
+      "hash": "6c7429589a77a62df5c95bd55e864dfe5c8b9486f0e0ad652f8065911a667d10",
       "itemCount": 12,
       "payload": [
         {
@@ -147272,7 +147676,7 @@
         {
           "id": "RDCLAK5uy_nbu2-fubCWEuBFeksTcYQGCax2kixpsp4",
           "kind": "playlist",
-          "subtitle": "75 首",
+          "subtitle": "67 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147305,7 +147709,7 @@
         {
           "id": "RDCLAK5uy_ltlzGKYlRekORMvbjNz7WRE_LHcWiBAGY",
           "kind": "playlist",
-          "subtitle": "99 首",
+          "subtitle": "98 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147349,7 +147753,7 @@
         {
           "id": "RDCLAK5uy_mDDi-duDMA8LZbMUN4PJzSW6Xkbhpujp4",
           "kind": "playlist",
-          "subtitle": "67 首",
+          "subtitle": "54 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147382,8 +147786,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:120:12": {
-      "etag": "\"10pdaefs2n081x\"",
-      "hash": "926f6777e27dc6c375909c801017a6e714f183c9b13f500de09382a67c78082c",
+      "etag": "\"u0uclehljd81x\"",
+      "hash": "40e14561b710be7350742b985455163eda8d316eaceaccf45f6a4cafc6c0f695",
       "itemCount": 12,
       "payload": [
         {
@@ -147400,7 +147804,7 @@
         {
           "id": "RDCLAK5uy_m55iAnFa25l8bl7m8vsTsmGph3-_yVBW0",
           "kind": "playlist",
-          "subtitle": "68 首",
+          "subtitle": "64 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147411,7 +147815,7 @@
         {
           "id": "RDCLAK5uy_m7-A-0fELuRUfifPR4lgSyDJ8obkSa9z8",
           "kind": "playlist",
-          "subtitle": "57 首",
+          "subtitle": "61 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147433,7 +147837,7 @@
         {
           "id": "RDCLAK5uy_nJbR-8l4mhUUclTVrykXZdK1vqjU3caCg",
           "kind": "playlist",
-          "subtitle": "106 首",
+          "subtitle": "117 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147510,7 +147914,7 @@
         {
           "id": "RDCLAK5uy_ll4D8yhbz6dYK6YjLF5p0MJHX4J-hgGJw",
           "kind": "playlist",
-          "subtitle": "127 首",
+          "subtitle": "129 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147521,8 +147925,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:12:12": {
-      "etag": "\"md70g0mift7zk\"",
-      "hash": "30240d01e7ab7aed5fa64222f1a8dcc206e3452fce74cdedd41c9153329f506c",
+      "etag": "\"xi75dopepi7zk\"",
+      "hash": "2e93d29cf4b2366a4a28f724cc5cb843b6ecf66d155ada859f6b08721782bc47",
       "itemCount": 12,
       "payload": [
         {
@@ -147572,7 +147976,7 @@
         {
           "id": "RDCLAK5uy_k5DxhF_vXgbHHoaQ_d2hRBlY11Qgr3xpY",
           "kind": "playlist",
-          "subtitle": "47 首",
+          "subtitle": "50 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147583,7 +147987,7 @@
         {
           "id": "RDCLAK5uy_m0wlRoNn5iCTTgBedfoOQ19Jq9P3XTLIA",
           "kind": "playlist",
-          "subtitle": "77 首",
+          "subtitle": "80 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147594,7 +147998,7 @@
         {
           "id": "RDCLAK5uy_l2pHac-aawJYLcesgTf67gaKU-B9ekk1o",
           "kind": "playlist",
-          "subtitle": "161 首",
+          "subtitle": "165 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147605,7 +148009,7 @@
         {
           "id": "RDCLAK5uy_nUi8B-S9ckz5feHM7oMGyQQ_eKW2Zl9aE",
           "kind": "playlist",
-          "subtitle": "108 首",
+          "subtitle": "107 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147660,14 +148064,14 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:132:12": {
-      "etag": "\"slt060fbiu80o\"",
-      "hash": "19d9965e93f2c8df5e5d637514f08fac879b83442d52984c688677a114823a51",
+      "etag": "\"14h6pn9tg4780o\"",
+      "hash": "d04c12bdf5f8fb604bcbf9e39620a3591726692c4de82a40dda00ce095f379b0",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_legzBwc-1CVVWXeVLP33uP3aH_nfE_nqQ",
           "kind": "playlist",
-          "subtitle": "42 首",
+          "subtitle": "68 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147678,7 +148082,7 @@
         {
           "id": "RDCLAK5uy_lx9grc9fqgdeglZz2jOVvZIxevcHjF4-c",
           "kind": "playlist",
-          "subtitle": "88 首",
+          "subtitle": "89 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147700,7 +148104,7 @@
         {
           "id": "RDCLAK5uy_ldBAkQeU6YAhiggxft8yStLU00mfVXrl0",
           "kind": "playlist",
-          "subtitle": "80 首",
+          "subtitle": "75 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147766,7 +148170,7 @@
         {
           "id": "RDCLAK5uy_kKEOZ3x5ED4hNxb8lHXhOp5cHFW_CbwMk",
           "kind": "playlist",
-          "subtitle": "237 首",
+          "subtitle": "267 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147799,8 +148203,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:144:12": {
-      "etag": "\"osjethts137z8\"",
-      "hash": "dee628886c7285f4fa889d0665a258eaa7888fb6b1e7eb91062a76f963ac65db",
+      "etag": "\"bcr5bz95id7z8\"",
+      "hash": "b875ec3b04cf3d6db2f9b569f2b40e14125f004112dd28e6363e17b35475f304",
       "itemCount": 12,
       "payload": [
         {
@@ -147883,7 +148287,7 @@
         {
           "id": "RDCLAK5uy_lf0UDPbXIpI8XkNkXoxvtx06bemub0sDA",
           "kind": "playlist",
-          "subtitle": "83 首",
+          "subtitle": "36 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -147938,8 +148342,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:156:12": {
-      "etag": "\"so9teha6wg80w\"",
-      "hash": "88d8c5101b895f2db0ee4183b0c28ea120c75285f95ea97a0f8fdcd90ecc0491",
+      "etag": "\"bg8bas5mtw80x\"",
+      "hash": "67f2f290076679199c428179b4ff70bc26d3cefda7ccc93d577af08eb0c2f60f",
       "itemCount": 12,
       "payload": [
         {
@@ -148033,7 +148437,7 @@
         {
           "id": "RDCLAK5uy_nu7kgrqNODzQKGsUSj9UC-tYjPM8975gE",
           "kind": "playlist",
-          "subtitle": "89 首",
+          "subtitle": "121 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148077,14 +148481,14 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:168:12": {
-      "etag": "\"lvhy99q0mh7xy\"",
-      "hash": "672e949183e023e2efb07c566842512a0b4c73d2f8928b6b3b1eb91cd267adad",
+      "etag": "\"ddrg00h1s27xz\"",
+      "hash": "c742b82011e32ecf1bbe44a4070690e64b8a7072bcba51d393a45e80c9fed122",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_md9QGmtE2Pn3CLaFPcx9AhVuY7CmE2yes",
           "kind": "playlist",
-          "subtitle": "35 首",
+          "subtitle": "36 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148095,7 +148499,7 @@
         {
           "id": "RDCLAK5uy_nIFrIGcbREq8u8MS4K87fV8YNtls9MTGw",
           "kind": "playlist",
-          "subtitle": "32 首",
+          "subtitle": "49 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148128,7 +148532,7 @@
         {
           "id": "RDCLAK5uy_nOha9Uq4l7E2r4ZjujKFFlBfbFevTQ048",
           "kind": "playlist",
-          "subtitle": "135 首",
+          "subtitle": "105 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148194,7 +148598,7 @@
         {
           "id": "RDCLAK5uy_lnFyVNMZVO3Jgi18hFYliVPUrglgPnDRU",
           "kind": "playlist",
-          "subtitle": "89 首",
+          "subtitle": "144 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148216,14 +148620,14 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:180:12": {
-      "etag": "\"f04o7yzxy04p1\"",
-      "hash": "3be1e0c956768d274de8dbced2d350f0743efcb53369e2a1b83d1ae027f63f20",
+      "etag": "\"svholh4eo24p1\"",
+      "hash": "d6c4bd1c7dda28d4172e278472082e074356647d9b86f357d1401c6578497a74",
       "itemCount": 7,
       "payload": [
         {
           "id": "RDCLAK5uy_mZ4O3BzhEjagCdFDKxeqf-t3wOr7UwHJY",
           "kind": "playlist",
-          "subtitle": "71 首",
+          "subtitle": "74 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148256,7 +148660,7 @@
         {
           "id": "RDCLAK5uy_naZbZR0biQkhIHsrfLLQ8bn2qNIzFy05s",
           "kind": "playlist",
-          "subtitle": "53 首",
+          "subtitle": "73 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148289,7 +148693,7 @@
         {
           "id": "RDCLAK5uy_lUrzaYWnJvQv7UqkwbYLo9K_Qbui6WDgo",
           "kind": "playlist",
-          "subtitle": "71 首",
+          "subtitle": "85 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148300,8 +148704,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:24:12": {
-      "etag": "\"12na28t6ffk823\"",
-      "hash": "4c236d6879ca0b93a525b875a5e67ce5a2d0ffdb23b87934e6c817f863b0310d",
+      "etag": "\"15ygand23tc823\"",
+      "hash": "81e850654f88c47874f8ba6caeb13853fea5e2905dd797490143284ac622ff4b",
       "itemCount": 12,
       "payload": [
         {
@@ -148351,7 +148755,7 @@
         {
           "id": "RDCLAK5uy_k4sXYMRc7kePx3BjjVv5z2fB1CePqvVDw",
           "kind": "playlist",
-          "subtitle": "137 首",
+          "subtitle": "124 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148439,8 +148843,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:36:12": {
-      "etag": "\"xwxomcct3z7yt\"",
-      "hash": "9b9470d2ae316702bda024d5d041736621070fe3b71355e78798fbe5e63f0fd6",
+      "etag": "\"89e423vkyw7yt\"",
+      "hash": "0ee12ab65a4a5404b9c8b911bdacd8bf13491177d514453b02cde5d82c99f1ee",
       "itemCount": 12,
       "payload": [
         {
@@ -148479,7 +148883,7 @@
         {
           "id": "RDCLAK5uy_lGCE0WUXTINIiYxHeXwPNuuwzqs_CAvlw",
           "kind": "playlist",
-          "subtitle": "60 首",
+          "subtitle": "64 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148490,7 +148894,7 @@
         {
           "id": "RDCLAK5uy_k1vMt2fo8e-Jy78tTSddZxMBjGSmQfwmU",
           "kind": "playlist",
-          "subtitle": "75 首",
+          "subtitle": "69 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148512,7 +148916,7 @@
         {
           "id": "RDCLAK5uy_kBx-sjelcdmAxRchYQcbAMna5ZWfz3qw8",
           "kind": "playlist",
-          "subtitle": "96 首",
+          "subtitle": "94 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148523,7 +148927,7 @@
         {
           "id": "RDCLAK5uy_n_mHK86Tx20T9wrJTAy3IIQVr_iQADI0M",
           "kind": "playlist",
-          "subtitle": "66 首",
+          "subtitle": "77 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148578,8 +148982,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:48:12": {
-      "etag": "\"xxiqqpk2xh81l\"",
-      "hash": "7be7e887d7bad00af4e17a423f183b8f3d03ad6747c3136896336025c91b753a",
+      "etag": "\"zugwuneslb81m\"",
+      "hash": "85fb8dad7654f2534ebd9e3a0d9a909229c87836794e63cfeb303f29e24e52da",
       "itemCount": 12,
       "payload": [
         {
@@ -148607,7 +149011,7 @@
         {
           "id": "RDCLAK5uy_keb_mIiClglpMd5ycINvnTwCkoIu5Ce3k",
           "kind": "playlist",
-          "subtitle": "95 首",
+          "subtitle": "102 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148640,7 +149044,7 @@
         {
           "id": "RDCLAK5uy_lNSUHrUfeEfPa7fC-Ns9AXpYRYJq5Xf_8",
           "kind": "playlist",
-          "subtitle": "106 首",
+          "subtitle": "126 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148695,7 +149099,7 @@
         {
           "id": "RDCLAK5uy_k9lP07rY2vWHHTwib9ClZXCTzKLd6DXb0",
           "kind": "playlist",
-          "subtitle": "59 首",
+          "subtitle": "69 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148717,8 +149121,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:60:12": {
-      "etag": "\"908g8ae8r082t\"",
-      "hash": "71bcc0133b740f46002a4ba4c2c4a51045ba8ec00418ac02c7467e522206eb99",
+      "etag": "\"vjy10gcp7o82t\"",
+      "hash": "240c9bdcb0f58c123ed86392b086ac2889712d7335f975556c9e27c0be978405",
       "itemCount": 12,
       "payload": [
         {
@@ -148746,7 +149150,7 @@
         {
           "id": "RDCLAK5uy_nUzDYmqMzeuOz5H0h_3jRjK3-c6_cNn4s",
           "kind": "playlist",
-          "subtitle": "55 首",
+          "subtitle": "49 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148779,7 +149183,7 @@
         {
           "id": "RDCLAK5uy_mAyu9Ae_cC4uin9kgHk3Eopb7qoLo2AbQ",
           "kind": "playlist",
-          "subtitle": "70 首",
+          "subtitle": "88 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148834,7 +149238,7 @@
         {
           "id": "RDCLAK5uy_lPjlW9s89WQaynRhm_f1hUwAIL8McUgds",
           "kind": "playlist",
-          "subtitle": "74 首",
+          "subtitle": "87 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148845,7 +149249,7 @@
         {
           "id": "RDCLAK5uy_mJJrNSdgacA-TiHICze18hg5SrcOOvIyI",
           "kind": "playlist",
-          "subtitle": "70 首",
+          "subtitle": "69 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148856,8 +149260,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:72:12": {
-      "etag": "\"x7fgcw5e167zs\"",
-      "hash": "f39556ce8f00c35e113ebf574ff21c750330c148e13dc32d4495e5fd84d10e6f",
+      "etag": "\"9jxhwq8rdf7zs\"",
+      "hash": "64a74d6576a261cba2c6dffa711248b648dd37e439939fe299c5df205d6c53d7",
       "itemCount": 12,
       "payload": [
         {
@@ -148874,7 +149278,7 @@
         {
           "id": "RDCLAK5uy_lBdj-S7dlwHFWFuEWGbHSc8CX84Xw6zto",
           "kind": "playlist",
-          "subtitle": "59 首",
+          "subtitle": "48 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148885,7 +149289,7 @@
         {
           "id": "RDCLAK5uy_mxtFfheklLrGa6G273CV86EhAG9yZiElc",
           "kind": "playlist",
-          "subtitle": "69 首",
+          "subtitle": "72 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148929,7 +149333,7 @@
         {
           "id": "RDCLAK5uy_mSpTnu0yGFc7ogsk3y6tzNnLPonqB17AY",
           "kind": "playlist",
-          "subtitle": "87 首",
+          "subtitle": "77 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148995,14 +149399,14 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:84:12": {
-      "etag": "\"11wjsj1irh17z3\"",
-      "hash": "71ba459a0d7c9030594df2b8cf832d6baae16306b3d572cdb6a5b5a51f7949aa",
+      "etag": "\"wsg5a9g8jw7z3\"",
+      "hash": "ed8a92fe9c1fb9bb52e81fcbd6dc4060de9a34a437fd7c35ea261c18d5b673e2",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_lijxTrN9H-IeegaWgv_YHMQBSZTzscJmg",
           "kind": "playlist",
-          "subtitle": "88 首",
+          "subtitle": "65 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149013,7 +149417,7 @@
         {
           "id": "RDCLAK5uy_kmxYMUgERVjuxoAPA_WgY6f036fkLCTMI",
           "kind": "playlist",
-          "subtitle": "127 首",
+          "subtitle": "129 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149090,7 +149494,7 @@
         {
           "id": "RDCLAK5uy_m8tb7ahoXoyC82BkVgvWpJo2TUw8VnrlI",
           "kind": "playlist",
-          "subtitle": "58 首",
+          "subtitle": "93 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149134,8 +149538,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:96:12": {
-      "etag": "\"1ofdyyh5yd80b\"",
-      "hash": "d7db80a556c0bce27d9720f663c3b948ea4adc8f6bc866cc8eedcfc7aabde4a6",
+      "etag": "\"rc012gc5xa80b\"",
+      "hash": "9e86f9d23ad7c5603a3e894aedebe3fe9a5813e94d73f75d46cda70890226f53",
       "itemCount": 12,
       "payload": [
         {
@@ -149196,7 +149600,7 @@
         {
           "id": "RDCLAK5uy_lM6RrS_mVoUIOm3FPdbpo15oa5vrjaPZI",
           "kind": "playlist",
-          "subtitle": "69 首",
+          "subtitle": "70 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149240,7 +149644,7 @@
         {
           "id": "RDCLAK5uy_miEDbTEB2wkTklDaoV0_srC3Jqez-pTwA",
           "kind": "playlist",
-          "subtitle": "75 首",
+          "subtitle": "89 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149251,7 +149655,7 @@
         {
           "id": "RDCLAK5uy_k0qYPSwgYvs8cXsKoroJ87oQqZtzoZlnc",
           "kind": "playlist",
-          "subtitle": "137 首",
+          "subtitle": "146 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149613,14 +150017,14 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_party:0:12": {
-      "etag": "\"mq9t57o0gf7c4\"",
-      "hash": "a4e702dc70780ad2ba26d457c1ba8029565b19790f2aaa668a822dca8f5df94a",
+      "etag": "\"x7xnhyrw1g724\"",
+      "hash": "d18253f8a9acd206f9d7a21abe9c9d7230c5456f9fe5092af2d5961eb98b33dc",
       "itemCount": 12,
       "payload": [
         {
           "id": "RDCLAK5uy_l7K78k4EkjcFojhd1617rmUjY-aet6-t0",
           "kind": "playlist",
-          "subtitle": "118 首",
+          "subtitle": "121 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149631,18 +150035,18 @@
         {
           "id": "RDCLAK5uy_m2p5A1NXN8SInEzfsxzFEvQ6zws-V-wBo",
           "kind": "playlist",
-          "subtitle": "49 首",
+          "subtitle": "7 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/fp80w385jDM/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/10Z1eNq21yc/mqdefault.jpg",
           "title": "舒緩室內樂"
         },
         {
           "id": "RDCLAK5uy_mdFeaJL-S0sClXygtjtCC1WlP1F0-qRRk",
           "kind": "playlist",
-          "subtitle": "55 首",
+          "subtitle": "57 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149653,7 +150057,7 @@
         {
           "id": "RDCLAK5uy_kwJTdGJj4KpaItCZogif_xkH69VyeERKw",
           "kind": "playlist",
-          "subtitle": "137 首",
+          "subtitle": "142 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149664,7 +150068,7 @@
         {
           "id": "RDCLAK5uy_mkXiaMATud8GJQ3aX7f0nCeCqvehA9wTQ",
           "kind": "playlist",
-          "subtitle": "114 首",
+          "subtitle": "117 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149675,7 +150079,7 @@
         {
           "id": "RDCLAK5uy_n4PuqfjXs63tz7E3lEs2av_rSBmuJqf-k",
           "kind": "playlist",
-          "subtitle": "84 首",
+          "subtitle": "89 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149697,7 +150101,7 @@
         {
           "id": "RDCLAK5uy_nBWoiU8Lo-qagA1B3yZNZsgFmlvx_ax5Q",
           "kind": "playlist",
-          "subtitle": "107 首",
+          "subtitle": "112 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -151365,7 +151769,7 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_party:24:12": {
-      "etag": "\"3llhul6usc6m6\"",
+      "etag": "\"fxk6s7bsrz6m6\"",
       "hash": "cdf70b5f9fea5fbd192a50f62e852cdf16f94f3bcaa6d2c04e37f90ec7208131",
       "itemCount": 12,
       "payload": [
@@ -160609,9 +161013,9 @@
       "nextOffset": 0
     },
     "vector_promote_playlist_zh": {
-      "complete": false,
-      "lastCompletedAt": "2026-09-02T07:06:04Z",
-      "nextOffset": 60
+      "complete": true,
+      "lastCompletedAt": "2026-09-04T22:20:57Z",
+      "nextOffset": 0
     },
     "vector_systemlist_zh_genre_country": {
       "complete": true,
@@ -160710,7 +161114,7 @@
     },
     "vector_systemlist_zh_mood_good_mood": {
       "complete": true,
-      "lastCompletedAt": "2026-09-02T17:54:07Z",
+      "lastCompletedAt": "2026-09-04T22:21:01Z",
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_mood": {
@@ -160719,9 +161123,9 @@
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_party": {
-      "complete": true,
+      "complete": false,
       "lastCompletedAt": "2026-08-18T03:08:06Z",
-      "nextOffset": 0
+      "nextOffset": 60
     },
     "vector_systemlist_zh_mood_romance": {
       "complete": true,
