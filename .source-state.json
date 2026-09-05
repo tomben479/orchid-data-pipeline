@@ -3,7 +3,7 @@
     "vectorCursor": 0
   },
   "discovery": {
-    "hash": "438f7b1bd7f08c87d8c16c2ef65d63ab7051b1179a4a044d3162113f10e71f41",
+    "hash": "203ae762b963345b169d1f2d604b9d88c97045b9262bd53ccc82fed2a1fa8faf",
     "vectorIDs": [
       "vector_systemlist_zh_top_charts",
       "vector_latest_zh",
@@ -22,10 +22,11 @@
       "vector_systemlist_zh_mood_travel",
       "vector_systemlist_zh_mood_romance",
       "vector_systemlist_zh_mood_sleep",
-      "vector_systemlist_zh_genre_country",
       "vector_systemlist_zh_genre_jazz",
-      "vector_systemlist_zh_mood_focus",
-      "vector_systemlist_zh_mood_sad",
+      "vector_systemlist_zh_genre_country",
+      "vector_systemlist_zh_mood_gaming",
+      "vector_systemlist_zh_mood_themed",
+      "vector_systemlist_zh_mood_chill",
       "vector_promote_playlist_zh"
     ]
   },
@@ -48885,6 +48886,522 @@
         }
       ]
     },
+    "playlist:208991792": {
+      "etag": "\"scihrfoqbwpa\"",
+      "hash": "fed1583769c7d7554f96b04ee2857da1bb98febab59a777e56fd074226d0183a",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "2:40",
+          "id": "USc2_9NuXOs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/USc2_9NuXOs/mqdefault.jpg",
+          "title": "Through the Night"
+        }
+      ]
+    },
+    "playlist:208991795": {
+      "etag": "\"12td8zwnei71px\"",
+      "hash": "ca2f461c8a94362043353e45f706d4d600b7c3523c192155db9c6ede35191589",
+      "itemCount": 11,
+      "payload": [
+        {
+          "durationText": "5:10",
+          "id": "wrmYsAMAn7c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/wrmYsAMAn7c/mqdefault.jpg",
+          "title": "暗光鳥"
+        },
+        {
+          "durationText": "2:38",
+          "id": "iUJ_de1kYhM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iUJ_de1kYhM/mqdefault.jpg",
+          "title": "再添一碗"
+        },
+        {
+          "durationText": "3:28",
+          "id": "ECcCsthMgyw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ECcCsthMgyw/mqdefault.jpg",
+          "title": "漂亮美好"
+        },
+        {
+          "durationText": "3:17",
+          "id": "mFU-Gv8Qmgc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/mFU-Gv8Qmgc/mqdefault.jpg",
+          "title": "不知道會不會太晚"
+        },
+        {
+          "durationText": "2:04",
+          "id": "iSrK4v09iNQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iSrK4v09iNQ/mqdefault.jpg",
+          "title": "有·確實聽到了"
+        },
+        {
+          "durationText": "2:19",
+          "id": "n1BroFIVRG8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/n1BroFIVRG8/mqdefault.jpg",
+          "title": "得饒人true且饒人"
+        },
+        {
+          "durationText": "3:13",
+          "id": "1PyU4JjwCJw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1PyU4JjwCJw/mqdefault.jpg",
+          "title": "圓環"
+        },
+        {
+          "durationText": "3:01",
+          "id": "qHVhVMGCmFA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qHVhVMGCmFA/mqdefault.jpg",
+          "title": "《竹仔店》"
+        },
+        {
+          "durationText": "4:23",
+          "id": "Oy-iH8h2n_k",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Oy-iH8h2n_k/mqdefault.jpg",
+          "title": "未必"
+        },
+        {
+          "durationText": "1:31",
+          "id": "068Qfrl4TMg",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/068Qfrl4TMg/mqdefault.jpg",
+          "title": "早安週六西門路"
+        }
+      ]
+    },
+    "playlist:208991796": {
+      "etag": "\"n2iyp8vlzz12t\"",
+      "hash": "bc66e02e3e328298120a94f8b858322062be80f32219cf357ff4d620f8f2c19a",
+      "itemCount": 5,
+      "payload": [
+        {
+          "durationText": "3:34",
+          "id": "OZKLvPD-HFM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/OZKLvPD-HFM/mqdefault.jpg",
+          "title": "山绕着山(云追着云) (DJ九零版伴奏)"
+        },
+        {
+          "durationText": "3:34",
+          "id": "q-03cOJQbuE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/q-03cOJQbuE/mqdefault.jpg",
+          "title": "山绕着山(云追着云) (DJ九零版)"
+        },
+        {
+          "durationText": "3:16",
+          "id": "LpYj5rxnRXo",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LpYj5rxnRXo/mqdefault.jpg",
+          "title": "山绕着山(云追着云) (伴奏)"
+        },
+        {
+          "durationText": "3:15",
+          "id": "r11APQHeE3E",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/r11APQHeE3E/mqdefault.jpg",
+          "title": "山绕着山(云追着云)"
+        }
+      ]
+    },
+    "playlist:208991797": {
+      "etag": "\"11f2kyggbj02om\"",
+      "hash": "c723363fb539b6b7931d78beb04941a960256fc13c6fb2a46e0e18e80f293c4b",
+      "itemCount": 17,
+      "payload": [
+        {
+          "durationText": "2:35",
+          "id": "0f68CbO0i5c",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0f68CbO0i5c/mqdefault.jpg",
+          "title": "The Fun Part Is Finding Out"
+        },
+        {
+          "durationText": "2:42",
+          "id": "F5NYR6mdQsU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/F5NYR6mdQsU/mqdefault.jpg",
+          "title": "Better at My Own Pace"
+        },
+        {
+          "durationText": "2:49",
+          "id": "NNyRtVPIrfs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NNyRtVPIrfs/mqdefault.jpg",
+          "title": "More Than I Meant To"
+        },
+        {
+          "durationText": "2:35",
+          "id": "XhG87yTJ7QE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/XhG87yTJ7QE/mqdefault.jpg",
+          "title": "Anywhere but the Usual"
+        },
+        {
+          "durationText": "2:35",
+          "id": "keILHXlOyvQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/keILHXlOyvQ/mqdefault.jpg",
+          "title": "No Reason to Go Home"
+        },
+        {
+          "durationText": "3:01",
+          "id": "RezL_DkUNEU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/RezL_DkUNEU/mqdefault.jpg",
+          "title": "Almost Forgot the Time"
+        },
+        {
+          "durationText": "2:37",
+          "id": "BXdZZQwfsRQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/BXdZZQwfsRQ/mqdefault.jpg",
+          "title": "Let the Day Surprise Me"
+        },
+        {
+          "durationText": "2:47",
+          "id": "HLVsUmvPreA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HLVsUmvPreA/mqdefault.jpg",
+          "title": "Take the Scenic Route"
+        },
+        {
+          "durationText": "2:44",
+          "id": "6ow9J6myAWE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/6ow9J6myAWE/mqdefault.jpg",
+          "title": "A Little Hard to Play Cool"
+        },
+        {
+          "durationText": "3:24",
+          "id": "raQ1WPGO6Fw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/raQ1WPGO6Fw/mqdefault.jpg",
+          "title": "You Make Waiting Easy"
+        },
+        {
+          "durationText": "3:02",
+          "id": "UuP3YhSx4hs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/UuP3YhSx4hs/mqdefault.jpg",
+          "title": "Keeps Finding Its Way Back"
+        },
+        {
+          "durationText": "2:42",
+          "id": "myqciQfX9c8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/myqciQfX9c8/mqdefault.jpg",
+          "title": "I Like Having Plans With You"
+        },
+        {
+          "durationText": "2:36",
+          "id": "HMnZSTibU8U",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HMnZSTibU8U/mqdefault.jpg",
+          "title": "Five Minutes Turned Into Hours"
+        },
+        {
+          "durationText": "2:36",
+          "id": "VBITIUJiO-Q",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/VBITIUJiO-Q/mqdefault.jpg",
+          "title": "All the Right Reasons"
+        },
+        {
+          "durationText": "2:53",
+          "id": "L0hFrHfQHNM",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/L0hFrHfQHNM/mqdefault.jpg",
+          "title": "Better in Real Time"
+        },
+        {
+          "durationText": "2:35",
+          "id": "Loph7JVIYbA",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Loph7JVIYbA/mqdefault.jpg",
+          "title": "Already Looking Forward"
+        }
+      ]
+    },
+    "playlist:208991798": {
+      "etag": "\"ghzhpqswvp176\"",
+      "hash": "8abd886ae67a1823e3115eb3042eb4706c7c6425b88fc41cabc5291f67f93126",
+      "itemCount": 6,
+      "payload": [
+        {
+          "durationText": "4:02",
+          "id": "uzn5nGK8reQ",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/uzn5nGK8reQ/mqdefault.jpg",
+          "title": "借一阵自由晚风（你只管去看看温柔的云）"
+        },
+        {
+          "durationText": "2:33",
+          "id": "GEh0G1AKP1w",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GEh0G1AKP1w/mqdefault.jpg",
+          "title": "可可托海不是海"
+        },
+        {
+          "durationText": "3:43",
+          "id": "qMW04Z4oB4M",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qMW04Z4oB4M/mqdefault.jpg",
+          "title": "情网（烟嗓版）"
+        },
+        {
+          "durationText": "3:28",
+          "id": "3r4Btu-O4d4",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3r4Btu-O4d4/mqdefault.jpg",
+          "title": "你的眼睛背叛你的心 （R&B版）"
+        },
+        {
+          "durationText": "3:24",
+          "id": "7tquNleNZfw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/7tquNleNZfw/mqdefault.jpg",
+          "title": "慢品人间烟火气 （微醺版）"
+        }
+      ]
+    },
+    "playlist:208991799": {
+      "etag": "\"11aeqj35o84p2\"",
+      "hash": "9fbbaea3a517112a9ab52210ad1b7a80a239b43553b52cd16ed71a5e573cd7bf",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "4:30",
+          "id": "a0DBWNghnlY",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/a0DBWNghnlY/mqdefault.jpg",
+          "title": "但你自己不可以"
+        }
+      ]
+    },
+    "playlist:208991800": {
+      "etag": "\"wghcwm3zizpj\"",
+      "hash": "cffd3a9c6db767cc13693b75d7f7cecab4a3d648a1c4ff58316e78e4b497e809",
+      "itemCount": 2,
+      "payload": [
+        {
+          "durationText": "3:58",
+          "id": "vFY_Tc935Bs",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vFY_Tc935Bs/mqdefault.jpg",
+          "title": "只是太爱你 (原谅我真的喝醉了)"
+        }
+      ]
+    },
+    "playlist:208991801": {
+      "etag": "\"q9aacmmigx1l7\"",
+      "hash": "49d0d9e011da2c488a6a0d03fa15a84bf152f355e9d98e7ce3abaca4d300acba",
+      "itemCount": 9,
+      "payload": [
+        {
+          "durationText": "4:04",
+          "id": "d3QHpsWA7QU",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/d3QHpsWA7QU/mqdefault.jpg",
+          "title": "How Many Lifetimes"
+        },
+        {
+          "durationText": "3:33",
+          "id": "xJhssSAgi9A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/xJhssSAgi9A/mqdefault.jpg",
+          "title": "Wrong Kind of Right"
+        },
+        {
+          "durationText": "3:23",
+          "id": "t_gVo67DsVc",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/t_gVo67DsVc/mqdefault.jpg",
+          "title": "The Gap Between Us"
+        },
+        {
+          "durationText": "3:49",
+          "id": "qZPyoaKf0r8",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qZPyoaKf0r8/mqdefault.jpg",
+          "title": "Too Nice For What"
+        },
+        {
+          "durationText": "4:21",
+          "id": "4e8k1RyQ2Iw",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4e8k1RyQ2Iw/mqdefault.jpg",
+          "title": "Goodnight Sunrise"
+        },
+        {
+          "durationText": "3:57",
+          "id": "B6vUrt9EZ-A",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/B6vUrt9EZ-A/mqdefault.jpg",
+          "title": "Come Alone"
+        },
+        {
+          "durationText": "3:55",
+          "id": "ioQ9cXSlrVE",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/ioQ9cXSlrVE/mqdefault.jpg",
+          "title": "By Chance"
+        },
+        {
+          "durationText": "4:26",
+          "id": "kg0VCKbXFZk",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kg0VCKbXFZk/mqdefault.jpg",
+          "title": "For Me First"
+        }
+      ]
+    },
     "playlist:20949882": {
       "etag": "\"xhv16leskpaj4\"",
       "hash": "6a1fdea7768963a7e42e889ab30786270c8fcf42610af53016bab1f7aff1e069",
@@ -96629,141 +97146,141 @@
       ]
     },
     "vector:vector_latest_zh:0:12": {
-      "etag": "\"v6ghn0lkmk7vs\"",
-      "hash": "08e004596da16a8e1a513b074837b84a57f5b0e1858f55c3ec4f683a5ee4edae",
+      "etag": "\"qofuk572b7wo\"",
+      "hash": "7f1816bc70025ce8ab7e46fe985b92da4c63450a44fde381a9281532b920205d",
       "itemCount": 12,
       "payload": [
         {
-          "id": "208960842",
+          "id": "208991801",
+          "kind": "playlist",
+          "subtitle": "8 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/qZPyoaKf0r8/mqdefault.jpg",
+          "title": "That's Okay"
+        },
+        {
+          "id": "208991800",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vFY_Tc935Bs/mqdefault.jpg",
+          "title": "只是太愛你 (原諒我真的喝醉了)"
+        },
+        {
+          "id": "208991799",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/a0DBWNghnlY/mqdefault.jpg",
+          "title": "但你自己不可以"
+        },
+        {
+          "id": "208991798",
+          "kind": "playlist",
+          "subtitle": "5 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/3r4Btu-O4d4/mqdefault.jpg",
+          "title": "慢品人間煙火氣 （微醺版）"
+        },
+        {
+          "id": "208991797",
+          "kind": "playlist",
+          "subtitle": "16 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Loph7JVIYbA/mqdefault.jpg",
+          "title": "Always Somewhere New"
+        },
+        {
+          "id": "208991796",
+          "kind": "playlist",
+          "subtitle": "4 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/LpYj5rxnRXo/mqdefault.jpg",
+          "title": "山繞著山(雲追著雲)"
+        },
+        {
+          "id": "208991795",
           "kind": "playlist",
           "subtitle": "10 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/mnmvDIWeCiE/mqdefault.jpg",
-          "title": "王哥Ai 閩南語專輯 15"
+          "thumbnailURL": "https://i.ytimg.com/vi/qHVhVMGCmFA/mqdefault.jpg",
+          "title": "漂亮美好歐光榮"
         },
         {
-          "id": "208960841",
+          "id": "208991792",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/Xci-f9mSydY/mqdefault.jpg",
-          "title": "以牙還牙 (HBO原創影集《來！金來號！》插曲)"
+          "thumbnailURL": "https://i.ytimg.com/vi/USc2_9NuXOs/mqdefault.jpg",
+          "title": "To Myself, Someday"
         },
         {
-          "id": "208960840",
+          "id": "208991791",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/uY-BCD2hN2E/mqdefault.jpg",
-          "title": "專屬天使（r&b氛圍版）"
+          "thumbnailURL": "https://i.ytimg.com/vi/AaZK8crXY6E/mqdefault.jpg",
+          "title": "愛太沉重 (合作演出：ZERO零)"
         },
         {
-          "id": "208960839",
+          "id": "208981627",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/h_DJpdbyHpM/mqdefault.jpg",
-          "title": "我知道 (R&B) 男生 情緒 翻唱版"
+          "thumbnailURL": "https://i.ytimg.com/vi/dKdMLgTFc2E/mqdefault.jpg",
+          "title": "等雨停"
         },
         {
-          "id": "208960837",
+          "id": "208981626",
           "kind": "playlist",
-          "subtitle": "1 首",
+          "subtitle": "23 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/O8UtUsVKIiQ/mqdefault.jpg",
-          "title": "RIA"
+          "thumbnailURL": "https://i.ytimg.com/vi/v7jwqylBIb8/mqdefault.jpg",
+          "title": "MR003"
         },
         {
-          "id": "208960836",
+          "id": "208981625",
           "kind": "playlist",
-          "subtitle": "1 首",
+          "subtitle": "6 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/AC8NDQU-Rbk/mqdefault.jpg",
-          "title": "若剛好"
-        },
-        {
-          "id": "208960835",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/4a8SKmNEZVg/mqdefault.jpg",
-          "title": "愛我還是他（氛圍版）"
-        },
-        {
-          "id": "208951304",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/k8HCi9Lw__g/mqdefault.jpg",
-          "title": "後來的你在哪"
-        },
-        {
-          "id": "208951303",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/1phKzHLhrtA/mqdefault.jpg",
-          "title": "連帶保證人"
-        },
-        {
-          "id": "208951302",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/APY2VFPg-x8/mqdefault.jpg",
-          "title": "秋風開始新的故事 ｜R&B｜Autumn Brings a New Story -賴野辛"
-        },
-        {
-          "id": "208951301",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/icot1GLhLBo/mqdefault.jpg",
-          "title": "It's Ū"
-        },
-        {
-          "id": "208951300",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/FJVW6OoExXc/mqdefault.jpg",
-          "title": "衰人"
+          "thumbnailURL": "https://i.ytimg.com/vi/0idFiCRixIU/mqdefault.jpg",
+          "title": "謝謝你來過我的生命"
         }
       ]
     },
@@ -97741,141 +98258,141 @@
       ]
     },
     "vector:vector_latest_zh:108:12": {
-      "etag": "\"62n28887w47xl\"",
-      "hash": "eb8c758d696cc30476a51b7cfc4a264478801ac02e1dce8d5043d413a61e14f5",
+      "etag": "\"17hhiyofxek7wy\"",
+      "hash": "4ef2281d14c9971c76da578f44c574710d4e68662f60d75d4502b754e7b781b8",
       "itemCount": 12,
       "payload": [
         {
-          "id": "208867864",
+          "id": "208885762",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/KEfjvc5iRiY/mqdefault.jpg",
-          "title": "堅持到底 - (R&B版) ｜『是你讓我翻破愛情的秘笈 四個字 堅持到底』"
+          "thumbnailURL": "https://i.ytimg.com/vi/Pq0rZODK2Do/mqdefault.jpg",
+          "title": "不問 (《大唐妖探》電影片尾曲)"
         },
         {
-          "id": "208867862",
+          "id": "208885761",
           "kind": "playlist",
-          "subtitle": "1 首",
+          "subtitle": "8 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/XF9ylbYGopQ/mqdefault.jpg",
-          "title": "Bubble"
+          "thumbnailURL": "https://i.ytimg.com/vi/cI76LgdJfsk/mqdefault.jpg",
+          "title": "你還在想他"
         },
         {
-          "id": "208867861",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/4iU8m_cfgwA/mqdefault.jpg",
-          "title": "至少相擁沒錯"
-        },
-        {
-          "id": "208867859",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/CTdGQIeWQM0/mqdefault.jpg",
-          "title": "RASEN Acoustic Ver"
-        },
-        {
-          "id": "208867858",
-          "kind": "playlist",
-          "subtitle": "9 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/BWsZFYYNMu0/mqdefault.jpg",
-          "title": "AMENITY"
-        },
-        {
-          "id": "208858391",
-          "kind": "playlist",
-          "subtitle": "14 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/JqG1nMJtmD8/mqdefault.jpg",
-          "title": "天賜的聲音第七季 第11期"
-        },
-        {
-          "id": "208858390",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/vwJO_VPWEms/mqdefault.jpg",
-          "title": "死不了 ｜R&B｜-落日微醺"
-        },
-        {
-          "id": "208858388",
+          "id": "208885760",
           "kind": "playlist",
           "subtitle": "3 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/KuhXapgnfJ0/mqdefault.jpg",
-          "title": "蘇州人家"
+          "thumbnailURL": "https://i.ytimg.com/vi/ikFaEAlO5N0/mqdefault.jpg",
+          "title": "Koi, Hajimemashita."
         },
         {
-          "id": "208858387",
+          "id": "208885759",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/L8ZnXgbyUuc/mqdefault.jpg",
-          "title": "BiiiG"
+          "thumbnailURL": "https://i.ytimg.com/vi/QuonLScpNy4/mqdefault.jpg",
+          "title": "我發了瘋地愛你"
         },
         {
-          "id": "208858386",
+          "id": "208885758",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bBtRTgeb9t4/mqdefault.jpg",
+          "title": "加冠"
+        },
+        {
+          "id": "208876701",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/8a8xzTbJ3WQ/mqdefault.jpg",
-          "title": "柔紗一幅畫"
+          "thumbnailURL": "https://i.ytimg.com/vi/QOOJPTDxIgg/mqdefault.jpg",
+          "title": "愛唉唉"
         },
         {
-          "id": "208858385",
+          "id": "208876700",
+          "kind": "playlist",
+          "subtitle": "2 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YYHNSzH4q6M/mqdefault.jpg",
+          "title": "還是會想念"
+        },
+        {
+          "id": "208876699",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/zqsnm9T8c54/mqdefault.jpg",
-          "title": "我別無所求"
+          "thumbnailURL": "https://i.ytimg.com/vi/l5nRkVxQavs/mqdefault.jpg",
+          "title": "時間教會我的事"
         },
         {
-          "id": "208858384",
+          "id": "208876698",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/K1p0sTGzLro/mqdefault.jpg",
-          "title": "煙火"
+          "thumbnailURL": "https://i.ytimg.com/vi/s1JDiYI8swE/mqdefault.jpg",
+          "title": "我知道你 (R&B說唱版)"
+        },
+        {
+          "id": "208876697",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5A0LFCzC7Z0/mqdefault.jpg",
+          "title": "甲乙丙丁 (R&B心碎版)"
+        },
+        {
+          "id": "208876696",
+          "kind": "playlist",
+          "subtitle": "8 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1HhB4RPaJm4/mqdefault.jpg",
+          "title": "Good As Is"
+        },
+        {
+          "id": "208876695",
+          "kind": "playlist",
+          "subtitle": "8 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/lIyC9NFqs9o/mqdefault.jpg",
+          "title": "日落下的彩虹 (原創劇原聲帶)"
         }
       ]
     },
@@ -99270,141 +99787,141 @@
       ]
     },
     "vector:vector_latest_zh:120:12": {
-      "etag": "\"18f8ltzr7t802\"",
-      "hash": "541ee7fe4ac4440034d1f14843c23df8d1840eaed159e54c558c49a445d08613",
+      "etag": "\"v92emy2v6h83o\"",
+      "hash": "fc8a9c13e7120a7bdf52e962da1caa29eca2c84d85382c04e82e6388047be817",
       "itemCount": 12,
       "payload": [
         {
-          "id": "208848215",
+          "id": "208876694",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1T6rdZOke6k/mqdefault.jpg",
+          "title": "打不通的電話"
+        },
+        {
+          "id": "208876693",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/bhufdtwV6ww/mqdefault.jpg",
+          "title": "Feels Like a Good Day"
+        },
+        {
+          "id": "208876692",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/g6FAFfDzZFk/mqdefault.jpg",
+          "title": "語音鈴聲"
+        },
+        {
+          "id": "208876691",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4gRcRdXqTF0/mqdefault.jpg",
+          "title": "離你最近，卻離愛最遠"
+        },
+        {
+          "id": "208867876",
+          "kind": "playlist",
+          "subtitle": "2 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/CvLwwA0EXjA/mqdefault.jpg",
+          "title": "Still Missing You"
+        },
+        {
+          "id": "208867875",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/YRvzBpcsCtw/mqdefault.jpg",
+          "title": "執迷不悟"
+        },
+        {
+          "id": "208867874",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jTBgSv2WncM/mqdefault.jpg",
+          "title": "何日君再來 ｜R&B｜-落日微醺"
+        },
+        {
+          "id": "208867873",
+          "kind": "playlist",
+          "subtitle": "24 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/JUWOsMu_twU/mqdefault.jpg",
+          "title": "獻給你的歌"
+        },
+        {
+          "id": "208867872",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EbtTqezC4Yk/mqdefault.jpg",
+          "title": "再無我們"
+        },
+        {
+          "id": "208867870",
+          "kind": "playlist",
+          "subtitle": "3 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/4fjdvcE2qkY/mqdefault.jpg",
+          "title": "vengeance"
+        },
+        {
+          "id": "208867869",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/jGvihirVVQg/mqdefault.jpg",
+          "title": "I Got Your Back (Feat. JISOO, MOMOKA of HANA) (Korean Ver.)"
+        },
+        {
+          "id": "208867868",
           "kind": "playlist",
           "subtitle": "12 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/uN7xe7i75e8/mqdefault.jpg",
-          "title": "快樂有時有"
-        },
-        {
-          "id": "208848214",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/uKeCymhN8RU/mqdefault.jpg",
-          "title": "好巧是你 (2026中央廣播電視總台七夕晚會主題曲)"
-        },
-        {
-          "id": "208848213",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/ylJcxHBf2zw/mqdefault.jpg",
-          "title": "共枕孤墳"
-        },
-        {
-          "id": "208848212",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/RPhe39_65XY/mqdefault.jpg",
-          "title": "永不失聯的愛(國風R&B版) - 華為音悅家APP改編"
-        },
-        {
-          "id": "208848211",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/yy7436HxueU/mqdefault.jpg",
-          "title": "平行宇宙"
-        },
-        {
-          "id": "208848210",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/hkeIg4BBsfk/mqdefault.jpg",
-          "title": "最遺憾的朋友"
-        },
-        {
-          "id": "208838975",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/5QQWb6tI-28/mqdefault.jpg",
-          "title": "思念是一種病（r&b氛圍版）"
-        },
-        {
-          "id": "208838974",
-          "kind": "playlist",
-          "subtitle": "14 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/2Ac9ccgBQR0/mqdefault.jpg",
-          "title": "天賜的聲音第七季 第10期"
-        },
-        {
-          "id": "208838973",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/_k8oAIIuZZc/mqdefault.jpg",
-          "title": "好想再愛你"
-        },
-        {
-          "id": "208838972",
-          "kind": "playlist",
-          "subtitle": "6 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/JuAbpMDPiTc/mqdefault.jpg",
-          "title": "Sixth Sense（第六感）"
-        },
-        {
-          "id": "208838971",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/RxNXiV-dsF8/mqdefault.jpg",
-          "title": "我要登上最高的山峰（合唱DJ版）"
-        },
-        {
-          "id": "208838970",
-          "kind": "playlist",
-          "subtitle": "15 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/L2LzcHBis6g/mqdefault.jpg",
-          "title": "Jigoooo Radio | Soft Pop Vibe Vol.11 | Just Me"
+          "thumbnailURL": "https://i.ytimg.com/vi/4Z4XOEDf8Xs/mqdefault.jpg",
+          "title": "Haikyu!! BOS - Syudaikatachinoutage -"
         }
       ]
     },
@@ -100521,141 +101038,141 @@
       ]
     },
     "vector:vector_latest_zh:12:12": {
-      "etag": "\"13pet0brmk080o\"",
-      "hash": "645a0c029a418c254efe916190fd880a78eb219c897fb1bf31cc8bf1d742a72c",
+      "etag": "\"wqb58n1jkl7tm\"",
+      "hash": "8b3252d49960e10aeabb0e5afdf06b25625820d87e9fc8e6976498ba73d50f21",
       "itemCount": 12,
       "payload": [
         {
-          "id": "208951299",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/N62F-6aG_aM/mqdefault.jpg",
-          "title": "Travel (合作演出：shaltt)"
-        },
-        {
-          "id": "208951298",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/6lCThHClTYE/mqdefault.jpg",
-          "title": "半糖去冰"
-        },
-        {
-          "id": "208951297",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/D2HJ0CPQPsg/mqdefault.jpg",
-          "title": "光透進來的地方"
-        },
-        {
-          "id": "208951296",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/ZT-QOVFUlSM/mqdefault.jpg",
-          "title": "別在傷口灑鹽（氛圍版）"
-        },
-        {
-          "id": "208951295",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/Y-nc2fmn9ls/mqdefault.jpg",
-          "title": "晴天娃娃 (影集《接招吧！製作人》主題曲)"
-        },
-        {
-          "id": "208951294",
+          "id": "208981624",
           "kind": "playlist",
           "subtitle": "3 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/_IT83Y_HcAw/mqdefault.jpg",
-          "title": "Fallen Angel (Digital EP)"
+          "thumbnailURL": "https://i.ytimg.com/vi/hJ3aMhhd05M/mqdefault.jpg",
+          "title": "海角七號"
         },
         {
-          "id": "208951293",
+          "id": "208981623",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/VxzJLeA19NY/mqdefault.jpg",
-          "title": "逝去的煙花"
+          "thumbnailURL": "https://i.ytimg.com/vi/2OnVuqs8MfU/mqdefault.jpg",
+          "title": "一晃又是一個秋"
         },
         {
-          "id": "208951291",
+          "id": "208981622",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/8eOs7Zd-690/mqdefault.jpg",
-          "title": "鹹酸苦汫"
+          "thumbnailURL": "https://i.ytimg.com/vi/zG8qGzFslDU/mqdefault.jpg",
+          "title": "電話袂閣響"
         },
         {
-          "id": "208951290",
+          "id": "208981621",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/iYxubmByDtQ/mqdefault.jpg",
+          "title": "破曉"
+        },
+        {
+          "id": "208981619",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/Q_V_EOytiFI/mqdefault.jpg",
-          "title": "再見面是落葉還是飄雪 ｜R&B 抖音歌 完整版｜-拾三三"
+          "thumbnailURL": "https://i.ytimg.com/vi/Z6VivlEX2_4/mqdefault.jpg",
+          "title": "懷念我的秋天 ｜R&B 抖音歌 完整版｜-404緩存"
         },
         {
-          "id": "208951288",
+          "id": "208981618",
+          "kind": "playlist",
+          "subtitle": "4 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/tAzxfOSCXOQ/mqdefault.jpg",
+          "title": "放下那個不愛你的人"
+        },
+        {
+          "id": "208981617",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/BsrFLHoenFA/mqdefault.jpg",
-          "title": "請你停一停"
+          "thumbnailURL": "https://i.ytimg.com/vi/OHwba1Q25rg/mqdefault.jpg",
+          "title": "我不是不想你，是不敢打擾你"
         },
         {
-          "id": "208951287",
+          "id": "208981616",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/WE0ZjwOojm4/mqdefault.jpg",
-          "title": "不想想太多"
+          "thumbnailURL": "https://i.ytimg.com/vi/OzgJgKwbZOg/mqdefault.jpg",
+          "title": "此刻 (《早春晴朗》情深限定曲&片尾曲)"
         },
         {
-          "id": "208942154",
+          "id": "208981615",
+          "kind": "playlist",
+          "subtitle": "2 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cjTdZMOWrVI/mqdefault.jpg",
+          "title": "甲乙丙丁Strangers (粵語版)"
+        },
+        {
+          "id": "208981614",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/ewiKcVmuqL4/mqdefault.jpg",
-          "title": "給未來的自己 (降調版)"
+          "thumbnailURL": "https://i.ytimg.com/vi/unAZ8gXhhMA/mqdefault.jpg",
+          "title": "我不難過"
+        },
+        {
+          "id": "208981613",
+          "kind": "playlist",
+          "subtitle": "6 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/WAOXdQR-rRg/mqdefault.jpg",
+          "title": "莫忙（風在唱 雲在晃）"
+        },
+        {
+          "id": "208981612",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/HzpDg83IElA/mqdefault.jpg",
+          "title": "刪了一百遍"
         }
       ]
     },
@@ -100938,141 +101455,141 @@
       ]
     },
     "vector:vector_latest_zh:132:12": {
-      "etag": "\"qrdsv5mpcc7ua\"",
-      "hash": "f43786d8b94cac853195fe73c7fff05b97bb72c56f0cb5dfa7ddf3022877fb10",
+      "etag": "\"vem08j47xm7yw\"",
+      "hash": "1b093d5cf9a319399c6d26284984460eae47a48c341d9994e8d8a8aa4d7463ff",
       "itemCount": 12,
       "payload": [
         {
-          "id": "208838969",
-          "kind": "playlist",
-          "subtitle": "20 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/T_LYuzPoKQM/mqdefault.jpg",
-          "title": "MR021"
-        },
-        {
-          "id": "208838968",
+          "id": "208867867",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/PEoYYtNGh-g/mqdefault.jpg",
-          "title": "我曾像傻子一樣愛你 (DJ女版)"
+          "thumbnailURL": "https://i.ytimg.com/vi/XcalNJRHHW4/mqdefault.jpg",
+          "title": "冬日戀歌 ｜(R&B版) ｜Winter Sonata"
         },
         {
-          "id": "208834116",
+          "id": "208867866",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/xRWc1dtuFUU/mqdefault.jpg",
-          "title": "第57次取消發送"
+          "thumbnailURL": "https://i.ytimg.com/vi/tyalcBAQgs0/mqdefault.jpg",
+          "title": "冰川之下"
         },
         {
-          "id": "208834115",
+          "id": "208867865",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/zm_7g4qW-HI/mqdefault.jpg",
-          "title": "愛情長跑"
+          "thumbnailURL": "https://i.ytimg.com/vi/WKjypLs1pbA/mqdefault.jpg",
+          "title": "甲乙丙丁 (R&B說唱版)"
         },
         {
-          "id": "208834114",
+          "id": "208867864",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/44iPfZbEd-s/mqdefault.jpg",
-          "title": "原諒我沒有愛你的天分 ｜R&B 抖音歌 完整版｜-拾三三"
+          "thumbnailURL": "https://i.ytimg.com/vi/KEfjvc5iRiY/mqdefault.jpg",
+          "title": "堅持到底 - (R&B版) ｜『是你讓我翻破愛情的秘笈 四個字 堅持到底』"
         },
         {
-          "id": "208834113",
+          "id": "208867862",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/dqOY2fgGFkQ/mqdefault.jpg",
-          "title": "耍賴"
+          "thumbnailURL": "https://i.ytimg.com/vi/XF9ylbYGopQ/mqdefault.jpg",
+          "title": "Bubble"
         },
         {
-          "id": "208834112",
+          "id": "208867861",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/Z_xUGxBsUJI/mqdefault.jpg",
-          "title": "消散對白 (DJ女版)"
+          "thumbnailURL": "https://i.ytimg.com/vi/4iU8m_cfgwA/mqdefault.jpg",
+          "title": "至少相擁沒錯"
         },
         {
-          "id": "208834111",
+          "id": "208867859",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/snx0ZXIrm7I/mqdefault.jpg",
-          "title": "為什麼有些旋律"
+          "thumbnailURL": "https://i.ytimg.com/vi/CTdGQIeWQM0/mqdefault.jpg",
+          "title": "RASEN Acoustic Ver"
         },
         {
-          "id": "208832320",
+          "id": "208867858",
           "kind": "playlist",
-          "subtitle": "7 首",
+          "subtitle": "9 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/_0zx6OPQovA/mqdefault.jpg",
-          "title": "Summer, I"
+          "thumbnailURL": "https://i.ytimg.com/vi/BWsZFYYNMu0/mqdefault.jpg",
+          "title": "AMENITY"
         },
         {
-          "id": "208832319",
+          "id": "208858391",
           "kind": "playlist",
-          "subtitle": "8 首",
+          "subtitle": "14 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/ImkMjABrN34/mqdefault.jpg",
-          "title": "モノクロマン"
+          "thumbnailURL": "https://i.ytimg.com/vi/JqG1nMJtmD8/mqdefault.jpg",
+          "title": "天賜的聲音第七季 第11期"
         },
         {
-          "id": "208832318",
+          "id": "208858390",
           "kind": "playlist",
-          "subtitle": "5 首",
+          "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/_ewoPiq4K9k/mqdefault.jpg",
-          "title": "Creep"
+          "thumbnailURL": "https://i.ytimg.com/vi/vwJO_VPWEms/mqdefault.jpg",
+          "title": "死不了 ｜R&B｜-落日微醺"
         },
         {
-          "id": "208832317",
+          "id": "208858388",
           "kind": "playlist",
-          "subtitle": "4 首",
+          "subtitle": "3 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/BZ4UzthYTss/mqdefault.jpg",
-          "title": "This & That (That Remixes)"
+          "thumbnailURL": "https://i.ytimg.com/vi/KuhXapgnfJ0/mqdefault.jpg",
+          "title": "蘇州人家"
+        },
+        {
+          "id": "208858387",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/L8ZnXgbyUuc/mqdefault.jpg",
+          "title": "BiiiG"
         }
       ]
     },
@@ -114041,141 +114558,141 @@
       ]
     },
     "vector:vector_latest_zh:24:12": {
-      "etag": "\"n1b7coe7ez85k\"",
-      "hash": "82e2c2211f69f5e3091a8b7010d9408c58f26b334d8d08c5fac7bfb46d3b02a8",
+      "etag": "\"2yt36v39h67sc\"",
+      "hash": "6b84b99383260d36dedfc12cb791e85f1bc33ce02f611b0fdfba21aa3b22f845",
       "itemCount": 12,
       "payload": [
         {
-          "id": "208942153",
+          "id": "208981611",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/9rONEa3bQ4k/mqdefault.jpg",
-          "title": "MAIS PESADO"
+          "thumbnailURL": "https://i.ytimg.com/vi/dGy0nQ3nXz8/mqdefault.jpg",
+          "title": "偶像包袱"
         },
         {
-          "id": "208942152",
+          "id": "208981610",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/PfV2bJMw5Gc/mqdefault.jpg",
-          "title": "Empty"
+          "thumbnailURL": "https://i.ytimg.com/vi/YEn2UYTjQFs/mqdefault.jpg",
+          "title": "動了心卻不能在一起的人"
         },
         {
-          "id": "208942151",
+          "id": "208981609",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/xTCn33C8KmU/mqdefault.jpg",
-          "title": "Midnight Ease"
+          "thumbnailURL": "https://i.ytimg.com/vi/WBkKJnpJruM/mqdefault.jpg",
+          "title": "情網"
         },
         {
-          "id": "208942150",
+          "id": "208960842",
           "kind": "playlist",
-          "subtitle": "1 首",
+          "subtitle": "10 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/VGblI1ZKoX4/mqdefault.jpg",
-          "title": "我要找到你 (2026中央廣播電視總台七夕晚會現場)"
+          "thumbnailURL": "https://i.ytimg.com/vi/mnmvDIWeCiE/mqdefault.jpg",
+          "title": "王哥Ai 閩南語專輯 15"
         },
         {
-          "id": "208942149",
+          "id": "208960841",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/7Zj7GLrjc4Y/mqdefault.jpg",
-          "title": "Come Back Home"
+          "thumbnailURL": "https://i.ytimg.com/vi/Xci-f9mSydY/mqdefault.jpg",
+          "title": "以牙還牙 (HBO原創影集《來！金來號！》插曲)"
         },
         {
-          "id": "208939333",
+          "id": "208960840",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/KjX-lpTddKE/mqdefault.jpg",
-          "title": "櫻花草 (2026中央廣播電視總台七夕晚會表演曲目)"
+          "thumbnailURL": "https://i.ytimg.com/vi/uY-BCD2hN2E/mqdefault.jpg",
+          "title": "專屬天使（r&b氛圍版）"
         },
         {
-          "id": "208939332",
+          "id": "208960839",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/pSW2h-Sz-FM/mqdefault.jpg",
-          "title": "愛你 - (R&B版) ｜「就這樣愛你愛你愛你 隨時都要一起」"
+          "thumbnailURL": "https://i.ytimg.com/vi/h_DJpdbyHpM/mqdefault.jpg",
+          "title": "我知道 (R&B) 男生 情緒 翻唱版"
         },
         {
-          "id": "208939331",
+          "id": "208960837",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/AhsCdD7eNo4/mqdefault.jpg",
-          "title": "永不放棄 (“東北超”官方推廣曲)"
+          "thumbnailURL": "https://i.ytimg.com/vi/O8UtUsVKIiQ/mqdefault.jpg",
+          "title": "RIA"
         },
         {
-          "id": "208939330",
+          "id": "208960836",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/kH0cga8S4ho/mqdefault.jpg",
-          "title": "你會後悔的 (You’ll Regret It)"
-        },
-        {
-          "id": "208939329",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/Lkm_QDI_QTc/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/AC8NDQU-Rbk/mqdefault.jpg",
           "title": "若剛好"
         },
         {
-          "id": "208939328",
+          "id": "208960835",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/8ppho3INWlI/mqdefault.jpg",
-          "title": "偏執錯戀 ｜R&B｜-404緩存 Obsessive Love Gone Wrong"
+          "thumbnailURL": "https://i.ytimg.com/vi/4a8SKmNEZVg/mqdefault.jpg",
+          "title": "愛我還是他（氛圍版）"
         },
         {
-          "id": "208939327",
+          "id": "208951304",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/I_ZOxEKgtaA/mqdefault.jpg",
-          "title": "夜色落筆"
+          "thumbnailURL": "https://i.ytimg.com/vi/k8HCi9Lw__g/mqdefault.jpg",
+          "title": "後來的你在哪"
+        },
+        {
+          "id": "208951303",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/1phKzHLhrtA/mqdefault.jpg",
+          "title": "連帶保證人"
         }
       ]
     },
@@ -115570,141 +116087,141 @@
       ]
     },
     "vector:vector_latest_zh:36:12": {
-      "etag": "\"qlli8r32yz7vf\"",
-      "hash": "3fd887a251a81c3c969299bdf3cdbdb89277f0f487668463c8c32087faee4285",
+      "etag": "\"44xkk5if2k83a\"",
+      "hash": "fe0b56f848d6131ccede9570f2e77d2dc6931b3f60ce27d4cd6023da77cf57aa",
       "itemCount": 12,
       "payload": [
         {
-          "id": "208939324",
+          "id": "208951302",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/QfpwaOR4OfE/mqdefault.jpg",
-          "title": "心太軟 ｜R&B 抖音歌 完整版｜-落日微醺"
+          "thumbnailURL": "https://i.ytimg.com/vi/APY2VFPg-x8/mqdefault.jpg",
+          "title": "秋風開始新的故事 ｜R&B｜Autumn Brings a New Story -賴野辛"
         },
         {
-          "id": "208930639",
-          "kind": "playlist",
-          "subtitle": "15 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/5nn8lEaxqiY/mqdefault.jpg",
-          "title": "嬰兒噓聲 - 寶寶白噪音睡眠"
-        },
-        {
-          "id": "208930638",
+          "id": "208951301",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/6YQA03otlPU/mqdefault.jpg",
-          "title": "別等風停 別等夢醒"
+          "thumbnailURL": "https://i.ytimg.com/vi/icot1GLhLBo/mqdefault.jpg",
+          "title": "It's Ū"
         },
         {
-          "id": "208930637",
-          "kind": "playlist",
-          "subtitle": "11 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/GREUzxVTc2Y/mqdefault.jpg",
-          "title": "偷偷愛上你"
-        },
-        {
-          "id": "208930636",
+          "id": "208951300",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/Fbxtffqt03s/mqdefault.jpg",
-          "title": "超想見你"
+          "thumbnailURL": "https://i.ytimg.com/vi/FJVW6OoExXc/mqdefault.jpg",
+          "title": "衰人"
         },
         {
-          "id": "208930635",
+          "id": "208951299",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/SdNySP9fMbY/mqdefault.jpg",
-          "title": "一紙清風"
+          "thumbnailURL": "https://i.ytimg.com/vi/N62F-6aG_aM/mqdefault.jpg",
+          "title": "Travel (合作演出：shaltt)"
         },
         {
-          "id": "208930634",
+          "id": "208951298",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/WdU9sAPygRY/mqdefault.jpg",
-          "title": "Ashiato - Brave the unknown -"
+          "thumbnailURL": "https://i.ytimg.com/vi/6lCThHClTYE/mqdefault.jpg",
+          "title": "半糖去冰"
         },
         {
-          "id": "208930633",
+          "id": "208951297",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/QtFogqtIIs0/mqdefault.jpg",
-          "title": "你，好不好 (R&B) 翻唱版"
+          "thumbnailURL": "https://i.ytimg.com/vi/D2HJ0CPQPsg/mqdefault.jpg",
+          "title": "光透進來的地方"
         },
         {
-          "id": "208930632",
+          "id": "208951296",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/pdKBL4HPMYg/mqdefault.jpg",
-          "title": "陪你慢慢變老 ｜R&B｜情歌"
+          "thumbnailURL": "https://i.ytimg.com/vi/ZT-QOVFUlSM/mqdefault.jpg",
+          "title": "別在傷口灑鹽（氛圍版）"
         },
         {
-          "id": "208918456",
+          "id": "208951295",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/RY0UgX0qXKo/mqdefault.jpg",
-          "title": "食言而肥"
+          "thumbnailURL": "https://i.ytimg.com/vi/Y-nc2fmn9ls/mqdefault.jpg",
+          "title": "晴天娃娃 (影集《接招吧！製作人》主題曲)"
         },
         {
-          "id": "208918455",
+          "id": "208951294",
           "kind": "playlist",
-          "subtitle": "2 首",
+          "subtitle": "3 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/KxMSWYpLkig/mqdefault.jpg",
-          "title": "江南的風吹落江北的雨(DJ九零版)"
+          "thumbnailURL": "https://i.ytimg.com/vi/_IT83Y_HcAw/mqdefault.jpg",
+          "title": "Fallen Angel (Digital EP)"
         },
         {
-          "id": "208918454",
+          "id": "208951293",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/Aj5gyLIeJgg/mqdefault.jpg",
-          "title": "想念又想念"
+          "thumbnailURL": "https://i.ytimg.com/vi/VxzJLeA19NY/mqdefault.jpg",
+          "title": "逝去的煙花"
+        },
+        {
+          "id": "208951291",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/8eOs7Zd-690/mqdefault.jpg",
+          "title": "鹹酸苦汫"
+        },
+        {
+          "id": "208951290",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/Q_V_EOytiFI/mqdefault.jpg",
+          "title": "再見面是落葉還是飄雪 ｜R&B 抖音歌 完整版｜-拾三三"
         }
       ]
     },
@@ -117099,141 +117616,141 @@
       ]
     },
     "vector:vector_latest_zh:48:12": {
-      "etag": "\"3rn836xyfs7t2\"",
-      "hash": "42303a36746410f7867f3fe6eb2ad325160a56af6c8d9c80acb0025f748e0777",
+      "etag": "\"5mce0nfkiw84n\"",
+      "hash": "53c3110ab3fb4eca4970f4fbf700d133426ece5c3e796c14c486d80728a33e8b",
       "itemCount": 12,
       "payload": [
         {
-          "id": "208918453",
-          "kind": "playlist",
-          "subtitle": "5 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/QlbewHH43Fg/mqdefault.jpg",
-          "title": "如夢石"
-        },
-        {
-          "id": "208918452",
+          "id": "208951288",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/s8CxULvshLg/mqdefault.jpg",
-          "title": "你要靜候再靜候（r&b）"
+          "thumbnailURL": "https://i.ytimg.com/vi/BsrFLHoenFA/mqdefault.jpg",
+          "title": "請你停一停"
         },
         {
-          "id": "208918451",
+          "id": "208951287",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/UgWmQrjsQT4/mqdefault.jpg",
-          "title": "真的不快樂 (DJ女版)"
+          "thumbnailURL": "https://i.ytimg.com/vi/WE0ZjwOojm4/mqdefault.jpg",
+          "title": "不想想太多"
         },
         {
-          "id": "208918450",
+          "id": "208942154",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/daxHf5l9gig/mqdefault.jpg",
-          "title": "珊瑚海 (R&B Version)"
+          "thumbnailURL": "https://i.ytimg.com/vi/ewiKcVmuqL4/mqdefault.jpg",
+          "title": "給未來的自己 (降調版)"
         },
         {
-          "id": "208918449",
+          "id": "208942153",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/11DCkao5fZk/mqdefault.jpg",
-          "title": "秋葉飛過的天"
+          "thumbnailURL": "https://i.ytimg.com/vi/9rONEa3bQ4k/mqdefault.jpg",
+          "title": "MAIS PESADO"
         },
         {
-          "id": "208918448",
+          "id": "208942152",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/L7Sic64cC2Y/mqdefault.jpg",
-          "title": "紅色圍巾"
+          "thumbnailURL": "https://i.ytimg.com/vi/PfV2bJMw5Gc/mqdefault.jpg",
+          "title": "Empty"
         },
         {
-          "id": "208918447",
+          "id": "208942151",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/_5Q8zh6DuuA/mqdefault.jpg",
-          "title": "再見太難"
+          "thumbnailURL": "https://i.ytimg.com/vi/xTCn33C8KmU/mqdefault.jpg",
+          "title": "Midnight Ease"
         },
         {
-          "id": "208918446",
+          "id": "208942150",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/MvfbHsG4b0A/mqdefault.jpg",
-          "title": "我是如此相信 - R&B版"
+          "thumbnailURL": "https://i.ytimg.com/vi/VGblI1ZKoX4/mqdefault.jpg",
+          "title": "我要找到你 (2026中央廣播電視總台七夕晚會現場)"
         },
         {
-          "id": "208918445",
+          "id": "208942149",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/cMVCa6_aNwQ/mqdefault.jpg",
-          "title": "最遺憾的朋友"
+          "thumbnailURL": "https://i.ytimg.com/vi/7Zj7GLrjc4Y/mqdefault.jpg",
+          "title": "Come Back Home"
         },
         {
-          "id": "208918443",
+          "id": "208939333",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/qGDperM3UTY/mqdefault.jpg",
-          "title": "四季飛鴻"
+          "thumbnailURL": "https://i.ytimg.com/vi/KjX-lpTddKE/mqdefault.jpg",
+          "title": "櫻花草 (2026中央廣播電視總台七夕晚會表演曲目)"
         },
         {
-          "id": "208906097",
-          "kind": "playlist",
-          "subtitle": "6 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/DpgEVbFcBak/mqdefault.jpg",
-          "title": "魚花"
-        },
-        {
-          "id": "208906096",
+          "id": "208939332",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/eNLBmPmAWW0/mqdefault.jpg",
-          "title": "Reasons, i love you"
+          "thumbnailURL": "https://i.ytimg.com/vi/pSW2h-Sz-FM/mqdefault.jpg",
+          "title": "愛你 - (R&B版) ｜「就這樣愛你愛你愛你 隨時都要一起」"
+        },
+        {
+          "id": "208939331",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/AhsCdD7eNo4/mqdefault.jpg",
+          "title": "永不放棄 (“東北超”官方推廣曲)"
+        },
+        {
+          "id": "208939330",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/kH0cga8S4ho/mqdefault.jpg",
+          "title": "你會後悔的 (You’ll Regret It)"
         }
       ]
     },
@@ -118628,141 +119145,141 @@
       ]
     },
     "vector:vector_latest_zh:60:12": {
-      "etag": "\"5r1ok1h3fy80k\"",
-      "hash": "52bf4985e307a1c5d75be41b951e937ca9bde3554b52ca2a474c8ab039d9157b",
+      "etag": "\"figv9cmq4v7xw\"",
+      "hash": "30f6e77f048184dc2a101b098720c7a0ea003fd4b295de8a042c0e35f6dd754c",
       "itemCount": 12,
       "payload": [
         {
-          "id": "208906095",
+          "id": "208939329",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/aGX_Lc38Ut4/mqdefault.jpg",
-          "title": "匿名的好友 (R&B版)"
+          "thumbnailURL": "https://i.ytimg.com/vi/Lkm_QDI_QTc/mqdefault.jpg",
+          "title": "若剛好"
         },
         {
-          "id": "208906094",
+          "id": "208939328",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/ZXSCF0XUdO0/mqdefault.jpg",
-          "title": "Lost Without You"
+          "thumbnailURL": "https://i.ytimg.com/vi/8ppho3INWlI/mqdefault.jpg",
+          "title": "偏執錯戀 ｜R&B｜-404緩存 Obsessive Love Gone Wrong"
         },
         {
-          "id": "208906092",
+          "id": "208939327",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/E428mpBmltU/mqdefault.jpg",
-          "title": "明天我要離開"
+          "thumbnailURL": "https://i.ytimg.com/vi/I_ZOxEKgtaA/mqdefault.jpg",
+          "title": "夜色落筆"
         },
         {
-          "id": "208906091",
+          "id": "208939324",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/VJL9IWscIMo/mqdefault.jpg",
-          "title": "逆時針的雨"
+          "thumbnailURL": "https://i.ytimg.com/vi/QfpwaOR4OfE/mqdefault.jpg",
+          "title": "心太軟 ｜R&B 抖音歌 完整版｜-落日微醺"
         },
         {
-          "id": "208906090",
+          "id": "208930639",
+          "kind": "playlist",
+          "subtitle": "15 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/5nn8lEaxqiY/mqdefault.jpg",
+          "title": "嬰兒噓聲 - 寶寶白噪音睡眠"
+        },
+        {
+          "id": "208930638",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/dPjSmdXtIM0/mqdefault.jpg",
-          "title": "雙眼皮男孩 (feat.徐晧程徐晧程)"
+          "thumbnailURL": "https://i.ytimg.com/vi/6YQA03otlPU/mqdefault.jpg",
+          "title": "別等風停 別等夢醒"
         },
         {
-          "id": "208906089",
+          "id": "208930637",
+          "kind": "playlist",
+          "subtitle": "11 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/GREUzxVTc2Y/mqdefault.jpg",
+          "title": "偷偷愛上你"
+        },
+        {
+          "id": "208930636",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/0Wfy_RPv6y0/mqdefault.jpg",
-          "title": "一樣會愛上你"
+          "thumbnailURL": "https://i.ytimg.com/vi/Fbxtffqt03s/mqdefault.jpg",
+          "title": "超想見你"
         },
         {
-          "id": "208906088",
-          "kind": "playlist",
-          "subtitle": "19 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/oH5PsMg2erc/mqdefault.jpg",
-          "title": "White Summer Unboxing"
-        },
-        {
-          "id": "208906087",
+          "id": "208930635",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/v4L9Lrq11ww/mqdefault.jpg",
-          "title": "七夕我孤枝"
+          "thumbnailURL": "https://i.ytimg.com/vi/SdNySP9fMbY/mqdefault.jpg",
+          "title": "一紙清風"
         },
         {
-          "id": "208906086",
+          "id": "208930634",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/NOEPTPkK3Uc/mqdefault.jpg",
-          "title": "愛錯了一個人"
+          "thumbnailURL": "https://i.ytimg.com/vi/WdU9sAPygRY/mqdefault.jpg",
+          "title": "Ashiato - Brave the unknown -"
         },
         {
-          "id": "208895268",
+          "id": "208930633",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/llMn9guebdY/mqdefault.jpg",
-          "title": "一場遊戲一場夢 - (R&B版) ｜『那只是一場遊戲一場夢 不要把殘缺的愛留在這裡』"
+          "thumbnailURL": "https://i.ytimg.com/vi/QtFogqtIIs0/mqdefault.jpg",
+          "title": "你，好不好 (R&B) 翻唱版"
         },
         {
-          "id": "208895267",
+          "id": "208930632",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/Z4RmSl4f1fk/mqdefault.jpg",
-          "title": "不甘"
-        },
-        {
-          "id": "208895266",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/-H_9AQAiX2g/mqdefault.jpg",
-          "title": "幾分之幾 (R&B版)"
+          "thumbnailURL": "https://i.ytimg.com/vi/pdKBL4HPMYg/mqdefault.jpg",
+          "title": "陪你慢慢變老 ｜R&B｜情歌"
         }
       ]
     },
@@ -120157,141 +120674,141 @@
       ]
     },
     "vector:vector_latest_zh:72:12": {
-      "etag": "\"14spkqffvjq7ze\"",
-      "hash": "30b7393cbe9f97b2a342a3aca708ac8380d8fc6b6bc3bb56330eab96583a129b",
+      "etag": "\"dhur4tcdye7pd\"",
+      "hash": "d5222a12ddc5ccc2a0d0d9047e93aeca507698922213828a71faf5a4be68ff1e",
       "itemCount": 12,
       "payload": [
         {
-          "id": "208895265",
+          "id": "208918456",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/KSmAD7njKro/mqdefault.jpg",
-          "title": "淚海 (R&B) 對唱 翻唱版"
+          "thumbnailURL": "https://i.ytimg.com/vi/RY0UgX0qXKo/mqdefault.jpg",
+          "title": "食言而肥"
         },
         {
-          "id": "208895263",
+          "id": "208918455",
+          "kind": "playlist",
+          "subtitle": "2 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KxMSWYpLkig/mqdefault.jpg",
+          "title": "江南的風吹落江北的雨(DJ九零版)"
+        },
+        {
+          "id": "208918454",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/yP6rJHo1UYg/mqdefault.jpg",
-          "title": "她 (《早春晴朗》電視劇欒念人物曲&片頭曲)"
+          "thumbnailURL": "https://i.ytimg.com/vi/Aj5gyLIeJgg/mqdefault.jpg",
+          "title": "想念又想念"
         },
         {
-          "id": "208895262",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/r-1ObYvi-5E/mqdefault.jpg",
-          "title": "愛存在（r&b氛圍版）"
-        },
-        {
-          "id": "208895260",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/o5Y4Z_c7u8c/mqdefault.jpg",
-          "title": "落差感"
-        },
-        {
-          "id": "208885768",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/vhYnPSn5ftA/mqdefault.jpg",
-          "title": "All I Ever Wanted"
-        },
-        {
-          "id": "208885767",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/2jXNGs3iGZI/mqdefault.jpg",
-          "title": "執迷不悟"
-        },
-        {
-          "id": "208885766",
-          "kind": "playlist",
-          "subtitle": "10 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/EDI_szPVwR8/mqdefault.jpg",
-          "title": "王哥Ai 閩南語專輯 14"
-        },
-        {
-          "id": "208885765",
+          "id": "208918453",
           "kind": "playlist",
           "subtitle": "5 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/_20-nDPlL5c/mqdefault.jpg",
-          "title": "Power of Love"
+          "thumbnailURL": "https://i.ytimg.com/vi/QlbewHH43Fg/mqdefault.jpg",
+          "title": "如夢石"
         },
         {
-          "id": "208885764",
+          "id": "208918452",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/GlDldDYiH0A/mqdefault.jpg",
-          "title": "我知道抽菸容易傷肺 (R&B) 翻唱版 -成年人的歌"
+          "thumbnailURL": "https://i.ytimg.com/vi/s8CxULvshLg/mqdefault.jpg",
+          "title": "你要靜候再靜候（r&b）"
         },
         {
-          "id": "208885762",
+          "id": "208918451",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/Pq0rZODK2Do/mqdefault.jpg",
-          "title": "不問 (《大唐妖探》電影片尾曲)"
+          "thumbnailURL": "https://i.ytimg.com/vi/UgWmQrjsQT4/mqdefault.jpg",
+          "title": "真的不快樂 (DJ女版)"
         },
         {
-          "id": "208885761",
+          "id": "208918450",
           "kind": "playlist",
-          "subtitle": "8 首",
+          "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/cI76LgdJfsk/mqdefault.jpg",
-          "title": "你還在想他"
+          "thumbnailURL": "https://i.ytimg.com/vi/daxHf5l9gig/mqdefault.jpg",
+          "title": "珊瑚海 (R&B Version)"
         },
         {
-          "id": "208885760",
+          "id": "208918449",
           "kind": "playlist",
-          "subtitle": "3 首",
+          "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/ikFaEAlO5N0/mqdefault.jpg",
-          "title": "Koi, Hajimemashita."
+          "thumbnailURL": "https://i.ytimg.com/vi/11DCkao5fZk/mqdefault.jpg",
+          "title": "秋葉飛過的天"
+        },
+        {
+          "id": "208918448",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/L7Sic64cC2Y/mqdefault.jpg",
+          "title": "紅色圍巾"
+        },
+        {
+          "id": "208918447",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_5Q8zh6DuuA/mqdefault.jpg",
+          "title": "再見太難"
+        },
+        {
+          "id": "208918446",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/MvfbHsG4b0A/mqdefault.jpg",
+          "title": "我是如此相信 - R&B版"
+        },
+        {
+          "id": "208918445",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/cMVCa6_aNwQ/mqdefault.jpg",
+          "title": "最遺憾的朋友"
         }
       ]
     },
@@ -121686,141 +122203,141 @@
       ]
     },
     "vector:vector_latest_zh:84:12": {
-      "etag": "\"tina2fqp1o7vh\"",
-      "hash": "025fa44621a5ed82d7cc19809e1f3ad4faa86f9cb10d4aeae92a11bc4102df46",
+      "etag": "\"otwfxck2t481k\"",
+      "hash": "530960b7572d81df4b3cfd61c8f48139569be4e7c2a323c7db680e3bbb601c7f",
       "itemCount": 12,
       "payload": [
         {
-          "id": "208885759",
+          "id": "208918443",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/QuonLScpNy4/mqdefault.jpg",
-          "title": "我發了瘋地愛你"
+          "thumbnailURL": "https://i.ytimg.com/vi/qGDperM3UTY/mqdefault.jpg",
+          "title": "四季飛鴻"
         },
         {
-          "id": "208885758",
+          "id": "208906097",
           "kind": "playlist",
-          "subtitle": "10 首",
+          "subtitle": "6 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/bBtRTgeb9t4/mqdefault.jpg",
-          "title": "加冠"
+          "thumbnailURL": "https://i.ytimg.com/vi/DpgEVbFcBak/mqdefault.jpg",
+          "title": "魚花"
         },
         {
-          "id": "208876701",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/QOOJPTDxIgg/mqdefault.jpg",
-          "title": "愛唉唉"
-        },
-        {
-          "id": "208876700",
-          "kind": "playlist",
-          "subtitle": "2 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/YYHNSzH4q6M/mqdefault.jpg",
-          "title": "還是會想念"
-        },
-        {
-          "id": "208876699",
+          "id": "208906096",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/l5nRkVxQavs/mqdefault.jpg",
-          "title": "時間教會我的事"
+          "thumbnailURL": "https://i.ytimg.com/vi/eNLBmPmAWW0/mqdefault.jpg",
+          "title": "Reasons, i love you"
         },
         {
-          "id": "208876698",
+          "id": "208906095",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/s1JDiYI8swE/mqdefault.jpg",
-          "title": "我知道你 (R&B說唱版)"
+          "thumbnailURL": "https://i.ytimg.com/vi/aGX_Lc38Ut4/mqdefault.jpg",
+          "title": "匿名的好友 (R&B版)"
         },
         {
-          "id": "208876697",
+          "id": "208906094",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/5A0LFCzC7Z0/mqdefault.jpg",
-          "title": "甲乙丙丁 (R&B心碎版)"
+          "thumbnailURL": "https://i.ytimg.com/vi/ZXSCF0XUdO0/mqdefault.jpg",
+          "title": "Lost Without You"
         },
         {
-          "id": "208876696",
-          "kind": "playlist",
-          "subtitle": "8 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/1HhB4RPaJm4/mqdefault.jpg",
-          "title": "Good As Is"
-        },
-        {
-          "id": "208876695",
-          "kind": "playlist",
-          "subtitle": "8 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/lIyC9NFqs9o/mqdefault.jpg",
-          "title": "日落下的彩虹 (原創劇原聲帶)"
-        },
-        {
-          "id": "208876694",
+          "id": "208906092",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/1T6rdZOke6k/mqdefault.jpg",
-          "title": "打不通的電話"
+          "thumbnailURL": "https://i.ytimg.com/vi/E428mpBmltU/mqdefault.jpg",
+          "title": "明天我要離開"
         },
         {
-          "id": "208876693",
-          "kind": "playlist",
-          "subtitle": "10 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/bhufdtwV6ww/mqdefault.jpg",
-          "title": "Feels Like a Good Day"
-        },
-        {
-          "id": "208876692",
+          "id": "208906091",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/g6FAFfDzZFk/mqdefault.jpg",
-          "title": "語音鈴聲"
+          "thumbnailURL": "https://i.ytimg.com/vi/VJL9IWscIMo/mqdefault.jpg",
+          "title": "逆時針的雨"
+        },
+        {
+          "id": "208906090",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/dPjSmdXtIM0/mqdefault.jpg",
+          "title": "雙眼皮男孩 (feat.徐晧程徐晧程)"
+        },
+        {
+          "id": "208906089",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/0Wfy_RPv6y0/mqdefault.jpg",
+          "title": "一樣會愛上你"
+        },
+        {
+          "id": "208906088",
+          "kind": "playlist",
+          "subtitle": "19 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/oH5PsMg2erc/mqdefault.jpg",
+          "title": "White Summer Unboxing"
+        },
+        {
+          "id": "208906087",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/v4L9Lrq11ww/mqdefault.jpg",
+          "title": "七夕我孤枝"
+        },
+        {
+          "id": "208906086",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/NOEPTPkK3Uc/mqdefault.jpg",
+          "title": "愛錯了一個人"
         }
       ]
     },
@@ -123215,141 +123732,141 @@
       ]
     },
     "vector:vector_latest_zh:96:12": {
-      "etag": "\"gfxcybiylg83d\"",
-      "hash": "1f025b40f320877ee19552892ba0959132efe0a78f5fb10205dc2e37fbbe50c3",
+      "etag": "\"utss73d4ro7xp\"",
+      "hash": "7c9f9b3a320f9911ddd8ebafa16d5842f1aeb063b02a9c9511553e1a03cae837",
       "itemCount": 12,
       "payload": [
         {
-          "id": "208876691",
+          "id": "208895268",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/4gRcRdXqTF0/mqdefault.jpg",
-          "title": "離你最近，卻離愛最遠"
+          "thumbnailURL": "https://i.ytimg.com/vi/llMn9guebdY/mqdefault.jpg",
+          "title": "一場遊戲一場夢 - (R&B版) ｜『那只是一場遊戲一場夢 不要把殘缺的愛留在這裡』"
         },
         {
-          "id": "208867876",
-          "kind": "playlist",
-          "subtitle": "2 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/CvLwwA0EXjA/mqdefault.jpg",
-          "title": "Still Missing You"
-        },
-        {
-          "id": "208867875",
+          "id": "208895267",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/YRvzBpcsCtw/mqdefault.jpg",
+          "thumbnailURL": "https://i.ytimg.com/vi/Z4RmSl4f1fk/mqdefault.jpg",
+          "title": "不甘"
+        },
+        {
+          "id": "208895266",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/-H_9AQAiX2g/mqdefault.jpg",
+          "title": "幾分之幾 (R&B版)"
+        },
+        {
+          "id": "208895265",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/KSmAD7njKro/mqdefault.jpg",
+          "title": "淚海 (R&B) 對唱 翻唱版"
+        },
+        {
+          "id": "208895263",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/yP6rJHo1UYg/mqdefault.jpg",
+          "title": "她 (《早春晴朗》電視劇欒念人物曲&片頭曲)"
+        },
+        {
+          "id": "208895262",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/r-1ObYvi-5E/mqdefault.jpg",
+          "title": "愛存在（r&b氛圍版）"
+        },
+        {
+          "id": "208895260",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/o5Y4Z_c7u8c/mqdefault.jpg",
+          "title": "落差感"
+        },
+        {
+          "id": "208885768",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/vhYnPSn5ftA/mqdefault.jpg",
+          "title": "All I Ever Wanted"
+        },
+        {
+          "id": "208885767",
+          "kind": "playlist",
+          "subtitle": "1 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/2jXNGs3iGZI/mqdefault.jpg",
           "title": "執迷不悟"
         },
         {
-          "id": "208867874",
+          "id": "208885766",
+          "kind": "playlist",
+          "subtitle": "10 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/EDI_szPVwR8/mqdefault.jpg",
+          "title": "王哥Ai 閩南語專輯 14"
+        },
+        {
+          "id": "208885765",
+          "kind": "playlist",
+          "subtitle": "5 首",
+          "thumbnailSize": {
+            "height": 180,
+            "width": 320
+          },
+          "thumbnailURL": "https://i.ytimg.com/vi/_20-nDPlL5c/mqdefault.jpg",
+          "title": "Power of Love"
+        },
+        {
+          "id": "208885764",
           "kind": "playlist",
           "subtitle": "1 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
           },
-          "thumbnailURL": "https://i.ytimg.com/vi/jTBgSv2WncM/mqdefault.jpg",
-          "title": "何日君再來 ｜R&B｜-落日微醺"
-        },
-        {
-          "id": "208867873",
-          "kind": "playlist",
-          "subtitle": "24 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/JUWOsMu_twU/mqdefault.jpg",
-          "title": "獻給你的歌"
-        },
-        {
-          "id": "208867872",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/EbtTqezC4Yk/mqdefault.jpg",
-          "title": "再無我們"
-        },
-        {
-          "id": "208867870",
-          "kind": "playlist",
-          "subtitle": "3 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/4fjdvcE2qkY/mqdefault.jpg",
-          "title": "vengeance"
-        },
-        {
-          "id": "208867869",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/jGvihirVVQg/mqdefault.jpg",
-          "title": "I Got Your Back (Feat. JISOO, MOMOKA of HANA) (Korean Ver.)"
-        },
-        {
-          "id": "208867868",
-          "kind": "playlist",
-          "subtitle": "12 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/4Z4XOEDf8Xs/mqdefault.jpg",
-          "title": "Haikyu!! BOS - Syudaikatachinoutage -"
-        },
-        {
-          "id": "208867867",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/XcalNJRHHW4/mqdefault.jpg",
-          "title": "冬日戀歌 ｜(R&B版) ｜Winter Sonata"
-        },
-        {
-          "id": "208867866",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/tyalcBAQgs0/mqdefault.jpg",
-          "title": "冰川之下"
-        },
-        {
-          "id": "208867865",
-          "kind": "playlist",
-          "subtitle": "1 首",
-          "thumbnailSize": {
-            "height": 180,
-            "width": 320
-          },
-          "thumbnailURL": "https://i.ytimg.com/vi/WKjypLs1pbA/mqdefault.jpg",
-          "title": "甲乙丙丁 (R&B說唱版)"
+          "thumbnailURL": "https://i.ytimg.com/vi/GlDldDYiH0A/mqdefault.jpg",
+          "title": "我知道抽菸容易傷肺 (R&B) 翻唱版 -成年人的歌"
         }
       ]
     },
@@ -148324,8 +148841,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:108:12": {
-      "etag": "\"81uy1ko69s81z\"",
-      "hash": "6c7429589a77a62df5c95bd55e864dfe5c8b9486f0e0ad652f8065911a667d10",
+      "etag": "\"sf252u2nl81z\"",
+      "hash": "8f2f6a53c2c365bfe81c5f37185669eb40e8889b5d59783c16e463d57f2c07b1",
       "itemCount": 12,
       "payload": [
         {
@@ -148375,7 +148892,7 @@
         {
           "id": "RDCLAK5uy_ktv79aJ_zAi049KdFWFaAZEfgnm5jNZpk",
           "kind": "playlist",
-          "subtitle": "85 首",
+          "subtitle": "82 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148419,7 +148936,7 @@
         {
           "id": "RDCLAK5uy_kOp_Jn5cqp0lkCY6jQ2xRxekyGT_txl6Y",
           "kind": "playlist",
-          "subtitle": "240 首",
+          "subtitle": "157 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148463,8 +148980,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:120:12": {
-      "etag": "\"u0uclehljd81x\"",
-      "hash": "40e14561b710be7350742b985455163eda8d316eaceaccf45f6a4cafc6c0f695",
+      "etag": "\"sp0mtur2t81w\"",
+      "hash": "ee43d08a58baf9dd0ec07dda887fa7a7b4315f647948634913861f703b5a1636",
       "itemCount": 12,
       "payload": [
         {
@@ -148525,7 +149042,7 @@
         {
           "id": "RDCLAK5uy_l0NNK9-Z-5g0Lkf-TpctvuwqSxLByMnN4",
           "kind": "playlist",
-          "subtitle": "100 首",
+          "subtitle": "74 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148558,7 +149075,7 @@
         {
           "id": "RDCLAK5uy_k6zKCYQIv-F3fK6vVW6G6aEn0kJ4WoKpU",
           "kind": "playlist",
-          "subtitle": "95 首",
+          "subtitle": "94 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148741,8 +149258,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:132:12": {
-      "etag": "\"14h6pn9tg4780o\"",
-      "hash": "d04c12bdf5f8fb604bcbf9e39620a3591726692c4de82a40dda00ce095f379b0",
+      "etag": "\"o1xr9adbsn80o\"",
+      "hash": "31457a39216fac7ec183e995be87b7e0a8e51331ed9528d74571e2813365cf50",
       "itemCount": 12,
       "payload": [
         {
@@ -148770,7 +149287,7 @@
         {
           "id": "RDCLAK5uy_msmCN7LtOaHMAeGUtReEHr3DK5lLd9PmY",
           "kind": "playlist",
-          "subtitle": "73 首",
+          "subtitle": "74 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148825,7 +149342,7 @@
         {
           "id": "RDCLAK5uy_l9QboBEeMYgKPz7cbhNURTyykHPLXrM9s",
           "kind": "playlist",
-          "subtitle": "117 首",
+          "subtitle": "108 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148880,8 +149397,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:144:12": {
-      "etag": "\"bcr5bz95id7z8\"",
-      "hash": "b875ec3b04cf3d6db2f9b569f2b40e14125f004112dd28e6363e17b35475f304",
+      "etag": "\"domu00gwkn7z8\"",
+      "hash": "a233f0387d4319680b453220c254731bd93ddeb29bc0fa004d91ce9c4a1b9ff2",
       "itemCount": 12,
       "payload": [
         {
@@ -148931,7 +149448,7 @@
         {
           "id": "RDCLAK5uy_mrynfAqqTzblL7eNzOmiG3OCLKl1xblJY",
           "kind": "playlist",
-          "subtitle": "29 首",
+          "subtitle": "63 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148942,7 +149459,7 @@
         {
           "id": "RDCLAK5uy_l808wsTOCKs6u9c1bqeLIpzTUOfns2BMs",
           "kind": "playlist",
-          "subtitle": "151 首",
+          "subtitle": "134 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148953,7 +149470,7 @@
         {
           "id": "RDCLAK5uy_m74vq-4_Q1Ayo52oKHdUtkcbUb8moNzMM",
           "kind": "playlist",
-          "subtitle": "91 首",
+          "subtitle": "93 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -148997,7 +149514,7 @@
         {
           "id": "RDCLAK5uy_k0W_afZwZDRb51Z85q3U3A9Boml5BbTqk",
           "kind": "playlist",
-          "subtitle": "40 首",
+          "subtitle": "39 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149008,7 +149525,7 @@
         {
           "id": "RDCLAK5uy_l6vMbvt5a7vKJnCyxdCIWXYGvQE8h5Tqg",
           "kind": "playlist",
-          "subtitle": "109 首",
+          "subtitle": "120 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149019,8 +149536,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:156:12": {
-      "etag": "\"bg8bas5mtw80x\"",
-      "hash": "67f2f290076679199c428179b4ff70bc26d3cefda7ccc93d577af08eb0c2f60f",
+      "etag": "\"rkjb43nes880x\"",
+      "hash": "320c1666ce2f80c6ad55c0a7b5e96a8d8840ee3df8f43c426a046db2160130a4",
       "itemCount": 12,
       "payload": [
         {
@@ -149081,7 +149598,7 @@
         {
           "id": "RDCLAK5uy_kzXjLSabLv9qr8PPxWDhpCGLKedcT9Z4Y",
           "kind": "playlist",
-          "subtitle": "182 首",
+          "subtitle": "168 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149092,7 +149609,7 @@
         {
           "id": "RDCLAK5uy_kjWs8kYE7G6CkEijcEvsO9MVdE5doD3uY",
           "kind": "playlist",
-          "subtitle": "81 首",
+          "subtitle": "32 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149136,7 +149653,7 @@
         {
           "id": "RDCLAK5uy_k-R9-M_MoPNXLwGQrxPQW9LavsOgSwONg",
           "kind": "playlist",
-          "subtitle": "87 首",
+          "subtitle": "92 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149659,8 +150176,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:48:12": {
-      "etag": "\"zugwuneslb81m\"",
-      "hash": "85fb8dad7654f2534ebd9e3a0d9a909229c87836794e63cfeb303f29e24e52da",
+      "etag": "\"22z4jhvjq781m\"",
+      "hash": "cecd3b731b9cebb7eaeaaf2730f2b2f8047f1cd473975517693f8493bf2c902b",
       "itemCount": 12,
       "payload": [
         {
@@ -149677,7 +150194,7 @@
         {
           "id": "RDCLAK5uy_kPR9usfd5aQ8n4rTcEv7y1VLvMm1ewig4",
           "kind": "playlist",
-          "subtitle": "77 首",
+          "subtitle": "75 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149765,7 +150282,7 @@
         {
           "id": "RDCLAK5uy_mRkN4u_vp9wj0JZuVOyJyjUACfjZG_3gI",
           "kind": "playlist",
-          "subtitle": "83 首",
+          "subtitle": "95 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149787,7 +150304,7 @@
         {
           "id": "RDCLAK5uy_mpx6f-Md6iPbWSaizatzQIHfcF33fmT7E",
           "kind": "playlist",
-          "subtitle": "106 首",
+          "subtitle": "134 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149798,8 +150315,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:60:12": {
-      "etag": "\"vjy10gcp7o82t\"",
-      "hash": "240c9bdcb0f58c123ed86392b086ac2889712d7335f975556c9e27c0be978405",
+      "etag": "\"lppci6oyq582t\"",
+      "hash": "2a8a4ee59c2e80b83c11a0b5e2e9311066f54c767af083aacbe8acb8447df222",
       "itemCount": 12,
       "payload": [
         {
@@ -149838,7 +150355,7 @@
         {
           "id": "RDCLAK5uy_k55dr3aIuJp9SGKzApiPh3HYh8omC-0SI",
           "kind": "playlist",
-          "subtitle": "90 首",
+          "subtitle": "81 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -149937,8 +150454,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:72:12": {
-      "etag": "\"9jxhwq8rdf7zs\"",
-      "hash": "64a74d6576a261cba2c6dffa711248b648dd37e439939fe299c5df205d6c53d7",
+      "etag": "\"75bg1bd2ai7zs\"",
+      "hash": "447a649e0a62f1cb8c82a4a63dc83e471c9bf4d5010acbf5ba135836367c8726",
       "itemCount": 12,
       "payload": [
         {
@@ -150021,7 +150538,7 @@
         {
           "id": "RDCLAK5uy_kiDNaS5nAXxdzsqFElFKKKs0GUEFJE26w",
           "kind": "playlist",
-          "subtitle": "59 首",
+          "subtitle": "58 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -150076,8 +150593,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:84:12": {
-      "etag": "\"wsg5a9g8jw7z3\"",
-      "hash": "ed8a92fe9c1fb9bb52e81fcbd6dc4060de9a34a437fd7c35ea261c18d5b673e2",
+      "etag": "\"9jj80n0ufr7z3\"",
+      "hash": "d6d47a5d3cb084c867c0866af173aa13f0545c370202edf4aaa3a718735ab2e9",
       "itemCount": 12,
       "payload": [
         {
@@ -150204,7 +150721,7 @@
         {
           "id": "RDCLAK5uy_keaRtcQ8WBDIVLCzPzNFHex7WwRZDaedI",
           "kind": "playlist",
-          "subtitle": "96 首",
+          "subtitle": "97 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -150215,8 +150732,8 @@
       ]
     },
     "vector:vector_systemlist_zh_mood_good_mood:96:12": {
-      "etag": "\"rc012gc5xa80b\"",
-      "hash": "9e86f9d23ad7c5603a3e894aedebe3fe9a5813e94d73f75d46cda70890226f53",
+      "etag": "\"15evtkb5dyo80b\"",
+      "hash": "378c58ad6f2073624e48627be3f1363c9c53f5fa38b2984d367f12a4dd149df5",
       "itemCount": 12,
       "payload": [
         {
@@ -150244,7 +150761,7 @@
         {
           "id": "RDCLAK5uy_lRZPrRiskUd_P0ld4JdIZNxOmqFVWOZIU",
           "kind": "playlist",
-          "subtitle": "53 首",
+          "subtitle": "89 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -150288,7 +150805,7 @@
         {
           "id": "RDCLAK5uy_lFScXiIb-vQnEX186pRe2ijM5r1CgxGEE",
           "kind": "playlist",
-          "subtitle": "105 首",
+          "subtitle": "100 首",
           "thumbnailSize": {
             "height": 180,
             "width": 320
@@ -161685,9 +162202,9 @@
       "nextOffset": 0
     },
     "vector_latest_zh": {
-      "complete": true,
+      "complete": false,
       "lastCompletedAt": "2026-09-04T17:36:27Z",
-      "nextOffset": 0
+      "nextOffset": 144
     },
     "vector_promote_playlist_zh": {
       "complete": true,
@@ -161790,9 +162307,9 @@
       "nextOffset": 0
     },
     "vector_systemlist_zh_mood_good_mood": {
-      "complete": false,
-      "lastCompletedAt": "2026-09-04T22:21:01Z",
-      "nextOffset": 48
+      "complete": true,
+      "lastCompletedAt": "2026-09-05T16:49:28Z",
+      "nextOffset": 0
     },
     "vector_systemlist_zh_mood_mood": {
       "complete": true,
